@@ -1,0 +1,21 @@
+# Config settings
+title: AS-8X API Documentation
+baseurl: "/as8x-docs"
+theme: "just-the-docs"
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Navigation structure
+nav_sort: case_insensitive # keeps nav alphabetically sorted
+
+color_scheme: light
+footer_content: "AS-8X API Documentation"
+
+aux_links:
+  "GitHub Repo":
+    - "https://github.com/armsoft/as8x-docs"
+aux_links_new_tab: true
+
+enable_copy_code_button: true
