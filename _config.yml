@@ -1,6 +1,6 @@
 # Config settings
 title: AS-8X API Documentation
-baseurl: ""
+baseurl: "/Just-The-Docs-Test"
 remote_theme: "just-the-docs/just-the-docs"
 
 plugins:
