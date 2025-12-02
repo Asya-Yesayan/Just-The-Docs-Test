@@ -1,11 +1,12 @@
 # Config settings
 title: AS-8X API Documentation
-baseurl: "/as8x-docs"
-theme: "just-the-docs"
+baseurl: ""
+remote_theme: just-the-docs/just-the-docs
 
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-remote-theme
 
 # Navigation structure
 nav_sort: case_insensitive # keeps nav alphabetically sorted
