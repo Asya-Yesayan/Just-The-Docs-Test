@@ -3,8 +3,11 @@ title: AS-8X API Documentation
 baseurl: "/Just-The-Docs-Test"
 remote_theme: "just-the-docs/just-the-docs"
 
-include:
-  - 'search.json'
+# KEEP these lines in _config.yml
+collections:
+  pages:
+    output: true
+    permalink: /:path/
 
 plugins:
   - jekyll-feed
