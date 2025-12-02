@@ -3,6 +3,9 @@ title: AS-8X API Documentation
 baseurl: "/Just-The-Docs-Test"
 remote_theme: "just-the-docs/just-the-docs"
 
+include:
+  - 'search.json'
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
