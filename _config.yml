@@ -32,7 +32,7 @@ nav_external_links: false
 aux_links_new_tab: true
 aux_links:
   "AS-8X on GitHub":
-    - "//github.com/armsoft/as8x-docs"
+    - "//github.com/armsoft//as8x-docs"
 
 # Back to top link
 back_to_top: true
