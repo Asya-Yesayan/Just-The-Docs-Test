@@ -1,8 +1,0 @@
-// _sass/custom/custom.scss
-
-// Use a more specific selector (search form within the site header)
-.site-header .search .search-input {
-  // Set a fixed width
-  width: 150px !important; // Try !important to forcefully override
-  max-width: 150px !important; // Ensure max-width doesn't limit it
-}
