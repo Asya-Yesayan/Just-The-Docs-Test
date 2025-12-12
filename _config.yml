@@ -14,14 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-# @NOTE @aharito это уже моё
-posts_dir: /docs
-
-# Set a path/url to a logo that will be displayed instead of the title
-# logo: "/assets/images/evo-cms-logo.png"
-
 title: AS-8X API Documentation
-description: Как создать крутой блог на Evo CMS за полчаса (тут работы на полчаса).
 baseurl: "/evo3blog-jtd" # repo folder
 theme: just-the-docs
 
@@ -34,7 +27,6 @@ aux_links:
   "AS-8X on GitHub":
     - "//github.com/armsoft//as8x-docs"
 
-# Back to top link
 back_to_top: true
 back_to_top_text: "↑ Back to top"
 
@@ -42,14 +34,9 @@ color_scheme: light
 
 callouts_level: quiet # or loud
 callouts:
-  highlight:
-    color: yellow
   important:
     title: Կարևոր
     color: blue
-  new:
-    title: New
-    color: green
   note:
     title: Նկատառում
     color: purple
