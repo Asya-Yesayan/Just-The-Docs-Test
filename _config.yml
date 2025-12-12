@@ -27,13 +27,6 @@ theme: just-the-docs
 
 url: https://aharito.github.io
 
-aux_links:
-  "Theme Toggle":
-    # The URL is a placeholder; the JS handles the action
-    url: "#"
-    # Use HTML for the button, targeting it with the ID the JS is looking for
-    title: '<button id="theme-toggle" aria-label="Switch theme"></button>'
-
 nav_external_links: false
 
 # Back to top link
