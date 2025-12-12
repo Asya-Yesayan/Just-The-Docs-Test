@@ -1,3 +1,26 @@
-{% if page.title %}
-  <h1>{{ page.title }}</h1>
-{% endif %}
+---
+layout: compress
+---
+
+{%- include head.html -%}
+{%- include js.html -%}
+
+<body class="{% if site.search_enabled != false %}site-search-enabled{% endif %}">
+  {%- include header.html -%}
+
+  <div class="content">
+    {%- include sidebar.html -%}
+    <div class="main-content-wrap">
+      {%- include aux-nav.html -%}
+
+      <main class="main-content" id="main-content">
+        {% if page.title and page.layout != 'home' %}
+        <h1 class="page-title">{{ page.title | escape }}</h1>
+        {% endif %}
+        {{ content }}
+      </main>
+
+      {%- include footer.html -%}
+    </div>
+  </div>
+</body>
