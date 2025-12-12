@@ -1,0 +1,16 @@
+// _sass/custom/custom.scss
+
+// Target the main search input field
+.search-input {
+  // Set a specific, shorter width
+  width: 200px; // Adjust this value to your desired width
+
+  // You might also need to adjust the max-width if it's limiting it
+  max-width: 200px; // Optional: If the original theme sets a max-width
+}
+
+// Optional: You might need to target a wrapping element depending on 
+// the theme version and your desired layout change.
+// The search form is often wrapped in a container.
+// If the above doesn't work, inspect the element in your browser 
+// and try to target the search-input's parent.
