@@ -44,3 +44,10 @@ callouts:
 compress_html:
   ignore:
     envs: all
+
+defaults:
+  -
+    scope:
+      path: "docs"
+    values:
+      layout: "page"
