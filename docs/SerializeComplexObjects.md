@@ -3,6 +3,8 @@ layout: page
 title: Document.SerializeComplexObjects(SerializeComplexObjectsEventArgs) մեթոդ
 ---
 
+# Document.SerializeComplexObjects(SerializeComplexObjectsEventArgs) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** SerializeComplexObjects
