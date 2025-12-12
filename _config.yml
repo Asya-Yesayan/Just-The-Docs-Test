@@ -51,3 +51,4 @@ defaults:
       path: "docs"
     values:
       layout: "page"
+      nav_order: 1
