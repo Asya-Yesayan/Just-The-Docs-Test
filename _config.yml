@@ -31,8 +31,8 @@ nav_external_links: false
 
 aux_links_new_tab: true
 aux_links:
-  "mmCEsim on GitHub":
-    - "//github.com/mmcesim"
+  "AS-8X on GitHub":
+    - "//github.com/armsoft"
 
 # Back to top link
 back_to_top: true
