@@ -1,0 +1,9 @@
+<select id="version-selector" onchange="selectVersion(this.value)">
+    {% for group in site.versions %}
+    <optgroup label="{{ group.product }}">
+        {% for version in group.versions %}
+        <option value="{{ group.id }}|{{ version }}">{{ version }}</option>
+        {% endfor %}
+    </optgroup>
+    {% endfor %}
+</select>
