@@ -1,4 +1,5 @@
 ---
+has_children: true
 title: "AppLogService սերվիս"
 ---
 
