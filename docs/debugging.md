@@ -76,3 +76,78 @@ CONFIG {
 
 Debugger-ի հետ աշխատանքի վերաբերյալ տես հետևյալ հղումով՝ [Learn to debug C# code using Visual Studio](https://learn.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-debugger)
 
+```as4x
+SERVERSIDEMODULE {Name = AgrMortTemplate_12;
+Caption = "Գրավի պայմանագրերի քաղվածքների լրացուցիչ պարամետրեր";
+ECaption = "Additional parameters for collateral contract statements";
+CSsource = AgrMortTemplate_12.cs;
+};
+```
+
+
+```as4x
+DOCUMENTEXTENDER {
+  NAME = "Doc1";
+  CAPTION = "Doc1 փաստաթղթի ընդլայնում"; 
+  ECAPTION = "Doc1 document's extension";
+  CSSOURCE = "Extenders.cs";
+};
+
+DOCUMENTEXTENDER {
+  NAME = "Doc2";
+  CAPTION = "Doc2 փաստաթղթի ընդլայնում"; 
+  ECAPTION = "Doc2 document's extension";
+  CSSOURCE = "Extenders.cs";
+};
+```
+
+
+```as4x
+DOCUMENTEXTENDER {
+  NAME = "COUNTRY";
+  CAPTION = "Երկիր փաստաթղթի ընդլայնում"; 
+  ECAPTION = "Country doc extension";
+  CSSOURCE = "CountryEx.cs";
+};
+```
+
+```as4x
+COMMON {
+   CONFIGURATIONSERVICE = "https://services8x/configuration";
+
+   CONFIG{ NAME = "bank1 local";   SERVER = SQLSERVER1;   DATABASE = bank1;   CONTEXT = ASBANK;   SERVICE = "https://localhost:1027"; };
+   CONFIG{ NAME = "bank2 local";   SERVER = SQLSERVER1;   DATABASE = bank2;   CONTEXT = ASBANK;   SERVICE = "https://localhost:1027"; };
+};   
+```
+
+```as4x
+DOCUMENT {
+  NAME = UsrAccs;
+  CAPTION = "Օգտագործողի հաշիվներ";
+  ECAPTION = "User's accounts";
+  ALLOWSTOREINSERVICE = 1;
+  PROCESSINGMODE = 8; '#DocProcessingMode2
+
+  PAGE { CAPTION = "Ընդհանուր"; ECAPTION = "General";
+    REKVIZIT {NAME = USERNAME; CAPTION = "Օգտագործողի անուն"; ECAPTION="User's name";         TYPE = C(20); };
+    REKVIZIT {NAME = BRANCH;   CAPTION = "Մասնաճյուղ";        ECAPTION="Registration branch"; TYPE = C(10); };
+
+    GRID {NAME = Accounts; CAPTION = "Հաշիվներ"; ECAPTION = "Accounts"; WIDTH = 13000; HEIGHT = 3000;
+      COLUMN {NAME = ACCTYPE; CAPTION = "Տիպ"; ECAPTION = "Type"; TYPE = C(10);  };
+      COLUMN {NAME = CODE;    CAPTION = "Կոդ"; ECAPTION = "Code"; TYPE = NP(16); };
+    };
+
+    MEMO {NAME = COMMENT; CAPTION = "Մեկնաբանություն"; ECAPTION = "Comment"; WIDTH = 7000; HEIGHT = 2300; };
+  };
+};
+```
+
+```as4x
+SERVERSIDEMODULE {
+  NAME = TestActivationCondition;
+  CAPTION = "Թեստային ակտիվացման բանաձև";
+  ECAPTION = "Test activation condition";
+  CSSOURCE = Activation.cs;
+};
+```
+
