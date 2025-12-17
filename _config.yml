@@ -24,8 +24,8 @@ aux_links:
   "AS-8X on GitHub":
     - "//github.com/armsoft//as8x-docs"
 
-back_to_top: true
-back_to_top_text: "↑ Back to top"
+# back_to_top: true
+# back_to_top_text: "↑ Back to top"
 
 color_scheme: light
 
