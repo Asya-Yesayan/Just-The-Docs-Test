@@ -1,0 +1,4 @@
+/* Hides the automatic children list at the bottom of the page */
+.child_nav_list {
+    display: none !important;
+}
