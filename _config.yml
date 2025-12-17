@@ -20,6 +20,9 @@ theme: just-the-docs
 nav_external_links: false
 
 aux_links_new_tab: true
+aux_links:
+  "AS-8X on GitHub":
+    - "//github.com/armsoft//as8x-docs"
 
 back_to_top: true
 back_to_top_text: "↑ Back to top"
