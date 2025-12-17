@@ -1,6 +1,7 @@
 ---
 has_children: true
 title: "DataSourceService սերվիս"
+has_toc: false
 ---
 
 ## Ներածություն
