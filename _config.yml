@@ -19,6 +19,8 @@ theme: just-the-docs
 
 nav_external_links: false
 
+aux_links_new_tab: true
+
 back_to_top: true
 back_to_top_text: "↑ Back to top"
 
