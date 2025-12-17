@@ -64,7 +64,7 @@ Codegen-ը աշխատում է Text Template (`.tt` ընդլայնմամբ) ֆա
  - Ստեղծված ֆայլի հատկությունների `Custom Tool` դաշտի արժեքը պետք է լինի `TextTemplatingFileGenerator`:
  - Ֆայլում ավելացնել հետևյալ տեքստը՝
   
-```tt
+```
 <#@ template debug="false" hostspecific="true" language="C#" #>
 <#@ assembly name="ArmSoft.AS8X.CodeGen" #>
 <#@ import namespace="ArmSoft.AS8X.CodeGen" #>
@@ -77,8 +77,9 @@ Codegen-ը աշխատում է Text Template (`.tt` ընդլայնմամբ) ֆա
 
 [Ընդհանուր քայլերի](#նկարագրությունը-տեղափոխելու-համար-անհրաժեշտ-ընդհանուր-քայլեր) կատարումից հետո `.tt` ընդլայնմամբ ֆայլում անհրաժեշտ է ավելացնել [DSParser](DSParser.md) դասի [Parse](DSParser.md#parse) մեթոդի կանչը և `.tt` ընդլայմամբ ֆայլի վրայից կատարել`Run custom tool`  գործողությունը, որը գեներացնում է տվյալների աղբյուրի 4X-ական նկարագրությանը համարժեք 8X-ական դասը։ 
 
-Օրինակ՝ 
-```tt
+Օրինակ՝
+
+```
 <#
 string code = DSParser.Parse(
     configFilePath: this.Host.ResolvePath(@"..\..\CodeGen.xml"),
@@ -106,7 +107,7 @@ string code = DSParser.Parse(
 
 Օրինակ՝
 
-```tt
+```
 <#
 string code = DocParser.Parse(
     configFilePath: this.Host.ResolvePath(@"..\..\CodeGen.xml"),
@@ -128,7 +129,7 @@ string code = DocParser.Parse(
 [Ընդհանուր քայլերի](#նկարագրությունը-տեղափոխելու-համար-անհրաժեշտ-ընդհանուր-քայլեր) կատարումից հետո `.tt` ընդլայնմամբ ֆայլում անհրաժեշտ է ավելացնել [DocParser](DocParser.md) դասի [ParseClient](DocParser.md#parseclient) մեթոդի կանչը և `.tt` ընդլայմամբ ֆայլի վրայից կատարել`Run custom tool`  գործողությունը, որը գեներացնում է փաստաթղթի 4X-ական նկարագրությանը համարժեք 8X-ական դասը։ 
 
 Օրինակ՝ 
-```tt
+```
 <#    
 string code = DocParser.ParseClient(
     configFilePath: this.Host.ResolvePath(@"..\..\CodeGen.xml"),
@@ -153,7 +154,7 @@ string code = DocParser.ParseClient(
 
 Օրինակ՝ 
 
-```tt
+```
 <#    
 string code =  DocParser.ParseRO(
     configFilePath: this.Host.ResolvePath("..\\..\\..\\CodeGen.xml"), 
