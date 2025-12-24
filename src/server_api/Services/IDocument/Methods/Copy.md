@@ -1,5 +1,5 @@
 ---
-title: IDocumentService.Copy(int, object, int) մեթոդ
+title: Copy(int, object, int)
 ---
 
 # IDocumentService.Copy(int, object, int) մեթոդ

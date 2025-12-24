@@ -1,5 +1,5 @@
 ---
-title: Document.BuildEmbeddedUIRequest(T uiRequestExecutionProgress) մեթոդ
+title: BuildEmbeddedUIRequest(T uiRequestExecutionProgress)
 ---
 
 # Document.BuildEmbeddedUIRequest(T uiRequestExecutionProgress) մեթոդ

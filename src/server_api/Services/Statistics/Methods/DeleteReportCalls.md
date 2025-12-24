@@ -1,5 +1,5 @@
 ---
-title: StatisticsService.DeleteReportCalls(DateTime, DateTime, short?) մեթոդ
+title: DeleteReportCalls(DateTime, DateTime, short?)
 ---
 
 # StatisticsService.DeleteReportCalls(DateTime, DateTime, short?) մեթոդ

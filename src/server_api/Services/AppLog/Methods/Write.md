@@ -1,5 +1,5 @@
 ﻿---
-title: AppLogService.Write մեթոդ
+title: Write
 ---
 
 ## Նկարագիր

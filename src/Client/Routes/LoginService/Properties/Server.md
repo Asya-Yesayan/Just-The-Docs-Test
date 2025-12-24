@@ -1,5 +1,5 @@
 ---
-title: LoginService.Server հատկություն
+title: Server
 ---
 
 # LoginService.Server հատկություն

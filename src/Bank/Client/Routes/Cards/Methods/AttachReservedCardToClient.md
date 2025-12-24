@@ -1,5 +1,5 @@
 ---
-title: CardsRoutes.AttachReservedCardToClient(AttachReservedCardToClientRequest) մեթոդ
+title: AttachReservedCardToClient(AttachReservedCardToClientRequest)
 ---
 
 # CardsRoutes.AttachReservedCardToClient(AttachReservedCardToClientRequest) մեթոդ

@@ -1,5 +1,5 @@
 ---
-title: TextReport.RowCount հատկություն
+title: RowCount
 ---
 
 # TextReport.RowCount հատկություն

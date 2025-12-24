@@ -1,5 +1,5 @@
 ---
-title: RODocument.LastLookup հատկություն
+title: LastLookup
 ---
 
 # RODocument.LastLookup հատկություն

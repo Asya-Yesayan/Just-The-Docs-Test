@@ -1,5 +1,5 @@
 ---
-title: Document.Deleting հատկություն
+title: Deleting
 ---
 
 # Document.Deleting հատկություն

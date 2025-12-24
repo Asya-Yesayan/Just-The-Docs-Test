@@ -1,5 +1,5 @@
 ---
-title: DataProcessingRequestRoutes.EnqueueAsync(DPRType, string, bool, ProcessDPRRequest, CancellationToken) մեթոդ
+title: EnqueueAsync(DPRType, string, bool, ProcessDPRRequest, CancellationToken)
 ---
 
 # DataProcessingRequestRoutes.EnqueueAsync(DPRType, string, bool, ProcessDPRRequest, CancellationToken) մեթոդ

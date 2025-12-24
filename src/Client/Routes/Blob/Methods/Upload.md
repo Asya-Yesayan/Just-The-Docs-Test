@@ -1,5 +1,5 @@
 ---
-title: BlobRoutes.Upload(string, string, byte[]) մեթոդ
+title: Upload(string, string, byte[])
 ---
 
 # BlobRoutes.Upload(string, string, byte[]) մեթոդ

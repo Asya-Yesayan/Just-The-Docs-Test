@@ -1,5 +1,5 @@
 ---
-title: LoginService.GetToken(TimeSpan?) մեթոդ
+title: GetToken(TimeSpan?)
 ---
 
 # LoginService.GetToken(TimeSpan?) մեթոդ

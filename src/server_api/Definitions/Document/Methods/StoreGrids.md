@@ -1,5 +1,5 @@
 ---
-title: Document.StoreGrids(StoreGridsEventArgs) մեթոդ
+title: StoreGrids(StoreGridsEventArgs)
 ---
 
 # Document.StoreGrids(StoreGridsEventArgs) մեթոդ

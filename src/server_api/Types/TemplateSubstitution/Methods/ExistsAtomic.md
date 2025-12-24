@@ -1,5 +1,5 @@
 ---
-title: TemplateSubstitution.ExistsAtomic(string) մեթոդ
+title: ExistsAtomic(string)
 ---
 
 # TemplateSubstitution.ExistsAtomic(string) մեթոդ

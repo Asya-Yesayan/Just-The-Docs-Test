@@ -1,5 +1,5 @@
 ---
-title: RolesService.GetList մեթոդ
+title: GetList
 ---
 
 # RolesService.GetList մեթոդ

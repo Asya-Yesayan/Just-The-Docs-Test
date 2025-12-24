@@ -1,5 +1,5 @@
 ---
-title: DataProcessingRequestRoutes.GetProgressAsync(Guid, CancellationToken) մեթոդ
+title: GetProgressAsync(Guid, CancellationToken)
 ---
 
 # DataProcessingRequestRoutes.GetProgressAsync(Guid, CancellationToken) մեթոդ

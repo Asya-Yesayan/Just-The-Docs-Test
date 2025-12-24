@@ -1,5 +1,5 @@
 ---
-title: DocumentExtender.PostAfterCommit(Document, AfterCommitEventArgs) մեթոդ
+title: PostAfterCommit(Document, AfterCommitEventArgs)
 ---
 
 # DocumentExtender.PostAfterCommit(Document, AfterCommitEventArgs) մեթոդ

@@ -1,5 +1,5 @@
 ---
-title: DataSource.SupportsSnapshotIsolation հատկություն
+title: SupportsSnapshotIsolation
 ---
 
 # DataSource.SupportsSnapshotIsolation հատկություն

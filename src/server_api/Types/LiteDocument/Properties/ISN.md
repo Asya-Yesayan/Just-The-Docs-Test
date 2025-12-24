@@ -1,5 +1,5 @@
 ---
-title: LiteDocument.ISN հատկություն
+title: ISN
 ---
 
 # LiteDocument.ISN հատկություն

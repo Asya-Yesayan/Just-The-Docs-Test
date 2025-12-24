@@ -1,5 +1,5 @@
 ---
-title: MeterManager.Configuration հատկություն
+title: Configuration
 ---
 
 # MeterManager.Configuration հատկություն

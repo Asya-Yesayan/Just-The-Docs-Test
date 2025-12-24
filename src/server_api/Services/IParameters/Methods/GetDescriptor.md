@@ -1,5 +1,5 @@
 ---
-title: IParametersService.GetDescriptor(string) մեթոդ
+title: GetDescriptor(string)
 ---
 
 # IParametersService.GetDescriptor(string) մեթոդ

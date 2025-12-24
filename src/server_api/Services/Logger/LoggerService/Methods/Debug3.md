@@ -1,5 +1,5 @@
 ---
-title: LoggerService.Debug(ILogger, Exception, string, object[]) մեթոդ
+title: Debug(ILogger, Exception, string, object[])
 ---
 
 # LoggerService.Debug(ILogger, Exception, string, object[]) մեթոդ

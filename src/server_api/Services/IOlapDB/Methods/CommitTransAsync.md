@@ -1,5 +1,5 @@
 ---
-title: IOlapDBService.CommitTransAsync() մեթոդ
+title: CommitTransAsync()
 ---
 
 # IOlapDBService.CommitTransAsync() մեթոդ

@@ -1,5 +1,5 @@
 ---
-title: Document.AfterLoad(AfterLoadEventArgs) մեթոդ
+title: AfterLoad(AfterLoadEventArgs)
 ---
 
 # Document.AfterLoad(AfterLoadEventArgs) մեթոդ

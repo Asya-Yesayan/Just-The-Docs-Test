@@ -1,5 +1,5 @@
 ---
-title: RODocument.State հատկություն
+title: State
 ---
 
 # RODocument.State հատկություն

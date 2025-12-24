@@ -1,5 +1,5 @@
 ---
-title: IParametersService.OperEnd մեթոդ
+title: OperEnd
 ---
 
 # IParametersService.OperEnd մեթոդ

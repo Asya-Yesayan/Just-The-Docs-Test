@@ -1,5 +1,5 @@
 ---
-title: IDocumentService.GetSUIDAndDate(int, int, bool) մեթոդ
+title: GetSUIDAndDate(int, int, bool)
 ---
 
 # IDocumentService.GetSUIDAndDate(int, int, bool) մեթոդ

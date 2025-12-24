@@ -1,5 +1,5 @@
 ---
-title: IDocumentService.Delete մեթոդ
+title: Delete
 ---
 
 # IDocumentService.Delete մեթոդ

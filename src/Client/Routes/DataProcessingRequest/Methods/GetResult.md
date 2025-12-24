@@ -1,5 +1,5 @@
 ---
-title: DataProcessingRequestRoutes.GetResult(Guid, bool) մեթոդ
+title: GetResult(Guid, bool)
 ---
 
 # DataProcessingRequestRoutes.GetResult(Guid, bool) մեթոդ

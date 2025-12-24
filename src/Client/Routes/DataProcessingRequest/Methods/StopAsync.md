@@ -1,5 +1,5 @@
 ---
-title: DataProcessingRequestRoutes.StopAsync(Guid, CancellationToken) մեթոդ
+title: StopAsync(Guid, CancellationToken)
 ---
 
 # DataProcessingRequestRoutes.StopAsync(Guid, CancellationToken) մեթոդ

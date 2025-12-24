@@ -1,5 +1,5 @@
 ---
-title: IErrorHandlingService.GetSqlExceptionDetails(SqlException) մեթոդ
+title: GetSqlExceptionDetails(SqlException)
 ---
 
 # IErrorHandlingService.GetSqlExceptionDetails(SqlException) մեթոդ

@@ -1,5 +1,5 @@
 ---
-title: TemplateSubstitution.Add(string, DateTime) մեթոդ
+title: Add(string, DateTime)
 ---
 
 # TemplateSubstitution.Add(string, DateTime) մեթոդ

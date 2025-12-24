@@ -1,5 +1,5 @@
 ---
-title: SessionInfoCacheService.UpdateLastActiveDate(string, DateTime) մեթոդ
+title: UpdateLastActiveDate(string, DateTime)
 ---
 
 # SessionInfoCacheService.UpdateLastActiveDate(string, DateTime) մեթոդ

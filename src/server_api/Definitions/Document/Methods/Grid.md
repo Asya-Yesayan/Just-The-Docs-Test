@@ -1,5 +1,5 @@
 ---
-title: Document.Grid(string) մեթոդ
+title: Grid(string)
 ---
 
 # Document.Grid(string) մեթոդ

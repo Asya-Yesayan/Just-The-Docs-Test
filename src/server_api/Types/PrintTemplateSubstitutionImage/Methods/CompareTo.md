@@ -1,5 +1,5 @@
 ---
-title: PrintTemplateSubstitutionImage.CompareTo(PrintTemplateSubstitutionImage) մեթոդ
+title: CompareTo(PrintTemplateSubstitutionImage)
 ---
 
 # PrintTemplateSubstitutionImage.CompareTo(PrintTemplateSubstitutionImage) մեթոդ

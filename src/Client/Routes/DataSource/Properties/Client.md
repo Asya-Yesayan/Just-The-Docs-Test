@@ -1,5 +1,5 @@
 ---
-title: DataSource.Client հատկություն
+title: Client
 ---
 
 # DataSource.Client հատկություն

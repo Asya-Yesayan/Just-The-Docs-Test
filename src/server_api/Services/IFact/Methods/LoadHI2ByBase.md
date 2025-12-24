@@ -1,5 +1,5 @@
 ---
-title: IFactService.LoadHI2ByBase(int, string, string, long) մեթոդ
+title: LoadHI2ByBase(int, string, string, long)
 ---
 
 # IFactService.LoadHI2ByBase(int, string, string, long) մեթոդ

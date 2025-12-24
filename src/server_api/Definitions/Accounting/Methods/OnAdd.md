@@ -1,5 +1,5 @@
 ﻿---
-title: Accounting.OnAdd(OnAddEventArgs) մեթոդ
+title: OnAdd(OnAddEventArgs)
 parent: "Մեթոդներ"
 grand_parent: "Հաշվառում"
 ---

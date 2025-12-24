@@ -1,5 +1,5 @@
 ---
-title: IFactService.LastHI2FactDate(string, int, int, DateTime?, string) մեթոդ
+title: LastHI2FactDate(string, int, int, DateTime?, string)
 ---
 
 # IFactService.LastHI2FactDate(string, int, int, DateTime?, string) մեթոդ

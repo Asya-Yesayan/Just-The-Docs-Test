@@ -1,5 +1,5 @@
 ---
-title: LoginService.ServiceUrlData հատկություն
+title: ServiceUrlData
 ---
 
 # LoginService.ServiceUrlData հատկություն

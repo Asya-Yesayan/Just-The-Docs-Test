@@ -1,5 +1,5 @@
 ---
-title: IExecutionProgress.RecordError(string, Exception, int, string, int, Dictionary<string, object>) մեթոդ
+title: RecordError(string, Exception, int, string, int, Dictionary<string, object>)
 ---
 
 # IExecutionProgress.RecordError(string, Exception, int, string, int, Dictionary<string, object>) մեթոդ

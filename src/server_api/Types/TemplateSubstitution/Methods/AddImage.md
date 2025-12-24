@@ -1,5 +1,5 @@
 ---
-title: TemplateSubstitution.AddImage(string) մեթոդ
+title: AddImage(string)
 ---
 
 # TemplateSubstitution.AddImage(string) մեթոդ

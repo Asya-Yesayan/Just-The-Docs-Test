@@ -1,5 +1,5 @@
 ---
-title: LiteDocument.ExistsRekvizit(string) մեթոդ
+title: ExistsRekvizit(string)
 ---
 
 # LiteDocument.ExistsRekvizit(string) մեթոդ

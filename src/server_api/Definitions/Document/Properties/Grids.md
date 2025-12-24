@@ -1,5 +1,5 @@
 ---
-title: Document.Grids հատկություն
+title: Grids
 ---
 
 # Document.Grids հատկություն

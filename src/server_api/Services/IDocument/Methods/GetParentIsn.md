@@ -1,5 +1,5 @@
 ---
-title: IDocumentService.GetParentIsn մեթոդ
+title: GetParentIsn
 ---
 
 # IDocumentService.GetParentIsn մեթոդ

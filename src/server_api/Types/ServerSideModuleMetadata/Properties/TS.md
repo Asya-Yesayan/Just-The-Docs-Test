@@ -1,5 +1,5 @@
 ---
-title: ServerSideModuleMetadata.TS հատկություն
+title: TS
 ---
 
 # ServerSideModuleMetadata.TS հատկություն

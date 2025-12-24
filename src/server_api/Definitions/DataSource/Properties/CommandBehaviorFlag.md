@@ -1,5 +1,5 @@
 ---
-title: DataSource.CommandBehaviorFlag հատկություն
+title: CommandBehaviorFlag
 ---
 
 # DataSource.CommandBehaviorFlag հատկություն

@@ -1,5 +1,5 @@
 ---
-title: TextReport.Break() մեթոդ
+title: Break()
 ---
 
 # TextReport.Break() մեթոդ

@@ -1,5 +1,5 @@
 ---
-title: BankApiClient.Cards հատկություն
+title: Cards
 ---
 
 # BankApiClient.Cards հատկություն

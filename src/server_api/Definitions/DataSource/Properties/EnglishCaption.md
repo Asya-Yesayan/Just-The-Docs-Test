@@ -1,5 +1,5 @@
 ---
-title: DataSource.EnglishCaption հատկություն
+title: EnglishCaption
 ---
 
 # DataSource.EnglishCaption հատկություն

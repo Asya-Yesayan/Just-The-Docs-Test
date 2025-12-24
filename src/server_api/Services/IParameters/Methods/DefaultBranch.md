@@ -1,5 +1,5 @@
 ---
-title: IParametersService.DefaultBranch մեթոդ
+title: DefaultBranch
 ---
 
 # IParametersService.DefaultBranch մեթոդ

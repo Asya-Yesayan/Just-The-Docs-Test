@@ -1,5 +1,5 @@
 ---
-title: MeterManager.GlobalTags հատկություն
+title: GlobalTags
 ---
 
 # MeterManager.GlobalTags հատկություն

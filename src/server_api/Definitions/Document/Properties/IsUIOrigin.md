@@ -1,5 +1,5 @@
 ---
-title: Document.IsUIOrigin հատկություն
+title: IsUIOrigin
 ---
 
 # Document.IsUIOrigin հատկություն

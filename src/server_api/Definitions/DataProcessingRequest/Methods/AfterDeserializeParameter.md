@@ -1,5 +1,5 @@
 ---
-title: DataProcessingRequest.AfterDeserializeParameter(P, JsonElement) մեթոդ
+title: AfterDeserializeParameter(P, JsonElement)
 ---
 
 # DataProcessingRequest.AfterDeserializeParameter(P, JsonElement) մեթոդ

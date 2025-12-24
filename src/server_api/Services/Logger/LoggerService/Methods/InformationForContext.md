@@ -1,5 +1,5 @@
 ---
-title: LoggerService.InformationForContext(string) մեթոդ
+title: InformationForContext(string)
 ---
 
 # LoggerService.InformationForContext(string) մեթոդ

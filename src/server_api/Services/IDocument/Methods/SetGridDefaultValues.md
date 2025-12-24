@@ -1,5 +1,5 @@
 ---
-title: IDocumentService.SetGridDefaultValues(Document, Dictionary<string, HashSet<string>>) մեթոդ
+title: SetGridDefaultValues(Document, Dictionary<string, HashSet<string>>)
 ---
 
 # IDocumentService.SetGridDefaultValues(Document, Dictionary<string, HashSet<string>>) մեթոդ

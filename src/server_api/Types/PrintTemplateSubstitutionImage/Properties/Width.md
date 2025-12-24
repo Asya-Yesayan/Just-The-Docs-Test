@@ -1,5 +1,5 @@
 ---
-title: PrintTemplateSubstitutionImage.Width հատկություն
+title: Width
 ---
 
 # PrintTemplateSubstitutionImage.Width հատկություն

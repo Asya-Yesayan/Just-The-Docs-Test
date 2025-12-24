@@ -1,5 +1,5 @@
 ---
-title: FieldTypeProvider.TimeLong հատկություն
+title: TimeLong
 ---
 
 # FieldTypeProvider.TimeLong հատկություն

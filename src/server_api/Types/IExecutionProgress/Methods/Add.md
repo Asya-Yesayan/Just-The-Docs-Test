@@ -1,5 +1,5 @@
 ---
-title: IExecutionProgress.Add(int, string) մեթոդ
+title: Add(int, string)
 ---
 
 # IExecutionProgress.Add(int, string) մեթոդ

@@ -1,5 +1,5 @@
 ---
-title: LiteDocument.GridsLoaded հատկություն
+title: GridsLoaded
 ---
 
 # LiteDocument.GridsLoaded հատկություն

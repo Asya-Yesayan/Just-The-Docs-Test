@@ -1,5 +1,5 @@
 ---
-title: IKernelService.LastOpDate(string, int, DateTime?, string, int) մեթոդ
+title: LastOpDate(string, int, DateTime?, string, int)
 ---
 
 # IKernelService.LastOpDate(string, int, DateTime?, string, int) մեթոդ

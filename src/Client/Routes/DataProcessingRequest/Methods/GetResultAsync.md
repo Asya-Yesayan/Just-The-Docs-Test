@@ -1,5 +1,5 @@
 ---
-title: DataProcessingRequestRoutes.GetResultAsync(Guid, bool, CancellationToken) մեթոդ
+title: GetResultAsync(Guid, bool, CancellationToken)
 ---
 
 # DataProcessingRequestRoutes.GetResultAsync(Guid, bool, CancellationToken) մեթոդ

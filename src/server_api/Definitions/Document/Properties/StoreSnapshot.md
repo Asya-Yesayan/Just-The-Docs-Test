@@ -1,5 +1,5 @@
 ---
-title: Document.StoreSnapshot հատկություն
+title: StoreSnapshot
 ---
 
 # Document.StoreSnapshot հատկություն

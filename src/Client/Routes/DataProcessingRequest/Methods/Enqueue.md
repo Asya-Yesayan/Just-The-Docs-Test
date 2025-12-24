@@ -1,5 +1,5 @@
 ---
-title: DataProcessingRequestRoutes.Enqueue(DPRType, string, bool, ProcessDPRRequest) մեթոդ
+title: Enqueue(DPRType, string, bool, ProcessDPRRequest)
 ---
 
 # DataProcessingRequestRoutes.Enqueue(DPRType, string, bool, ProcessDPRRequest) մեթոդ

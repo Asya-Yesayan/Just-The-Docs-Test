@@ -1,5 +1,5 @@
 ---
-title: IFactService.SetAccCrd(Fact, string, bool) մեթոդ
+title: SetAccCrd(Fact, string, bool)
 ---
 
 # IFactService.SetAccCrd(Fact, string, bool) մեթոդ

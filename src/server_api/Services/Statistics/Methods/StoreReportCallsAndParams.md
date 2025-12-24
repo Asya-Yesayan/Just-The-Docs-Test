@@ -1,5 +1,5 @@
 ---
-title: StatisticsService․StoreReportCallsAndParams(ReportCallsStoreModel) մեթոդ
+title: StoreReportCallsAndParams(ReportCallsStoreModel)
 ---
 
 # StatisticsService․StoreReportCallsAndParams(ReportCallsStoreModel) մեթոդ

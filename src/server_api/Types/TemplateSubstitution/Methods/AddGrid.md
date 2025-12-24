@@ -1,5 +1,5 @@
 ---
-title: TemplateSubstitution.AddGrid(string) մեթոդ
+title: AddGrid(string)
 ---
 
 # TemplateSubstitution.AddGrid(string) մեթոդ

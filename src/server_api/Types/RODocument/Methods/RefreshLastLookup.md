@@ -1,5 +1,5 @@
 ---
-title: RODocument.RefreshLastLookup() մեթոդ
+title: RefreshLastLookup()
 ---
 
 # RODocument.RefreshLastLookup() մեթոդ

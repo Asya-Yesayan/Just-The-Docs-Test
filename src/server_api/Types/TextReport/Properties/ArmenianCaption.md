@@ -1,5 +1,5 @@
 ---
-title: TextReport.ArmenianCaption հատկություն
+title: ArmenianCaption
 ---
 
 # TextReport.ArmenianCaption հատկություն

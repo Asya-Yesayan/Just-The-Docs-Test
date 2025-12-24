@@ -1,5 +1,5 @@
 ---
-title: IDocumentService.GetGrandChildren(int, string, string, string, string) մեթոդ
+title: GetGrandChildren(int, string, string, string, string)
 ---
 
 # IDocumentService.GetGrandChildren(int, string, string, string, string) մեթոդ

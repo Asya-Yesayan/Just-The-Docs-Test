@@ -1,5 +1,5 @@
 ---
-title: IParametersService.GetDetailedDescription(string) մեթոդ
+title: GetDetailedDescription(string)
 ---
 
 # IParametersService.GetDetailedDescription(string) մեթոդ

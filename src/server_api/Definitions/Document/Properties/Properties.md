@@ -1,5 +1,5 @@
 ---
-title: Document.Properties հատկություն
+title: Properties
 ---
 
 # Document.Properties հատկություն

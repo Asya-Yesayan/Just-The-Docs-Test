@@ -1,5 +1,5 @@
 ---
-title: Document.GridsLoading հատկություն
+title: GridsLoading
 ---
 
 # Document.GridsLoading հատկություն

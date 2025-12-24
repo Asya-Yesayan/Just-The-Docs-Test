@@ -1,5 +1,5 @@
 ---
-title: TemplateSubstitution.ExistsGrid(string) մեթոդ
+title: ExistsGrid(string)
 ---
 
 # TemplateSubstitution.ExistsGrid(string) մեթոդ

@@ -1,5 +1,5 @@
 ---
-title: DataSource.AfterExecuteSQLCommand(DataSourceArgs<P>, SqlDataReader) մեթոդ
+title: AfterExecuteSQLCommand(DataSourceArgs<P>, SqlDataReader)
 ---
 
 # DataSource.AfterExecuteSQLCommand(DataSourceArgs<P>, SqlDataReader) մեթոդ

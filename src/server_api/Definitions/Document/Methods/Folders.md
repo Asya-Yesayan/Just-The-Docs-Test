@@ -1,5 +1,5 @@
 ---
-title: Document.Folders(FoldersEventArgs) մեթոդ
+title: Folders(FoldersEventArgs)
 ---
 
 # Document.Folders(FoldersEventArgs) մեթոդ

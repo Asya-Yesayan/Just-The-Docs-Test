@@ -1,5 +1,5 @@
 ---
-title: FieldTypeProvider.GetFolderFieldType(string, short, bool) մեթոդ
+title: GetFolderFieldType(string, short, bool)
 ---
 
 # FieldTypeProvider.GetFolderFieldType(string, short, bool) մեթոդ

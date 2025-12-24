@@ -1,5 +1,5 @@
 ---
-title: DataSource.ExtenderSchema հատկություն
+title: ExtenderSchema
 ---
 
 # DataSource.ExtenderSchema հատկություն

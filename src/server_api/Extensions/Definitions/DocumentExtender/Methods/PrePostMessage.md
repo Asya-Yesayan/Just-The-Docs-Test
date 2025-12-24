@@ -1,5 +1,5 @@
 ---
-title: DocumentExtender.PrePostMessage(Document, PostMessageEventArgs) մեթոդ
+title: PrePostMessage(Document, PostMessageEventArgs)
 ---
 
 # DocumentExtender.PrePostMessage(Document, PostMessageEventArgs) մեթոդ

@@ -1,5 +1,5 @@
 ---
-title: ExtenderRoutes.GetColumns(string) մեթոդ
+title: GetColumns(string)
 ---
 
 # ExtenderRoutes.GetColumns(string) մեթոդ

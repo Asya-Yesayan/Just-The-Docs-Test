@@ -1,5 +1,5 @@
 ---
-title: DataSource.SupportPrepareExecutionPhase հատկություն
+title: SupportPrepareExecutionPhase
 ---
 
 # DataSource.SupportPrepareExecutionPhase հատկություն

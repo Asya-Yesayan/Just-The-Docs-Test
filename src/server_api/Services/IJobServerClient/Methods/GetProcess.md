@@ -1,5 +1,5 @@
 ---
-title: IProcessServerClient.GetProcess(Guid) մեթոդ
+title: GetProcess(Guid)
 ---
 
 # IProcessServerClient.GetProcess(Guid) մեթոդ

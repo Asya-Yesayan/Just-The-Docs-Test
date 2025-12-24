@@ -1,5 +1,5 @@
 ---
-title: IOlapDBService.GetApproximateServerDate() մեթոդ
+title: GetApproximateServerDate()
 ---
 
 # IOlapDBService.GetApproximateServerDate() մեթոդ

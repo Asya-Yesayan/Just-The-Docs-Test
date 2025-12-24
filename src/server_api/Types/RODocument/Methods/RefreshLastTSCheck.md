@@ -1,5 +1,5 @@
 ---
-title: RODocument.RefreshLastTSCheck() մեթոդ
+title: RefreshLastTSCheck()
 ---
 
 # RODocument.RefreshLastTSCheck() մեթոդ

@@ -1,5 +1,5 @@
 ---
-title: IParametersService.Exists(string) մեթոդ
+title: Exists(string)
 ---
 
 # IParametersService.Exists(string) մեթոդ

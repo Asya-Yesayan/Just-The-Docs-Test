@@ -1,5 +1,5 @@
 ---
-title: LoginService.Suid հատկություն
+title: Suid
 ---
 
 # LoginService.Suid հատկություն

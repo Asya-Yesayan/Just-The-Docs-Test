@@ -1,5 +1,5 @@
 ---
-title: UIRequestExecutionProgress.MessageBox մեթոդ
+title: MessageBox
 ---
 
 # UIRequestExecutionProgress.MessageBox մեթոդ

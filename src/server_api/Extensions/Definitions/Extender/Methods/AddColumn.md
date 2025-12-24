@@ -1,5 +1,5 @@
 ---
-title: Extender.AddColumn(string, string, string, FieldType, string, string, FieldType, short, short, SupportedEncoding) մեթոդ
+title: AddColumn(string, string, string, FieldType, string, string, FieldType, short, short, SupportedEncoding)
 ---
 
 # Extender.AddColumn(string, string, string, FieldType, string, string, FieldType, short, short, SupportedEncoding) մեթոդ

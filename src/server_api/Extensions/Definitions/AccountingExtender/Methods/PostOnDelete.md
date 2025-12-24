@@ -1,5 +1,5 @@
 ---
-title: AccountingExtender.PostOnDelete(Accounting, OnDeleteEventArgs) մեթոդ
+title: PostOnDelete(Accounting, OnDeleteEventArgs)
 ---
 
 # AccountingExtender.PostOnDelete(Accounting, OnDeleteEventArgs) մեթոդ

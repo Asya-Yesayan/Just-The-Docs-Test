@@ -1,5 +1,5 @@
 ---
-title: IParametersService.GetDecimalValue մեթոդ
+title: GetDecimalValue
 ---
 
 # IParametersService.GetDecimalValue մեթոդ

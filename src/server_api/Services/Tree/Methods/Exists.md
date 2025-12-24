@@ -1,5 +1,5 @@
 ---
-title: TreeService.Exists(string) մեթոդ
+title: Exists(string)
 ---
 
 # TreeService.Exists(string) մեթոդ

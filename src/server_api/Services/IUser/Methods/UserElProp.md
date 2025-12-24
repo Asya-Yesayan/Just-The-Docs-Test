@@ -1,5 +1,5 @@
 ---
-title: IUserService.UserElProp(short) մեթոդ
+title: UserElProp(short)
 ---
 
 # IUserService.UserElProp(short) մեթոդ

@@ -1,5 +1,5 @@
 ---
-title: LiteDocument.LoadGrids(IDBService, ArchiveInfo) մեթոդ
+title: LoadGrids(IDBService, ArchiveInfo)
 ---
 
 # LiteDocument.LoadGrids(IDBService, ArchiveInfo) մեթոդ

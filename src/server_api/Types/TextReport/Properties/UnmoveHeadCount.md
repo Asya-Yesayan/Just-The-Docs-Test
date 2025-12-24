@@ -1,5 +1,5 @@
 ---
-title: TextReport.UnmoveHeadCount հատկություն
+title: UnmoveHeadCount
 ---
 
 # TextReport.UnmoveHeadCount հատկություն

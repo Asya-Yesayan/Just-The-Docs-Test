@@ -1,5 +1,5 @@
 ---
-title: LanguageService.GetAcceptLanguage(CultureInfo) մեթոդ
+title: GetAcceptLanguage(CultureInfo)
 ---
 
 # LanguageService.GetAcceptLanguage(CultureInfo) մեթոդ

@@ -1,5 +1,5 @@
 ---
-title: Extender.ProccessRow(IExtendableRow, IDataSourceArgs) մեթոդ
+title: ProccessRow(IExtendableRow, IDataSourceArgs)
 ---
 
 # Extender.ProccessRow(IExtendableRow, IDataSourceArgs) մեթոդ

@@ -1,5 +1,5 @@
 ---
-title: FieldTypeProvider.GetNumPairFieldType(NumericFieldType, NumericFieldType, string, bool) մեթոդ
+title: GetNumPairFieldType(NumericFieldType, NumericFieldType, string, bool)
 ---
 
 # FieldTypeProvider.GetNumPairFieldType(NumericFieldType, NumericFieldType, string, bool) մեթոդ

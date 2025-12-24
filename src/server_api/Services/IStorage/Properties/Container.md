@@ -1,5 +1,5 @@
 ---
-title: IStorageService.Container հատկություն
+title: Container
 ---
 
 # IStorageService.Container հատկություն

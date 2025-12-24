@@ -1,5 +1,5 @@
 ---
-title: DocumentExtender.BeforeCommitDelete(Document, BeforeCommitDeleteEventArgs) մեթոդ
+title: BeforeCommitDelete(Document, BeforeCommitDeleteEventArgs)
 ---
 
 # DocumentExtender.BeforeCommitDelete(Document, BeforeCommitDeleteEventArgs) մեթոդ

@@ -1,5 +1,5 @@
 ---
-title: ServerSideModuleMetadata.GetByInterface() մեթոդ
+title: GetByInterface()
 ---
 
 # ServerSideModuleMetadata.GetByInterface() մեթոդ

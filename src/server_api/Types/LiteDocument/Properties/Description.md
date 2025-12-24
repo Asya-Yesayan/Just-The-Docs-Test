@@ -1,5 +1,5 @@
 ---
-title: LiteDocument.Description հատկություն
+title: Description
 ---
 
 # LiteDocument.Description հատկություն

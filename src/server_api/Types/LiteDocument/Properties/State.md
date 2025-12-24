@@ -1,5 +1,5 @@
 ---
-title: LiteDocument.State հատկություն
+title: State
 ---
 
 # LiteDocument.State հատկություն

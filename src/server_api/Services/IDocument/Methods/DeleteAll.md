@@ -1,5 +1,5 @@
 ---
-title: Document.DeleteAll(List<int>, bool, string, bool, bool) մեթոդ
+title: DeleteAll(List<int>, bool, string, bool, bool)
 ---
 
 # Document.DeleteAll(List<int>, bool, string, bool, bool) մեթոդ

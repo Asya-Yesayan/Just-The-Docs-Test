@@ -1,5 +1,5 @@
 ---
-title: DocumentExtender.PreBeforeCopy(Document, BeforeCopyEventArgs) մեթոդ
+title: PreBeforeCopy(Document, BeforeCopyEventArgs)
 ---
 
 # DocumentExtender.PreBeforeCopy(Document, BeforeCopyEventArgs) մեթոդ

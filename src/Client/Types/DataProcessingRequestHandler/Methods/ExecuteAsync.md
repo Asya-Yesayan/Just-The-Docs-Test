@@ -1,5 +1,5 @@
 ---
-title: DataProcessingRequestHandler.ExecuteAsync(DPRType, string, T, bool, int, int, bool, Dictionary<int, UIRequestResultBase>, CancellationToken) մեթոդ
+title: ExecuteAsync(DPRType, string, T, bool, int, int, bool, Dictionary<int, UIRequestResultBase>, CancellationToken)
 ---
 
 # DataProcessingRequestHandler.ExecuteAsync(DPRType, string, T, bool, int, int, bool, Dictionary<int, UIRequestResultBase>, CancellationToken) մեթոդ

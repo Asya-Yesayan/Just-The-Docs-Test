@@ -1,5 +1,5 @@
 ---
-title: TextReport.MaxLength հատկություն
+title: MaxLength
 ---
 
 # TextReport.MaxLength հատկություն

@@ -1,5 +1,5 @@
 ---
-title: ApiClient.Document հատկություն
+title: Document
 ---
 
 # ApiClient.Document հատկություն

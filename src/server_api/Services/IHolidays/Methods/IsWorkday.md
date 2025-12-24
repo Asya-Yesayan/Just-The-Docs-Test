@@ -1,5 +1,5 @@
 ---
-title: IHolidaysService.IsWorkday(DateTime) մեթոդ
+title: IsWorkday(DateTime)
 ---
 
 # IHolidaysService.IsWorkday(DateTime) մեթոդ

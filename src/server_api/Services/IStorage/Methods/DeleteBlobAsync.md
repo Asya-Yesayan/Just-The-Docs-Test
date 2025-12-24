@@ -1,5 +1,5 @@
 ---
-title: IStorageService.DeleteBlobAsync մեթոդ
+title: DeleteBlobAsync
 ---
 
 # IStorageService.DeleteBlobAsync մեթոդ

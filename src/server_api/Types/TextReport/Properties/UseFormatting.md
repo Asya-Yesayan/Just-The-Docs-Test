@@ -1,5 +1,5 @@
 ---
-title: TextReport.UseFormatting հատկություն
+title: UseFormatting
 ---
 
 # TextReport.UseFormatting հատկություն

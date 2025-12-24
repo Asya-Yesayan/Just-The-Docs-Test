@@ -1,5 +1,5 @@
 ---
-title: IDocumentService.IsArchived(int) մեթոդ
+title: IsArchived(int)
 ---
 
 # IDocumentService.IsArchived(int) մեթոդ

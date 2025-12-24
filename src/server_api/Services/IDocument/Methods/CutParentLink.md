@@ -1,5 +1,5 @@
 ---
-title: IDocumentService.CutParentLink(int, int) մեթոդ
+title: CutParentLink(int, int)
 ---
 
 # IDocumentService.CutParentLink(int, int) մեթոդ

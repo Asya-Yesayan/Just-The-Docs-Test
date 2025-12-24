@@ -1,5 +1,5 @@
 ---
-title: FieldTypeProvider.Path հատկություն
+title: Path
 ---
 
 # FieldTypeProvider.Path հատկություն

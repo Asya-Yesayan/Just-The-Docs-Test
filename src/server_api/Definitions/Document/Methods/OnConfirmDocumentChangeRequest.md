@@ -1,5 +1,5 @@
 ---
-title: Document.OnConfirmDocumentChangeRequest(ConfirmDocumentChangeRequestEventArgs) մեթոդ
+title: OnConfirmDocumentChangeRequest(ConfirmDocumentChangeRequestEventArgs)
 ---
 
 # Document.OnConfirmDocumentChangeRequest(ConfirmDocumentChangeRequestEventArgs) մեթոդ

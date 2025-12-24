@@ -1,5 +1,5 @@
 ---
-title: JobService.InsertScheduleAndSteps(ScheduledJob) մեթոդ
+title: InsertScheduleAndSteps(ScheduledJob)
 ---
 
 # JobService.InsertScheduleAndSteps(ScheduledJob) մեթոդ

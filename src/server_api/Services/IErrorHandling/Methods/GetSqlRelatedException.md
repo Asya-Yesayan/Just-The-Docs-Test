@@ -1,5 +1,5 @@
 ---
-title: IErrorHandlingService.GetSqlRelatedException(SqlException, string, bool) մեթոդ
+title: GetSqlRelatedException(SqlException, string, bool)
 ---
 
 # IErrorHandlingService.GetSqlRelatedException(SqlException, string, bool) մեթոդ

@@ -1,5 +1,5 @@
 ---
-title: Document.Action(ActionEventArgs) մեթոդ
+title: Action(ActionEventArgs)
 ---
 
 # Document.Action(ActionEventArgs) մեթոդ

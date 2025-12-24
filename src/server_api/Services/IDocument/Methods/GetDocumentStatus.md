@@ -1,5 +1,5 @@
 ---
-title: IDocumentService.GetDocumentStatus(string, int) մեթոդ
+title: GetDocumentStatus(string, int)
 ---
 
 # IDocumentService.GetDocumentStatus(string, int) մեթոդ

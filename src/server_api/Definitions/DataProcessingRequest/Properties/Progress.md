@@ -1,5 +1,5 @@
 ---
-title: DataProcessingRequest.Progress հատկություն
+title: Progress
 ---
 
 # DataProcessingRequest.Progress հատկություն

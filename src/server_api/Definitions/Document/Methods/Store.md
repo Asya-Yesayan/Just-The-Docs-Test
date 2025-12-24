@@ -1,5 +1,5 @@
 ---
-title: Document.Store(DocumentCheckLevel, string) մեթոդ
+title: Store(DocumentCheckLevel, string)
 ---
 
 # Document.Store(DocumentCheckLevel, string) մեթոդ

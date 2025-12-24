@@ -1,5 +1,5 @@
 ---
-title: Extender.AlwaysCallBeforeProcess հատկություն
+title: AlwaysCallBeforeProcess
 ---
 
 # Extender.AlwaysCallBeforeProcess հատկություն

@@ -1,5 +1,5 @@
 ---
-title: IDBService.AppLock(string, string, string, string, int, string) մեթոդ
+title: AppLock(string, string, string, string, int, string)
 ---
 
 # IDBService.AppLock(string, string, string, string, int, string) մեթոդ

@@ -1,5 +1,5 @@
 ---
-title: UserManagerService․GetAccessibleRoles(short) մեթոդ
+title: GetAccessibleRoles(short)
 ---
 
 # UserManagerService․GetAccessibleRoles(short) մեթոդ

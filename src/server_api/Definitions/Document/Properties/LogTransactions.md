@@ -1,5 +1,5 @@
 ---
-title: Document.LogTransactions հատկություն
+title: LogTransactions
 ---
 
 # Document.LogTransactions հատկություն

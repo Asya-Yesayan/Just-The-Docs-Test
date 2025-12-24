@@ -1,5 +1,5 @@
 ﻿---
-title: IAccountingService.CalculateCacheRemFull(string, DateTime?, DateTime?, DateTime?, DateTime?, DateTime?) մեթոդ
+title: CalculateCacheRemFull(string, DateTime?, DateTime?, DateTime?, DateTime?, DateTime?)
 ---
 
 ## Նկարագիր

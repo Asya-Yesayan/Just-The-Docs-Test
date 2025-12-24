@@ -1,5 +1,5 @@
 ---
-title: RODocument.LastTSCheck հատկություն
+title: LastTSCheck
 ---
 
 # RODocument.LastTSCheck հատկություն

@@ -1,5 +1,5 @@
 ---
-title: RODocumentService.LookUpInCache մեթոդ
+title: LookUpInCache
 ---
 
 # RODocumentService.LookUpInCache մեթոդ

@@ -1,5 +1,5 @@
 ---
-title: LoginService.Username հատկություն
+title: Username
 ---
 
 # LoginService.Username հատկություն

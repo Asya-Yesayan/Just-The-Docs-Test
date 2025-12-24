@@ -1,5 +1,5 @@
 ---
-title: TextReport.AddFragment(int) մեթոդ
+title: AddFragment(int)
 ---
 
 # TextReport.AddFragment(int) մեթոդ

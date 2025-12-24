@@ -1,5 +1,5 @@
 ---
-title: DocumentRoutes.StoreAsync(DocumentStoreRequestModel, CancellationToken) մեթոդ
+title: StoreAsync(DocumentStoreRequestModel, CancellationToken)
 ---
 
 # DocumentRoutes.StoreAsync(DocumentStoreRequestModel, CancellationToken) մեթոդ

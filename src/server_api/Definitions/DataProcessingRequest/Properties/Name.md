@@ -1,5 +1,5 @@
 ---
-title: DataProcessingRequest.Name հատկություն
+title: Name
 ---
 
 # DataProcessingRequest.Name հատկություն

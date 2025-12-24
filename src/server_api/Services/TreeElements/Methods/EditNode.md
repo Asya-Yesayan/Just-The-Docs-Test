@@ -1,5 +1,5 @@
 ---
-title: TreeElementsService.EditNode(TreeElement) մեթոդ
+title: EditNode(TreeElement)
 ---
 
 # TreeElementsService.EditNode(TreeElement) մեթոդ

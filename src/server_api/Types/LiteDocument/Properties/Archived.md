@@ -1,5 +1,5 @@
 ---
-title: LiteDocument.Archived հատկություն
+title: Archived
 ---
 
 # LiteDocument.Archived հատկություն

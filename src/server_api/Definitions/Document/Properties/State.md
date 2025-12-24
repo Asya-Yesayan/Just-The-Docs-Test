@@ -1,5 +1,5 @@
 ---
-title: Document.State հատկություն
+title: State
 ---
 
 # Document.State հատկություն

@@ -1,5 +1,5 @@
 ---
-title: RODocument.CheckImage() մեթոդ
+title: CheckImage()
 ---
 
 # RODocument.CheckImage() մեթոդ

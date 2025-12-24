@@ -1,5 +1,5 @@
 ---
-title: FieldTypeProvider.Date հատկություն
+title: Date
 ---
 
 # FieldTypeProvider.Date հատկություն

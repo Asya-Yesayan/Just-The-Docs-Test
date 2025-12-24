@@ -1,5 +1,5 @@
 ---
-title: FieldTypeProvider.AmAcc հատկություն
+title: AmAcc
 ---
 
 # FieldTypeProvider.AmAcc հատկություն

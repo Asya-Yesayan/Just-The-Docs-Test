@@ -1,5 +1,5 @@
 ---
-title: ApiClient.DPR հատկություն
+title: DPR
 ---
 
 # ApiClient.DPR հատկություն

@@ -1,5 +1,5 @@
 ---
-title: WebServicesManager.Delete(string) մեթոդ
+title: Delete(string)
 ---
 
 # WebServicesManager.Delete(string) մեթոդ

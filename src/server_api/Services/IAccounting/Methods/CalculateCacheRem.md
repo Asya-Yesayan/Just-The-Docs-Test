@@ -1,5 +1,5 @@
 ﻿---
-title: IAccountingService.CalculateCacheRem(string, int) մեթոդ
+title: CalculateCacheRem(string, int)
 ---
 
 ## Նկարագիր

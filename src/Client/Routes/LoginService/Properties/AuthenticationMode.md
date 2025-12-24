@@ -1,5 +1,5 @@
 ---
-title: LoginService.AuthenticationMode հատկություն
+title: AuthenticationMode
 ---
 
 # LoginService.AuthenticationMode հատկություն

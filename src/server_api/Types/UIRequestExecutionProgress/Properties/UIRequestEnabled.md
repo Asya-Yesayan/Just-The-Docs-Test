@@ -1,5 +1,5 @@
 ---
-title: UIRequestExecutionProgress.UIRequestEnabled հատկություն
+title: UIRequestEnabled
 ---
 
 # UIRequestExecutionProgress.UIRequestEnabled հատկություն

@@ -1,5 +1,5 @@
 ---
-title: RODocument.indexer հատկություն
+title: indexer
 ---
 
 # RODocument.indexer հատկություն

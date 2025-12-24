@@ -1,5 +1,5 @@
 ---
-title: RODocument.CreationDate հատկություն
+title: CreationDate
 ---
 
 # RODocument.CreationDate հատկություն

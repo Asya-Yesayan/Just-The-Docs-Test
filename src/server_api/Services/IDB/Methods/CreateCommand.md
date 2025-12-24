@@ -1,5 +1,5 @@
 ---
-title: IDBService.CreateCommand(TimeoutType) մեթոդ
+title: CreateCommand(TimeoutType)
 ---
 
 # IDBService.CreateCommand(TimeoutType) մեթոդ

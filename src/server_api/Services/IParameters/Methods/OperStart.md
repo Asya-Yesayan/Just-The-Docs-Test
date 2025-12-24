@@ -1,5 +1,5 @@
 ---
-title: IParametersService.OperStart մեթոդ
+title: OperStart
 ---
 
 # IParametersService.OperStart մեթոդ

@@ -1,5 +1,5 @@
 ---
-title: Document.GetNextTrans() մեթոդ
+title: GetNextTrans()
 ---
 
 # Document.GetNextTrans() մեթոդ

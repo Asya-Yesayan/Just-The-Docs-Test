@@ -1,5 +1,5 @@
 ---
-title: DataSource.LoadDefinitionAsync(string, CancellationToken) մեթոդ
+title: LoadDefinitionAsync(string, CancellationToken)
 ---
 
 # DataSource.LoadDefinitionAsync(string, CancellationToken) մեթոդ

@@ -1,5 +1,5 @@
 ---
-title: TextReport.AddHeader(string) մեթոդ
+title: AddHeader(string)
 ---
 
 # TextReport.AddHeader(string) մեթոդ

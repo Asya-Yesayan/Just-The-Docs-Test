@@ -1,5 +1,5 @@
 ---
-title: IExecutionProgress.RecordInformation(string, int, string, int, Dictionary<string, object>) մեթոդ
+title: RecordInformation(string, int, string, int, Dictionary<string, object>)
 ---
 
 # IExecutionProgress.RecordInformation(string, int, string, int, Dictionary<string, object>) մեթոդ

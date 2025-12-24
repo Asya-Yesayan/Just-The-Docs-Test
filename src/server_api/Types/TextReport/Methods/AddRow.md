@@ -1,5 +1,5 @@
 ---
-title: TextReport.AddRow(string, int, string, int) մեթոդ
+title: AddRow(string, int, string, int)
 ---
 
 # TextReport.AddRow(string, int, string, int) մեթոդ

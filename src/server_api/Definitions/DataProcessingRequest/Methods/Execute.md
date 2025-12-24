@@ -1,5 +1,5 @@
 ---
-title: DataProcessingRequest.Execute(P, CancellationToken) մեթոդ
+title: Execute(P, CancellationToken)
 ---
 
 # DataProcessingRequest.Execute(P, CancellationToken) մեթոդ

@@ -1,5 +1,5 @@
 ---
-title: IDocumentService.CreateFactsUsingStateMoverFrom(Document, int) մեթոդ
+title: CreateFactsUsingStateMoverFrom(Document, int)
 ---
 
 # IDocumentService.CreateFactsUsingStateMoverFrom(Document, int) մեթոդ

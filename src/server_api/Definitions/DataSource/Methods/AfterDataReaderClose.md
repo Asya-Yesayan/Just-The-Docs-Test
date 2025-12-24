@@ -1,5 +1,5 @@
 ---
-title: DataSource.AfterDataReaderClose մեթոդ
+title: AfterDataReaderClose
 ---
 
 # DataSource.AfterDataReaderClose մեթոդ

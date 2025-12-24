@@ -1,5 +1,5 @@
 ---
-title: TextReport.DocBased հատկություն
+title: DocBased
 ---
 
 # TextReport.DocBased հատկություն

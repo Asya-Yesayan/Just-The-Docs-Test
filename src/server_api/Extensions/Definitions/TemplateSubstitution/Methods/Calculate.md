@@ -1,5 +1,5 @@
 ---
-title: ITemplateSubstitutionExtender.Calculate(TemplateSubstitutionExtenderArgs) մեթոդ
+title: Calculate(TemplateSubstitutionExtenderArgs)
 ---
 
 # ITemplateSubstitutionExtender.Calculate(TemplateSubstitutionExtenderArgs) մեթոդ

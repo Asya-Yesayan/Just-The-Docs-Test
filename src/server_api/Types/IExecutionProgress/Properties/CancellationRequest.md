@@ -1,5 +1,5 @@
 ---
-title: IExecutionProgress.CancellationRequest հատկություն
+title: CancellationRequest
 ---
 
 # IExecutionProgress.CancellationRequest հատկություն

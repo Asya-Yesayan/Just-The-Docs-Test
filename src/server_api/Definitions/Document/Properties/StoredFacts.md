@@ -1,5 +1,5 @@
 ---
-title: Document.StoredFacts հատկություն
+title: StoredFacts
 ---
 
 # Document.StoredFacts հատկություն

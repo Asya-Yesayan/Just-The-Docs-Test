@@ -1,5 +1,5 @@
 ﻿---
-title: IAttachmentService.DeleteAll(int) մեթոդ
+title: DeleteAll(int)
 ---
 
 ## Նկարագիր

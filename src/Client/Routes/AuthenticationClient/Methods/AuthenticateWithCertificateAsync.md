@@ -1,5 +1,5 @@
 ---
-title: AuthenticationClient.AuthenticateWithCertificateAsync(CertificateAuthenticateRequest, CancellationToken) մեթոդ
+title: AuthenticateWithCertificateAsync(CertificateAuthenticateRequest, CancellationToken)
 ---
 
 # AuthenticationClient.AuthenticateWithCertificateAsync(CertificateAuthenticateRequest, CancellationToken) մեթոդ

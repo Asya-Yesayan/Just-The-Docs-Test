@@ -1,5 +1,5 @@
 ---
-title: DocumentExtender.PreBeforeCommit(Document, BeforeCommitEventArgs) մեթոդ
+title: PreBeforeCommit(Document, BeforeCommitEventArgs)
 ---
 
 # DocumentExtender.PreBeforeCommit(Document, BeforeCommitEventArgs) մեթոդ

@@ -1,5 +1,5 @@
 ---
-title: ServerSideModuleHelper.GetServerSideModuleMetadata(IDBService, string) մեթոդ
+title: GetServerSideModuleMetadata(IDBService, string)
 ---
 
 # ServerSideModuleHelper.GetServerSideModuleMetadata(IDBService, string) մեթոդ

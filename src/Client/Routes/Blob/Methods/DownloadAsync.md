@@ -1,5 +1,5 @@
 ---
-title: BlobRoutes.DownloadAsync(string, string, CancellationToken) մեթոդ
+title: DownloadAsync(string, string, CancellationToken)
 ---
 
 # BlobRoutes.DownloadAsync(string, string, CancellationToken) մեթոդ

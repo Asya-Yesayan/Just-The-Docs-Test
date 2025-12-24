@@ -1,5 +1,5 @@
 ---
-title: Document.SendMessage(string, int, string, bool, bool) մեթոդ
+title: SendMessage(string, int, string, bool, bool)
 ---
 
 # Document.SendMessage(string, int, string, bool, bool) մեթոդ

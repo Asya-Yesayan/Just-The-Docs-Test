@@ -1,5 +1,5 @@
 ---
-title: BlobRoutes.DeleteBlob(string, string) մեթոդ
+title: DeleteBlob(string, string)
 ---
 
 # BlobRoutes.DeleteBlob(string, string) մեթոդ

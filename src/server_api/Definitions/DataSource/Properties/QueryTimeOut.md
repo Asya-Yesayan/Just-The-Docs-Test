@@ -1,5 +1,5 @@
 ---
-title: DataSource.QueryTimeOut հատկություն
+title: QueryTimeOut
 ---
 
 # DataSource.QueryTimeOut հատկություն

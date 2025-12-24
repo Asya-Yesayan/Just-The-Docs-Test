@@ -1,5 +1,5 @@
 ---
-title: BankMeterManager.Configure(IParametersService) մեթոդ
+title: Configure(IParametersService)
 ---
 
 # BankMeterManager.Configure(IParametersService) մեթոդ

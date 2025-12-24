@@ -1,5 +1,5 @@
 ---
-title: TemplateSubstitution.ExistsImage(string) մեթոդ
+title: ExistsImage(string)
 ---
 
 # TemplateSubstitution.ExistsImage(string) մեթոդ

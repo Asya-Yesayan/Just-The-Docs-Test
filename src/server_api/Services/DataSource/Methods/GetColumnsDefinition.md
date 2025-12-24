@@ -1,5 +1,5 @@
 ---
-title: DataSourceService.GetColumnsDefinition(string) մեթոդ
+title: GetColumnsDefinition(string)
 ---
 
 # DataSourceService.GetColumnsDefinition(string) մեթոդ

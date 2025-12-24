@@ -1,5 +1,5 @@
 ---
-title: RODocument.TimeStamp հատկություն
+title: TimeStamp
 ---
 
 # RODocument.TimeStamp հատկություն

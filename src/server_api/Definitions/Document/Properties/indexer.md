@@ -1,5 +1,5 @@
 ---
-title: Document.indexer հատկություն
+title: indexer
 ---
 
 # Document.indexer հատկություն

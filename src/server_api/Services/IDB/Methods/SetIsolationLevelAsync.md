@@ -1,5 +1,5 @@
 ---
-title: IDBService.SetIsolationLevelAsync(IsolationLevel) մեթոդ
+title: SetIsolationLevelAsync(IsolationLevel)
 ---
 
 # IDBService.SetIsolationLevelAsync(IsolationLevel) մեթոդ

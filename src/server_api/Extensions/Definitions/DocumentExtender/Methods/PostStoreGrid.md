@@ -1,5 +1,5 @@
 ---
-title: DocumentExtender.PostStoreGrid(Document, StoreGridsEventArgs) մեթոդ
+title: PostStoreGrid(Document, StoreGridsEventArgs)
 ---
 
 # DocumentExtender.PostStoreGrid(Document, StoreGridsEventArgs) մեթոդ

@@ -1,5 +1,5 @@
 ---
-title: IKernelService.LastHI2OpDate մեթոդ
+title: LastHI2OpDate
 ---
 
 # IKernelService.LastHI2OpDate մեթոդ

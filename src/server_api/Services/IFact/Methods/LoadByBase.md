@@ -1,5 +1,5 @@
 ---
-title: IFactService.LoadByBase(int, string, string, bool) մեթոդ
+title: LoadByBase(int, string, string, bool)
 ---
 
 # IFactService.LoadByBase(int, string, string, bool) մեթոդ

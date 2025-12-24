@@ -1,5 +1,5 @@
 ---
-title: Settings.CurrentServiceId հատկություն
+title: CurrentServiceId
 ---
 
 # Settings.CurrentServiceId հատկություն

@@ -1,5 +1,5 @@
 ---
-title: FieldTypeProvider.GetFileFieldType(string, bool) մեթոդ
+title: GetFileFieldType(string, bool)
 ---
 
 # FieldTypeProvider.GetFileFieldType(string, bool) մեթոդ

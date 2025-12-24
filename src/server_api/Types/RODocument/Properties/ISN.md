@@ -1,5 +1,5 @@
 ---
-title: RODocument.ISN հատկություն
+title: ISN
 ---
 
 # RODocument.ISN հատկություն

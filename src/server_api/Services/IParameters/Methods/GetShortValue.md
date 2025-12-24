@@ -1,5 +1,5 @@
 ---
-title: IParametersService.GetShortValue մեթոդ
+title: GetShortValue
 ---
 
 # IParametersService.GetShortValue մեթոդ

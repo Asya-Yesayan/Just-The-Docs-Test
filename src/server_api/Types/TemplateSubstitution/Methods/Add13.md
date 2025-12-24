@@ -1,5 +1,5 @@
 ---
-title: TemplateSubstitution.Add(string, TimeSpan?) մեթոդ
+title: Add(string, TimeSpan?)
 ---
 
 # TemplateSubstitution.Add(string, TimeSpan?) մեթոդ

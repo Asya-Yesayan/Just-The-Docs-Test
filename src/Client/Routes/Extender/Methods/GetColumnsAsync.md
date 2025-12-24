@@ -1,5 +1,5 @@
 ---
-title: ExtenderRoutes.GetColumnsAsync(string, CancellationToken) մեթոդ
+title: GetColumnsAsync(string, CancellationToken)
 ---
 
 # ExtenderRoutes.GetColumnsAsync(string, CancellationToken) մեթոդ

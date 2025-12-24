@@ -1,5 +1,5 @@
 ---
-title: IDocumentService.Store(Document, DocumentCheckLevel, string) մեթոդ
+title: Store(Document, DocumentCheckLevel, string)
 ---
 
 # IDocumentService.Store(Document, DocumentCheckLevel, string) մեթոդ

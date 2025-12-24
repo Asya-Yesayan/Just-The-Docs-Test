@@ -1,5 +1,5 @@
 ---
-title: LiteDocument.CreatorSUID հատկություն
+title: CreatorSUID
 ---
 
 # LiteDocument.CreatorSUID հատկություն

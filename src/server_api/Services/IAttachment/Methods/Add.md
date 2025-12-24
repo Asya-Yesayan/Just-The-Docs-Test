@@ -1,5 +1,5 @@
 ---
-title: IAttachmentService.Add(AttachmentAddModel) մեթոդ
+title: Add(AttachmentAddModel)
 ---
 
 # IAttachmentService.Add(AttachmentAddModel) մեթոդ

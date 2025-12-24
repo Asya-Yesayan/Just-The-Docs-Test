@@ -1,5 +1,5 @@
 ---
-title: IExecutionProgress.SaveToStorageAndClose() մեթոդ
+title: SaveToStorageAndClose()
 ---
 
 # IExecutionProgress.SaveToStorageAndClose() մեթոդ

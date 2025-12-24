@@ -1,5 +1,5 @@
 ---
-title: LiteDocument.indexer հատկություն
+title: indexer
 ---
 
 # LiteDocument.indexer հատկություն

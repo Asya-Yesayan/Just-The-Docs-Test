@@ -1,5 +1,5 @@
 ---
-title: RODocument.Fields հատկություն
+title: Fields
 ---
 
 # RODocument.Fields հատկություն

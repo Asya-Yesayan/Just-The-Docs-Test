@@ -1,5 +1,5 @@
 ---
-title: IFactService.SetAccDeb(Fact, string, bool) մեթոդ
+title: SetAccDeb(Fact, string, bool)
 ---
 
 # IFactService.SetAccDeb(Fact, string, bool) մեթոդ

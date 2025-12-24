@@ -1,5 +1,5 @@
 ---
-title: IKernelService.GetTurnBetween(string, int, DateTime, DateTime, string, bool) մեթոդ
+title: GetTurnBetween(string, int, DateTime, DateTime, string, bool)
 ---
 
 # IKernelService.GetTurnBetween(string, int, DateTime, DateTime, string, bool) մեթոդ

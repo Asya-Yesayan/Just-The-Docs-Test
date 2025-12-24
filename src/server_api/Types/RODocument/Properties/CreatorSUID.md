@@ -1,5 +1,5 @@
 ---
-title: RODocument.CreatorSUID հատկություն
+title: CreatorSUID
 ---
 
 # RODocument.CreatorSUID հատկություն

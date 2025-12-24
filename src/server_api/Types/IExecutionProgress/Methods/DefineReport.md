@@ -1,5 +1,5 @@
 ---
-title: IExecutionProgress.DefineReport(string, string, bool) մեթոդ
+title: DefineReport(string, string, bool)
 ---
 
 # IExecutionProgress.DefineReport(string, string, bool) մեթոդ

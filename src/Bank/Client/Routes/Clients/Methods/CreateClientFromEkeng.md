@@ -1,5 +1,5 @@
 ---
-title: ClientsRoutes.CreateClientFromEkeng(CreateClientFromEkengRequest) մեթոդ
+title: CreateClientFromEkeng(CreateClientFromEkengRequest)
 ---
 
 # ClientsRoutes.CreateClientFromEkeng(CreateClientFromEkengRequest) մեթոդ

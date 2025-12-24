@@ -1,5 +1,5 @@
 ---
-title: IDocumentService.CleanDeleted(DateTime, DateTime, string) մեթոդ
+title: CleanDeleted(DateTime, DateTime, string)
 ---
 
 # IDocumentService.CleanDeleted(DateTime, DateTime, string) մեթոդ

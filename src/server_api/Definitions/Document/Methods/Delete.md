@@ -1,5 +1,5 @@
 ---
-title: Document.Delete(DeleteEventArgs) մեթոդ
+title: Delete(DeleteEventArgs)
 ---
 
 # Document.Delete(DeleteEventArgs) մեթոդ

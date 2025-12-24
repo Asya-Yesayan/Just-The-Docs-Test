@@ -1,5 +1,5 @@
 ---
-title: TextReport.SaveToStorageAndClose() մեթոդ
+title: SaveToStorageAndClose()
 ---
 
 # TextReport.SaveToStorageAndClose() մեթոդ

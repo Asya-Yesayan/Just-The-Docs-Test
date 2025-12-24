@@ -1,5 +1,5 @@
 ---
-title: LiteDocumentService.LookUpInCache մեթոդ
+title: LookUpInCache
 ---
 
 # LiteDocumentService.LookUpInCache մեթոդ

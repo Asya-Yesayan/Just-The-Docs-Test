@@ -1,5 +1,5 @@
 ---
-title: Document.Validate(ValidateEventArgs) մեթոդ
+title: Validate(ValidateEventArgs)
 ---
 
 # Document.Validate(ValidateEventArgs) մեթոդ

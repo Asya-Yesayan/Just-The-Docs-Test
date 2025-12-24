@@ -1,5 +1,5 @@
 ---
-title: LoginService.MustChangePassword հատկություն
+title: MustChangePassword
 ---
 
 # LoginService.MustChangePassword հատկություն

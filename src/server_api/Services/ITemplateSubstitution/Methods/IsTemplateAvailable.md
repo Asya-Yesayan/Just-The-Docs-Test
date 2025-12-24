@@ -1,5 +1,5 @@
 ---
-title: ITemplateSubstitutionService.IsTemplateAvailable(string, string, Document) մեթոդ
+title: IsTemplateAvailable(string, string, Document)
 ---
 
 # ITemplateSubstitutionService.IsTemplateAvailable(string, string, Document) մեթոդ

@@ -1,5 +1,5 @@
 ---
-title: DataProcessingRequest.DPRType հատկություն
+title: DPRType
 ---
 
 # DataProcessingRequest.DPRType հատկություն

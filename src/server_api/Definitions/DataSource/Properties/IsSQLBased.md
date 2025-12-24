@@ -1,5 +1,5 @@
 ---
-title: DataSource.IsSQLBased հատկություն
+title: IsSQLBased
 ---
 
 # DataSource.IsSQLBased հատկություն

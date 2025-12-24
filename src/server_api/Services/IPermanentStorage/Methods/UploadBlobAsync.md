@@ -1,5 +1,5 @@
 ---
-title: IPermanentStorageService.UploadBlobAsync մեթոդ
+title: UploadBlobAsync
 ---
 
 # IPermanentStorageService.UploadBlobAsync մեթոդ

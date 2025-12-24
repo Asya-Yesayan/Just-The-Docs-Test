@@ -1,5 +1,5 @@
 ---
-title: DataSource.FetchSize հատկություն
+title: FetchSize
 ---
 
 # DataSource.FetchSize հատկություն

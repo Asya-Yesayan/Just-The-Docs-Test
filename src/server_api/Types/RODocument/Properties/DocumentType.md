@@ -1,5 +1,5 @@
 ---
-title: RODocument.DocumentType հատկություն
+title: DocumentType
 ---
 
 # RODocument.DocumentType հատկություն

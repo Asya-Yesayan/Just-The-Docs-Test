@@ -1,5 +1,5 @@
 ---
-title: IDocumentService.CheckProcessingMode(string) մեթոդ
+title: CheckProcessingMode(string)
 ---
 
 # IDocumentService.CheckProcessingMode(string) մեթոդ

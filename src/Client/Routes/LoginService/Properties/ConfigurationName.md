@@ -1,5 +1,5 @@
 ---
-title: LoginService.ConfigurationName հատկություն
+title: ConfigurationName
 ---
 
 # LoginService.ConfigurationName հատկություն

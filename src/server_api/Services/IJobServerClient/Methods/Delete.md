@@ -1,5 +1,5 @@
 ---
-title: IProcessServerClient.Delete(Guid) մեթոդ
+title: Delete(Guid)
 ---
 
 # IProcessServerClient.Delete(Guid) մեթոդ

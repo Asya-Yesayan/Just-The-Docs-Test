@@ -1,5 +1,5 @@
 ---
-title: TextReport.UnmoveFragment հատկություն
+title: UnmoveFragment
 ---
 
 # TextReport.UnmoveFragment հատկություն

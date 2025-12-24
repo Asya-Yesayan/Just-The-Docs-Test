@@ -1,5 +1,5 @@
 ---
-title: IDocumentService.HiDeleteAll(Document) մեթոդ
+title: HiDeleteAll(Document)
 ---
 
 # IDocumentService.HiDeleteAll(Document) մեթոդ

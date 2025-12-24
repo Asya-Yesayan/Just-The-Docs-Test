@@ -1,5 +1,5 @@
 ---
-title: DataProcessingRequest.ArmenianCaption հատկություն
+title: ArmenianCaption
 ---
 
 # DataProcessingRequest.ArmenianCaption հատկություն

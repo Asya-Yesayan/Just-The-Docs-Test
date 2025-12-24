@@ -1,5 +1,5 @@
 ---
-title: IKernelService.GetTurnFull(string, int, DateTime, DateTime) մեթոդ
+title: GetTurnFull(string, int, DateTime, DateTime)
 ---
 
 # IKernelService.GetTurnFull(string, int, DateTime, DateTime) մեթոդ

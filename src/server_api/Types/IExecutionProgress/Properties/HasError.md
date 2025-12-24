@@ -1,5 +1,5 @@
 ---
-title: IExecutionProgress.HasError հատկություն
+title: HasError
 ---
 
 # IExecutionProgress.HasError հատկություն

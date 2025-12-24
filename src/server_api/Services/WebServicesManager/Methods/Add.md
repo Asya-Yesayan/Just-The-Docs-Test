@@ -1,5 +1,5 @@
 ---
-title: WebServicesManager.Add(WebServiceInfo) մեթոդ
+title: Add(WebServiceInfo)
 ---
 
 # WebServicesManager.Add(WebServiceInfo) մեթոդ

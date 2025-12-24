@@ -1,5 +1,5 @@
 ---
-title: IDocumentService.CutChildLink(int, int) մեթոդ
+title: CutChildLink(int, int)
 ---
 
 # IDocumentService.CutChildLink(int, int) մեթոդ

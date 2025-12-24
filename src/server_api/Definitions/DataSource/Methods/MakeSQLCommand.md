@@ -1,5 +1,5 @@
 ---
-title: DataSource.MakeSQLCommand(DataSourceArgs<P>, CancellationToken) մեթոդ
+title: MakeSQLCommand(DataSourceArgs<P>, CancellationToken)
 ---
 
 # DataSource.MakeSQLCommand(DataSourceArgs<P>, CancellationToken) մեթոդ

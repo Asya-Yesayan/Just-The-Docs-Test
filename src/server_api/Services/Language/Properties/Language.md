@@ -1,5 +1,5 @@
 ---
-title: LanguageService.Language հատկություն
+title: Language
 ---
 
 # LanguageService.Language հատկություն

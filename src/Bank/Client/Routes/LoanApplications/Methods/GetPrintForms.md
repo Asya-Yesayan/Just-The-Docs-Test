@@ -1,5 +1,5 @@
 ---
-title: LoanApplicationsRoutes.GetPrintForms(GetPrintFormsRequest) մեթոդ
+title: GetPrintForms(GetPrintFormsRequest)
 ---
 
 # LoanApplicationsRoutes.GetPrintForms(GetPrintFormsRequest) մեթոդ

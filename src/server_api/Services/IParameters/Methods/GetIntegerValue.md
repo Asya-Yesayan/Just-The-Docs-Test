@@ -1,5 +1,5 @@
 ---
-title: IParametersService.GetIntegerValue մեթոդ
+title: GetIntegerValue
 ---
 
 # IParametersService.GetIntegerValue մեթոդ

@@ -1,5 +1,5 @@
 ---
-title: LiteDocument.RefreshLastTSCheck() մեթոդ
+title: RefreshLastTSCheck()
 ---
 
 # LiteDocument.RefreshLastTSCheck() մեթոդ

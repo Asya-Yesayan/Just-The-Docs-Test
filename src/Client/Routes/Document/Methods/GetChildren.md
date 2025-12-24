@@ -1,5 +1,5 @@
 ---
-title: DocumentRoutes.GetChildren(int, string, DocumentOrder, string) մեթոդ
+title: GetChildren(int, string, DocumentOrder, string)
 ---
 
 # DocumentRoutes.GetChildren(int, string, DocumentOrder, string) մեթոդ

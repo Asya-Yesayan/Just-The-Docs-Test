@@ -1,5 +1,5 @@
 ---
-title: LoginService.DbName հատկություն
+title: DbName
 ---
 
 # LoginService.DbName հատկություն

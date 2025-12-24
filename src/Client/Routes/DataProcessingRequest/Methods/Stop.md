@@ -1,5 +1,5 @@
 ---
-title: DataProcessingRequestRoutes.Stop(Guid) մեթոդ
+title: Stop(Guid)
 ---
 
 # DataProcessingRequestRoutes.Stop(Guid) մեթոդ

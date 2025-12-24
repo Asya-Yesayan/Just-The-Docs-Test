@@ -1,5 +1,5 @@
 ---
-title: IFolderService.Exists(string) մեթոդ
+title: Exists(string)
 ---
 
 # IFolderService.Exists(string) մեթոդ

@@ -1,5 +1,5 @@
 ---
-title: DocumentExtender.PreValidate(Document, ValidateEventArgs) մեթոդ
+title: PreValidate(Document, ValidateEventArgs)
 ---
 
 # DocumentExtender.PreValidate(Document, ValidateEventArgs) մեթոդ

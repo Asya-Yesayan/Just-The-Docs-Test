@@ -1,5 +1,5 @@
 ---
-title: Document.TemplateSubstitutionIsExtended հատկություն
+title: TemplateSubstitutionIsExtended
 ---
 
 # Document.TemplateSubstitutionIsExtended հատկություն

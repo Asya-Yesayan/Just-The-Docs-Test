@@ -1,5 +1,5 @@
 ---
-title: DocumentExtender.PostAction(Document, ActionEventArgs) մեթոդ
+title: PostAction(Document, ActionEventArgs)
 ---
 
 # DocumentExtender.PostAction(Document, ActionEventArgs) մեթոդ

@@ -1,5 +1,5 @@
 ---
-title: Document.DeserializeComplexObjects(DeserializeComplexObjectsEventArgs) մեթոդ
+title: DeserializeComplexObjects(DeserializeComplexObjectsEventArgs)
 ---
 
 # Document.DeserializeComplexObjects(DeserializeComplexObjectsEventArgs) մեթոդ

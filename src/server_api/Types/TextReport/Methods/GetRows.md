@@ -1,5 +1,5 @@
 ---
-title: TextReport.GetRows(long, long) մեթոդ
+title: GetRows(long, long)
 ---
 
 # TextReport.GetRows(long, long) մեթոդ

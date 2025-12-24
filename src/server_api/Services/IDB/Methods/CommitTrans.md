@@ -1,5 +1,5 @@
 ---
-title: IDBService.CommitTrans() մեթոդ
+title: CommitTrans()
 ---
 
 # IDBService.CommitTrans() մեթոդ

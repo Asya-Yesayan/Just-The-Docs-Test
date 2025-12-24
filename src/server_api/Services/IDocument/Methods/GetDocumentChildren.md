@@ -1,5 +1,5 @@
 ---
-title: IDocumentService.GetDocumentChildren(int, string, DocumentChildrenOrder, string) մեթոդ
+title: GetDocumentChildren(int, string, DocumentChildrenOrder, string)
 ---
 
 # IDocumentService.GetDocumentChildren(int, string, DocumentChildrenOrder, string) մեթոդ

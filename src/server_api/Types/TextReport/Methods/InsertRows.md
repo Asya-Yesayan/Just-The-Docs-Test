@@ -1,5 +1,5 @@
 ---
-title: TextReport.InsertRows(TextReport, long, long) մեթոդ
+title: InsertRows(TextReport, long, long)
 ---
 
 # TextReport.InsertRows(TextReport, long, long) մեթոդ

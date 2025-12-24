@@ -1,5 +1,5 @@
 ---
-title: TemplateSubstitution.Grid(string) մեթոդ
+title: Grid(string)
 ---
 
 # TemplateSubstitution.Grid(string) մեթոդ

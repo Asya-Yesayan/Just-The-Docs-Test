@@ -1,5 +1,5 @@
 ---
-title: Document.SetImage(string, byte[]) մեթոդ
+title: SetImage(string, byte[])
 ---
 
 # Document.SetImage(string, byte[]) մեթոդ

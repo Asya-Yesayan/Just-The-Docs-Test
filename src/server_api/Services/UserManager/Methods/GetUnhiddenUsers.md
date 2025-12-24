@@ -1,5 +1,5 @@
 ---
-title: UserManagerService․GetUnhiddenUsers() մեթոդ
+title: GetUnhiddenUsers()
 ---
 
 # UserManagerService․GetUnhiddenUsers() մեթոդ

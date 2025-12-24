@@ -1,5 +1,5 @@
 ---
-title: LoginService.SessionGuid հատկություն
+title: SessionGuid
 ---
 
 # LoginService.SessionGuid հատկություն

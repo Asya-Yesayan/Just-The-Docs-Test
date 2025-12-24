@@ -1,5 +1,5 @@
 ---
-title: IExecutionProgress.Refresh(string) մեթոդ
+title: Refresh(string)
 ---
 
 # IExecutionProgress.Refresh(string) մեթոդ

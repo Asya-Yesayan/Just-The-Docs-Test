@@ -1,5 +1,5 @@
 ---
-title: IDocumentService.Create մեթոդ
+title: Create
 ---
 
 # IDocumentService.Create մեթոդ

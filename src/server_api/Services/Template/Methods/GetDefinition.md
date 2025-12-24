@@ -1,5 +1,5 @@
 ---
-title: TemplateService.GetDefinition(string, string) մեթոդ
+title: GetDefinition(string, string)
 ---
 
 # TemplateService.GetDefinition(string, string) մեթոդ

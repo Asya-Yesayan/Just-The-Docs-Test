@@ -1,5 +1,5 @@
 ---
-title: MeterManager.TryConfigure(IParametersService) մեթոդ
+title: TryConfigure(IParametersService)
 ---
 
 # MeterManager.TryConfigure(IParametersService) մեթոդ

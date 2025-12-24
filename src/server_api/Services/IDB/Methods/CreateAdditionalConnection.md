@@ -1,5 +1,5 @@
 ---
-title: IDBService.CreateAdditionalConnection(bool, string, bool) մեթոդ
+title: CreateAdditionalConnection(bool, string, bool)
 ---
 
 # IDBService.CreateAdditionalConnection(bool, string, bool) մեթոդ

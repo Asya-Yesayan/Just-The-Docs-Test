@@ -1,5 +1,5 @@
 ---
-title: TreeElementsService.GetTreeElements(int, Dictionary<string, TreeElement>, bool, bool) մեթոդ
+title: GetTreeElements(int, Dictionary<string, TreeElement>, bool, bool)
 ---
 
 # TreeElementsService.GetTreeElements(int, Dictionary<string, TreeElement>, bool, bool) մեթոդ

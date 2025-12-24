@@ -1,5 +1,5 @@
 ---
-title: IDocumentService.GetDocsInfo() մեթոդ
+title: GetDocsInfo()
 ---
 
 # IDocumentService.GetDocsInfo() մեթոդ

@@ -1,5 +1,5 @@
 ---
-title: LoginService.AuthenticateAsync մեթոդ
+title: AuthenticateAsync
 ---
 
 # LoginService.AuthenticateAsync մեթոդ

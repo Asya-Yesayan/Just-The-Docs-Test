@@ -1,5 +1,5 @@
 ---
-title: LoanApplicationsRoutes.Sign(SignRequest) մեթոդ
+title: Sign(SignRequest)
 ---
 
 # LoanApplicationsRoutes.Sign(SignRequest) մեթոդ

@@ -1,5 +1,5 @@
 ---
-title: LoggerService.Information(ILogger, string, object[]) մեթոդ
+title: Information(ILogger, string, object[])
 ---
 
 # LoggerService.Information(ILogger, string, object[]) մեթոդ

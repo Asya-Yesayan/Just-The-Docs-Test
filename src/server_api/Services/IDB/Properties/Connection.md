@@ -1,5 +1,5 @@
 ---
-title: IDBService.Connection հատկություն
+title: Connection
 ---
 
 # IDBService.Connection հատկություն

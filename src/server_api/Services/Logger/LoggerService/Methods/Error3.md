@@ -1,5 +1,5 @@
 ---
-title: LoggerService.Error(ILogger, Exception, string, object[]) մեթոդ
+title: Error(ILogger, Exception, string, object[])
 ---
 
 # LoggerService.Error(ILogger, Exception, string, object[]) մեթոդ

@@ -1,5 +1,5 @@
 ---
-title: IFactService.Exists(int, int, string, string, bool) մեթոդ
+title: Exists(int, int, string, string, bool)
 ---
 
 # IFactService.Exists(int, int, string, string, bool) մեթոդ

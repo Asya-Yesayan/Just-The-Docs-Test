@@ -1,5 +1,5 @@
 ---
-title: IDocumentService.MakeParentLink(Document, int, bool) մեթոդ
+title: MakeParentLink(Document, int, bool)
 ---
 
 # IDocumentService.MakeParentLink(Document, int, bool) մեթոդ

@@ -1,5 +1,5 @@
 ---
-title: TemplateSubstitution.Add(string, double) մեթոդ
+title: Add(string, double)
 ---
 
 # TemplateSubstitution.Add(string, double) մեթոդ

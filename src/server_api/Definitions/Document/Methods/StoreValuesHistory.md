@@ -1,5 +1,5 @@
 ---
-title: Document.StoreValuesHistory() մեթոդ
+title: StoreValuesHistory()
 ---
 
 # Document.StoreValuesHistory() մեթոդ

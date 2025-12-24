@@ -1,5 +1,5 @@
 ---
-title: DataSource.AfterDataReaderCloseMode հատկություն
+title: AfterDataReaderCloseMode
 ---
 
 # DataSource.AfterDataReaderCloseMode հատկություն

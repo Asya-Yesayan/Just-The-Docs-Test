@@ -1,5 +1,5 @@
 ---
-title: IExtensionMeterProvider.Configure(IParametersService, Meter) մեթոդ
+title: Configure(IParametersService, Meter)
 ---
 
 # IExtensionMeterProvider.Configure(IParametersService, Meter) մեթոդ

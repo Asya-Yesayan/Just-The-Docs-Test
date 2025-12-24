@@ -1,5 +1,5 @@
 ---
-title: Document.SetCheckValue(string, bool) մեթոդ
+title: SetCheckValue(string, bool)
 ---
 
 # Document.SetCheckValue(string, bool) մեթոդ

@@ -1,5 +1,5 @@
 ---
-title: BlobRoutes.DeleteBlobAsync(string, string, CancellationToken) մեթոդ
+title: DeleteBlobAsync(string, string, CancellationToken)
 ---
 
 # BlobRoutes.DeleteBlobAsync(string, string, CancellationToken) մեթոդ

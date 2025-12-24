@@ -1,5 +1,5 @@
 ﻿---
-title: IAttachmentService.Copy(int, int, bool) մեթոդ
+title: Copy(int, int, bool)
 ---
 
 ## Նկարագիր

@@ -1,5 +1,5 @@
 ---
-title: IDocumentService.GetDocumentType(int) մեթոդ
+title: GetDocumentType(int)
 ---
 
 # IDocumentService.GetDocumentType(int) մեթոդ

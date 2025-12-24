@@ -1,5 +1,5 @@
 ---
-title: IKernelService.GetTurn(string, int, DateTime, DateTime, string) մեթոդ
+title: GetTurn(string, int, DateTime, DateTime, string)
 ---
 
 # IKernelService.GetTurn(string, int, DateTime, DateTime, string) մեթոդ

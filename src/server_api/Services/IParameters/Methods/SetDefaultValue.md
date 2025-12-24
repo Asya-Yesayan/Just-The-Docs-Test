@@ -1,5 +1,5 @@
 ---
-title: IParametersService.SetDefaultValue(string, object, bool, bool) մեթոդ
+title: SetDefaultValue(string, object, bool, bool)
 ---
 
 # IParametersService.SetDefaultValue(string, object, bool, bool) մեթոդ

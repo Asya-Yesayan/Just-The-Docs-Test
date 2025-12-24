@@ -1,5 +1,5 @@
 ---
-title: Document.GetImage(string) մեթոդ
+title: GetImage(string)
 ---
 
 # Document.GetImage(string) մեթոդ

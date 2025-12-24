@@ -1,5 +1,5 @@
 ---
-title: DocumentExtender.PostTemplateSubstitution(Document, TemplateSubstitutionEventArgs<TemplateSubstitution>) մեթոդ
+title: PostTemplateSubstitution(Document, TemplateSubstitutionEventArgs<TemplateSubstitution>)
 ---
 
 # DocumentExtender.PostTemplateSubstitution(Document, TemplateSubstitutionEventArgs<TemplateSubstitution>) մեթոդ

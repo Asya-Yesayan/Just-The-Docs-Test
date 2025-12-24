@@ -1,5 +1,5 @@
 ---
-title: IDBService.TransDeferred հատկություն
+title: TransDeferred
 ---
 
 # IDBService.TransDeferred հատկություն

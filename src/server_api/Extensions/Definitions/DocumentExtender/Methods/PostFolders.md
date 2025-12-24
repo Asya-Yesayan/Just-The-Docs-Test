@@ -1,5 +1,5 @@
 ---
-title: DocumentExtender.PostFolders(Document, FoldersEventArgs) մեթոդ
+title: PostFolders(Document, FoldersEventArgs)
 ---
 
 # DocumentExtender.PostFolders(Document, FoldersEventArgs) մեթոդ

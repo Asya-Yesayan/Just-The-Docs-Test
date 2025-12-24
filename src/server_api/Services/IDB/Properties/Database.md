@@ -1,5 +1,5 @@
 ---
-title: IDBService.Database հատկություն
+title: Database
 ---
 
 # IDBService.Database հատկություն

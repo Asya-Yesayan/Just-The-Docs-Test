@@ -1,5 +1,5 @@
 ---
-title: DataSource.Name հատկություն
+title: Name
 ---
 
 # DataSource.Name հատկություն

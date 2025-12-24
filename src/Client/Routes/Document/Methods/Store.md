@@ -1,5 +1,5 @@
 ---
-title: DocumentRoutes.Store(DocumentStoreRequestModel) մեթոդ
+title: Store(DocumentStoreRequestModel)
 ---
 
 # DocumentRoutes.Store(DocumentStoreRequestModel) մեթոդ

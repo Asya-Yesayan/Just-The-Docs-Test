@@ -1,5 +1,5 @@
 ---
-title: ApiClient.Version հատկություն
+title: Version
 ---
 
 # ApiClient.Version հատկություն

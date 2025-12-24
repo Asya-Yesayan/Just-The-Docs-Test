@@ -1,5 +1,5 @@
 ---
-title: Document.BeforeCopy(BeforeCopyEventArgs) մեթոդ
+title: BeforeCopy(BeforeCopyEventArgs)
 ---
 
 # Document.BeforeCopy(BeforeCopyEventArgs) մեթոդ

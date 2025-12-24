@@ -1,5 +1,5 @@
 ---
-title: LiteDocument.Grids հատկություն
+title: Grids
 ---
 
 # LiteDocument.Grids հատկություն

@@ -1,5 +1,5 @@
 ﻿---
-title: DocumentOperationService.Refolder(RefolderArgs, TextReport.TextReport, CancellationToken) մեթոդ
+title: Refolder(RefolderArgs, TextReport.TextReport, CancellationToken)
 ---
 
 ## Նկարագիր

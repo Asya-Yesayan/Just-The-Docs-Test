@@ -1,5 +1,5 @@
 ---
-title: AccessLogService.LogRoleChanges(HashSet<string>, HashSet<string>, short) մեթոդ
+title: LogRoleChanges(HashSet<string>, HashSet<string>, short)
 ---
 
 # AccessLogService.LogRoleChanges(HashSet<string>, HashSet<string>, short) մեթոդ

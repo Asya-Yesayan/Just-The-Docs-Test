@@ -1,5 +1,5 @@
 ---
-title: TreeEventHandler.BeforeDeleteNode(BeforeDeleteNodeEventArgs) մեթոդ
+title: BeforeDeleteNode(BeforeDeleteNodeEventArgs)
 ---
 
 # TreeEventHandler.BeforeDeleteNode(BeforeDeleteNodeEventArgs) մեթոդ

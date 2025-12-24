@@ -1,5 +1,5 @@
 ---
-title: Document.AddParent(int) մեթոդ
+title: AddParent(int)
 ---
 
 # Document.AddParent(int) մեթոդ

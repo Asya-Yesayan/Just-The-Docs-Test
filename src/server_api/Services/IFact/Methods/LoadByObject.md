@@ -1,5 +1,5 @@
 ---
-title: IFactService.LoadByObject(string, int, DateTime, DateTime, string) մեթոդ
+title: LoadByObject(string, int, DateTime, DateTime, string)
 ---
 
 # IFactService.LoadByObject(string, int, DateTime, DateTime, string) մեթոդ

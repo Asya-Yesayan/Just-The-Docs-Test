@@ -1,5 +1,5 @@
 ---
-title: RODocument.CheckMemo() մեթոդ
+title: CheckMemo()
 ---
 
 # RODocument.CheckMemo() մեթոդ

@@ -1,5 +1,5 @@
 ---
-title: Document.GetMemo(string) մեթոդ
+title: GetMemo(string)
 ---
 
 # Document.GetMemo(string) մեթոդ

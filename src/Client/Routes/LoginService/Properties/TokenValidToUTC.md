@@ -1,5 +1,5 @@
 ---
-title: LoginService.TokenValidToUTC հատկություն
+title: TokenValidToUTC
 ---
 
 # LoginService.TokenValidToUTC հատկություն

@@ -1,5 +1,5 @@
 ---
-title: DataSource.Progress հատկություն
+title: Progress
 ---
 
 # DataSource.Progress հատկություն

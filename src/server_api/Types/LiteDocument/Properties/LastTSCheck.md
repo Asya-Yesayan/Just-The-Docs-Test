@@ -1,5 +1,5 @@
 ---
-title: LiteDocument.LastTSCheck հատկություն
+title: LastTSCheck
 ---
 
 # LiteDocument.LastTSCheck հատկություն

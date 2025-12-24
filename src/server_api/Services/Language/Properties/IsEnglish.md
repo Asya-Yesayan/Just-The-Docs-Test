@@ -1,5 +1,5 @@
 ---
-title: LanguageService.IsEnglish հատկություն
+title: IsEnglish
 ---
 
 # LanguageService.IsEnglish հատկություն

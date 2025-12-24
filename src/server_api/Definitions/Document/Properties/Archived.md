@@ -1,5 +1,5 @@
 ---
-title: Document.Archived հատկություն
+title: Archived
 ---
 
 # Document.Archived հատկություն

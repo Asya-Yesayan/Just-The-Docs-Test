@@ -1,5 +1,5 @@
 ---
-title: JobService.DeleteScheduledJob(int, int, CancellationToken) մեթոդ
+title: DeleteScheduledJob(int, int, CancellationToken)
 ---
 
 # JobService.DeleteScheduledJob(int, int, CancellationToken) մեթոդ

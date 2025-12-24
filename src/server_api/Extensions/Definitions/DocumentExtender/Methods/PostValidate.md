@@ -1,5 +1,5 @@
 ---
-title: DocumentExtender.PostValidate(Document, ValidateEventArgs) մեթոդ
+title: PostValidate(Document, ValidateEventArgs)
 ---
 
 # DocumentExtender.PostValidate(Document, ValidateEventArgs) մեթոդ

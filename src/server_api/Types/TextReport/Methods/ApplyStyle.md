@@ -1,5 +1,5 @@
 ---
-title: TextReport.ApplyStyle(string, TextReportStyle) մեթոդ
+title: ApplyStyle(string, TextReportStyle)
 ---
 
 # TextReport.ApplyStyle(string, TextReportStyle) մեթոդ

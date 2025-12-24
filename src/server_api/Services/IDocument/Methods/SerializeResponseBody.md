@@ -1,5 +1,5 @@
 ---
-title: IDocumentService.SerializeResponseBody<T>(Document, bool) մեթոդ
+title: SerializeResponseBody<T>(Document, bool)
 ---
 
 # IDocumentService.SerializeResponseBody<T>(Document, bool) մեթոդ

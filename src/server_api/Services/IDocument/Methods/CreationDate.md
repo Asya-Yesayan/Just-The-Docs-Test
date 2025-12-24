@@ -1,5 +1,5 @@
 ---
-title: IDocumentService.CreationDate(int, bool) մեթոդ
+title: CreationDate(int, bool)
 ---
 
 # IDocumentService.CreationDate(int, bool) մեթոդ

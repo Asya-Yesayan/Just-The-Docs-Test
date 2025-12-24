@@ -1,5 +1,5 @@
 ---
-title: RODocument.CheckGrid() մեթոդ
+title: CheckGrid()
 ---
 
 # RODocument.CheckGrid() մեթոդ

@@ -1,5 +1,5 @@
 ---
-title: IDocumentService.GetProcessingModes(string) մեթոդ
+title: GetProcessingModes(string)
 ---
 
 # IDocumentService.GetProcessingModes(string) մեթոդ

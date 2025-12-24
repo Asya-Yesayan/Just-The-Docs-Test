@@ -1,5 +1,5 @@
 ﻿---
-title: IAccountingService.GetLinkedAccounting(string) մեթոդ
+title: GetLinkedAccounting(string)
 ---
 
 ## Նկարագիր

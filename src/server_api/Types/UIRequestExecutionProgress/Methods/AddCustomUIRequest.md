@@ -1,5 +1,5 @@
 ---
-title: UIRequestExecutionProgress.AddCustomUIRequest<R, S>(S, int, int, Action<S>, bool) մեթոդ
+title: AddCustomUIRequest<R, S>(S, int, int, Action<S>, bool)
 ---
 
 # UIRequestExecutionProgress.AddCustomUIRequest<R, S>(S, int, int, Action<S>, bool) մեթոդ

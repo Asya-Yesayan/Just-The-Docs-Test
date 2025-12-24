@@ -1,5 +1,5 @@
 ---
-title: IExecutionProgress.Source հատկություն
+title: Source
 ---
 
 # IExecutionProgress.Source հատկություն

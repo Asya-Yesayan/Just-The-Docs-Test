@@ -1,5 +1,5 @@
 ---
-title: DataSource.ExecuteAsync(P, HashSet<string>, string, CancellationToken, TimeSpan?) մեթոդ
+title: ExecuteAsync(P, HashSet<string>, string, CancellationToken, TimeSpan?)
 ---
 
 # DataSource.ExecuteAsync(P, HashSet<string>, string, CancellationToken, TimeSpan?) մեթոդ

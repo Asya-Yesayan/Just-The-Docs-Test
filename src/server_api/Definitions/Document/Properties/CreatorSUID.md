@@ -1,5 +1,5 @@
 ---
-title: Document.CreatorSUID հատկություն
+title: CreatorSUID
 ---
 
 # Document.CreatorSUID հատկություն

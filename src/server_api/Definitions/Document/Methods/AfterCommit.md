@@ -1,5 +1,5 @@
 ---
-title: Document.AfterCommit(AfterCommitEventArgs) մեթոդ
+title: AfterCommit(AfterCommitEventArgs)
 ---
 
 # Document.AfterCommit(AfterCommitEventArgs) մեթոդ

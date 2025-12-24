@@ -1,5 +1,5 @@
 ---
-title: IDBService.Server հատկություն
+title: Server
 ---
 
 # IDBService.Server հատկություն

@@ -1,5 +1,5 @@
 ---
-title: FieldTypeProvider.Boolean հատկություն
+title: Boolean
 ---
 
 # FieldTypeProvider.Boolean հատկություն

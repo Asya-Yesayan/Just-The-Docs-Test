@@ -1,5 +1,5 @@
 ---
-title: Document.IsLogged հատկություն
+title: IsLogged
 ---
 
 # Document.IsLogged հատկություն

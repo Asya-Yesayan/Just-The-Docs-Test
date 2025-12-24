@@ -1,5 +1,5 @@
 ---
-title: LoginService.PasswordState հատկություն
+title: PasswordState
 ---
 
 # LoginService.PasswordState հատկություն

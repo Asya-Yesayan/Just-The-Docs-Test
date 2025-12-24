@@ -1,5 +1,5 @@
 ---
-title: LiteDocumentService.Load մեթոդ
+title: Load
 ---
 
 # LiteDocumentService.Load մեթոդ

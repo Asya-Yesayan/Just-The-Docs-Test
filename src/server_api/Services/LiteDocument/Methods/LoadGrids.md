@@ -1,5 +1,5 @@
 ---
-title: LiteDocumentService.LoadGrids մեթոդ
+title: LoadGrids
 ---
 
 # LiteDocumentService.LoadGrids մեթոդ

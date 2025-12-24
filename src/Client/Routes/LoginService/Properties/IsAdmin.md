@@ -1,5 +1,5 @@
 ---
-title: LoginService.IsAdmin հատկություն
+title: IsAdmin
 ---
 
 # LoginService.IsAdmin հատկություն

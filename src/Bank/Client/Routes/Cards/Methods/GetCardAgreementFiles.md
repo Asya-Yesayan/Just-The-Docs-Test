@@ -1,5 +1,5 @@
 ---
-title: CardsRoutes.GetCardAgreementFiles(int, Language) մեթոդ
+title: GetCardAgreementFiles(int, Language)
 ---
 
 # CardsRoutes.GetCardAgreementFiles(int, Language) մեթոդ

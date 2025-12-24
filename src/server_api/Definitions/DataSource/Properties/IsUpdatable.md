@@ -1,5 +1,5 @@
 ---
-title: DataSource.IsUpdatable հատկություն
+title: IsUpdatable
 ---
 
 # DataSource.IsUpdatable հատկություն

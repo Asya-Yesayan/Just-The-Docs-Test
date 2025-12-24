@@ -1,5 +1,5 @@
 ---
-title: IProcessServerClient.GetInfo(string) մեթոդ
+title: GetInfo(string)
 ---
 
 # IProcessServerClient.GetInfo(string) մեթոդ

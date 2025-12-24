@@ -1,5 +1,5 @@
 ---
-title: IFolderService.GetISN(string, string) մեթոդ
+title: GetISN(string, string)
 ---
 
 # IFolderService.GetISN(string, string) մեթոդ

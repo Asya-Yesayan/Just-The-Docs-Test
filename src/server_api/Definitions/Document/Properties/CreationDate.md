@@ -1,5 +1,5 @@
 ---
-title: Document.CreationDate հատկություն
+title: CreationDate
 ---
 
 # Document.CreationDate հատկություն

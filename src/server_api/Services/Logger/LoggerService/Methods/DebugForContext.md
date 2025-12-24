@@ -1,5 +1,5 @@
 ---
-title: LoggerService.DebugForContext(string) մեթոդ
+title: DebugForContext(string)
 ---
 
 # LoggerService.DebugForContext(string) մեթոդ

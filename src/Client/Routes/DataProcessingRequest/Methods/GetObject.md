@@ -1,5 +1,5 @@
 ---
-title: DataProcessingRequestRoutes.GetObject(DPRType, string) մեթոդ
+title: GetObject(DPRType, string)
 ---
 
 # DataProcessingRequestRoutes.GetObject(DPRType, string) մեթոդ

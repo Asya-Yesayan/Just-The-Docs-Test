@@ -1,5 +1,5 @@
 ---
-title: IParametersService.REPSTART մեթոդ
+title: REPSTART
 ---
 
 # IParametersService.REPSTART մեթոդ

@@ -1,5 +1,5 @@
 ---
-title: IParametersService.OPERHOLIDAYS() մեթոդ
+title: OPERHOLIDAYS()
 ---
 
 # IParametersService.OPERHOLIDAYS() մեթոդ

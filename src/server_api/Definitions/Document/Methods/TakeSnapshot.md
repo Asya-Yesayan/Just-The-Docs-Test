@@ -1,5 +1,5 @@
 ---
-title: Document.TakeSnapshot(SnapshotContent, string, bool) մեթոդ
+title: TakeSnapshot(SnapshotContent, string, bool)
 ---
 
 # Document.TakeSnapshot(SnapshotContent, string, bool) մեթոդ

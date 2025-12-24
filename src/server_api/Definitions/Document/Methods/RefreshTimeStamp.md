@@ -1,5 +1,5 @@
 ---
-title: Document.RefreshTimeStamp() մեթոդ
+title: RefreshTimeStamp()
 ---
 
 # Document.RefreshTimeStamp() մեթոդ

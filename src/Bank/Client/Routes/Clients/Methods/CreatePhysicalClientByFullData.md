@@ -1,5 +1,5 @@
 ---
-title: ClientsRoutes.CreatePhysicalClientByFullData(CreatePhysicalClientByFullDataRequest) մեթոդ
+title: CreatePhysicalClientByFullData(CreatePhysicalClientByFullDataRequest)
 ---
 
 # ClientsRoutes.CreatePhysicalClientByFullData(CreatePhysicalClientByFullDataRequest) մեթոդ

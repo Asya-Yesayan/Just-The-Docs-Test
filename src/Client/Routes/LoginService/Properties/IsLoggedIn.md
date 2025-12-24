@@ -1,5 +1,5 @@
 ---
-title: LoginService.IsLoggedIn հատկություն
+title: IsLoggedIn
 ---
 
 # LoginService.IsLoggedIn հատկություն

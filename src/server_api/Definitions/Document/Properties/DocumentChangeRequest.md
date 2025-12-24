@@ -1,5 +1,5 @@
 ---
-title: Document.DocumentChangeRequest հատկություն
+title: DocumentChangeRequest
 ---
 
 # Document.DocumentChangeRequest հատկություն

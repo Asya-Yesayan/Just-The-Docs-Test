@@ -1,5 +1,5 @@
 ---
-title: ITemplateSubstitutionService.LoadTemplateFile(string, SubstitutionType) մեթոդ
+title: LoadTemplateFile(string, SubstitutionType)
 ---
 
 # ITemplateSubstitutionService.LoadTemplateFile(string, SubstitutionType) մեթոդ

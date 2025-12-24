@@ -1,5 +1,5 @@
 ---
-title: DocumentExtender.PreAfterCreate(Document, AfterCreateEventArgs) մեթոդ
+title: PreAfterCreate(Document, AfterCreateEventArgs)
 ---
 
 # DocumentExtender.PreAfterCreate(Document, AfterCreateEventArgs) մեթոդ

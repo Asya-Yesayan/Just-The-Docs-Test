@@ -1,5 +1,5 @@
 ---
-title: IParametersService.GetDateTimeValue մեթոդ
+title: GetDateTimeValue
 ---
 
 # IParametersService.GetDateTimeValue մեթոդ

@@ -1,5 +1,5 @@
 ---
-title: ITemplateSubstitutionService.MergeFile մեթոդ
+title: MergeFile
 ---
 
 # ITemplateSubstitutionService.MergeFile մեթոդ

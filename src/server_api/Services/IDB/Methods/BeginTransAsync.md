@@ -1,5 +1,5 @@
 ---
-title: IDBService.BeginTransAsync() մեթոդ
+title: BeginTransAsync()
 ---
 
 # IDBService.BeginTransAsync() մեթոդ

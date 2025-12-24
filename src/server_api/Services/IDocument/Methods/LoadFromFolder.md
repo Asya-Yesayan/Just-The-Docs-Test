@@ -1,5 +1,5 @@
 ---
-title: IDocumentService.LoadFromFolder մեթոդ
+title: LoadFromFolder
 ---
 
 # IDocumentService.LoadFromFolder մեթոդ

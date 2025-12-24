@@ -1,5 +1,5 @@
 ---
-title: IAttachmentService.GetContent(int, string) մեթոդ
+title: GetContent(int, string)
 ---
 
 # IAttachmentService.GetContent(int, string) մեթոդ

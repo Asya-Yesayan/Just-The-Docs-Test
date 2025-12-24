@@ -1,5 +1,5 @@
 ---
-title: DataProcessingRequestRoutes.GetListAsync մեթոդ
+title: GetListAsync
 ---
 
 # DataProcessingRequestRoutes.GetListAsync մեթոդ

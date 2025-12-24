@@ -1,5 +1,5 @@
 ---
-title: Document.LastFixedState հատկություն
+title: LastFixedState
 ---
 
 # Document.LastFixedState հատկություն

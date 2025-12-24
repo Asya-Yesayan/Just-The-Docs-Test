@@ -1,5 +1,5 @@
 ---
-title: TemplateSubstitution.Add(string, decimal) մեթոդ
+title: Add(string, decimal)
 ---
 
 # TemplateSubstitution.Add(string, decimal) մեթոդ

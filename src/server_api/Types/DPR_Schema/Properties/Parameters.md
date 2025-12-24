@@ -1,5 +1,5 @@
 ---
-title: DPR.Schema.Parameters հատկություն
+title: Parameters
 ---
 
 # DPR.Schema.Parameters հատկություն

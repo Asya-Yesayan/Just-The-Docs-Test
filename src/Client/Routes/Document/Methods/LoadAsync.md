@@ -1,5 +1,5 @@
 ---
-title: DocumentRoutes.LoadAsync(int, bool, bool, CancellationToken) մեթոդ
+title: LoadAsync(int, bool, bool, CancellationToken)
 ---
 
 # DocumentRoutes.LoadAsync(int, bool, bool, CancellationToken) մեթոդ

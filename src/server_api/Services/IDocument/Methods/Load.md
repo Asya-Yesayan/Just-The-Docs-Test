@@ -1,5 +1,5 @@
 ---
-title: IDocumentService.Load մեթոդ
+title: Load
 ---
 
 # IDocumentService.Load մեթոդ

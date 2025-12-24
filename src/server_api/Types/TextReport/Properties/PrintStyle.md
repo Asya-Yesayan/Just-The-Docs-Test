@@ -1,5 +1,5 @@
 ---
-title: TextReport.PrintStyle հատկություն
+title: PrintStyle
 ---
 
 # TextReport.PrintStyle հատկություն

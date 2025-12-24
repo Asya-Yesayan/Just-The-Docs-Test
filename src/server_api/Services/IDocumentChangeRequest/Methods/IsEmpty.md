@@ -1,5 +1,5 @@
 ---
-title: IDocumentChangeRequestService.IsEmpty(DocumentChangeRequest, bool) մեթոդ
+title: IsEmpty(DocumentChangeRequest, bool)
 ---
 
 # IDocumentChangeRequestService.IsEmpty(DocumentChangeRequest, bool) մեթոդ

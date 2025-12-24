@@ -1,5 +1,5 @@
 ---
-title: DataProcessingRequestHandler.Execute(DPRType, string, T, bool, int, int, bool, Dictionary<int, UIRequestResultBase>) մեթոդ
+title: Execute(DPRType, string, T, bool, int, int, bool, Dictionary<int, UIRequestResultBase>)
 ---
 
 # DataProcessingRequestHandler.Execute(DPRType, string, T, bool, int, int, bool, Dictionary<int, UIRequestResultBase>) մեթոդ

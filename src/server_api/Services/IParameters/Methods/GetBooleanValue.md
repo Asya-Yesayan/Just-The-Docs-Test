@@ -1,5 +1,5 @@
 ---
-title: IParametersService.GetBooleanValue մեթոդ
+title: GetBooleanValue
 ---
 
 # IParametersService.GetBooleanValue մեթոդ

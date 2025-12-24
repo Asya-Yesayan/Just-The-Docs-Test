@@ -1,5 +1,5 @@
 ---
-title: TextReport.Caption հատկություն
+title: Caption
 ---
 
 # TextReport.Caption հատկություն

@@ -1,5 +1,5 @@
 ---
-title: DPR.Schema.AddParam(string, string, string, FieldType, object, bool, bool) մեթոդ
+title: AddParam(string, string, string, FieldType, object, bool, bool)
 ---
 
 # DPR.Schema.AddParam(string, string, string, FieldType, object, bool, bool) մեթոդ

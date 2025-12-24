@@ -1,5 +1,5 @@
 ---
-title: TreeElementsService.DeleteNode(string, string) մեթոդ
+title: DeleteNode(string, string)
 ---
 
 # TreeElementsService.DeleteNode(string, string) մեթոդ

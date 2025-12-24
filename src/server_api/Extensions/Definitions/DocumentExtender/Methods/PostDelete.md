@@ -1,5 +1,5 @@
 ---
-title: DocumentExtender.PostDelete(Document, DeleteEventArgs) մեթոդ
+title: PostDelete(Document, DeleteEventArgs)
 ---
 
 # DocumentExtender.PostDelete(Document, DeleteEventArgs) մեթոդ

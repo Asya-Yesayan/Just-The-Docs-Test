@@ -1,5 +1,5 @@
 ---
-title: Document.ExistsGrid(string) մեթոդ
+title: ExistsGrid(string)
 ---
 
 # Document.ExistsGrid(string) մեթոդ

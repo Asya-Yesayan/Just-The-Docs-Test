@@ -1,5 +1,5 @@
 ---
-title: DataSource.Rows հատկություն
+title: Rows
 ---
 
 # DataSource.Rows հատկություն

@@ -1,5 +1,5 @@
 ---
-title: IDBService.CurrentIsolationLevel հատկություն
+title: CurrentIsolationLevel
 ---
 
 # IDBService.CurrentIsolationLevel հատկություն

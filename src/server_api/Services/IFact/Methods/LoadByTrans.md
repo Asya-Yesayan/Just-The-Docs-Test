@@ -1,5 +1,5 @@
 ---
-title: IFactService.LoadByTrans(int, int, string, string) մեթոդ
+title: LoadByTrans(int, int, string, string)
 ---
 
 # IFactService.LoadByTrans(int, int, string, string) մեթոդ

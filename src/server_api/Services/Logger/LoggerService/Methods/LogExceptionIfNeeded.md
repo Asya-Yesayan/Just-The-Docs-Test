@@ -1,5 +1,5 @@
 ---
-title: LoggerService.LogExceptionIfNeeded(Exception) մեթոդ
+title: LogExceptionIfNeeded(Exception)
 ---
 
 # LoggerService.LogExceptionIfNeeded(Exception) մեթոդ

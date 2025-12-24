@@ -1,5 +1,5 @@
 ---
-title: Document.InitGrids() մեթոդ
+title: InitGrids()
 ---
 
 # Document.InitGrids() մեթոդ

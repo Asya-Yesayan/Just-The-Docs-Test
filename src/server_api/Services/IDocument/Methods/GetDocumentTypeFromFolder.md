@@ -1,5 +1,5 @@
 ---
-title: IDocumentService.GetDocumentTypeFromFolder(string, string) մեթոդ
+title: GetDocumentTypeFromFolder(string, string)
 ---
 
 # IDocumentService.GetDocumentTypeFromFolder(string, string) մեթոդ

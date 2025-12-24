@@ -1,5 +1,5 @@
 ---
-title: Document.StoreMode հատկություն
+title: StoreMode
 ---
 
 # Document.StoreMode հատկություն

@@ -1,5 +1,5 @@
 ---
-title: TreeElementsService.AddNode(TreeElement, bool) մեթոդ
+title: AddNode(TreeElement, bool)
 ---
 
 # TreeElementsService.AddNode(TreeElement, bool) մեթոդ

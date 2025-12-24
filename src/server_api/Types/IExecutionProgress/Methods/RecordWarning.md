@@ -1,5 +1,5 @@
 ---
-title: IExecutionProgress.RecordWarning(string, int, string, int, Dictionary<string, object>) մեթոդ
+title: RecordWarning(string, int, string, int, Dictionary<string, object>)
 ---
 
 # IExecutionProgress.RecordWarning(string, int, string, int, Dictionary<string, object>) մեթոդ

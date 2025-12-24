@@ -1,5 +1,5 @@
 ---
-title: RODocument.Description հատկություն
+title: Description
 ---
 
 # RODocument.Description հատկություն

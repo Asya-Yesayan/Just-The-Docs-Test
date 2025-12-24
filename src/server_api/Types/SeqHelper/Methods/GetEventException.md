@@ -1,5 +1,5 @@
 ---
-title: SeqHelper.GetEventException(string) մեթոդ
+title: GetEventException(string)
 ---
 
 # SeqHelper.GetEventException(string) մեթոդ

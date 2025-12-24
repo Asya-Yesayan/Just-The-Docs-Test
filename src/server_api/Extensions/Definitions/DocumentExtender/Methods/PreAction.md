@@ -1,5 +1,5 @@
 ---
-title: DocumentExtender.PreAction(Document, ActionEventArgs) մեթոդ
+title: PreAction(Document, ActionEventArgs)
 ---
 
 # DocumentExtender.PreAction(Document, ActionEventArgs) մեթոդ

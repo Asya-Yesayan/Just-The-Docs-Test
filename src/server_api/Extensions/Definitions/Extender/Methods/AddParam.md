@@ -1,5 +1,5 @@
 ---
-title: Extender.AddParam(string, string, FieldType) մեթոդ
+title: AddParam(string, string, FieldType)
 ---
 
 # Extender.AddParam(string, string, FieldType) մեթոդ

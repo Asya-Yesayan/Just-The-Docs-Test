@@ -1,5 +1,5 @@
 ---
-title: FieldTypeProvider.AmountPositive հատկություն
+title: AmountPositive
 ---
 
 # FieldTypeProvider.AmountPositive հատկություն

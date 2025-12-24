@@ -1,5 +1,5 @@
 ---
-title: DocumentRoutes.GetChildrenAsync(int, string, DocumentOrder, string, CancellationToken) մեթոդ
+title: GetChildrenAsync(int, string, DocumentOrder, string, CancellationToken)
 ---
 
 # DocumentRoutes.GetChildrenAsync(int, string, DocumentOrder, string, CancellationToken) մեթոդ

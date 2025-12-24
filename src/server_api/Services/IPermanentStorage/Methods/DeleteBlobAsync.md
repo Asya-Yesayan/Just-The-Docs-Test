@@ -1,5 +1,5 @@
 ---
-title: IPermanentStorageService.DeleteBlobAsync մեթոդ
+title: DeleteBlobAsync
 ---
 
 # IPermanentStorageService.DeleteBlobAsync մեթոդ

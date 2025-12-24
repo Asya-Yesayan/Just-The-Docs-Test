@@ -1,5 +1,5 @@
 ---
-title: SessionInfoCacheService.Get(string) մեթոդ
+title: Get(string)
 ---
 
 # SessionInfoCacheService.Get(string) մեթոդ

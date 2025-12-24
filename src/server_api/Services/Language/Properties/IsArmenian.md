@@ -1,5 +1,5 @@
 ---
-title: LanguageService.IsArmenian հատկություն
+title: IsArmenian
 ---
 
 # LanguageService.IsArmenian հատկություն

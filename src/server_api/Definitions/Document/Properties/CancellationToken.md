@@ -1,5 +1,5 @@
 ---
-title: Document.CancellationToken հատկություն
+title: CancellationToken
 ---
 
 # Document.CancellationToken հատկություն

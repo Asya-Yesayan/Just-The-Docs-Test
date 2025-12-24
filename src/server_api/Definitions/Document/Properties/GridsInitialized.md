@@ -1,5 +1,5 @@
 ---
-title: Document.GridsInitialized հատկություն
+title: GridsInitialized
 ---
 
 # Document.GridsInitialized հատկություն

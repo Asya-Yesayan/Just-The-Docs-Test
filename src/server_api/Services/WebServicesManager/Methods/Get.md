@@ -1,5 +1,5 @@
 ---
-title: WebServicesManager.Get(string, string) մեթոդ
+title: Get(string, string)
 ---
 
 # WebServicesManager.Get(string, string) մեթոդ

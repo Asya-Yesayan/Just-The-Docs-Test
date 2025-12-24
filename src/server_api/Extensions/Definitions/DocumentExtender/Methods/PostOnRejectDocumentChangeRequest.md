@@ -1,5 +1,5 @@
 ---
-title: DocumentExtender.PostOnRejectDocumentChangeRequest(Document, RejectDocumentChangeRequestEventArgs) մեթոդ
+title: PostOnRejectDocumentChangeRequest(Document, RejectDocumentChangeRequestEventArgs)
 ---
 
 # DocumentExtender.PostOnRejectDocumentChangeRequest(Document, RejectDocumentChangeRequestEventArgs) մեթոդ

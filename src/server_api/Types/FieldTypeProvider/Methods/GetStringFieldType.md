@@ -1,5 +1,5 @@
 ---
-title: FieldTypeProvider.GetStringFieldType(short, bool) մեթոդ
+title: GetStringFieldType(short, bool)
 ---
 
 # FieldTypeProvider.GetStringFieldType(short, bool) մեթոդ

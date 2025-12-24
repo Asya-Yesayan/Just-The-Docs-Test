@@ -1,5 +1,5 @@
 ---
-title: IFactService.LastDate(string, int, DateTime?, string) մեթոդ
+title: LastDate(string, int, DateTime?, string)
 ---
 
 # IFactService.LastDate(string, int, DateTime?, string) մեթոդ

@@ -1,5 +1,5 @@
 ---
-title: IStorageService.GetTempBlobUrl(string, string) մեթոդ
+title: GetTempBlobUrl(string, string)
 ---
 
 # IStorageService.GetTempBlobUrl(string, string) մեթոդ

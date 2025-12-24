@@ -1,5 +1,5 @@
 ---
-title: DocumentRoutes.GetDocumentParentsAsync(int, DocumentParentsRequestModel, CancellationToken) մեթոդ
+title: GetDocumentParentsAsync(int, DocumentParentsRequestModel, CancellationToken)
 ---
 
 # DocumentRoutes.GetDocumentParentsAsync(int, DocumentParentsRequestModel, CancellationToken) մեթոդ

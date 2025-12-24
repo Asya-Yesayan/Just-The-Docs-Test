@@ -1,5 +1,5 @@
 ---
-title: AccountsRoutes.CreateGeneralAccForCli(CreateGeneralAccRequest) մեթոդ
+title: CreateGeneralAccForCli(CreateGeneralAccRequest)
 ---
 
 # AccountsRoutes.CreateGeneralAccForCli(CreateGeneralAccRequest) մեթոդ

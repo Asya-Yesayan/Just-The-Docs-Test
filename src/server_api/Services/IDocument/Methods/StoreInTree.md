@@ -1,5 +1,5 @@
 ---
-title: IDocumentService.StoreInTree(Document, TreeElement) մեթոդ
+title: StoreInTree(Document, TreeElement)
 ---
 
 # IDocumentService.StoreInTree(Document, TreeElement) մեթոդ

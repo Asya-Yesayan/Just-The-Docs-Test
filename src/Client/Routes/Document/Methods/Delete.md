@@ -1,5 +1,5 @@
 ---
-title: DocumentRoutes.Delete մեթոդ
+title: Delete
 ---
 
 # DocumentRoutes.Delete մեթոդ

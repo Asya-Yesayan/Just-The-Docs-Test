@@ -1,5 +1,5 @@
 ---
-title: Document.AfterCreate(AfterCreateEventArgs) մեթոդ
+title: AfterCreate(AfterCreateEventArgs)
 ---
 
 # Document.AfterCreate(AfterCreateEventArgs) մեթոդ

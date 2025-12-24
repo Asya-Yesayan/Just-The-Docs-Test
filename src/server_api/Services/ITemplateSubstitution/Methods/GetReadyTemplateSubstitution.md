@@ -1,5 +1,5 @@
 ---
-title: ITemplateSubstitutionService.GetReadyTemplateSubstitution(Document.Document, string, SubstitutionType, Dictionary<string, object>) մեթոդ
+title: GetReadyTemplateSubstitution(Document.Document, string, SubstitutionType, Dictionary<string, object>)
 ---
 
 # ITemplateSubstitutionService.GetReadyTemplateSubstitution(Document.Document, string, SubstitutionType, Dictionary<string, object>) մեթոդ

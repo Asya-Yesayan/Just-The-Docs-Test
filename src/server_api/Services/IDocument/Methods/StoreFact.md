@@ -1,5 +1,5 @@
 ---
-title: IDocumentService.StoreFact(Document, Fact) մեթոդ
+title: StoreFact(Document, Fact)
 ---
 
 # IDocumentService.StoreFact(Document, Fact) մեթոդ

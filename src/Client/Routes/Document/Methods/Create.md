@@ -1,5 +1,5 @@
 ---
-title: DocumentRoutes.Create(string, DocumentCreateRequestModel) մեթոդ
+title: Create(string, DocumentCreateRequestModel)
 ---
 
 # DocumentRoutes.Create(string, DocumentCreateRequestModel) մեթոդ

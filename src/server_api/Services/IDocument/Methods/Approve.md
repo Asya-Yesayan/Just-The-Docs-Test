@@ -1,5 +1,5 @@
 ---
-title: IDocumentService.Approve(Document, DocumentCheckLevel, string) մեթոդ
+title: Approve(Document, DocumentCheckLevel, string)
 ---
 
 # IDocumentService.Approve(Document, DocumentCheckLevel, string) մեթոդ

@@ -1,5 +1,5 @@
 ---
-title: LoanApplicationsRoutes.GetAll(GetAllRequest) մեթոդ
+title: GetAll(GetAllRequest)
 ---
 
 # LoanApplicationsRoutes.GetAll(GetAllRequest) մեթոդ

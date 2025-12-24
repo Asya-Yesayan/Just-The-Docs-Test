@@ -1,5 +1,5 @@
 ---
-title: DocumentExtender.PreDelete(Document, DeleteEventArgs) մեթոդ
+title: PreDelete(Document, DeleteEventArgs)
 ---
 
 # DocumentExtender.PreDelete(Document, DeleteEventArgs) մեթոդ

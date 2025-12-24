@@ -1,5 +1,5 @@
 ---
-title: JobService.GetScheduledJobStateName(int) մեթոդ
+title: GetScheduledJobStateName(int)
 ---
 
 # JobService.GetScheduledJobStateName(int) մեթոդ

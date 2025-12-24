@@ -1,5 +1,5 @@
 ---
-title: IUserService.GetList() մեթոդ
+title: GetList()
 ---
 
 # IUserService.GetList() մեթոդ

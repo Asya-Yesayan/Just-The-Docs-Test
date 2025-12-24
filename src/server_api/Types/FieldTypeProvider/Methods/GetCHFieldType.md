@@ -1,5 +1,5 @@
 ---
-title: FieldTypeProvider.GetCHFieldType(string, short, short, bool) մեթոդ
+title: GetCHFieldType(string, short, short, bool)
 ---
 
 # FieldTypeProvider.GetCHFieldType(string, short, short, bool) մեթոդ

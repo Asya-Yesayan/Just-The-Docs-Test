@@ -1,5 +1,5 @@
 ---
-title: IOlapDBService.BeginTrans() մեթոդ
+title: BeginTrans()
 ---
 
 # IOlapDBService.BeginTrans() մեթոդ

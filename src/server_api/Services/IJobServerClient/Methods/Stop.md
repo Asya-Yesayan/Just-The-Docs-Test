@@ -1,5 +1,5 @@
 ﻿---
-title: IProcessServerClient.Stop(Guid, object) մեթոդ  
+title: Stop(Guid, object)
 ---
 
 ## Նկարագիր

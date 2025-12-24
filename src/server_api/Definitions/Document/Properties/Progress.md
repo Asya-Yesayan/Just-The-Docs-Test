@@ -1,5 +1,5 @@
 ---
-title: Document.Progress հատկություն
+title: Progress
 ---
 
 # Document.Progress հատկություն

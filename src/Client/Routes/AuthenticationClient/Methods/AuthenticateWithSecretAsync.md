@@ -1,5 +1,5 @@
 ---
-title: AuthenticationClient.AuthenticateWithSecretAsync(string, short, string, CancellationToken) մեթոդ
+title: AuthenticateWithSecretAsync(string, short, string, CancellationToken)
 ---
 
 # AuthenticationClient.AuthenticateWithSecretAsync(string, short, string, CancellationToken) մեթոդ

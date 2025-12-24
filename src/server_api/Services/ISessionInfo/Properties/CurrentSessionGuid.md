@@ -1,5 +1,5 @@
 ---
-title: ISessionInfoService.CurrentSessionGuid հատկություն
+title: CurrentSessionGuid
 ---
 
 # ISessionInfoService.CurrentSessionGuid հատկություն

@@ -1,5 +1,5 @@
 ---
-title: IDBService.CommitTransAsync() մեթոդ
+title: CommitTransAsync()
 ---
 
 # IDBService.CommitTransAsync() մեթոդ

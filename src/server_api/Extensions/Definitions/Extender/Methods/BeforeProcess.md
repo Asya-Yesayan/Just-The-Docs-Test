@@ -1,5 +1,5 @@
 ---
-title: Extender.BeforeProcess(IList<IExtendableRow>, IDataSourceArgs) մեթոդ
+title: BeforeProcess(IList<IExtendableRow>, IDataSourceArgs)
 ---
 
 # Extender.BeforeProcess(IList<IExtendableRow>, IDataSourceArgs) մեթոդ

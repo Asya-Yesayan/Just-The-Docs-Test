@@ -1,5 +1,5 @@
 ---
-title: PrintTemplateSubstitutionImage.Height հատկություն
+title: Height
 ---
 
 # PrintTemplateSubstitutionImage.Height հատկություն

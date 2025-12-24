@@ -1,5 +1,5 @@
 ---
-title: Document.ConfigureDCRFieldInclusion(ConfigureDCRFieldInclusionEventArgs) մեթոդ
+title: ConfigureDCRFieldInclusion(ConfigureDCRFieldInclusionEventArgs)
 ---
 
 # Document.ConfigureDCRFieldInclusion(ConfigureDCRFieldInclusionEventArgs) մեթոդ

@@ -1,5 +1,5 @@
 ---
-title: DocumentRoutes.Load(int, bool, bool) մեթոդ
+title: Load(int, bool, bool)
 ---
 
 # DocumentRoutes.Load(int, bool, bool) մեթոդ

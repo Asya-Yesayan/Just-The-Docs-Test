@@ -1,5 +1,5 @@
 ---
-title: Document.InitialSnapshot հատկություն
+title: InitialSnapshot
 ---
 
 # Document.InitialSnapshot հատկություն

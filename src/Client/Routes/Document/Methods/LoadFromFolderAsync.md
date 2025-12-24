@@ -1,5 +1,5 @@
 ---
-title: DocumentRoutes.LoadFromFolderAsync(string, string, bool, CancellationToken) մեթոդ
+title: LoadFromFolderAsync(string, string, bool, CancellationToken)
 ---
 
 # DocumentRoutes.LoadFromFolderAsync(string, string, bool, CancellationToken) մեթոդ

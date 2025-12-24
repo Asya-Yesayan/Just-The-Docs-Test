@@ -1,5 +1,5 @@
 ---
-title: SessionInfoCacheService.GetAll() մեթոդ
+title: GetAll()
 ---
 
 # SessionInfoCacheService.GetAll() մեթոդ

@@ -1,5 +1,5 @@
 ---
-title: IExecutionProgress.SaveToStorageAsText(StorageInfo, bool, bool, bool) մեթոդ
+title: SaveToStorageAsText(StorageInfo, bool, bool, bool)
 ---
 
 # IExecutionProgress.SaveToStorageAsText(StorageInfo, bool, bool, bool) մեթոդ

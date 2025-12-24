@@ -1,5 +1,5 @@
 ---
-title: Document.DefaultComment(DefaultCommentEventArgs) մեթոդ
+title: DefaultComment(DefaultCommentEventArgs)
 ---
 
 # Document.DefaultComment(DefaultCommentEventArgs) մեթոդ

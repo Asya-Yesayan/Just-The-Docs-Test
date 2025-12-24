@@ -1,5 +1,5 @@
 ---
-title: LiteDocument.CreationDate հատկություն
+title: CreationDate
 ---
 
 # LiteDocument.CreationDate հատկություն

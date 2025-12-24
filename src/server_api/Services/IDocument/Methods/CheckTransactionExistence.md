@@ -1,5 +1,5 @@
 ---
-title: IDocumentService.CheckTransactionExistence(string, int, int) մեթոդ
+title: CheckTransactionExistence(string, int, int)
 ---
 
 # IDocumentService.CheckTransactionExistence(string, int, int) մեթոդ

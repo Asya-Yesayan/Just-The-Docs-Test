@@ -1,5 +1,5 @@
 ---
-title: IDocumentService.HiDelete(Document, bool) մեթոդ
+title: HiDelete(Document, bool)
 ---
 
 # IDocumentService.HiDelete(Document, bool) մեթոդ

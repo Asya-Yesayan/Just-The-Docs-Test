@@ -1,5 +1,5 @@
 ---
-title: Document.DocumentLog հատկություն
+title: DocumentLog
 ---
 
 # Document.DocumentLog հատկություն

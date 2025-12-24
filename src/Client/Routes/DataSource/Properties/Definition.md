@@ -1,5 +1,5 @@
 ---
-title: DataSource.Definition հատկություն
+title: Definition
 ---
 
 # DataSource.Definition հատկություն

@@ -1,5 +1,5 @@
 ﻿---
-title: IAccountingService.Create(string) մեթոդ
+title: Create(string)
 ---
 
 ## Նկարագիր

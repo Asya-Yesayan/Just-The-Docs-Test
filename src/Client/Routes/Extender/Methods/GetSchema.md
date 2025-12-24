@@ -1,5 +1,5 @@
 ---
-title: ExtenderRoutes.GetSchema(string) մեթոդ
+title: GetSchema(string)
 ---
 
 # ExtenderRoutes.GetSchema(string) մեթոդ

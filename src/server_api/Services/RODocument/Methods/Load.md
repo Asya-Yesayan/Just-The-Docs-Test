@@ -1,5 +1,5 @@
 ---
-title: RODocumentService.Load մեթոդ
+title: Load
 ---
 
 # RODocumentService.Load մեթոդ

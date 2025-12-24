@@ -1,5 +1,5 @@
 ---
-title: MeterManager.Meter հատկություն
+title: Meter
 ---
 
 # MeterManager.Meter հատկություն

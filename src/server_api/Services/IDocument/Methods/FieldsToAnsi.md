@@ -1,5 +1,5 @@
 ---
-title: IDocumentService.FieldsToAnsi(string, Dictionary<string, object>) մեթոդ
+title: FieldsToAnsi(string, Dictionary<string, object>)
 ---
 
 # IDocumentService.FieldsToAnsi(string, Dictionary<string, object>) մեթոդ

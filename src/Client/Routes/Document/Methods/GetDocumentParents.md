@@ -1,5 +1,5 @@
 ---
-title: DocumentRoutes.GetDocumentParents(int, DocumentParentsRequestModel) մեթոդ
+title: GetDocumentParents(int, DocumentParentsRequestModel)
 ---
 
 # DocumentRoutes.GetDocumentParents(int, DocumentParentsRequestModel) մեթոդ

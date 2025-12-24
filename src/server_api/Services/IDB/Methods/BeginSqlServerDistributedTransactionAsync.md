@@ -1,5 +1,5 @@
 ---
-title: IDBService.BeginSqlServerDistributedTransactionAsync() մեթոդ
+title: BeginSqlServerDistributedTransactionAsync()
 ---
 
 # IDBService.BeginSqlServerDistributedTransactionAsync() մեթոդ

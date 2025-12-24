@@ -1,5 +1,5 @@
 ---
-title: IDocumentService.ExistInDb(int) մեթոդ
+title: ExistInDb(int)
 ---
 
 # IDocumentService.ExistInDb(int) մեթոդ

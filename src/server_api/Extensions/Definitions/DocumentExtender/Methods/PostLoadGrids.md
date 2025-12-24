@@ -1,5 +1,5 @@
 ---
-title: DocumentExtender.PostLoadGrids(Document, LoadGridsEventArgs) մեթոդ
+title: PostLoadGrids(Document, LoadGridsEventArgs)
 ---
 
 # DocumentExtender.PostLoadGrids(Document, LoadGridsEventArgs) մեթոդ

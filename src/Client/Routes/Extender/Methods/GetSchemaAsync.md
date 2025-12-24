@@ -1,5 +1,5 @@
 ---
-title: ExtenderRoutes.GetSchemaAsync(string, CancellationToken) մեթոդ
+title: GetSchemaAsync(string, CancellationToken)
 ---
 
 # ExtenderRoutes.GetSchemaAsync(string, CancellationToken) մեթոդ

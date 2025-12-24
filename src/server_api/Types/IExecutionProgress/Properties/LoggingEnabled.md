@@ -1,5 +1,5 @@
 ---
-title: IExecutionProgress.LoggingEnabled հատկություն
+title: LoggingEnabled
 ---
 
 # IExecutionProgress.LoggingEnabled հատկություն

@@ -1,5 +1,5 @@
 ---
-title: IDocumentService.NestedTransactions(Document, List<T>, TextReport,bool, bool) մեթոդ
+title: NestedTransactions(Document, List<T>, TextReport,bool, bool)
 ---
 
 # IDocumentService.NestedTransactions(Document, List<T>, TextReport,bool, bool) մեթոդ

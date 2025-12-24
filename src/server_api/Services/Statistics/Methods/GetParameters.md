@@ -1,5 +1,5 @@
 ---
-title: StatisticsService․GetParameters(string) մեթոդ
+title: GetParameters(string)
 ---
 
 # StatisticsService․GetParameters(string) մեթոդ

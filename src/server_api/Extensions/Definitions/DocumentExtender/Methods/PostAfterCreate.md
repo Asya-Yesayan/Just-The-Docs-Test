@@ -1,5 +1,5 @@
 ---
-title: DocumentExtender.PostAfterCreate(Document, AfterCreateEventArgs) մեթոդ
+title: PostAfterCreate(Document, AfterCreateEventArgs)
 ---
 
 # DocumentExtender.PostAfterCreate(Document, AfterCreateEventArgs) մեթոդ

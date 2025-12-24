@@ -1,5 +1,5 @@
 ---
-title: TreeElementsService.Get(string, string, bool) մեթոդ
+title: Get(string, string, bool)
 ---
 
 # TreeElementsService.Get(string, string, bool) մեթոդ

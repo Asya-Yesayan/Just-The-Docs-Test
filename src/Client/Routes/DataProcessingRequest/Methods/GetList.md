@@ -1,5 +1,5 @@
 ---
-title: DataProcessingRequestRoutes.GetList մեթոդ
+title: GetList
 ---
 
 # DataProcessingRequestRoutes.GetList մեթոդ

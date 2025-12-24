@@ -1,5 +1,5 @@
 ---
-title: Document.Description հատկություն
+title: Description
 ---
 
 # Document.Description հատկություն

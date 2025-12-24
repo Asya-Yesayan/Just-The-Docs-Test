@@ -1,5 +1,5 @@
 ---
-title: IDBService.AllowSnapshotIsolation հատկություն
+title: AllowSnapshotIsolation
 ---
 
 # IDBService.AllowSnapshotIsolation հատկություն

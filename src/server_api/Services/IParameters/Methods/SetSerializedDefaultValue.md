@@ -1,5 +1,5 @@
 ---
-title: IParametersService.SetSerializedDefaultValue(string, string, bool, bool) մեթոդ
+title: SetSerializedDefaultValue(string, string, bool, bool)
 ---
 
 # IParametersService.SetSerializedDefaultValue(string, string, bool, bool) մեթոդ

@@ -1,5 +1,5 @@
 ---
-title: IDocumentService.GetPassedState մեթոդ
+title: GetPassedState
 ---
 
 # IDocumentService.GetPassedState մեթոդ

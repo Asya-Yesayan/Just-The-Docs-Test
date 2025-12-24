@@ -1,5 +1,5 @@
 ---
-title: IExecutionProgress.RecordHeader(string) մեթոդ
+title: RecordHeader(string)
 ---
 
 # IExecutionProgress.RecordHeader(string) մեթոդ

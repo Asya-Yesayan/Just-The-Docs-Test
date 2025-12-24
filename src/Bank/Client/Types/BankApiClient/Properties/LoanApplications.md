@@ -1,5 +1,5 @@
 ---
-title: BankApiClient.LoanApplications հատկություն
+title: LoanApplications
 ---
 
 # BankApiClient.LoanApplications հատկություն

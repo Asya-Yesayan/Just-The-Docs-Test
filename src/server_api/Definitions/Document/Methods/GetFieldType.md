@@ -1,5 +1,5 @@
 ---
-title: Document.GetFieldType(string) մեթոդ
+title: GetFieldType(string)
 ---
 
 # Document.GetFieldType(string) մեթոդ

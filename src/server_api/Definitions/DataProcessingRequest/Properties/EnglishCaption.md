@@ -1,5 +1,5 @@
 ---
-title: DataProcessingRequest.EnglishCaption հատկություն
+title: EnglishCaption
 ---
 
 # DataProcessingRequest.EnglishCaption հատկություն

@@ -1,5 +1,5 @@
 ---
-title: TemplateSubstitution.AddGridsValuesFromDoc(Document.Document, string, string, bool) մեթոդ
+title: AddGridsValuesFromDoc(Document.Document, string, string, bool)
 ---
 
 # TemplateSubstitution.AddGridsValuesFromDoc(Document.Document, string, string, bool) մեթոդ

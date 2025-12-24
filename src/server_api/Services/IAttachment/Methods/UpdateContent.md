@@ -1,5 +1,5 @@
 ---
-title: IAttachmentService.UpdateContent(AttachmentContentModel) մեթոդ
+title: UpdateContent(AttachmentContentModel)
 ---
 
 # IAttachmentService.UpdateContent(AttachmentContentModel) մեթոդ

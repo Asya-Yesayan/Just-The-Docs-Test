@@ -1,5 +1,5 @@
 ---
-title: ApiClient.Blob հատկություն
+title: Blob
 ---
 
 # ApiClient.Blob հատկություն

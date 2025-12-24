@@ -1,5 +1,5 @@
 ---
-title: LiteDocumentService.RemoveFromCache մեթոդ
+title: RemoveFromCache
 ---
 
 # LiteDocumentService.RemoveFromCache մեթոդ

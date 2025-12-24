@@ -1,5 +1,5 @@
 ---
-title: LoginService.Logout() մեթոդ
+title: Logout()
 ---
 
 # LoginService.Logout() մեթոդ

@@ -1,5 +1,5 @@
 ---
-title: BlobRoutes.AppendAsync(string, string, byte[], int, CancellationToken) մեթոդ
+title: AppendAsync(string, string, byte[], int, CancellationToken)
 ---
 
 # BlobRoutes.AppendAsync(string, string, byte[], int, CancellationToken) մեթոդ

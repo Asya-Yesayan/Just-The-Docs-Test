@@ -1,5 +1,5 @@
 ---
-title: Document.GetParents() մեթոդ
+title: GetParents()
 ---
 
 # Document.GetParents() մեթոդ

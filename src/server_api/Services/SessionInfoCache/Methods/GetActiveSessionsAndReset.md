@@ -1,5 +1,5 @@
 ---
-title: SessionInfoCacheService.GetActiveSessionsAndReset() մեթոդ
+title: GetActiveSessionsAndReset()
 ---
 
 # SessionInfoCacheService.GetActiveSessionsAndReset() մեթոդ

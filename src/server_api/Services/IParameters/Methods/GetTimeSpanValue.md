@@ -1,5 +1,5 @@
 ---
-title: IParametersService.GetTimeSpanValue մեթոդ
+title: GetTimeSpanValue
 ---
 
 # IParametersService.GetTimeSpanValue մեթոդ

@@ -1,5 +1,5 @@
 ---
-title: BlobRoutes.DownloadToFile(string, string, string, bool) մեթոդ
+title: DownloadToFile(string, string, string, bool)
 ---
 
 # BlobRoutes.DownloadToFile(string, string, string, bool) մեթոդ

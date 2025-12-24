@@ -1,5 +1,5 @@
 ---
-title: DocumentRoutes.LoadFromFolder(string, string, bool) մեթոդ
+title: LoadFromFolder(string, string, bool)
 ---
 
 # DocumentRoutes.LoadFromFolder(string, string, bool) մեթոդ

@@ -1,5 +1,5 @@
 ---
-title: DataProcessingRequestRoutes.GetProgress(Guid) մեթոդ
+title: GetProgress(Guid)
 ---
 
 # DataProcessingRequestRoutes.GetProgress(Guid) մեթոդ

@@ -1,5 +1,5 @@
 ---
-title: FieldType4XCompatibleValidatorService.IsValid(FieldType) մեթոդ
+title: IsValid(FieldType)
 ---
 
 # FieldType4XCompatibleValidatorService.IsValid(FieldType) մեթոդ

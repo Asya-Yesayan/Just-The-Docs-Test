@@ -1,5 +1,5 @@
 ---
-title: DocumentExtender.PreFolders(Document, FoldersEventArgs) մեթոդ
+title: PreFolders(Document, FoldersEventArgs)
 ---
 
 # DocumentExtender.PreFolders(Document, FoldersEventArgs) մեթոդ

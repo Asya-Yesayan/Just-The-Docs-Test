@@ -1,5 +1,5 @@
 ---
-title: Document.OnRefuse(RefuseEventArgs) մեթոդ
+title: OnRefuse(RefuseEventArgs)
 ---
 
 # Document.OnRefuse(RefuseEventArgs) մեթոդ

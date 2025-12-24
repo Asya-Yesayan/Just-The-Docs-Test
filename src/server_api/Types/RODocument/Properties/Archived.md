@@ -1,5 +1,5 @@
 ---
-title: RODocument.Archived հատկություն
+title: Archived
 ---
 
 # RODocument.Archived հատկություն

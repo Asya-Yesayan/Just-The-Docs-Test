@@ -1,5 +1,5 @@
 ---
-title: Document.LoadImagesAndMemos(ArchiveInfo) մեթոդ
+title: LoadImagesAndMemos(ArchiveInfo)
 ---
 
 # Document.LoadImagesAndMemos(ArchiveInfo) մեթոդ

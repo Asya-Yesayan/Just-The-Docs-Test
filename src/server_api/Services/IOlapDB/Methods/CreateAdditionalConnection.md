@@ -1,5 +1,5 @@
 ---
-title: IOlapDBService.CreateAdditionalConnection(bool, string, bool) մեթոդ
+title: CreateAdditionalConnection(bool, string, bool)
 ---
 
 # IOlapDBService.CreateAdditionalConnection(bool, string, bool) մեթոդ

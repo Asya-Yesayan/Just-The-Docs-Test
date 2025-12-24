@@ -1,5 +1,5 @@
 ---
-title: Document.PostMessage(PostMessageEventArgs) մեթոդ
+title: PostMessage(PostMessageEventArgs)
 ---
 
 # Document.PostMessage(PostMessageEventArgs) մեթոդ

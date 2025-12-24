@@ -1,5 +1,5 @@
 ---
-title: IExecutionProgress.RecordFooter(string) մեթոդ
+title: RecordFooter(string)
 ---
 
 # IExecutionProgress.RecordFooter(string) մեթոդ

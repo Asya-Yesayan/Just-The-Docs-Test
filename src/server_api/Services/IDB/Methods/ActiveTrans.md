@@ -1,5 +1,5 @@
 ---
-title: IDBService.ActiveTrans() մեթոդ
+title: ActiveTrans()
 ---
 
 # IDBService.ActiveTrans() մեթոդ

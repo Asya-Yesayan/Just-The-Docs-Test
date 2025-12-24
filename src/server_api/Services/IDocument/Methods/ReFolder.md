@@ -1,5 +1,5 @@
 ---
-title: IDocumentService.ReFolder(Document, StoreMode) մեթոդ
+title: ReFolder(Document, StoreMode)
 ---
 
 # IDocumentService.ReFolder(Document, StoreMode) մեթոդ

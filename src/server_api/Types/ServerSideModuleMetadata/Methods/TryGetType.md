@@ -1,5 +1,5 @@
 ---
-title: ServerSideModuleMetadata.TryGetType(string, Type) մեթոդ
+title: TryGetType(string, Type)
 ---
 
 # ServerSideModuleMetadata.TryGetType(string, Type) մեթոդ

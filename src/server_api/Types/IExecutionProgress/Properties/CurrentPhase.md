@@ -1,5 +1,5 @@
 ---
-title: IExecutionProgress.CurrentPhase հատկություն
+title: CurrentPhase
 ---
 
 # IExecutionProgress.CurrentPhase հատկություն

@@ -1,5 +1,5 @@
 ---
-title: LoanApplicationsRoutes.Create(CreateRequest) մեթոդ
+title: Create(CreateRequest)
 ---
 
 # LoanApplicationsRoutes.Create(CreateRequest) մեթոդ

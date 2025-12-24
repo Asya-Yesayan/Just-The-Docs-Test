@@ -1,5 +1,5 @@
 ---
-title: DataSourceService.ExecuteDataSource մեթոդ
+title: ExecuteDataSource
 ---
 
 # DataSourceService.ExecuteDataSource մեթոդ

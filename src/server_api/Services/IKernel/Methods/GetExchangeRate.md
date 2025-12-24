@@ -1,5 +1,5 @@
 ---
-title: IKernelService.GetExchangeRate(string, DateTime, DateTime?) մեթոդ
+title: GetExchangeRate(string, DateTime, DateTime?)
 ---
 
 # IKernelService.GetExchangeRate(string, DateTime, DateTime?) մեթոդ

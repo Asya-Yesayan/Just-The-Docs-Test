@@ -1,5 +1,5 @@
 ---
-title: IStorageService.GetBlobAsync(string, string, CancellationToken) մեթոդ
+title: GetBlobAsync(string, string, CancellationToken)
 ---
 
 # IStorageService.GetBlobAsync(string, string, CancellationToken) մեթոդ

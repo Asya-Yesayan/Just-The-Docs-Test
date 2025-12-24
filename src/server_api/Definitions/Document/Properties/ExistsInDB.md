@@ -1,5 +1,5 @@
 ---
-title: Document.ExistsInDB հատկություն
+title: ExistsInDB
 ---
 
 # Document.ExistsInDB հատկություն

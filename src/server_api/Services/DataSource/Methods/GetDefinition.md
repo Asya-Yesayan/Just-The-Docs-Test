@@ -1,5 +1,5 @@
 ---
-title: DataSourceService.GetDefinition(string, bool) մեթոդ
+title: GetDefinition(string, bool)
 ---
 
 # DataSourceService.GetDefinition(string, bool) մեթոդ

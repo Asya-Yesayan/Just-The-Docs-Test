@@ -1,5 +1,5 @@
 ---
-title: DocumentRoutes.DeleteAsync մեթոդ
+title: DeleteAsync
 ---
 
 # DocumentRoutes.DeleteAsync մեթոդ

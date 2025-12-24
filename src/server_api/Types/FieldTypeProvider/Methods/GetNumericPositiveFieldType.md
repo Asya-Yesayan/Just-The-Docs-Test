@@ -1,5 +1,5 @@
 ---
-title: FieldTypeProvider.GetNumericPositiveFieldType(short, short, bool, string, bool) մեթոդ
+title: GetNumericPositiveFieldType(short, short, bool, string, bool)
 ---
 
 # FieldTypeProvider.GetNumericPositiveFieldType(short, short, bool, string, bool) մեթոդ

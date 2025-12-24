@@ -1,5 +1,5 @@
 ---
-title: ISessionInfoService.Exists(string) մեթոդ
+title: Exists(string)
 ---
 
 # ISessionInfoService.Exists(string) մեթոդ

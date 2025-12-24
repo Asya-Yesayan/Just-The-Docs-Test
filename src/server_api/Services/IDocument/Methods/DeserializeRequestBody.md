@@ -1,5 +1,5 @@
 ---
-title: IDocumentService.DeserializeRequestBody(DocumentModel, bool) մեթոդ
+title: DeserializeRequestBody(DocumentModel, bool)
 ---
 
 # IDocumentService.DeserializeRequestBody(DocumentModel, bool) մեթոդ

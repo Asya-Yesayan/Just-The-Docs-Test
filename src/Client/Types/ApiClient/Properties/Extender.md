@@ -1,5 +1,5 @@
 ---
-title: ApiClient.Extender հատկություն
+title: Extender
 ---
 
 # ApiClient.Extender հատկություն

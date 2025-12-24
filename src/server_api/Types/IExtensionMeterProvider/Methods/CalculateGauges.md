@@ -1,5 +1,5 @@
 ---
-title: IExtensionMeterProvider.CalculateGauges(IDBService) մեթոդ
+title: CalculateGauges(IDBService)
 ---
 
 # IExtensionMeterProvider.CalculateGauges(IDBService) մեթոդ

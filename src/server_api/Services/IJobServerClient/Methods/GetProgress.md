@@ -1,5 +1,5 @@
 ---
-title: IProcessServerClient.GetProgress(Guid) մեթոդ
+title: GetProgress(Guid)
 ---
 
 # IProcessServerClient.GetProgress(Guid) մեթոդ

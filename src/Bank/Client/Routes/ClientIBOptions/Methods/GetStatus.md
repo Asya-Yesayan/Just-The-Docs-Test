@@ -1,5 +1,5 @@
 ---
-title: ClientIBOptionsRoutes.GetStatus(GetStatusRequest) մեթոդ
+title: GetStatus(GetStatusRequest)
 ---
 
 # ClientIBOptionsRoutes.GetStatus(GetStatusRequest) մեթոդ

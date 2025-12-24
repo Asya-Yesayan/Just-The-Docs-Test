@@ -1,5 +1,5 @@
 ---
-title: IDocumentService.GetSystemDocuments() մեթոդ
+title: GetSystemDocuments()
 ---
 
 # IDocumentService.GetSystemDocuments() մեթոդ

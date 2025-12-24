@@ -1,5 +1,5 @@
 ---
-title: IKernelService.GetRem(string, int, DateTime?) մեթոդ
+title: GetRem(string, int, DateTime?)
 ---
 
 # IKernelService.GetRem(string, int, DateTime?) մեթոդ

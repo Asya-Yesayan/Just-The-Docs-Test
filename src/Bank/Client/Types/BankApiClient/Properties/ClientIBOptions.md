@@ -1,5 +1,5 @@
 ---
-title: BankApiClient.ClientIBOptions հատկություն
+title: ClientIBOptions
 ---
 
 # BankApiClient.ClientIBOptions հատկություն

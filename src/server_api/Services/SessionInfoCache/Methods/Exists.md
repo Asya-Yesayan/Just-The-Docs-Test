@@ -1,5 +1,5 @@
 ---
-title: SessionInfoCacheService.Exists(string) մեթոդ
+title: Exists(string)
 ---
 
 # SessionInfoCacheService.Exists(string) մեթոդ

@@ -1,5 +1,5 @@
 ---
-title: IParametersService.GetHiPar(string, DateTime, bool, string, bool, DateTime?) մեթոդ
+title: GetHiPar(string, DateTime, bool, string, bool, DateTime?)
 ---
 
 # IParametersService.GetHiPar(string, DateTime, bool, string, bool, DateTime?) մեթոդ

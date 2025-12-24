@@ -1,5 +1,5 @@
 ---
-title: Document.Body() մեթոդ
+title: Body()
 ---
 
 # Document.Body() մեթոդ

@@ -1,5 +1,5 @@
 ---
-title: Document.DoLoadGrids(LoadGridsEventArgs) մեթոդ
+title: DoLoadGrids(LoadGridsEventArgs)
 ---
 
 # Document.DoLoadGrids(LoadGridsEventArgs) մեթոդ

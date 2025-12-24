@@ -1,5 +1,5 @@
 ---
-title: Document.NestedTransactionReport հատկություն
+title: NestedTransactionReport
 ---
 
 # Document.NestedTransactionReport հատկություն

@@ -1,5 +1,5 @@
 ---
-title: Document.WriteLog(string, int, bool) մեթոդ
+title: WriteLog(string, int, bool)
 ---
 
 # Document.WriteLog(string, int, bool) մեթոդ

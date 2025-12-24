@@ -1,5 +1,5 @@
 ---
-title: IDocumentService.HiParDelete(Document) մեթոդ
+title: HiParDelete(Document)
 ---
 
 # IDocumentService.HiParDelete(Document) մեթոդ

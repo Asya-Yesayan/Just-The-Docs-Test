@@ -1,5 +1,5 @@
 ---
-title: LiteDocument.Fields հատկություն
+title: Fields
 ---
 
 # LiteDocument.Fields հատկություն

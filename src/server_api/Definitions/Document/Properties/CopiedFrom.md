@@ -1,5 +1,5 @@
 ---
-title: Document.CopiedFrom հատկություն
+title: CopiedFrom
 ---
 
 # Document.CopiedFrom հատկություն

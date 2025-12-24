@@ -1,5 +1,5 @@
 ---
-title: LiteDocument.LastLookup հատկություն
+title: LastLookup
 ---
 
 # LiteDocument.LastLookup հատկություն

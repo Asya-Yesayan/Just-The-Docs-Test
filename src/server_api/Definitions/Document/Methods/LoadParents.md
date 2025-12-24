@@ -1,5 +1,5 @@
 ---
-title: Document.LoadParents() մեթոդ
+title: LoadParents()
 ---
 
 # Document.LoadParents() մեթոդ

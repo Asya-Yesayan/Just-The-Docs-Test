@@ -1,5 +1,5 @@
 ---
-title: FieldTypeProvider.File հատկություն
+title: File
 ---
 
 # FieldTypeProvider.File հատկություն

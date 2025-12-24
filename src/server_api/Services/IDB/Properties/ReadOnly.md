@@ -1,5 +1,5 @@
 ---
-title: IDBService.ReadOnly հատկություն
+title: ReadOnly
 ---
 
 # IDBService.ReadOnly հատկություն

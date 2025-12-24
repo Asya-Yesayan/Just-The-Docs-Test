@@ -1,5 +1,5 @@
 ---
-title: ISessionInfoService.GetInfo() մեթոդ
+title: GetInfo()
 ---
 
 # ISessionInfoService.GetInfo() մեթոդ

@@ -1,5 +1,5 @@
 ---
-title: Document.GetCheckValue(string) մեթոդ
+title: GetCheckValue(string)
 ---
 
 # Document.GetCheckValue(string) մեթոդ

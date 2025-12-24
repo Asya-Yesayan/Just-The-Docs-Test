@@ -1,5 +1,5 @@
 ---
-title: FieldTypeProvider.GetNumericFieldType(short, short, bool, string, bool) մեթոդ
+title: GetNumericFieldType(short, short, bool, string, bool)
 ---
 
 # FieldTypeProvider.GetNumericFieldType(short, short, bool, string, bool) մեթոդ

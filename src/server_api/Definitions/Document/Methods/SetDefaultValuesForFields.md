@@ -1,5 +1,5 @@
 ---
-title: Document.SetDefaultValuesForFields մեթոդ
+title: SetDefaultValuesForFields
 ---
 
 # Document.SetDefaultValuesForFields մեթոդ

@@ -1,5 +1,5 @@
 ---
-title: DocumentExtender.PreAfterLoad(Document, AfterLoadEventArgs) մեթոդ
+title: PreAfterLoad(Document, AfterLoadEventArgs)
 ---
 
 # DocumentExtender.PreAfterLoad(Document, AfterLoadEventArgs) մեթոդ

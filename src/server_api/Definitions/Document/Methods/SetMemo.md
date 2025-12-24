@@ -1,5 +1,5 @@
 ---
-title: Document.SetMemo(string, string) մեթոդ
+title: SetMemo(string, string)
 ---
 
 # Document.SetMemo(string, string) մեթոդ

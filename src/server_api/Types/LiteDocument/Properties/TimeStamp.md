@@ -1,5 +1,5 @@
 ---
-title: LiteDocument.TimeStamp հատկություն
+title: TimeStamp
 ---
 
 # LiteDocument.TimeStamp հատկություն

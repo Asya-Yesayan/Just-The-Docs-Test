@@ -1,5 +1,5 @@
 ---
-title: Document.ApplySnapshot(DocumentSnapshot) մեթոդ
+title: ApplySnapshot(DocumentSnapshot)
 ---
 
 # Document.ApplySnapshot(DocumentSnapshot) մեթոդ

@@ -1,5 +1,5 @@
 ---
-title: IFolderService.GetElement մեթոդ
+title: GetElement
 ---
 
 # IFolderService.GetElement մեթոդ

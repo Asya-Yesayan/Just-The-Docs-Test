@@ -1,5 +1,5 @@
 ---
-title: IProcessServerClient.GetResult(Guid) մեթոդ
+title: GetResult(Guid)
 ---
 
 # IProcessServerClient.GetResult(Guid) մեթոդ

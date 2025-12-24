@@ -1,5 +1,5 @@
 ---
-title: TextReport.AddFooter(string) մեթոդ
+title: AddFooter(string)
 ---
 
 # TextReport.AddFooter(string) մեթոդ

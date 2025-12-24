@@ -1,5 +1,5 @@
 ---
-title: IDBService.GetApproximateServerDate() մեթոդ
+title: GetApproximateServerDate()
 ---
 
 # IDBService.GetApproximateServerDate() մեթոդ

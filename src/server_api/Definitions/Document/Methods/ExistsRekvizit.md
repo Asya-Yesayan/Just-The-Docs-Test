@@ -1,5 +1,5 @@
 ---
-title: Document.ExistsRekvizit(string) մեթոդ
+title: ExistsRekvizit(string)
 ---
 
 # Document.ExistsRekvizit(string) մեթոդ

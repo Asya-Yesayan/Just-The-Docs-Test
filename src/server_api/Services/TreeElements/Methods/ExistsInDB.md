@@ -1,5 +1,5 @@
 ---
-title: TreeElementsService.ExistsInDB(string, string) մեթոդ
+title: ExistsInDB(string, string)
 ---
 
 # TreeElementsService.ExistsInDB(string, string) մեթոդ

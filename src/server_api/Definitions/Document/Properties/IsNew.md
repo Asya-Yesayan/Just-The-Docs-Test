@@ -1,5 +1,5 @@
 ---
-title: Document.IsNew հատկություն
+title: IsNew
 ---
 
 # Document.IsNew հատկություն

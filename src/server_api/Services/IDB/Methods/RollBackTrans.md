@@ -1,5 +1,5 @@
 ---
-title: IDBService.RollBackTrans() մեթոդ
+title: RollBackTrans()
 ---
 
 # IDBService.RollBackTrans() մեթոդ

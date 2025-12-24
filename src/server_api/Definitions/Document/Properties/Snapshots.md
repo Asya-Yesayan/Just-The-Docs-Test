@@ -1,5 +1,5 @@
 ---
-title: Document.Snapshots հատկություն
+title: Snapshots
 ---
 
 # Document.Snapshots հատկություն

@@ -1,5 +1,5 @@
 ---
-title: IExecutionProgress.LoggingAdditionalData հատկություն
+title: LoggingAdditionalData
 ---
 
 # IExecutionProgress.LoggingAdditionalData հատկություն

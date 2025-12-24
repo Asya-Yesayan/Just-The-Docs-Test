@@ -1,5 +1,5 @@
 ---
-title: IDBService.CreateReadOnlyConnection(bool) մեթոդ
+title: CreateReadOnlyConnection(bool)
 ---
 
 # IDBService.CreateReadOnlyConnection(bool) մեթոդ

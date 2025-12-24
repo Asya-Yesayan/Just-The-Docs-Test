@@ -1,5 +1,5 @@
 ---
-title: LiteDocument.GridsInitialized հատկություն
+title: GridsInitialized
 ---
 
 # LiteDocument.GridsInitialized հատկություն

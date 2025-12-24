@@ -1,5 +1,5 @@
 ---
-title: PrintTemplateSubstitutionImage.File հատկություն
+title: File
 ---
 
 # PrintTemplateSubstitutionImage.File հատկություն

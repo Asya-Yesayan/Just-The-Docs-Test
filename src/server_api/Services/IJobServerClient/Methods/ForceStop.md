@@ -1,5 +1,5 @@
 ---
-title: IProcessServerClient.ForceStop(Guid, string) մեթոդ
+title: ForceStop(Guid, string)
 ---
 
 # IProcessServerClient.ForceStop(Guid, string) մեթոդ

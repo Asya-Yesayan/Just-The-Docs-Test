@@ -1,5 +1,5 @@
 ---
-title: DataSource.EncodeResultUnicode հատկություն
+title: EncodeResultUnicode
 ---
 
 # DataSource.EncodeResultUnicode հատկություն

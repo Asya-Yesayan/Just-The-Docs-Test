@@ -1,5 +1,5 @@
 ---
-title: Document.ISN հատկություն
+title: ISN
 ---
 
 # Document.ISN հատկություն

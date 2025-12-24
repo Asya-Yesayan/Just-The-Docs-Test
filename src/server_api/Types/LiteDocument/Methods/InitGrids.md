@@ -1,5 +1,5 @@
 ---
-title: LiteDocument.InitGrids() մեթոդ
+title: InitGrids()
 ---
 
 # LiteDocument.InitGrids() մեթոդ

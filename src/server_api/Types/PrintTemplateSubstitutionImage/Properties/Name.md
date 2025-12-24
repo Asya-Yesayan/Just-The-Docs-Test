@@ -1,5 +1,5 @@
 ---
-title: PrintTemplateSubstitutionImage.Name հատկություն
+title: Name
 ---
 
 # PrintTemplateSubstitutionImage.Name հատկություն

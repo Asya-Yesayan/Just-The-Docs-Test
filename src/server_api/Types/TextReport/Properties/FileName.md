@@ -1,5 +1,5 @@
 ---
-title: TextReport.FileName հատկություն
+title: FileName
 ---
 
 # TextReport.FileName հատկություն

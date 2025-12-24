@@ -1,5 +1,5 @@
 ---
-title: WebServicesManager.Update(WebServiceInfo) մեթոդ
+title: Update(WebServiceInfo)
 ---
 
 # WebServicesManager.Update(WebServiceInfo) մեթոդ

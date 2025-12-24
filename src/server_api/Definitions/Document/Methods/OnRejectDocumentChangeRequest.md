@@ -1,5 +1,5 @@
 ---
-title: Document.OnRejectDocumentChangeRequest(RejectDocumentChangeRequestEventArgs) մեթոդ
+title: OnRejectDocumentChangeRequest(RejectDocumentChangeRequestEventArgs)
 ---
 
 # Document.OnRejectDocumentChangeRequest(RejectDocumentChangeRequestEventArgs) մեթոդ

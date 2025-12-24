@@ -1,5 +1,5 @@
 ---
-title: DocumentRoutes.CreateAsync(string, DocumentCreateRequestModel, CancellationToken) մեթոդ
+title: CreateAsync(string, DocumentCreateRequestModel, CancellationToken)
 ---
 
 # DocumentRoutes.CreateAsync(string, DocumentCreateRequestModel, CancellationToken) մեթոդ

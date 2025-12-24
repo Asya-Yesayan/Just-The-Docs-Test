@@ -1,5 +1,5 @@
 ---
-title: FieldTypeProvider.Amount հատկություն
+title: Amount
 ---
 
 # FieldTypeProvider.Amount հատկություն

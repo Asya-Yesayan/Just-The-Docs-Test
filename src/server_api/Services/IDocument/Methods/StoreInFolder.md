@@ -1,5 +1,5 @@
 ---
-title: IDocumentService.StoreInFolder(Document, FolderElement) մեթոդ
+title: StoreInFolder(Document, FolderElement)
 ---
 
 # IDocumentService.StoreInFolder(Document, FolderElement) մեթոդ

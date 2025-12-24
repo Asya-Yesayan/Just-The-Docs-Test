@@ -1,5 +1,5 @@
 ---
-title: LoginService.ServiceAddress հատկություն
+title: ServiceAddress
 ---
 
 # LoginService.ServiceAddress հատկություն

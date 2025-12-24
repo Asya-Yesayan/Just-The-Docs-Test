@@ -1,5 +1,5 @@
 ---
-title: ServerSideModuleMetadata.GetByAttribute() մեթոդ
+title: GetByAttribute()
 ---
 
 # ServerSideModuleMetadata.GetByAttribute() մեթոդ

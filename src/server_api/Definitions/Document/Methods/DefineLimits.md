@@ -1,5 +1,5 @@
 ---
-title: Document.DefineLimits(string, int, DateTime, decimal, decimal) մեթոդ
+title: DefineLimits(string, int, DateTime, decimal, decimal)
 ---
 
 # Document.DefineLimits(string, int, DateTime, decimal, decimal) մեթոդ

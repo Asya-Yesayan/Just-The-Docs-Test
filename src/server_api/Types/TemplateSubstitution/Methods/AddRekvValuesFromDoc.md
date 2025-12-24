@@ -1,5 +1,5 @@
 ---
-title: TemplateSubstitution.AddRekvValuesFromDoc(Document.Document, string, string) մեթոդ
+title: AddRekvValuesFromDoc(Document.Document, string, string)
 ---
 
 # TemplateSubstitution.AddRekvValuesFromDoc(Document.Document, string, string) մեթոդ

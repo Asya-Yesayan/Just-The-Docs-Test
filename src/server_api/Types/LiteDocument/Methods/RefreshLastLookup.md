@@ -1,5 +1,5 @@
 ---
-title: LiteDocument.RefreshLastLookup() մեթոդ
+title: RefreshLastLookup()
 ---
 
 # LiteDocument.RefreshLastLookup() մեթոդ

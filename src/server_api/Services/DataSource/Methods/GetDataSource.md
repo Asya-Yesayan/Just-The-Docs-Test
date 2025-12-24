@@ -1,5 +1,5 @@
 ---
-title: DataSourceService.GetDataSource մեթոդ
+title: GetDataSource
 ---
 
 # DataSourceService.GetDataSource մեթոդ

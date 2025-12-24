@@ -1,5 +1,5 @@
 ---
-title: IOlapDBService.Connection հատկություն
+title: Connection
 ---
 
 # IOlapDBService.Connection հատկություն

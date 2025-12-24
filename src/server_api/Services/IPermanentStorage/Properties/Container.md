@@ -1,5 +1,5 @@
 ---
-title: IPermanentStorageService.Container հատկություն
+title: Container
 ---
 
 # IPermanentStorageService.Container հատկություն

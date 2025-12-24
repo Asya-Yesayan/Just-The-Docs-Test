@@ -1,5 +1,5 @@
 ---
-title: DocumentExtender.PostOnConfirmDocumentChangeRequest(Document, ConfirmDocumentChangeRequestEventArgs) մեթոդ
+title: PostOnConfirmDocumentChangeRequest(Document, ConfirmDocumentChangeRequestEventArgs)
 ---
 
 # DocumentExtender.PostOnConfirmDocumentChangeRequest(Document, ConfirmDocumentChangeRequestEventArgs) մեթոդ

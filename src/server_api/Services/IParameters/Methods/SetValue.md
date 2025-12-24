@@ -1,5 +1,5 @@
 ---
-title: IParametersService.SetValue(string, object) մեթոդ
+title: SetValue(string, object)
 ---
 
 # IParametersService.SetValue(string, object) մեթոդ

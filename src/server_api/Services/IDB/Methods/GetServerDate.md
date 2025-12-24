@@ -1,5 +1,5 @@
 ---
-title: IDBService.GetServerDate() մեթոդ
+title: GetServerDate()
 ---
 
 # IDBService.GetServerDate() մեթոդ

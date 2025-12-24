@@ -1,5 +1,5 @@
 ---
-title: FieldTypeProvider.Time հատկություն
+title: Time
 ---
 
 # FieldTypeProvider.Time հատկություն

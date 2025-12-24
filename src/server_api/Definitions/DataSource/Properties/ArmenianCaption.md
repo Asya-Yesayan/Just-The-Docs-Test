@@ -1,5 +1,5 @@
 ---
-title: DataSource.ArmenianCaption հատկություն
+title: ArmenianCaption
 ---
 
 # DataSource.ArmenianCaption հատկություն

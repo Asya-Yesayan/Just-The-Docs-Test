@@ -1,5 +1,5 @@
 ---
-title: Document.BeforeImportProcessing(BeforeImportProcessingEventArgs) մեթոդ
+title: BeforeImportProcessing(BeforeImportProcessingEventArgs)
 ---
 
 # Document.BeforeImportProcessing(BeforeImportProcessingEventArgs) մեթոդ

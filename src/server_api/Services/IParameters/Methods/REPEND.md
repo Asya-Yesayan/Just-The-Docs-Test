@@ -1,5 +1,5 @@
 ---
-title: IParametersService.REPEND մեթոդ
+title: REPEND
 ---
 
 # IParametersService.REPEND մեթոդ

@@ -1,5 +1,5 @@
 ﻿---
-title: IAttachmentService.GetAll(int) մեթոդ
+title: GetAll(int)
 ---
 
 ## Նկարագիր

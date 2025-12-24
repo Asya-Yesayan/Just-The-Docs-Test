@@ -1,5 +1,5 @@
 ---
-title: RODocumentService.ClearCache() մեթոդ
+title: ClearCache()
 ---
 
 # RODocumentService.ClearCache() մեթոդ

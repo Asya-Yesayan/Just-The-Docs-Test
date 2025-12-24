@@ -1,5 +1,5 @@
 ---
-title: IParametersService.GetStringValue մեթոդ
+title: GetStringValue
 ---
 
 # IParametersService.GetStringValue մեթոդ

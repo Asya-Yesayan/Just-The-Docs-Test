@@ -1,5 +1,5 @@
 ---
-title: BlobRoutes.Download(string, string) մեթոդ
+title: Download(string, string)
 ---
 
 # BlobRoutes.Download(string, string) մեթոդ

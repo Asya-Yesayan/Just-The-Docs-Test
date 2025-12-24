@@ -1,5 +1,5 @@
 ---
-title: Document.Origin հատկություն
+title: Origin
 ---
 
 # Document.Origin հատկություն

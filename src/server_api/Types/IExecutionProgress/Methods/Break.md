@@ -1,5 +1,5 @@
 ---
-title: IExecutionProgress.Break() մեթոդ
+title: Break()
 ---
 
 # IExecutionProgress.Break() մեթոդ

@@ -1,5 +1,5 @@
 ---
-title: IDocumentService.CreateParentLinksDB(int, List<int>) մեթոդ
+title: CreateParentLinksDB(int, List<int>)
 ---
 
 # IDocumentService.CreateParentLinksDB(int, List<int>) մեթոդ

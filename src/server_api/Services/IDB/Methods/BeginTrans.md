@@ -1,5 +1,5 @@
 ---
-title: IDBService.BeginTrans() մեթոդ
+title: BeginTrans()
 ---
 
 # IDBService.BeginTrans() մեթոդ

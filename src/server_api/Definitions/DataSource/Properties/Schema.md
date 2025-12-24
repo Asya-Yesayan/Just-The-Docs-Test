@@ -1,5 +1,5 @@
 ---
-title: DataSource.Schema հատկություն
+title: Schema
 ---
 
 # DataSource.Schema հատկություն

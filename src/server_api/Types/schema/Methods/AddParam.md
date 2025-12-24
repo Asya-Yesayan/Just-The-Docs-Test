@@ -1,5 +1,5 @@
 ---
-title: Schema.AddParam(string, string, FieldType, string, MultiFilterTypes, bool, string, bool, bool) մեթոդ
+title: AddParam(string, string, FieldType, string, MultiFilterTypes, bool, string, bool, bool)
 ---
 
 # Schema.AddParam(string, string, FieldType, string, MultiFilterTypes, bool, string, bool, bool) մեթոդ

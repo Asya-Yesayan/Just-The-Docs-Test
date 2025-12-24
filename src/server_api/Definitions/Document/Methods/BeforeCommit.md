@@ -1,5 +1,5 @@
 ---
-title: Document.BeforeCommit(BeforeCommitEventArgs) մեթոդ
+title: BeforeCommit(BeforeCommitEventArgs)
 ---
 
 # Document.BeforeCommit(BeforeCommitEventArgs) մեթոդ

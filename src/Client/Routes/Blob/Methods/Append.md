@@ -1,5 +1,5 @@
 ---
-title: BlobRoutes.Append(string, string, byte[], int) մեթոդ
+title: Append(string, string, byte[], int)
 ---
 
 # BlobRoutes.Append(string, string, byte[], int) մեթոդ

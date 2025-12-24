@@ -1,5 +1,5 @@
 ---
-title: LanguageService.CurrentUICultureName հատկություն
+title: CurrentUICultureName
 ---
 
 # LanguageService.CurrentUICultureName հատկություն

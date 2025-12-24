@@ -1,5 +1,5 @@
 ---
-title: Document.TimeStamp հատկություն
+title: TimeStamp
 ---
 
 # Document.TimeStamp հատկություն

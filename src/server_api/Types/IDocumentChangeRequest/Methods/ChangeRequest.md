@@ -1,5 +1,5 @@
 ---
-title: IDocumentChangeRequest.ChangeRequest(ChangeRequestEventArgs) մեթոդ
+title: ChangeRequest(ChangeRequestEventArgs)
 ---
 
 # IDocumentChangeRequest.ChangeRequest(ChangeRequestEventArgs) մեթոդ
