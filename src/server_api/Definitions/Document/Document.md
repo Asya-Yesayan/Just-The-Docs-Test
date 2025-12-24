@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Փաստաթուղթ
 parent: "Համակարգային նկարագրություններ"
 nav_order: 2
