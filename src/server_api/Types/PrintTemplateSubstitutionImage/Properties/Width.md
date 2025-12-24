@@ -2,6 +2,8 @@
 title: PrintTemplateSubstitutionImage.Width հատկություն
 ---
 
+# PrintTemplateSubstitutionImage.Width հատկություն
+
 ```c#
 public decimal Width { get; set; }
 ```

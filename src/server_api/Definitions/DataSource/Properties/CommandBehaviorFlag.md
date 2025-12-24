@@ -2,6 +2,8 @@
 title: DataSource.CommandBehaviorFlag հատկություն
 ---
 
+# DataSource.CommandBehaviorFlag հատկություն
+
 ## Նկարագիր
 
 **Դաս՝** [DataSource](../DataSource.md)

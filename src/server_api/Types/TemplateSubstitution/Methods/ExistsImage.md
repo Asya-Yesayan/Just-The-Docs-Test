@@ -2,6 +2,8 @@
 title: TemplateSubstitution.ExistsImage(string) մեթոդ
 ---
 
+# TemplateSubstitution.ExistsImage(string) մեթոդ
+
 ```c#
 public bool ExistsImage(string name)
 ```

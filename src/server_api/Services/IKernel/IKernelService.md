@@ -2,6 +2,8 @@
 title: "IKernelService սերվիս"
 ---
 
+# IKernelService սերվիս
+
 ## Մեթոդներ
 
 | Անվանում | Նկարագրություն |

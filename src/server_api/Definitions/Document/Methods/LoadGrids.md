@@ -2,6 +2,8 @@
 title: Document.LoadGrids(LoadGridsEventArgs) մեթոդ
 ---
 
+# Document.LoadGrids(LoadGridsEventArgs) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** AsDoc.LoadGrids

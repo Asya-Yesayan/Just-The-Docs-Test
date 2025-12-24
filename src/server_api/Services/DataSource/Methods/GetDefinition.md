@@ -2,6 +2,8 @@
 title: DataSourceService.GetDefinition(string, bool) մեթոդ
 ---
 
+# DataSourceService.GetDefinition(string, bool) մեթոդ
+
 ## Նկարագիր
 
 **Դաս՝** [DataSourceService](../DataSourceService.md)

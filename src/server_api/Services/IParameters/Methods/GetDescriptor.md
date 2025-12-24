@@ -1,6 +1,8 @@
 ---
-title: IParametersService.GetDescriptor(string) մեթոդ  
+title: IParametersService.GetDescriptor(string) մեթոդ
 ---
+
+# IParametersService.GetDescriptor(string) մեթոդ
 
 ## Նկարագիր
 

@@ -2,6 +2,8 @@
 title: TemplateSubstitution.Grid(string) մեթոդ
 ---
 
+# TemplateSubstitution.Grid(string) մեթոդ
+
 ```c#
 public PrintTemplateSubstitutionGrid Grid(string name)
 ```

@@ -2,6 +2,8 @@
 title: Document.GetCheckValue(string) մեթոդ
 ---
 
+# Document.GetCheckValue(string) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsDoc.CheckValue](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/ASDOC/CheckValue.html)

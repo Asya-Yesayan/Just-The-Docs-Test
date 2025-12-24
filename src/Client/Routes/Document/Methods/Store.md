@@ -2,6 +2,8 @@
 title: DocumentRoutes.Store(DocumentStoreRequestModel) մեթոդ
 ---
 
+# DocumentRoutes.Store(DocumentStoreRequestModel) մեթոդ
+
 ```c#
 public DocumentModel Store(DocumentStoreRequestModel model)
 ```

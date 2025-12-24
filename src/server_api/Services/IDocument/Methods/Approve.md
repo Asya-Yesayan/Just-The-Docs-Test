@@ -2,6 +2,8 @@
 title: IDocumentService.Approve(Document, DocumentCheckLevel, string) մեթոդ
 ---
 
+# IDocumentService.Approve(Document, DocumentCheckLevel, string) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsDoc.Confirm](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/ASDOC/Confirm.html)

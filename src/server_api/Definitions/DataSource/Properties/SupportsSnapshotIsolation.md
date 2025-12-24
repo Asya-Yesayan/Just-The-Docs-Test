@@ -2,6 +2,8 @@
 title: DataSource.SupportsSnapshotIsolation հատկություն
 ---
 
+# DataSource.SupportsSnapshotIsolation հատկություն
+
 ## Նկարագիր
 
 **Դաս՝** [DataSource](../DataSource.md)

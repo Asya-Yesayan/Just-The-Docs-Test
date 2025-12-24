@@ -2,6 +2,8 @@
 title: DocumentExtender.PostAction(Document, ActionEventArgs) մեթոդ
 ---
 
+# DocumentExtender.PostAction(Document, ActionEventArgs) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** ScriptExtension.DocPostAction

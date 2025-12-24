@@ -2,6 +2,8 @@
 title: ClientsRoutes.CreatePhysicalClientByFullData(CreatePhysicalClientByFullDataRequest) մեթոդ
 ---
 
+# ClientsRoutes.CreatePhysicalClientByFullData(CreatePhysicalClientByFullDataRequest) մեթոդ
+
 ```c#
 public Task<CreatePhysicalClientByFullDataResponse> CreatePhysicalClientByFullDat(
     CreatePhysicalClientByFullDataRequest request)

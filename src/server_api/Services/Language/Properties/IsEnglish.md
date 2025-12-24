@@ -1,6 +1,8 @@
 ---
-title: LanguageService.IsEnglish հատկություն  
+title: LanguageService.IsEnglish հատկություն
 ---
+
+# LanguageService.IsEnglish հատկություն
 
 ## Նկարագիր
 

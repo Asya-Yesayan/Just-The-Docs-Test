@@ -2,6 +2,8 @@
 title: Document.Body() մեթոդ
 ---
 
+# Document.Body() մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsDoc.Body](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/ASDOC/Body.html)

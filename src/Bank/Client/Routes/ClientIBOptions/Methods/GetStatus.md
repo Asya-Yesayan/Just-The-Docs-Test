@@ -2,6 +2,8 @@
 title: ClientIBOptionsRoutes.GetStatus(GetStatusRequest) մեթոդ
 ---
 
+# ClientIBOptionsRoutes.GetStatus(GetStatusRequest) մեթոդ
+
 ```c#
 public Task<GetStatusResponse> GetStatus(GetStatusRequest request)
 ```

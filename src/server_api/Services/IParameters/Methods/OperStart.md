@@ -1,6 +1,8 @@
 ---
-title: IParametersService.OperStart մեթոդ  
+title: IParametersService.OperStart մեթոդ
 ---
+
+# IParametersService.OperStart մեթոդ
 
 ## Գերբեռնումներ
 

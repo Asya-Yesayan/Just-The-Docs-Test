@@ -2,6 +2,8 @@
 title: Document.Deleting հատկություն
 ---
 
+# Document.Deleting հատկություն
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** AsDoc.Deleting

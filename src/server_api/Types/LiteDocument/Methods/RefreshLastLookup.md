@@ -2,6 +2,8 @@
 title: LiteDocument.RefreshLastLookup() մեթոդ
 ---
 
+# LiteDocument.RefreshLastLookup() մեթոդ
+
 ```c#
 public void RefreshLastLookup();
 ```

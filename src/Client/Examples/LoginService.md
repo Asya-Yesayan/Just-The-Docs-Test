@@ -1,7 +1,9 @@
 ---
 layout: page
-title: "LoginService օրինակ" 
+title: "LoginService օրինակ"
 ---
+
+# LoginService օրինակ
 
 LoginService-ի ինտեգրման ծրագրի համար ստեղծված բանալիով նույնականացման օրինակ:
 

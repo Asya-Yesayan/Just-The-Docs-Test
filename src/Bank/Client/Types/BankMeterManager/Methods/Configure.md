@@ -2,6 +2,8 @@
 title: BankMeterManager.Configure(IParametersService) մեթոդ
 ---
 
+# BankMeterManager.Configure(IParametersService) մեթոդ
+
 ```c#
 protected override void Configure(IParametersService parametersService)
 ```

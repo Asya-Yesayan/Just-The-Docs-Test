@@ -2,6 +2,8 @@
 title: ApiClient.Document հատկություն
 ---
 
+# ApiClient.Document հատկություն
+
 ```c#
 public DocumentRoutes Document { get; }
 ```

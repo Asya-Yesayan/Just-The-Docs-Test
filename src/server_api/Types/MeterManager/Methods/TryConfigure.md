@@ -2,6 +2,8 @@
 title: MeterManager.TryConfigure(IParametersService) մեթոդ
 ---
 
+# MeterManager.TryConfigure(IParametersService) մեթոդ
+
 ```c#
 public void TryConfigure(IParametersService parametersService)
 ```

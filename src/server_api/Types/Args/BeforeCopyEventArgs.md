@@ -1,7 +1,9 @@
 ---
 layout: page
-title: "BeforeCopyEventArgs դաս" 
+title: "BeforeCopyEventArgs դաս"
 ---
+
+# BeforeCopyEventArgs դաս
 
 Այս դասը օգտագործվում է [Document.BeforeCopy](../../Definitions/Document/Methods/BeforeCopy.md) մեթոդում։
 

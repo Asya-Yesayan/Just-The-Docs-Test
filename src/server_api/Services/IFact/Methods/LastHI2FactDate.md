@@ -2,6 +2,8 @@
 title: IFactService.LastHI2FactDate(string, int, int, DateTime?, string) մեթոդ
 ---
 
+# IFactService.LastHI2FactDate(string, int, int, DateTime?, string) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsKernel.LastHI2FactDate](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/Functions/AccManagement/LastHI2FactDate.html)

@@ -2,6 +2,8 @@
 title: DataProcessingRequestRoutes.GetResult(Guid, bool) մեթոդ
 ---
 
+# DataProcessingRequestRoutes.GetResult(Guid, bool) մեթոդ
+
 ```c#
 public T GetResult<T>(Guid id, 
                       bool delete)

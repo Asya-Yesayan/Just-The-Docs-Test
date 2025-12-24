@@ -9,6 +9,8 @@ sublinks:
 - { title: "MS Visual Studio և Azure DevOps Services ինտեգրացիա, nuget-ների և կոդերի ստացում", ref: ms-visual-studio-և-azure-devops-services-ինտեգրացիա-nuget-ների-և-կոդերի-ստացում }
 ---
 
+# ՀԾ-Բանկի պրոյեկտը բեռնելու ձևը գործընկերի համար
+
 ## Բովանդակություն
 
 - [Տրամադրվող կոդեր](#տրամադրվող-կոդեր)

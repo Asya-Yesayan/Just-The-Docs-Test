@@ -2,6 +2,8 @@
 title: DataSource.EnglishCaption հատկություն
 ---
 
+# DataSource.EnglishCaption հատկություն
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsData.ECaption](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/ASDATA/ECaption.html)

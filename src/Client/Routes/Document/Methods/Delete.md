@@ -2,6 +2,8 @@
 title: DocumentRoutes.Delete մեթոդ
 ---
 
+# DocumentRoutes.Delete մեթոդ
+
 ## Գերբեռնումներ
 
 | Անվանում | Նկարագրություն |

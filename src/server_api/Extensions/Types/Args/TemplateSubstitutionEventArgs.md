@@ -1,6 +1,8 @@
 ---
-title: "TemplateSubstitutionEventArgs դաս" 
+title: "TemplateSubstitutionEventArgs դաս"
 ---
+
+# TemplateSubstitutionEventArgs դաս
 
 ## Ներածություն
 

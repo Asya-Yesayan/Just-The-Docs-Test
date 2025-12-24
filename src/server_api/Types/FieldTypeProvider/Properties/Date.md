@@ -2,6 +2,8 @@
 title: FieldTypeProvider.Date հատկություն
 ---
 
+# FieldTypeProvider.Date հատկություն
+
 ```c#
 public static DateFieldType Date { get; }
 ```

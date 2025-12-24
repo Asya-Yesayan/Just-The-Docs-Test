@@ -2,6 +2,8 @@
 title: IFactService.LoadHI2ByBase(int, string, string, long) մեթոդ
 ---
 
+# IFactService.LoadHI2ByBase(int, string, string, long) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsKernel.LoadHI2FactByBase](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/Functions/AccManagement/LoadHI2FactByBase.html)

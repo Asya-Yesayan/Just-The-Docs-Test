@@ -2,6 +2,8 @@
 title: RODocument.CheckMemo() մեթոդ
 ---
 
+# RODocument.CheckMemo() մեթոդ
+
 ```c#
 protected void CheckMemo()
 ```

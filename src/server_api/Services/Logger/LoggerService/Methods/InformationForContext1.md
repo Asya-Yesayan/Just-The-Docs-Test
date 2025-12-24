@@ -2,6 +2,8 @@
 title: LoggerService.InformationForContext(string, object[]) մեթոդ
 ---
 
+# LoggerService.InformationForContext(string, object[]) մեթոդ
+
 ```c#
 public void InformationForContext<T>(string messageTemplate, 
                                      params object[] propertyValues)

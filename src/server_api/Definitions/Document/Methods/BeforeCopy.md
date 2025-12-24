@@ -2,6 +2,8 @@
 title: Document.BeforeCopy(BeforeCopyEventArgs) մեթոդ
 ---
 
+# Document.BeforeCopy(BeforeCopyEventArgs) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [BeforeCopy](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/ScriptProcs/BeforeCopy.html)

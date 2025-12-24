@@ -1,7 +1,9 @@
 ---
 layout: page
-title: "ValidateEventArgs դաս" 
+title: "ValidateEventArgs դաս"
 ---
+
+# ValidateEventArgs դաս
 
 Այս դասը օգտագործվում է [Document.Validate](../../Definitions/Document/Methods/Validate.md) մեթոդում։
 

@@ -2,6 +2,8 @@
 title: FieldTypeProvider.AmountPositive հատկություն
 ---
 
+# FieldTypeProvider.AmountPositive հատկություն
+
 ```c#
 public static AmountPositiveFieldType AmountPositive { get; }
 ```

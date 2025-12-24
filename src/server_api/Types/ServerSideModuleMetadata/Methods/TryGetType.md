@@ -2,6 +2,8 @@
 title: ServerSideModuleMetadata.TryGetType(string, Type) մեթոդ
 ---
 
+# ServerSideModuleMetadata.TryGetType(string, Type) մեթոդ
+
 ```c#
 public bool TryGetType(string typeName, out Type type)
 ```

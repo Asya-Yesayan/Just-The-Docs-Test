@@ -1,7 +1,9 @@
 ---
 layout: page
-title: "MessageBoxIconType" 
+title: "MessageBoxIconType"
 ---
+
+# MessageBoxIconType
 
 Այս enum-ը նախատեսված է հաղորդագրության պատուհանում (MessageBox) ավելացվող պատկերակների սահմանման համար։
 

@@ -2,6 +2,8 @@
 title: IDBService.TryAppLock(string, string, string, string) մեթոդ
 ---
 
+# IDBService.TryAppLock(string, string, string, string) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** AsKernel.TryAppLock

@@ -1,6 +1,8 @@
 ---
-title: IKernelService.UserPositionAndMask(byte, byte, short) մեթոդ  
+title: IKernelService.UserPositionAndMask(byte, byte, short) մեթոդ
 ---
+
+# IKernelService.UserPositionAndMask(byte, byte, short) մեթոդ
 
 ## Նկարագիր
 

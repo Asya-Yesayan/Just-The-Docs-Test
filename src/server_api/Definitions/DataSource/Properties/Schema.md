@@ -2,6 +2,8 @@
 title: DataSource.Schema հատկություն
 ---
 
+# DataSource.Schema հատկություն
+
 ## Նկարագիր
 
 **Դաս՝** [DataSource](../DataSource.md)

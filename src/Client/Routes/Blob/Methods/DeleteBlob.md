@@ -2,6 +2,8 @@
 title: BlobRoutes.DeleteBlob(string, string) մեթոդ
 ---
 
+# BlobRoutes.DeleteBlob(string, string) մեթոդ
+
 ```c#
 public bool DeleteBlob(string container, 
                        string blobName)

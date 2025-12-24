@@ -1,6 +1,8 @@
 ---
-title: IPermanentStorageService.UploadTempBlobAsync(string, string, Stream, BlobProperties, CancellationToken) մեթոդ  
+title: IPermanentStorageService.UploadTempBlobAsync(string, string, Stream, BlobProperties, CancellationToken) մեթոդ
 ---
+
+# IPermanentStorageService.UploadTempBlobAsync(string, string, Stream, BlobProperties, CancellationToken) մեթոդ
 
 ## Նկարագիր
 

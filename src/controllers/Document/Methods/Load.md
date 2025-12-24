@@ -1,6 +1,8 @@
 ---
-title: "Load մեթոդ" 
+title: "Load մեթոդ"
 ---
+
+# Load մեթոդ
 
 `{{base_url}}/api/Document/{{doc_isn}}`
 

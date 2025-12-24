@@ -1,6 +1,8 @@
 ---
-title: IUserService.GetList() մեթոդ  
+title: IUserService.GetList() մեթոդ
 ---
+
+# IUserService.GetList() մեթոդ
 
 ## Նկարագիր
 

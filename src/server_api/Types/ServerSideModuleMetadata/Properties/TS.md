@@ -2,6 +2,8 @@
 title: ServerSideModuleMetadata.TS հատկություն
 ---
 
+# ServerSideModuleMetadata.TS հատկություն
+
 ```c#
 public byte[] TS { get; }
 ```

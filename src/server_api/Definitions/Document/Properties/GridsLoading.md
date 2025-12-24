@@ -2,6 +2,8 @@
 title: Document.GridsLoading հատկություն
 ---
 
+# Document.GridsLoading հատկություն
+
 ## Նկարագիր
 
 **Դաս՝** [Document](../Document.md)

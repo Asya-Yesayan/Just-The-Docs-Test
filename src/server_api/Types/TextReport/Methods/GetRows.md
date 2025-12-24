@@ -2,6 +2,8 @@
 title: TextReport.GetRows(long, long) մեթոդ
 ---
 
+# TextReport.GetRows(long, long) մեթոդ
+
 ```c#
 public Task<List<TextReportRow>> GetRows(long startRow, long rowCount)
 ```

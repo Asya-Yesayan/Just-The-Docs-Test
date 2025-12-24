@@ -2,6 +2,8 @@
 title: "IErrorHandlingService սերվիս"
 ---
 
+# IErrorHandlingService սերվիս
+
 ## Ներածություն
 
 IErrorHandlingService դասը նախատեսված է ծրագրի աշխատանքի ընթացքում առաջացած sql սխալների մշակման համար։

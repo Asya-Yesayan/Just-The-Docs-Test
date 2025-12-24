@@ -2,6 +2,8 @@
 title: DocumentRoutes դաս
 ---
 
+# DocumentRoutes դաս
+
 ## Ներածություն
 
 ## Մեթոդներ

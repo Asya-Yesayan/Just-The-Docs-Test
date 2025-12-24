@@ -2,6 +2,8 @@
 title: PrintTemplateSubstitutionImage.File հատկություն
 ---
 
+# PrintTemplateSubstitutionImage.File հատկություն
+
 ```c#
 public byte[] File { get; set; }
 ```

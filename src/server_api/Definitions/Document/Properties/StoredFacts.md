@@ -2,6 +2,8 @@
 title: Document.StoredFacts հատկություն
 ---
 
+# Document.StoredFacts հատկություն
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsDoc.StoredFacts](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/ASDOC/StoredFacts.html)

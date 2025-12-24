@@ -1,6 +1,8 @@
 ---
-title: LanguageService.GetAcceptLanguage(CultureInfo) մեթոդ  
+title: LanguageService.GetAcceptLanguage(CultureInfo) մեթոդ
 ---
+
+# LanguageService.GetAcceptLanguage(CultureInfo) մեթոդ
 
 ## Նկարագիր
 

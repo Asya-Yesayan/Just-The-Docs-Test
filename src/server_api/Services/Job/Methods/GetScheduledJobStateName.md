@@ -2,6 +2,8 @@
 title: JobService.GetScheduledJobStateName(int) մեթոդ
 ---
 
+# JobService.GetScheduledJobStateName(int) մեթոդ
+
 ```c#
 public Task<byte> GetScheduledJobState(int scheduledId)
 ```

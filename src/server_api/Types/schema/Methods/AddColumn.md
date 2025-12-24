@@ -2,6 +2,8 @@
 title: Schema.AddColumn(string, string, string, string, FieldType, bool, short, bool, string, string, FieldType, short, short, bool, bool, SupportedEncoding) մեթոդ
 ---
 
+# Schema.AddColumn(string, string, string, string, FieldType, bool, short, bool, string, string, FieldType, short, short, bool, bool, SupportedEncoding) մեթոդ
+
 ```c#
 public void AddColumn(string name, string source, string armenianCaption, string englishCaption, FieldType columnType,
                       bool isPermanent = false, short start = 0, bool autoProcess = true,

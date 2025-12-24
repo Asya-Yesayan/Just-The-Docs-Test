@@ -2,6 +2,8 @@
 title: DataProcessingRequestRoutes.StopAsync(Guid, CancellationToken) մեթոդ
 ---
 
+# DataProcessingRequestRoutes.StopAsync(Guid, CancellationToken) մեթոդ
+
 ```c#
 public Task StopAsync(Guid id, 
                       CancellationToken cancellationToken = default)

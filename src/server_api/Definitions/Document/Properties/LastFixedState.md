@@ -2,6 +2,8 @@
 title: Document.LastFixedState հատկություն
 ---
 
+# Document.LastFixedState հատկություն
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsDoc.LastFixedState](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/ASDOC/LastFixedState.html)

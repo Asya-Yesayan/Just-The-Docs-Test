@@ -2,6 +2,8 @@
 title: DocumentExtender.PostOnConfirmDocumentChangeRequest(Document, ConfirmDocumentChangeRequestEventArgs) մեթոդ
 ---
 
+# DocumentExtender.PostOnConfirmDocumentChangeRequest(Document, ConfirmDocumentChangeRequestEventArgs) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [PostOnConfirmDCR](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/ScriptProcs/DocExtenderEvents/PostOnConfirmDCR.html)

@@ -2,6 +2,8 @@
 title: WebServicesManager.Add(WebServiceInfo) մեթոդ
 ---
 
+# WebServicesManager.Add(WebServiceInfo) մեթոդ
+
 ```c#
 public Task Add(WebServiceInfo service)
 ```

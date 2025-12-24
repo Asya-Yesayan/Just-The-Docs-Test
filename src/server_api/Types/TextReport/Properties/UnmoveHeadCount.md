@@ -2,6 +2,8 @@
 title: TextReport.UnmoveHeadCount հատկություն
 ---
 
+# TextReport.UnmoveHeadCount հատկություն
+
 ```c#
 public int UnmoveHeadCount { get; set; }
 ```

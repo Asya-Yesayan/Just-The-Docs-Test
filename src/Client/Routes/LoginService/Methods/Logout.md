@@ -2,6 +2,8 @@
 title: LoginService.Logout() մեթոդ
 ---
 
+# LoginService.Logout() մեթոդ
+
 ```c#
 public void Logout()
 ```

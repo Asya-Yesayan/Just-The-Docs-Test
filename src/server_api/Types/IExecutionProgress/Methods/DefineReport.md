@@ -2,6 +2,8 @@
 title: IExecutionProgress.DefineReport(string, string, bool) մեթոդ
 ---
 
+# IExecutionProgress.DefineReport(string, string, bool) մեթոդ
+
 ## Նկարագիր
 
 **Դաս՝** [IExecutionProgress](../../IExecutionProgress.md)

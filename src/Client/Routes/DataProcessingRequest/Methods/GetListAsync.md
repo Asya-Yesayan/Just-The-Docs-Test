@@ -2,6 +2,8 @@
 title: DataProcessingRequestRoutes.GetListAsync մեթոդ
 ---
 
+# DataProcessingRequestRoutes.GetListAsync մեթոդ
+
 ## Գերբեռնումներ
 
 | Անվանում | Նկարագրություն |

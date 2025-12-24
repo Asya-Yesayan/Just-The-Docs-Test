@@ -1,6 +1,8 @@
 ---
-title: IHolidaysService.GetNextWorkDay(DateTime) մեթոդ  
+title: IHolidaysService.GetNextWorkDay(DateTime) մեթոդ
 ---
+
+# IHolidaysService.GetNextWorkDay(DateTime) մեթոդ
 
 ## Նկարագիր
 

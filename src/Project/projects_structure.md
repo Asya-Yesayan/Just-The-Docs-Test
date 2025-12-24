@@ -20,6 +20,8 @@ sublinks:
 - { title: "ArmSoft.AS8X.Configuration.Service", ref: armsoftas8xconfigurationservice }
 ---
 
+# 8X համակարգի պրոյեկտների նկարագրություն
+
 ## Բովանդակություն
 
 - [Ներածություն](#ներածություն)

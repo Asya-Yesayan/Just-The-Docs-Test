@@ -2,6 +2,8 @@
 title: LoginService.MustChangePassword հատկություն
 ---
 
+# LoginService.MustChangePassword հատկություն
+
 ```c#
 public bool MustChangePassword { get; private set; }
 ```

@@ -2,6 +2,8 @@
 title: UIRequestExecutionProgress դաս
 ---
 
+# UIRequestExecutionProgress դաս
+
 ## Ներածություն
 
 UIRequestExecutionProgress դասը նախատեսված է [DataSource](../Definitions/DataSource/DataSource.md), [DPR](../Definitions/DataProcessingRequest/DataProcessingRequest.md), [Document](../Definitions/Document/Document.md)-ի կատարման ընթացքում սերվերից կլիենտին [հաղորդագրություններ ուղարկելու](UIRequestExecutionProgress/Methods/MessageBox.md) և պատասխանը ստանալու ֆունկցիոնալությունը ապահովելու համար։

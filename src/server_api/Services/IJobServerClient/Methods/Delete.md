@@ -1,6 +1,8 @@
 ---
-title: IProcessServerClient.Delete(Guid) մեթոդ  
+title: IProcessServerClient.Delete(Guid) մեթոդ
 ---
+
+# IProcessServerClient.Delete(Guid) մեթոդ
 
 ## Նկարագիր
 

@@ -1,6 +1,8 @@
 ---
-title: IParametersService.OperEnd մեթոդ  
+title: IParametersService.OperEnd մեթոդ
 ---
+
+# IParametersService.OperEnd մեթոդ
 
 ## Գերբեռնումներ
 

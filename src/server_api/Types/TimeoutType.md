@@ -2,6 +2,8 @@
 title: "TimeoutType enum"
 ---
 
+# TimeoutType enum
+
 Այս enum-ը նախատեսված է Sql հարցումների կատարման առավելագույն ժամանակի սահմանման համար։
 
 ```c#

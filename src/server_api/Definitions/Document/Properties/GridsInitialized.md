@@ -2,6 +2,8 @@
 title: Document.GridsInitialized հատկություն
 ---
 
+# Document.GridsInitialized հատկություն
+
 ## Նկարագիր
 
 **Դաս՝** [Document](../Document.md)

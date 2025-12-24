@@ -2,6 +2,8 @@
 title: LoggerService.DebugForContext(string) մեթոդ
 ---
 
+# LoggerService.DebugForContext(string) մեթոդ
+
 ```c#
 public void DebugForContext<T>(string messageTemplate)
 ```

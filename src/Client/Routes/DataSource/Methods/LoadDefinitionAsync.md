@@ -2,6 +2,8 @@
 title: DataSource.LoadDefinitionAsync(string, CancellationToken) մեթոդ
 ---
 
+# DataSource.LoadDefinitionAsync(string, CancellationToken) մեթոդ
+
 ```c#
 public async Task LoadDefinitionAsync(string name, 
                                       CancellationToken cancellationToken = default)

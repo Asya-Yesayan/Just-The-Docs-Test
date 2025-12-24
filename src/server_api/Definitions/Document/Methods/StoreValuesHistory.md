@@ -2,6 +2,8 @@
 title: Document.StoreValuesHistory() մեթոդ
 ---
 
+# Document.StoreValuesHistory() մեթոդ
+
 ## Նկարագիր
 
 **Դաս՝** [Document](../Document.md)

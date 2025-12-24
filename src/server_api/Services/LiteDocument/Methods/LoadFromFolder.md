@@ -1,6 +1,8 @@
 ---
-title: LiteDocumentService.LoadFromFolder(string, string, bool) մեթոդ  
+title: LiteDocumentService.LoadFromFolder(string, string, bool) մեթոդ
 ---
+
+# LiteDocumentService.LoadFromFolder(string, string, bool) մեթոդ
 
 ## Նկարագիր
 

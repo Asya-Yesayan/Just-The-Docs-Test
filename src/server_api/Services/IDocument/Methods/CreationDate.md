@@ -2,6 +2,8 @@
 title: IDocumentService.CreationDate(int, bool) մեթոդ
 ---
 
+# IDocumentService.CreationDate(int, bool) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsUtil.CreationDate](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/Functions/DocumentsCirculation/CreationDate.html)

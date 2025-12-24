@@ -2,6 +2,8 @@
 title: Document.IsUIOrigin հատկություն
 ---
 
+# Document.IsUIOrigin հատկություն
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsDoc.VisualFormAvailable](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/ASDOC/VisualFormAvailable.html)

@@ -2,6 +2,8 @@
 title: Document.SetImage(string, byte[]) մեթոդ
 ---
 
+# Document.SetImage(string, byte[]) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsDoc.Image](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/ASDOC/Image.html)

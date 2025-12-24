@@ -1,6 +1,8 @@
 ---
-title: "Delete մեթոդ" 
+title: "Delete մեթոդ"
 ---
+
+# Delete մեթոդ
 
 `POST {{base_url}}/api/Document`
 

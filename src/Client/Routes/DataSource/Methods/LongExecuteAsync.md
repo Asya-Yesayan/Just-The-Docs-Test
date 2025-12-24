@@ -2,6 +2,8 @@
 title: DataSource.LongExecuteAsync(P, HashSet<string>, string, bool, CancellationToken, TimeSpan?) մեթոդ
 ---
 
+# DataSource.LongExecuteAsync(P, HashSet<string>, string, bool, CancellationToken, TimeSpan?) մեթոդ
+
 ```c#
 public Task<DataSourceResult<R>> LongExecuteAsync(P param, 
                                                   HashSet<string> columns = default, 

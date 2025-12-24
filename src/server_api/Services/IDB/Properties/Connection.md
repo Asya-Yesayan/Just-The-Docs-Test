@@ -2,6 +2,8 @@
 title: IDBService.Connection հատկություն
 ---
 
+# IDBService.Connection հատկություն
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsSqlCommand.Connection](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/AsSqlCommand/Connection.html)

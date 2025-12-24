@@ -2,6 +2,8 @@
 title: Document.TemplateSubstitutionIsExtended հատկություն
 ---
 
+# Document.TemplateSubstitutionIsExtended հատկություն
+
 ## Նկարագիր
 
 **Դաս՝** [Document](../Document.md)

@@ -1,6 +1,8 @@
 ---
-title: IParametersService.GetDetailedDescription(string) մեթոդ  
+title: IParametersService.GetDetailedDescription(string) մեթոդ
 ---
+
+# IParametersService.GetDetailedDescription(string) մեթոդ
 
 ## Նկարագիր
 

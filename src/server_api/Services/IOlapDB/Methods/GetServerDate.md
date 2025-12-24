@@ -1,6 +1,8 @@
 ---
-title: IOlapDBService.GetServerDate() մեթոդ  
+title: IOlapDBService.GetServerDate() մեթոդ
 ---
+
+# IOlapDBService.GetServerDate() մեթոդ
 
 ## Նկարագիր
 

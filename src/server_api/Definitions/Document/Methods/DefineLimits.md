@@ -2,6 +2,8 @@
 title: Document.DefineLimits(string, int, DateTime, decimal, decimal) մեթոդ
 ---
 
+# Document.DefineLimits(string, int, DateTime, decimal, decimal) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** AsDoc.DefineLimits

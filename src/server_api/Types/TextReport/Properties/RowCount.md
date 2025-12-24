@@ -2,6 +2,8 @@
 title: TextReport.RowCount հատկություն
 ---
 
+# TextReport.RowCount հատկություն
+
 ```c#
 public long RowCount { get; protected set; }
 ```

@@ -2,6 +2,8 @@
 title: DataProcessingRequestRoutes.GetProgress(Guid) մեթոդ
 ---
 
+# DataProcessingRequestRoutes.GetProgress(Guid) մեթոդ
+
 ```c#
 public DPRProgress GetProgress(Guid id)
 ```

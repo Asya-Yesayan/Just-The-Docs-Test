@@ -2,6 +2,8 @@
 title: DataSource.FirstFetchSize հատկություն
 ---
 
+# DataSource.FirstFetchSize հատկություն
+
 ```c#
 public int FirstFetchSize { get; set; }
 ```

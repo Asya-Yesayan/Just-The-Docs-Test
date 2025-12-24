@@ -2,6 +2,8 @@
 title: Extender.AddParam(string, string, FieldType) մեթոդ
 ---
 
+# Extender.AddParam(string, string, FieldType) մեթոդ
+
 ## Նկարագիր
 
 **Դաս՝** [Extender](../ds_extender.md)

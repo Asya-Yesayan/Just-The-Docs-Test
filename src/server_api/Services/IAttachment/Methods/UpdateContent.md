@@ -2,6 +2,8 @@
 title: IAttachmentService.UpdateContent(AttachmentContentModel) մեթոդ
 ---
 
+# IAttachmentService.UpdateContent(AttachmentContentModel) մեթոդ
+
 ## Նկարագիր
 
 **Դաս՝** [IAttachmentService](../../IAttachment/IAttachmentService.md)

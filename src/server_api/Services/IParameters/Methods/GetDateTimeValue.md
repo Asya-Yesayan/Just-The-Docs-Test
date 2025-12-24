@@ -1,6 +1,8 @@
 ---
-title: IParametersService.GetDateTimeValue մեթոդ  
+title: IParametersService.GetDateTimeValue մեթոդ
 ---
+
+# IParametersService.GetDateTimeValue մեթոդ
 
 ## Նկարագիր
 

@@ -2,6 +2,8 @@
 title: Document.PostMessage(PostMessageEventArgs) մեթոդ
 ---
 
+# Document.PostMessage(PostMessageEventArgs) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [PostMessage](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/ScriptProcs/PostMessage.html)

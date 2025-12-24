@@ -2,6 +2,8 @@
 title: LoggerService.ErrorForContext(string, object, Exception, string) մեթոդ
 ---
 
+# LoggerService.ErrorForContext(string, object, Exception, string) մեթոդ
+
 ```c#
 public void ErrorForContext(string contextPropertyName, 
                             object contextValue, 

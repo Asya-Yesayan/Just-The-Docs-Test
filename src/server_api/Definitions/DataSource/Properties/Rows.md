@@ -2,6 +2,8 @@
 title: DataSource.Rows հատկություն
 ---
 
+# DataSource.Rows հատկություն
+
 ## Նկարագիր
 
 **Դաս՝** [DataSource](../DataSource.md)

@@ -2,6 +2,8 @@
 title: TextReport.AddHeader(string) մեթոդ
 ---
 
+# TextReport.AddHeader(string) մեթոդ
+
 ```c#
 public void AddHeader(string header)
 ```

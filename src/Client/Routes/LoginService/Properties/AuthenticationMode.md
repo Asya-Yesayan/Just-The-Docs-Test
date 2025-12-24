@@ -2,6 +2,8 @@
 title: LoginService.AuthenticationMode հատկություն
 ---
 
+# LoginService.AuthenticationMode հատկություն
+
 ```c#
 public AuthenticationMode? AuthenticationMode { get; private set; }
 ```

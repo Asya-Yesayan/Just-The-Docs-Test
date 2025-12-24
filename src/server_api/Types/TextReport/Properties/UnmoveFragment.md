@@ -2,6 +2,8 @@
 title: TextReport.UnmoveFragment հատկություն
 ---
 
+# TextReport.UnmoveFragment հատկություն
+
 ```c#
 public bool UnmoveFragment { get; set; }
 ```

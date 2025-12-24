@@ -2,6 +2,8 @@
 title: LiteDocument.Fields հատկություն
 ---
 
+# LiteDocument.Fields հատկություն
+
 ```c#
 public Dictionary<string, object> Fields { get; private set; }
 ```

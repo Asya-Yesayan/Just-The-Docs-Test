@@ -1,7 +1,9 @@
 ---
 layout: page
-title: "AfterCommitEventArgs դաս" 
+title: "AfterCommitEventArgs դաս"
 ---
+
+# AfterCommitEventArgs դաս
 
 Այս դասը օգտագործվում է [Document.AfterCommit](../../Definitions/Document/Methods/AfterCommit.md) մեթոդում։
 

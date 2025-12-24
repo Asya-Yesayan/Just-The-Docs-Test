@@ -2,6 +2,8 @@
 title: Document.OnRejectDocumentChangeRequest(RejectDocumentChangeRequestEventArgs) մեթոդ
 ---
 
+# Document.OnRejectDocumentChangeRequest(RejectDocumentChangeRequestEventArgs) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [OnRejectDCR](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/ScriptProcs/OnRejectDCR.html)

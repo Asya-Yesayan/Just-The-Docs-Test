@@ -2,6 +2,8 @@
 title: RODocument.Fields հատկություն
 ---
 
+# RODocument.Fields հատկություն
+
 ```c#
 public Dictionary<string, object> Fields { get; private set; }
 ```

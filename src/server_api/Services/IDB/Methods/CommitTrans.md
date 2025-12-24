@@ -2,6 +2,8 @@
 title: IDBService.CommitTrans() մեթոդ
 ---
 
+# IDBService.CommitTrans() մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsDocEngine.CommitTrans](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/Functions/TransactionManagment/CommitTrans.html)

@@ -1,6 +1,8 @@
 ---
-title: IOlapDBService.RollBackTrans() մեթոդ  
+title: IOlapDBService.RollBackTrans() մեթոդ
 ---
+
+# IOlapDBService.RollBackTrans() մեթոդ
 
 ## Նկարագիր
 

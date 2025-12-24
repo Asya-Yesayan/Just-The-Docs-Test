@@ -2,6 +2,8 @@
 title: MeterManager.GlobalTags հատկություն
 ---
 
+# MeterManager.GlobalTags հատկություն
+
 ```c#
 protected internal IReadOnlyDictionary<string, object> GlobalTags { get; }
 ```

@@ -2,6 +2,8 @@
 title: DataSourceService.GetColumnsDefinition(string) մեթոդ
 ---
 
+# DataSourceService.GetColumnsDefinition(string) մեթոդ
+
 ## Նկարագիր
 
 **Դաս՝** [DataSourceService](../DataSourceService.md)

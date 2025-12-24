@@ -2,6 +2,8 @@
 title: IDocumentService.DeserializeRequestBody(DocumentModel, bool) մեթոդ
 ---
 
+# IDocumentService.DeserializeRequestBody(DocumentModel, bool) մեթոդ
+
 ## Նկարագիր
 
 **Դաս՝** [IDocumentService](../IDocumentService.md)

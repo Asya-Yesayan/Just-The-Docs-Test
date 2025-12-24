@@ -1,6 +1,8 @@
 ---
-title: ITemplateSubstitutionService.LoadAndSubstitute(IPrintTemplateSubstitution, string, SubstitutionType, HtmlImageOption, string, bool) մեթոդ  
+title: ITemplateSubstitutionService.LoadAndSubstitute(IPrintTemplateSubstitution, string, SubstitutionType, HtmlImageOption, string, bool) մեթոդ
 ---
+
+# ITemplateSubstitutionService.LoadAndSubstitute(IPrintTemplateSubstitution, string, SubstitutionType, HtmlImageOption, string, bool) մեթոդ
 
 ## Նկարագիր
 

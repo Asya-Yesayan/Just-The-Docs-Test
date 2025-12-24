@@ -2,6 +2,8 @@
 title: Document.IsNew հատկություն
 ---
 
+# Document.IsNew հատկություն
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsDoc.IsNew](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/ASDOC/IsNew.html)

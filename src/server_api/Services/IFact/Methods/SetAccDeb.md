@@ -2,6 +2,8 @@
 title: IFactService.SetAccDeb(Fact, string, bool) մեթոդ
 ---
 
+# IFactService.SetAccDeb(Fact, string, bool) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsFact.AccDeb](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/ASFACT/AccDeb.html)

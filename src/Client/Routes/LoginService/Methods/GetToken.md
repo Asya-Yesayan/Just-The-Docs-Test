@@ -2,6 +2,8 @@
 title: LoginService.GetToken(TimeSpan?) մեթոդ
 ---
 
+# LoginService.GetToken(TimeSpan?) մեթոդ
+
 ```c#
 public string GetToken(TimeSpan? timeSpan = null)
 ```

@@ -2,6 +2,8 @@
 title: DocumentExtender.PostBeforeCommit(Document, BeforeCommitEventArgs) մեթոդ
 ---
 
+# DocumentExtender.PostBeforeCommit(Document, BeforeCommitEventArgs) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** ScriptExtension.DocPostBeforeCommit

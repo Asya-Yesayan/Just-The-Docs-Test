@@ -2,6 +2,8 @@
 title: IDBService.ActiveTrans() մեթոդ
 ---
 
+# IDBService.ActiveTrans() մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsDocEngine.InTrans](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/Functions/TransactionManagment/InTrans.html)

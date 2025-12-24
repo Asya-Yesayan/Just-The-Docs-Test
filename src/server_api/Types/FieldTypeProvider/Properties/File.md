@@ -2,6 +2,8 @@
 title: FieldTypeProvider.File հատկություն
 ---
 
+# FieldTypeProvider.File հատկություն
+
 ```c#
 public static FileFieldType File { get; }
 ```

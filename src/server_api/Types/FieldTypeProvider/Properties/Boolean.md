@@ -2,6 +2,8 @@
 title: FieldTypeProvider.Boolean հատկություն
 ---
 
+# FieldTypeProvider.Boolean հատկություն
+
 ```c#
 public static BooleanFieldType Boolean { get; }
 ```

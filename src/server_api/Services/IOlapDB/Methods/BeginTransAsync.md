@@ -1,6 +1,8 @@
 ---
-title: IOlapDBService.BeginTransAsync() մեթոդ  
+title: IOlapDBService.BeginTransAsync() մեթոդ
 ---
+
+# IOlapDBService.BeginTransAsync() մեթոդ
 
 ## Նկարագիր
 

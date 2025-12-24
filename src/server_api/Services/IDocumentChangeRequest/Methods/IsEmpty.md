@@ -2,6 +2,8 @@
 title: IDocumentChangeRequestService.IsEmpty(DocumentChangeRequest, bool) մեթոդ
 ---
 
+# IDocumentChangeRequestService.IsEmpty(DocumentChangeRequest, bool) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** DocChangeRequest.IsEmpty

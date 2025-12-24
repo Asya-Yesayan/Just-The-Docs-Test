@@ -2,6 +2,8 @@
 title: DocumentExtender.PostFolders(Document, FoldersEventArgs) մեթոդ
 ---
 
+# DocumentExtender.PostFolders(Document, FoldersEventArgs) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** ScriptExtension.DocPostFolders

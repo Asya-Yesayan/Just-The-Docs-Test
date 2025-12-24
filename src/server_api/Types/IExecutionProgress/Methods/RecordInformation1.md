@@ -2,6 +2,8 @@
 title: IExecutionProgress.RecordInformation(string, int, string, int, Dictionary<string, object>) մեթոդ
 ---
 
+# IExecutionProgress.RecordInformation(string, int, string, int, Dictionary<string, object>) մեթոդ
+
 ## Նկարագիր
 
 **Դաս՝** [IExecutionProgress](../../IExecutionProgress.md)

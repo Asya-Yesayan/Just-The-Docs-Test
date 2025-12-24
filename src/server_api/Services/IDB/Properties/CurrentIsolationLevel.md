@@ -2,6 +2,8 @@
 title: IDBService.CurrentIsolationLevel հատկություն
 ---
 
+# IDBService.CurrentIsolationLevel հատկություն
+
 ## Նկարագիր
 
 **Դաս՝** [IDBService](../IDBService.md)

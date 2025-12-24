@@ -2,6 +2,8 @@
 title: DataSource.MakeSQLCommand(DataSourceArgs<P>, CancellationToken) մեթոդ
 ---
 
+# DataSource.MakeSQLCommand(DataSourceArgs<P>, CancellationToken) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [SQL](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/ScriptProcs/SQL.html)

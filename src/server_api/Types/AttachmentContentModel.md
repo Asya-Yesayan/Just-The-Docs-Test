@@ -1,7 +1,9 @@
 ---
 layout: page
-title: "AttachmentContentModel" 
+title: "AttachmentContentModel"
 ---
+
+# AttachmentContentModel
 
 Դասը պարունակում է փաստաթղթին կցված ֆայլի պարունակությունը փոխելու տվյալներ։
 

@@ -2,6 +2,8 @@
 title: TemplateSubstitution.ExistsAtomic(string) մեթոդ
 ---
 
+# TemplateSubstitution.ExistsAtomic(string) մեթոդ
+
 ```c#
 public bool ExistsAtomic(string name)
 ```

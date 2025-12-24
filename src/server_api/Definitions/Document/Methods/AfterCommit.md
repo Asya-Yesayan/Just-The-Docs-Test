@@ -2,6 +2,8 @@
 title: Document.AfterCommit(AfterCommitEventArgs) մեթոդ
 ---
 
+# Document.AfterCommit(AfterCommitEventArgs) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AfterCommit](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/ScriptProcs/AfterCommit.html)

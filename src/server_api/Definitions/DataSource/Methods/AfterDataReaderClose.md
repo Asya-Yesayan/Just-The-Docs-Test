@@ -2,6 +2,8 @@
 title: DataSource.AfterDataReaderClose մեթոդ
 ---
 
+# DataSource.AfterDataReaderClose մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [OnEachRow](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/ScriptProcs/OnEachRow.html) + [Valid](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/ScriptProcs/Valid_Data.html)

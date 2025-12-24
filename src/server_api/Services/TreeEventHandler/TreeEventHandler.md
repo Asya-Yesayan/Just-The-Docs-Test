@@ -2,6 +2,8 @@
 title: TreeEventHandler սերվիս
 ---
 
+# TreeEventHandler սերվիս
+
 ## Ներածություն 
 
 Այս դասը նախատեսված է ծառի հանգույցի հետ կատարվող հիմնական գործողություններից ([ավելացում](../TreeElements/Methods/AddNode.md), [հեռացում](../TreeElements/Methods/DeleteNode.md)...) առաջ/հետո աշխատող վիրտուալ մեթոդների նկարագրման համար։

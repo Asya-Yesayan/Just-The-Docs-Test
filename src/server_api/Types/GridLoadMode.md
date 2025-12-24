@@ -1,7 +1,9 @@
 ---
 layout: page
-title: "GridLoadMode" 
+title: "GridLoadMode"
 ---
+
+# GridLoadMode
 
 ## Փաստաթղթի աղյուսակների բեռնման հայտանիշ
 

@@ -2,6 +2,8 @@
 title: LoginService.IsAdmin հատկություն
 ---
 
+# LoginService.IsAdmin հատկություն
+
 ```c#
 public bool IsAdmin { get; private set; }
 ```

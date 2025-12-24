@@ -2,6 +2,8 @@
 title: LoginController.GetBackgroundActions() մեթոդ
 ---
 
+# LoginController.GetBackgroundActions() մեթոդ
+
 ```c#
 [HttpGet("BackgroundActions")]
 [Authorize]

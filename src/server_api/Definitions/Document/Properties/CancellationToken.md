@@ -2,6 +2,8 @@
 title: Document.CancellationToken հատկություն
 ---
 
+# Document.CancellationToken հատկություն
+
 ## Նկարագիր
 
 **Դաս՝** [Document](../Document.md)

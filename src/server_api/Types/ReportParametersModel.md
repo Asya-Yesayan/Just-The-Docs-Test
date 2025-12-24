@@ -1,6 +1,8 @@
 ---
-title: "ReportParametersModel դաս" 
+title: "ReportParametersModel դաս"
 ---
+
+# ReportParametersModel դաս
 
 Դասը պարունակում է տվյալներ դիտելու ձևի պարամետրի մասին։
 

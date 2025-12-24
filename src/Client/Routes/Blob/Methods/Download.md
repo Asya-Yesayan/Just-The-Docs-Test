@@ -2,6 +2,8 @@
 title: BlobRoutes.Download(string, string) մեթոդ
 ---
 
+# BlobRoutes.Download(string, string) մեթոդ
+
 ```c#
 public Stream Download(string container, 
                        string blobName)

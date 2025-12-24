@@ -2,6 +2,8 @@
 title: Document.LoadImagesAndMemos(ArchiveInfo) մեթոդ
 ---
 
+# Document.LoadImagesAndMemos(ArchiveInfo) մեթոդ
+
 ## Նկարագիր
 
 **Դաս՝** [Document](../Document.md)

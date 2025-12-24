@@ -2,6 +2,8 @@
 title: TextReport.PrintStyle հատկություն
 ---
 
+# TextReport.PrintStyle հատկություն
+
 ```c#
 public string PrintStyle { get; set; } = string.Empty;
 ```

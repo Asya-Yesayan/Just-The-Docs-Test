@@ -1,7 +1,9 @@
 ---
 layout: page
-title: "FoldersEventArgs դաս" 
+title: "FoldersEventArgs դաս"
 ---
+
+# FoldersEventArgs դաս
 
 Այս դասը օգտագործվում է [Document.Folders](../../Definitions/Document/Methods/Folders.md) մեթոդում։
 

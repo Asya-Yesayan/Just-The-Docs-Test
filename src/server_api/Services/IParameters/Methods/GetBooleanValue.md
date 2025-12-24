@@ -1,6 +1,8 @@
 ---
-title: IParametersService.GetBooleanValue մեթոդ  
+title: IParametersService.GetBooleanValue մեթոդ
 ---
+
+# IParametersService.GetBooleanValue մեթոդ
 
 ## Նկարագիր
 

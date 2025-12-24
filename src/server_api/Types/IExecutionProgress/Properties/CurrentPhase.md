@@ -2,6 +2,8 @@
 title: IExecutionProgress.CurrentPhase հատկություն
 ---
 
+# IExecutionProgress.CurrentPhase հատկություն
+
 ## Նկարագիր
 
 **Դաս՝** [IExecutionProgress](../../IExecutionProgress.md)

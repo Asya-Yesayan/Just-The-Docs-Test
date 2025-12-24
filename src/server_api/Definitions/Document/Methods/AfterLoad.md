@@ -2,6 +2,8 @@
 title: Document.AfterLoad(AfterLoadEventArgs) մեթոդ
 ---
 
+# Document.AfterLoad(AfterLoadEventArgs) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AfterLoad](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/ScriptProcs/AfterLoad.html)

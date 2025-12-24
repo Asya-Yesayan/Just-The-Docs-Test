@@ -2,6 +2,8 @@
 title: TemplateSubstitution.AddRekvValuesFromDoc(Document.Document, string, string) մեթոդ
 ---
 
+# TemplateSubstitution.AddRekvValuesFromDoc(Document.Document, string, string) մեթոդ
+
 ```c#
 public void AddRekvValuesFromDoc(Document.Document document, 
                                  string prefix = "", 

@@ -2,6 +2,8 @@
 title: MeterManager.Configuration հատկություն
 ---
 
+# MeterManager.Configuration հատկություն
+
 ```c#
 protected IConfiguration Configuration { get; }
 ```

@@ -2,6 +2,8 @@
 title: DataSource.ExtenderSchema հատկություն
 ---
 
+# DataSource.ExtenderSchema հատկություն
+
 ```c#
 public ExtenderSchemaEx ExtenderSchema { get; set; }
 ```

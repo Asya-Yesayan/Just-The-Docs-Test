@@ -2,6 +2,8 @@
 title: FieldTypeProvider.Amount հատկություն
 ---
 
+# FieldTypeProvider.Amount հատկություն
+
 ```c#
 public static AmountFieldType Amount { get; }
 ```

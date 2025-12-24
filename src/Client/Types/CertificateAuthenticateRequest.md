@@ -1,7 +1,9 @@
 ---
 layout: page
-title: "CertificateAuthenticateRequest դաս" 
+title: "CertificateAuthenticateRequest դաս"
 ---
+
+# CertificateAuthenticateRequest դաս
 
 Դասը պարունակում է նույնականացման ենթակա սերտիֆիկատով կլիենտ ծրագրի և օգտագործողի տվյալները։
 

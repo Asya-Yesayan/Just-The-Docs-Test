@@ -2,6 +2,8 @@
 title: DocumentExtender.PostStoreGrid(Document, StoreGridsEventArgs) մեթոդ
 ---
 
+# DocumentExtender.PostStoreGrid(Document, StoreGridsEventArgs) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** ScriptExtension.DocPostStoreGrid

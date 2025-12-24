@@ -2,6 +2,8 @@
 title: RODocument.indexer հատկություն
 ---
 
+# RODocument.indexer հատկություն
+
 ```c#
 public object this[string name] { get; }
 ```

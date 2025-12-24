@@ -2,6 +2,8 @@
 title: TemplateSubstitution.Add(string, char) մեթոդ
 ---
 
+# TemplateSubstitution.Add(string, char) մեթոդ
+
 ```c#
 public void Add(string code, char value)
 ```

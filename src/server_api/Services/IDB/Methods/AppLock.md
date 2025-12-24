@@ -2,6 +2,8 @@
 title: IDBService.AppLock(string, string, string, string, int, string) մեթոդ
 ---
 
+# IDBService.AppLock(string, string, string, string, int, string) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsKernel.AppLock](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/Functions/AppLock.html)

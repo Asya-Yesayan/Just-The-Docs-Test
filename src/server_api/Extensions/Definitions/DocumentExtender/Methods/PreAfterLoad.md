@@ -2,6 +2,8 @@
 title: DocumentExtender.PreAfterLoad(Document, AfterLoadEventArgs) մեթոդ
 ---
 
+# DocumentExtender.PreAfterLoad(Document, AfterLoadEventArgs) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** ScriptExtension.DocPreAfterLoad

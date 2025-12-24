@@ -1,6 +1,8 @@
 ---
-title: IMailService.SendMail(MailArgs) մեթոդ  
+title: IMailService.SendMail(MailArgs) մեթոդ
 ---
+
+# IMailService.SendMail(MailArgs) մեթոդ
 
 ## Նկարագիր
 

@@ -2,6 +2,8 @@
 title: TextReport.DocBased հատկություն
 ---
 
+# TextReport.DocBased հատկություն
+
 ```c#
 public bool DocBased { get; set; }
 ```

@@ -2,6 +2,8 @@
 title: LoginController դաս
 ---
 
+# LoginController դաս
+
 ## Մեթոդներ
 
 | Անվանում | Նկարագրություն |

@@ -2,6 +2,8 @@
 title: TextReport.AddFooter(string) մեթոդ
 ---
 
+# TextReport.AddFooter(string) մեթոդ
+
 ```c#
 public void AddFooter(string footer)
 ```

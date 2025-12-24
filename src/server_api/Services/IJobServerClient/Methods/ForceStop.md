@@ -1,6 +1,8 @@
 ---
-title: IProcessServerClient.ForceStop(Guid, string) մեթոդ  
+title: IProcessServerClient.ForceStop(Guid, string) մեթոդ
 ---
+
+# IProcessServerClient.ForceStop(Guid, string) մեթոդ
 
 ## Նկարագիր
 

@@ -2,6 +2,8 @@
 title: TemplateSubstitutionEventArgs.Mode հատկություն
 ---
 
+# TemplateSubstitutionEventArgs.Mode հատկություն
+
 ## Նկարագիր
 
 **Դաս՝** [TemplateSubstitutionEventArgs](../TemplateSubstitutionEventArgs.md)

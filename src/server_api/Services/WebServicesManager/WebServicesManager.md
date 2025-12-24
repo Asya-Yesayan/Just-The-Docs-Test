@@ -2,6 +2,8 @@
 title: WebServicesManager սերվիս
 ---
 
+# WebServicesManager սերվիս
+
 ## Մեթոդներ
 
 | Անվանում | Նկարագրություն |

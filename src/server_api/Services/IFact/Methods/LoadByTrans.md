@@ -2,6 +2,8 @@
 title: IFactService.LoadByTrans(int, int, string, string) մեթոդ
 ---
 
+# IFactService.LoadByTrans(int, int, string, string) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsKernel.LoadFactByTrans](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/Functions/AccManagement/LoadFactByTrans.html)

@@ -2,6 +2,8 @@
 title: Extender.AddColumn(string, string, string, FieldType, string, string, FieldType, short, short, SupportedEncoding) մեթոդ
 ---
 
+# Extender.AddColumn(string, string, string, FieldType, string, string, FieldType, short, short, SupportedEncoding) մեթոդ
+
 ## Նկարագիր
 
 **Դաս՝** [Extender](../ds_extender.md)

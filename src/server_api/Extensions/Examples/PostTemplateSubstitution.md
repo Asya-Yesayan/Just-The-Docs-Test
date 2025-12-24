@@ -1,6 +1,8 @@
 ---
-title: "PostTemplateSubstitution-ի օգտագործման օրինակ" 
+title: "PostTemplateSubstitution-ի օգտագործման օրինակ"
 ---
+
+# PostTemplateSubstitution-ի օգտագործման օրինակ
 
 Ստորև նկարագրված է փաստաթղթին կապակցված տպելու ձևանմուշը տպելիս նաև այլ ձևանմուշի տպման օրինակ։ 
 

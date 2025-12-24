@@ -2,6 +2,8 @@
 title: DataProcessingRequest.ArmenianCaption հատկություն
 ---
 
+# DataProcessingRequest.ArmenianCaption հատկություն
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [DataProcessingRequest.Caption](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/DataProcessingRequest.html#caption)

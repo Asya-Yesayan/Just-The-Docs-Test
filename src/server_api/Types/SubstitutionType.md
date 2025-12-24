@@ -1,6 +1,8 @@
 ---
-title: "SubstitutionType SmartEnum" 
+title: "SubstitutionType SmartEnum"
 ---
+
+# SubstitutionType SmartEnum
 
 Այս enum-ը նախատեսված է տպելու ձևանմուշի տիպի սահմանման համար։
 

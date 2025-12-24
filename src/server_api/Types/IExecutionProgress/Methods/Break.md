@@ -2,6 +2,8 @@
 title: IExecutionProgress.Break() մեթոդ
 ---
 
+# IExecutionProgress.Break() մեթոդ
+
 ## Նկարագիր
 
 **Դաս՝** [IExecutionProgress](../../IExecutionProgress.md)

@@ -2,6 +2,8 @@
 title: Document.OnConfirmDocumentChangeRequest(ConfirmDocumentChangeRequestEventArgs) մեթոդ
 ---
 
+# Document.OnConfirmDocumentChangeRequest(ConfirmDocumentChangeRequestEventArgs) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [OnConfirmDCR](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/ScriptProcs/OnConfirmDCR.html)

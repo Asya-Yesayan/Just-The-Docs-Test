@@ -1,6 +1,8 @@
 ---
-title: ITemplateSubstitutionService.MergeFile մեթոդ  
+title: ITemplateSubstitutionService.MergeFile մեթոդ
 ---
+
+# ITemplateSubstitutionService.MergeFile մեթոդ
 
 ## Գերբեռնումներ
 

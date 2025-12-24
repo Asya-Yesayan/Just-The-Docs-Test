@@ -2,6 +2,8 @@
 title: TemplateSubstitution.Add(string, TimeSpan?) մեթոդ
 ---
 
+# TemplateSubstitution.Add(string, TimeSpan?) մեթոդ
+
 ```c#
 public void Add(string code, TimeSpan? value)
 ```

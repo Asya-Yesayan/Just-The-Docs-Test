@@ -1,6 +1,8 @@
 ---
-title: IParametersService.SetHiPar(string, DateTime, int, string, string, DateTime?) մեթոդ  
+title: IParametersService.SetHiPar(string, DateTime, int, string, string, DateTime?) մեթոդ
 ---
+
+# IParametersService.SetHiPar(string, DateTime, int, string, string, DateTime?) մեթոդ
 
 ## Նկարագիր
 

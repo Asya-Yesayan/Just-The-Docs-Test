@@ -1,6 +1,8 @@
 ---
-title: IKernelService.GetTurnHI2(string, int, int, DateTime, DateTime, string, int) մեթոդ  
+title: IKernelService.GetTurnHI2(string, int, int, DateTime, DateTime, string, int) մեթոդ
 ---
+
+# IKernelService.GetTurnHI2(string, int, int, DateTime, DateTime, string, int) մեթոդ
 
 ## Նկարագիր
 

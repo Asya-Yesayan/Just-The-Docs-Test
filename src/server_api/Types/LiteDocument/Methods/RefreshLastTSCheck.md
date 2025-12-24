@@ -2,6 +2,8 @@
 title: LiteDocument.RefreshLastTSCheck() մեթոդ
 ---
 
+# LiteDocument.RefreshLastTSCheck() մեթոդ
+
 ```c#
 public void RefreshLastTSCheck();
 ```

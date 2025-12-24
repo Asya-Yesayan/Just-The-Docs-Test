@@ -2,6 +2,8 @@
 title: IExecutionProgress.LoggingAdditionalData հատկություն
 ---
 
+# IExecutionProgress.LoggingAdditionalData հատկություն
+
 ## Նկարագիր
 
 **Դաս՝** [IExecutionProgress](../../IExecutionProgress.md)

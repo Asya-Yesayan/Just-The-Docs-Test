@@ -2,6 +2,8 @@
 title: Document.Progress հատկություն
 ---
 
+# Document.Progress հատկություն
+
 ## Նկարագիր
 
 **Դաս՝** [Document](../Document.md)

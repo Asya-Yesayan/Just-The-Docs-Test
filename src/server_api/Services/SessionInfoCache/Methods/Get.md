@@ -2,6 +2,8 @@
 title: SessionInfoCacheService.Get(string) մեթոդ
 ---
 
+# SessionInfoCacheService.Get(string) մեթոդ
+
 ```c#
 public SessionInfo Get(string sessionGuid)
 ```

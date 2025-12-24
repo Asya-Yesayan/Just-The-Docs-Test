@@ -2,6 +2,8 @@
 title: IFactService.LoadByObject(string, int, DateTime, DateTime, string) մեթոդ
 ---
 
+# IFactService.LoadByObject(string, int, DateTime, DateTime, string) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsKernel.LoadFactByObject](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/Functions/AccManagement/LoadFactByObject.html)

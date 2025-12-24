@@ -2,6 +2,8 @@
 title: DocumentRoutes.Load(int, bool, bool) մեթոդ
 ---
 
+# DocumentRoutes.Load(int, bool, bool) մեթոդ
+
 ```c#
 public DocumentModelSimple Load(int isn, 
                                 bool throwExceptionIfDeleted = true, 

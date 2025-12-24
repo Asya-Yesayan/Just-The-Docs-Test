@@ -2,6 +2,8 @@
 title: Extender.ProccessRow(IExtendableRow, IDataSourceArgs) մեթոդ
 ---
 
+# Extender.ProccessRow(IExtendableRow, IDataSourceArgs) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** ScriptExtension.DataPostValid

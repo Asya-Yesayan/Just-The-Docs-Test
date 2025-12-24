@@ -2,6 +2,8 @@
 title: WebServicesManager.Get(string, string) մեթոդ
 ---
 
+# WebServicesManager.Get(string, string) մեթոդ
+
 ```c#
 public async Task<List<WebServiceInfo>> Get(string id = null, string role = null)
 ```

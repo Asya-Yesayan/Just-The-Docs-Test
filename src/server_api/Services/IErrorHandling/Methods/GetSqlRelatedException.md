@@ -2,6 +2,8 @@
 title: IErrorHandlingService.GetSqlRelatedException(SqlException, string, bool) մեթոդ
 ---
 
+# IErrorHandlingService.GetSqlRelatedException(SqlException, string, bool) մեթոդ
+
 ## Նկարագիր
 
 **Դաս՝** [IErrorHandlingService](../IErrorHandlingService.md)

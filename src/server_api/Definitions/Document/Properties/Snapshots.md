@@ -2,6 +2,8 @@
 title: Document.Snapshots հատկություն
 ---
 
+# Document.Snapshots հատկություն
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** AsDoc.Snapshots

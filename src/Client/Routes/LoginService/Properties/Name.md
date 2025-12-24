@@ -2,6 +2,8 @@
 title: LoginService.Name հատկություն
 ---
 
+# LoginService.Name հատկություն
+
 ```c#
 public string Name { get; private set; }
 ```

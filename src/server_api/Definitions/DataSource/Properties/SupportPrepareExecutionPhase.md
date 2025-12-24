@@ -2,6 +2,8 @@
 title: DataSource.SupportPrepareExecutionPhase հատկություն
 ---
 
+# DataSource.SupportPrepareExecutionPhase հատկություն
+
 ## Նկարագիր
 
 **Դաս՝** [DataSource](../DataSource.md)

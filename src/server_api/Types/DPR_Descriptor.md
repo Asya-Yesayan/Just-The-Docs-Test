@@ -1,7 +1,10 @@
 ---
 layout: page
-title: "Descriptor" 
+title: "Descriptor"
 ---
+
+# Descriptor
+
     
 Այս դասը նախատեսված է [DPR](../Definitions/DataProcessingRequest/DataProcessingRequest.md)-ի մետատվյալների նկարագրման համար։
 

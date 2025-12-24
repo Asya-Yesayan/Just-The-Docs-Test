@@ -2,6 +2,8 @@
 title: Document.TemplateSubstitutionEx(Dictionary<string, bool>, Dictionary<string, object>) մեթոդ
 ---
 
+# Document.TemplateSubstitutionEx(Dictionary<string, bool>, Dictionary<string, object>) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [TemplateSubstitution](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/ScriptProcs/TemplateSubstitution.html)

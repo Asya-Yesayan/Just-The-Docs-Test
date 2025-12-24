@@ -2,6 +2,8 @@
 title: TemplateSubstitutionEventArgs.AddSubstitutedFile(StorageInfo) մեթոդ
 ---
 
+# TemplateSubstitutionEventArgs.AddSubstitutedFile(StorageInfo) մեթոդ
+
 ## Նկարագիր
 
 **Դաս՝** [TemplateSubstitutionEventArgs](../TemplateSubstitutionEventArgs.md)

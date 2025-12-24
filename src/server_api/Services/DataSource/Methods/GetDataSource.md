@@ -2,6 +2,8 @@
 title: DataSourceService.GetDataSource մեթոդ
 ---
 
+# DataSourceService.GetDataSource մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsKernel.Data](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/Functions/SysDefManagment/Data.html)

@@ -2,6 +2,8 @@
 title: IDocumentService.CheckTransactionExistence(string, int, int) մեթոդ
 ---
 
+# IDocumentService.CheckTransactionExistence(string, int, int) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** AsDocEngine.CheckTransExist

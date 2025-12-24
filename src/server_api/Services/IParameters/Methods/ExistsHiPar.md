@@ -1,6 +1,8 @@
 ---
-title: IParametersService.ExistsHiPar(string, DateTime, bool, string) մեթոդ  
+title: IParametersService.ExistsHiPar(string, DateTime, bool, string) մեթոդ
 ---
+
+# IParametersService.ExistsHiPar(string, DateTime, bool, string) մեթոդ
 
 ## Նկարագիր
 

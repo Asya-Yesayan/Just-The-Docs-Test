@@ -2,6 +2,8 @@
 title: IFactService.SetAccCrd(Fact, string, bool) մեթոդ
 ---
 
+# IFactService.SetAccCrd(Fact, string, bool) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsFact.AccCrd](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/ASFACT/AccCrd.html)

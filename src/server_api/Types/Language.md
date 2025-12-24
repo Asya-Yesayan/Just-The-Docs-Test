@@ -1,7 +1,9 @@
 ---
 layout: page
-title: "Language" 
+title: "Language"
 ---
+
+# Language
 
 Լեզուների ցուցակ՝ հայերեն, ռուսերեն, անգլերեն։
 

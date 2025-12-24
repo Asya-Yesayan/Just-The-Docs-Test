@@ -2,6 +2,8 @@
 title: IDocumentService.SetGridDefaultValues(Document, Dictionary<string, HashSet<string>>) մեթոդ
 ---
 
+# IDocumentService.SetGridDefaultValues(Document, Dictionary<string, HashSet<string>>) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsKernel.SetGridDefValue](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/Functions/SetGridDefValue.html)

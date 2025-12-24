@@ -2,6 +2,8 @@
 title: IDBService.BeginTrans() մեթոդ
 ---
 
+# IDBService.BeginTrans() մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsDocEngine.BeginTrans](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/Functions/TransactionManagment/BeginTrans.html)

@@ -2,6 +2,8 @@
 title: IExecutionProgress.HasError հատկություն
 ---
 
+# IExecutionProgress.HasError հատկություն
+
 ## Նկարագիր
 
 **Դաս՝** [IExecutionProgress](../../IExecutionProgress.md)

@@ -2,6 +2,8 @@
 title: "IOlapDBService սերվիս"
 ---
 
+# IOlapDBService սերվիս
+
 ## Ներածություն
 
 IOlapDBService դասը նախատեսված է **OLAP** տվյալների պահոցի հետ աշխատանքը ապահովելու համար։

@@ -1,6 +1,8 @@
 ---
-title: IPermanentStorageService.GetBlobAsync(string, string, CancellationToken) մեթոդ  
+title: IPermanentStorageService.GetBlobAsync(string, string, CancellationToken) մեթոդ
 ---
+
+# IPermanentStorageService.GetBlobAsync(string, string, CancellationToken) մեթոդ
 
 ## Նկարագիր
 

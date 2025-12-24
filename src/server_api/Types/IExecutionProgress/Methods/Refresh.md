@@ -2,6 +2,8 @@
 title: IExecutionProgress.Refresh(string) մեթոդ
 ---
 
+# IExecutionProgress.Refresh(string) մեթոդ
+
 ## Նկարագիր
 
 **Դաս՝** [IExecutionProgress](../../IExecutionProgress.md)

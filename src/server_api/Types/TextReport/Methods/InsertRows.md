@@ -2,6 +2,8 @@
 title: TextReport.InsertRows(TextReport, long, long) մեթոդ
 ---
 
+# TextReport.InsertRows(TextReport, long, long) մեթոդ
+
 ```c#
 public Task InsertRows(TextReport textReport, long begin = 0, long rowCount = 0)
 ```

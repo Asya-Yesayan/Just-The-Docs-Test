@@ -2,6 +2,8 @@
 title: ClientsRoutes.CreateClientFromEkeng(CreateClientFromEkengRequest) մեթոդ
 ---
 
+# ClientsRoutes.CreateClientFromEkeng(CreateClientFromEkengRequest) մեթոդ
+
 ```c#
 public Task<CreatePhysicalClientByFullDataResponse> CreateClientFromEkeng(
     CreateClientFromEkengRequest request)

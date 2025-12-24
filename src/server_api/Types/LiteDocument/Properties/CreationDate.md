@@ -2,6 +2,8 @@
 title: LiteDocument.CreationDate հատկություն
 ---
 
+# LiteDocument.CreationDate հատկություն
+
 ```c#
 public DateTime CreationDate { get; internal set; }
 ```

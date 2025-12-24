@@ -2,6 +2,8 @@
 title: DataSource.Execute(P, HashSet<string>, IExtender, CancellationToken) մեթոդ
 ---
 
+# DataSource.Execute(P, HashSet<string>, IExtender, CancellationToken) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [OpenCursor](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/ASDATA/OpenCursor.html)

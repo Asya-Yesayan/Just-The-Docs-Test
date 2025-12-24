@@ -2,6 +2,8 @@
 title: Document.Store(DocumentCheckLevel, string) մեթոդ
 ---
 
+# Document.Store(DocumentCheckLevel, string) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsDoc.Store](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/ASDOC/Store.html)

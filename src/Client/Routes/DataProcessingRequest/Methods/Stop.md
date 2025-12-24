@@ -2,6 +2,8 @@
 title: DataProcessingRequestRoutes.Stop(Guid) մեթոդ
 ---
 
+# DataProcessingRequestRoutes.Stop(Guid) մեթոդ
+
 ```c#
 public void Stop(Guid id)
 ```

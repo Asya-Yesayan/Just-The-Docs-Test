@@ -2,6 +2,8 @@
 title: IDocumentService.GetSUIDAndDate(int, int, bool) մեթոդ
 ---
 
+# IDocumentService.GetSUIDAndDate(int, int, bool) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsDocEngine.StateMovedSUID](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/Functions/DocumentsCirculation/StateMovedSUID.html)

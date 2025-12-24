@@ -2,6 +2,8 @@
 title: LoginController.Refresh(RefreshRequest) մեթոդ
 ---
 
+# LoginController.Refresh(RefreshRequest) մեթոդ
+
 ```c#
 [HttpPost("[action]")]
 [ApiVersion("2.0")]

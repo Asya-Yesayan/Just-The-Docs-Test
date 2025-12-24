@@ -1,9 +1,8 @@
 ---
-title: DataProcessingRequestHandler.ExecuteAsync(DPRType, string, T, bool,
-                                                 int, int, bool,
-                                                 Dictionary<int, UIRequestResultBase>,
-                                                 CancellationToken) մեթոդ
+title: DataProcessingRequestHandler.ExecuteAsync(DPRType, string, T, bool, int, int, bool, Dictionary<int, UIRequestResultBase>, CancellationToken) մեթոդ
 ---
+
+# DataProcessingRequestHandler.ExecuteAsync(DPRType, string, T, bool, int, int, bool, Dictionary<int, UIRequestResultBase>, CancellationToken) մեթոդ
 
 ```c#
 public Task<(bool, R)> ExecuteAsync<T, R>(DPRType type, string name, T request, bool enableUIRequest = true,

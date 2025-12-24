@@ -1,7 +1,9 @@
 ---
 layout: page
-title: "AuthenticateResponse" 
+title: "AuthenticateResponse"
 ---
+
+# AuthenticateResponse
 
 Դասը պարունակում է նույնականացումը անցած կլիենտ ծրագրի և օգտագործողի տվյալները։
 

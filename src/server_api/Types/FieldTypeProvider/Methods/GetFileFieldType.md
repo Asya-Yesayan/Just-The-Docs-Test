@@ -2,6 +2,8 @@
 title: FieldTypeProvider.GetFileFieldType(string, bool) մեթոդ
 ---
 
+# FieldTypeProvider.GetFileFieldType(string, bool) մեթոդ
+
 ```c#
 public static FileFieldType GetFileFieldType(string fileTypes, bool isNullable = false)
 ```

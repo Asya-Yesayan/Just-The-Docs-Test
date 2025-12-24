@@ -2,6 +2,8 @@
 title: LiteDocument.LoadGrids(IDBService, ArchiveInfo) մեթոդ
 ---
 
+# LiteDocument.LoadGrids(IDBService, ArchiveInfo) մեթոդ
+
 ```c#
 public Task LoadGrids(IDBService dBService, ArchiveInfo archiveInfo = null)
 ```

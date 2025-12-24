@@ -2,6 +2,8 @@
 title: "IProcessServerClient սերվիս"
 ---
 
+# IProcessServerClient սերվիս
+
 ## Ներածություն
 
 IProcessServerClient դասը նախատեսված է [փաստաթղթի](../Definitions/Document/Document.md), [տվյալների աղբյուրի](../Definitions/DataSource/DataSource.md), [DPR](../Definitions/DataProcessingRequest/DataProcessingRequest.md)-ի կատարումը հերթի դնելու, կատարման պրոգրեսը, արդյունքը ստանալու, կատարումը ընդհատելու ֆունկցիոնալությունը ապահովելու համար։

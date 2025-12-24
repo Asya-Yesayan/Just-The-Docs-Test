@@ -1,6 +1,8 @@
 ---
-title: IKernelService.LastHI2OpDate մեթոդ  
+title: IKernelService.LastHI2OpDate մեթոդ
 ---
+
+# IKernelService.LastHI2OpDate մեթոդ
 
 ## Նկարագիր
 

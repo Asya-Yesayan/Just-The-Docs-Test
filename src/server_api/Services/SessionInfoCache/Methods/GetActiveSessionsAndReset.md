@@ -2,6 +2,8 @@
 title: SessionInfoCacheService.GetActiveSessionsAndReset() մեթոդ
 ---
 
+# SessionInfoCacheService.GetActiveSessionsAndReset() մեթոդ
+
 ```c#
 public List<SessionInfo> GetActiveSessionsAndReset()
 ```

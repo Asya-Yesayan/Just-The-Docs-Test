@@ -2,6 +2,8 @@
 title: DocumentExtender.PostValidate(Document, ValidateEventArgs) մեթոդ
 ---
 
+# DocumentExtender.PostValidate(Document, ValidateEventArgs) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** ScriptExtension.DocPostValidate

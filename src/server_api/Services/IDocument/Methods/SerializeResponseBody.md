@@ -2,6 +2,8 @@
 title: IDocumentService.SerializeResponseBody<T>(Document, bool) մեթոդ
 ---
 
+# IDocumentService.SerializeResponseBody<T>(Document, bool) մեթոդ
+
 ## Նկարագիր
 
 **Դաս՝** [IDocumentService](../IDocumentService.md)

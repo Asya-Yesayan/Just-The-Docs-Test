@@ -1,6 +1,8 @@
 ---
-title: IHolidaysService.IsHoliday(DateTime) մեթոդ  
+title: IHolidaysService.IsHoliday(DateTime) մեթոդ
 ---
+
+# IHolidaysService.IsHoliday(DateTime) մեթոդ
 
 ## Նկարագիր
 

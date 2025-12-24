@@ -2,6 +2,8 @@
 title: WebServicesManager.Delete(string) մեթոդ
 ---
 
+# WebServicesManager.Delete(string) մեթոդ
+
 ```c#
 public Task Delete(string id)
 ```

@@ -2,6 +2,8 @@
 title: IDBService.CreateAdditionalConnection(bool, string, bool) մեթոդ
 ---
 
+# IDBService.CreateAdditionalConnection(bool, string, bool) մեթոդ
+
 ## Նկարագիր
 
 **Դաս՝** [IDBService](../IDBService.md)

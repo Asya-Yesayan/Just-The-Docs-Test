@@ -2,6 +2,8 @@
 title: Extender.AlwaysCallBeforeProcess հատկություն
 ---
 
+# Extender.AlwaysCallBeforeProcess հատկություն
+
 ## Նկարագիր
 
 **Դաս՝** [Extender](../ds_extender.md)

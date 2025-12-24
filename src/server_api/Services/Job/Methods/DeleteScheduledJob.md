@@ -2,6 +2,8 @@
 title: JobService.DeleteScheduledJob(int, int, CancellationToken) մեթոդ
 ---
 
+# JobService.DeleteScheduledJob(int, int, CancellationToken) մեթոդ
+
 ```c#
 public Task DeleteScheduledJob(int scheduledId, 
                                int suid, 

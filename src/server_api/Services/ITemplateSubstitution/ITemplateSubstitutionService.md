@@ -2,6 +2,8 @@
 title: "ITemplateSubstitutionService սերվիս"
 ---
 
+# ITemplateSubstitutionService սերվիս
+
 ## Ներածություն
 
 ITemplateSubstitutionService դասը նախատեսված է տպելու ձևանմուշների լրացման հետ աշխատանքը ապահովելու համար։

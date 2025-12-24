@@ -7,6 +7,8 @@ sublinks:
 - { title: "Մանիֆեստի օրինակ, manifest.json", ref: մանիֆեստի-օրինակ }
 ---
 
+# API Client-ի ստեղծում
+
 ## Բովանդակություն
 
 - [Ինչ է Api Client-ը](#ինչ-է-api-client-ը)

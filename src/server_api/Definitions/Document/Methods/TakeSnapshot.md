@@ -2,6 +2,8 @@
 title: Document.TakeSnapshot(SnapshotContent, string, bool) մեթոդ
 ---
 
+# Document.TakeSnapshot(SnapshotContent, string, bool) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** AsDoc.TakeSnapshot

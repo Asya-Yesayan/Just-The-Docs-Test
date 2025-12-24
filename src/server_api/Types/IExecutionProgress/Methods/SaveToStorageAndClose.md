@@ -2,6 +2,8 @@
 title: IExecutionProgress.SaveToStorageAndClose() մեթոդ
 ---
 
+# IExecutionProgress.SaveToStorageAndClose() մեթոդ
+
 ## Նկարագիր
 
 **Դաս՝** [IExecutionProgress](../../IExecutionProgress.md)

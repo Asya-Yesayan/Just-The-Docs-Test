@@ -2,6 +2,8 @@
 title: "IDocumentChangeRequestService սերվիս"
 ---
 
+# IDocumentChangeRequestService սերվիս
+
 ## Ներածություն
 
 IDocumentChangeRequestService դասը նախատեսված է [փաստաթղթի փոփոխման հայտերի](../../Types/DocumentChangeRequest.md) հետ աշխատանքը ապահովելու համար։

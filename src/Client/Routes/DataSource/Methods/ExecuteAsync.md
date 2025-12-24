@@ -2,6 +2,8 @@
 title: DataSource.ExecuteAsync(P, HashSet<string>, string, CancellationToken, TimeSpan?) մեթոդ
 ---
 
+# DataSource.ExecuteAsync(P, HashSet<string>, string, CancellationToken, TimeSpan?) մեթոդ
+
 ```c#
 public Task<DataSourceResult<R>> ExecuteAsync(P param, 
                                               HashSet<string> columns = default, 

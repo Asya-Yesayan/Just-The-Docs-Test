@@ -2,6 +2,8 @@
 title: IExecutionProgress.RecordFooter(string) մեթոդ
 ---
 
+# IExecutionProgress.RecordFooter(string) մեթոդ
+
 ## Նկարագիր
 
 **Դաս՝** [IExecutionProgress](../../IExecutionProgress.md)

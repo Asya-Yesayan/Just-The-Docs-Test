@@ -2,6 +2,8 @@
 title: IDocumentService.FieldsToAnsi(string, Dictionary<string, object>) մեթոդ
 ---
 
+# IDocumentService.FieldsToAnsi(string, Dictionary<string, object>) մեթոդ
+
 ## Նկարագիր
 
 **Դաս՝** [IDocumentService](../IDocumentService.md)

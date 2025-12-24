@@ -2,6 +2,8 @@
 title: DocumentRoutes.Create(string, DocumentCreateRequestModel) մեթոդ
 ---
 
+# DocumentRoutes.Create(string, DocumentCreateRequestModel) մեթոդ
+
 ```c#
 public DocumentModelSimple Create(string type, 
                                   DocumentCreateRequestModel createRequestModel)

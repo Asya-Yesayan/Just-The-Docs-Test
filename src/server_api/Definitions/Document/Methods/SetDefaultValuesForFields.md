@@ -2,6 +2,8 @@
 title: Document.SetDefaultValuesForFields մեթոդ
 ---
 
+# Document.SetDefaultValuesForFields մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsKernel.SetDefValue](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/Functions/SetDefValue.html)

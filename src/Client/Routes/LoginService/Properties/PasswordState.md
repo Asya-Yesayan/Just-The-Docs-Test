@@ -2,6 +2,8 @@
 title: LoginService.PasswordState հատկություն
 ---
 
+# LoginService.PasswordState հատկություն
+
 ```c#
 public PasswordState? PasswordState { get; private set; }
 ```

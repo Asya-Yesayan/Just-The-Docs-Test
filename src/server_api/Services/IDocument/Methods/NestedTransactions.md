@@ -2,6 +2,8 @@
 title: IDocumentService.NestedTransactions(Document, List<T>, TextReport,bool, bool) մեթոդ
 ---
 
+# IDocumentService.NestedTransactions(Document, List<T>, TextReport,bool, bool) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsDoc.NestedTransactions](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/ASDOC/NestedTransactions.html)

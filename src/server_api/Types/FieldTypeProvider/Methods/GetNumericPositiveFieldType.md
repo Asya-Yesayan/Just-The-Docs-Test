@@ -2,6 +2,8 @@
 title: FieldTypeProvider.GetNumericPositiveFieldType(short, short, bool, string, bool) մեթոդ
 ---
 
+# FieldTypeProvider.GetNumericPositiveFieldType(short, short, bool, string, bool) մեթոդ
+
 ```c#
 public static NumericPositiveFieldType GetNumericPositiveFieldType(short fieldLength,
                                                                    short fractionalPartLength = 0, bool useCurrencyFormat = false,

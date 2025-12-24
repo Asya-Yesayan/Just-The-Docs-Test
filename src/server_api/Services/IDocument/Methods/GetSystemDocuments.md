@@ -2,6 +2,8 @@
 title: IDocumentService.GetSystemDocuments() մեթոդ
 ---
 
+# IDocumentService.GetSystemDocuments() մեթոդ
+
 ## Նկարագիր
 
 **Դաս՝** [IDocumentService](../IDocumentService.md)

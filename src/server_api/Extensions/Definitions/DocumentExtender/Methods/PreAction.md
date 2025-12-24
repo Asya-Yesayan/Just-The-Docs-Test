@@ -2,6 +2,8 @@
 title: DocumentExtender.PreAction(Document, ActionEventArgs) մեթոդ
 ---
 
+# DocumentExtender.PreAction(Document, ActionEventArgs) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** ScriptExtension.DocPreAction

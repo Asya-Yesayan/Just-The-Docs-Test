@@ -2,6 +2,8 @@
 title: IDocumentService.Copy(int, object, int) մեթոդ
 ---
 
+# IDocumentService.Copy(int, object, int) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsDocEngine.CopyDoc](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/Functions/DocumentsCirculation/CopyDoc.html)

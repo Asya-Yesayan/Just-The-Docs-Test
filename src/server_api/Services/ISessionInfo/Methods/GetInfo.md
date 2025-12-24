@@ -1,6 +1,8 @@
 ---
-title: ISessionInfoService.GetInfo() մեթոդ  
+title: ISessionInfoService.GetInfo() մեթոդ
 ---
+
+# ISessionInfoService.GetInfo() մեթոդ
 
 ## Նկարագիր
 

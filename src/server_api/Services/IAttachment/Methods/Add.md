@@ -2,6 +2,8 @@
 title: IAttachmentService.Add(AttachmentAddModel) մեթոդ
 ---
 
+# IAttachmentService.Add(AttachmentAddModel) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsAttachmentCollection.Add](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/AsAttachmentCollection/Add.html)

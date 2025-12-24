@@ -2,6 +2,8 @@
 title: FieldType4XCompatibleValidatorService.IsValid(FieldType) մեթոդ
 ---
 
+# FieldType4XCompatibleValidatorService.IsValid(FieldType) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** AsUtil.CheckSysType

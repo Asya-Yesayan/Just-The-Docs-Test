@@ -1,6 +1,8 @@
 ---
-title: IParametersService.GetStringValue մեթոդ  
+title: IParametersService.GetStringValue մեթոդ
 ---
+
+# IParametersService.GetStringValue մեթոդ
 
 ## Նկարագիր
 

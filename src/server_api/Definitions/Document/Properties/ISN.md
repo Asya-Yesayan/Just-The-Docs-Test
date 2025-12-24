@@ -2,6 +2,8 @@
 title: Document.ISN հատկություն
 ---
 
+# Document.ISN հատկություն
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsDoc.ISN](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/ASDOC/ISN.html)

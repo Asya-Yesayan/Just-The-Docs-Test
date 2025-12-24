@@ -2,6 +2,8 @@
 title: SessionInfoCacheService.UpdateLastActiveDate(string, DateTime) մեթոդ
 ---
 
+# SessionInfoCacheService.UpdateLastActiveDate(string, DateTime) մեթոդ
+
 ```c#
 public void UpdateLastActiveDate(string guid, DateTime lastActiveDate)
 ```

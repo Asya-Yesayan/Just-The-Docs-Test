@@ -1,7 +1,9 @@
 ---
 layout: page
-title: "ParametersDescription դաս" 
+title: "ParametersDescription դաս"
 ---
+
+# ParametersDescription դաս
 
 Այս դասը նախատեսված է տվյալների մշակման հարցման (**DPR**) կատարման պարամետրի նկարագրման համար։
 

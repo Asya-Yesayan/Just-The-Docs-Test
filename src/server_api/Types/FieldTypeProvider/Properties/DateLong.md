@@ -2,6 +2,8 @@
 title: FieldTypeProvider.DateLong հատկություն
 ---
 
+# FieldTypeProvider.DateLong հատկություն
+
 ```c#
 public static DateFieldType DateLong { get; }
 ```

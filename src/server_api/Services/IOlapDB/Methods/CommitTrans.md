@@ -1,6 +1,8 @@
 ---
-title: IOlapDBService.CommitTrans() մեթոդ  
+title: IOlapDBService.CommitTrans() մեթոդ
 ---
+
+# IOlapDBService.CommitTrans() մեթոդ
 
 ## Նկարագիր
 

@@ -1,7 +1,9 @@
 ---
 layout: page
-title: "AuthenticationClient օրինակ" 
+title: "AuthenticationClient օրինակ"
 ---
+
+# AuthenticationClient օրինակ
 
 Բանալիով կլիենտ ծրագրի օգտագործողի նույնականացման օրինակ:
 

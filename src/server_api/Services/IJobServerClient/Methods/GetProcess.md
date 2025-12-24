@@ -1,6 +1,8 @@
 ---
-title: IProcessServerClient.GetProcess(Guid) մեթոդ  
+title: IProcessServerClient.GetProcess(Guid) մեթոդ
 ---
+
+# IProcessServerClient.GetProcess(Guid) մեթոդ
 
 ## Նկարագիր
 

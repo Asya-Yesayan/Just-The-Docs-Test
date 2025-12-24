@@ -2,6 +2,8 @@
 title: DocumentExtender.PrePostMessage(Document, PostMessageEventArgs) մեթոդ
 ---
 
+# DocumentExtender.PrePostMessage(Document, PostMessageEventArgs) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [PrePostMessage](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/ScriptProcs/DocExtenderEvents/PrePostMessage.html)

@@ -2,6 +2,8 @@
 title: IDocumentService.GetDocumentState(int) մեթոդ
 ---
 
+# IDocumentService.GetDocumentState(int) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsDocEngine.GetDocState](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/Functions/DocumentsCirculation/GetDocState.html)

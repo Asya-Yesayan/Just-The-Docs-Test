@@ -2,6 +2,8 @@
 title: FieldTypeProvider.Path հատկություն
 ---
 
+# FieldTypeProvider.Path հատկություն
+
 ```c#
 public static PathFieldType Path { get; }
 ```

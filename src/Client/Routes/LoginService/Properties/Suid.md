@@ -2,6 +2,8 @@
 title: LoginService.Suid հատկություն
 ---
 
+# LoginService.Suid հատկություն
+
 ```c#
 public short Suid { get; private set; }
 ```

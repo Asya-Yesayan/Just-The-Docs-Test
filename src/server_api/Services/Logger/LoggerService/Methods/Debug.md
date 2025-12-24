@@ -2,6 +2,8 @@
 title: LoggerService.Debug(ILogger, string) մեթոդ
 ---
 
+# LoggerService.Debug(ILogger, string) մեթոդ
+
 ```c#
 public void Debug(ILogger logger, 
                   string messageTemplate)

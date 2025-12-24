@@ -2,6 +2,8 @@
 title: IDBService.AllowSnapshotIsolation հատկություն
 ---
 
+# IDBService.AllowSnapshotIsolation հատկություն
+
 ## Նկարագիր
 
 **Դաս՝** [IDBService](../IDBService.md)

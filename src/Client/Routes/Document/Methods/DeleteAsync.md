@@ -2,6 +2,8 @@
 title: DocumentRoutes.DeleteAsync մեթոդ
 ---
 
+# DocumentRoutes.DeleteAsync մեթոդ
+
 ## Գերբեռնումներ
 
 | Անվանում | Նկարագրություն |

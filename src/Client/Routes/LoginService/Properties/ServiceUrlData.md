@@ -2,6 +2,8 @@
 title: LoginService.ServiceUrlData հատկություն
 ---
 
+# LoginService.ServiceUrlData հատկություն
+
 ```c#
 public ServiceUrlData ServiceUrlData { get; private set; }
 ```

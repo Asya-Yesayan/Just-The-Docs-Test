@@ -2,6 +2,8 @@
 title: Document.Properties հատկություն
 ---
 
+# Document.Properties հատկություն
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsDoc.Properties](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/ASDOC/Properties.html)

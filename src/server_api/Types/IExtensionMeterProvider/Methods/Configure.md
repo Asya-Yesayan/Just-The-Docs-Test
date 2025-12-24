@@ -2,6 +2,8 @@
 title: IExtensionMeterProvider.Configure(IParametersService, Meter) մեթոդ
 ---
 
+# IExtensionMeterProvider.Configure(IParametersService, Meter) մեթոդ
+
 ```c#
 public void Configure(IParametersService parametersService, Meter meter)
 ```

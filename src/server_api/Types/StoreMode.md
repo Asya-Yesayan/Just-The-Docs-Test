@@ -1,7 +1,9 @@
 ---
 layout: page
-title: "StoreMode" 
+title: "StoreMode"
 ---
+
+# StoreMode
 
 ## Փաստաթղթի պահպանման ռեժիմը
 

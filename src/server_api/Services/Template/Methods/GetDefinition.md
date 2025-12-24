@@ -1,6 +1,8 @@
 ---
-title: TemplateService.GetDefinition(string, string) մեթոդ  
+title: TemplateService.GetDefinition(string, string) մեթոդ
 ---
+
+# TemplateService.GetDefinition(string, string) մեթոդ
 
 ## Նկարագիր
 

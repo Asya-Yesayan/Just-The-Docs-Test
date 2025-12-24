@@ -2,6 +2,8 @@
 title: DataSource.BeforeExecuteSQLCommand(DataSourceArgs<P>, CancellationToken) մեթոդ
 ---
 
+# DataSource.BeforeExecuteSQLCommand(DataSourceArgs<P>, CancellationToken) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [OnOpen](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/ScriptProcs/OnOpen.html)

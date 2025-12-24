@@ -2,6 +2,8 @@
 title: Document.State հատկություն
 ---
 
+# Document.State հատկություն
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsDoc.State](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/ASDOC/State.html)

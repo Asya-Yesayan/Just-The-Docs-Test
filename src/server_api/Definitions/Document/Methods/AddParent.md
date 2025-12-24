@@ -2,6 +2,8 @@
 title: Document.AddParent(int) մեթոդ
 ---
 
+# Document.AddParent(int) մեթոդ
+
 ## Նկարագիր
 
 **Դաս՝** [Document](../Document.md)

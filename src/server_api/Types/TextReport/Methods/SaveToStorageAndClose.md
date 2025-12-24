@@ -2,6 +2,8 @@
 title: TextReport.SaveToStorageAndClose() մեթոդ
 ---
 
+# TextReport.SaveToStorageAndClose() մեթոդ
+
 ```c#
 public Task<StorageInfo> SaveToStorageAndClose()
 ```

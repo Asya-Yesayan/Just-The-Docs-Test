@@ -2,6 +2,8 @@
 title: LoggerService.LogExceptionIfNeeded(Exception) մեթոդ
 ---
 
+# LoggerService.LogExceptionIfNeeded(Exception) մեթոդ
+
 ```c#
 public void LogExceptionIfNeeded(Exception exception)
 ```

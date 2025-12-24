@@ -2,6 +2,8 @@
 title: Settings.CurrentServiceId հատկություն
 ---
 
+# Settings.CurrentServiceId հատկություն
+
 ```c#
 public static string CurrentServiceId { get; }
 ```

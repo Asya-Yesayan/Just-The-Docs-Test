@@ -1,6 +1,8 @@
 ---
-title: IPermanentStorageService.DeleteBlobAsync մեթոդ  
+title: IPermanentStorageService.DeleteBlobAsync մեթոդ
 ---
+
+# IPermanentStorageService.DeleteBlobAsync մեթոդ
 
 ## Գերբեռնումներ
 

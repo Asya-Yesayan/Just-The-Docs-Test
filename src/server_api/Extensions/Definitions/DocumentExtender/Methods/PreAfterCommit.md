@@ -2,6 +2,8 @@
 title: DocumentExtender.PreAfterCommit(Document, AfterCommitEventArgs) մեթոդ
 ---
 
+# DocumentExtender.PreAfterCommit(Document, AfterCommitEventArgs) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** ScriptExtension.DocPreAfterCommit

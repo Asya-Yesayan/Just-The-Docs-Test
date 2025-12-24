@@ -2,6 +2,8 @@
 title: ISessionInfoService.Exists(string) մեթոդ
 ---
 
+# ISessionInfoService.Exists(string) մեթոդ
+
 ```c#
 public bool Exists(string guid)
 ```

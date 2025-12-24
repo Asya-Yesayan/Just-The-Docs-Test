@@ -2,6 +2,8 @@
 title: FieldTypeProvider.TimeLong հատկություն
 ---
 
+# FieldTypeProvider.TimeLong հատկություն
+
 ```c#
 public static TimeFieldType Time { get; }
 ```

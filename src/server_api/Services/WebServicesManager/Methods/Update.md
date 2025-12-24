@@ -2,6 +2,8 @@
 title: WebServicesManager.Update(WebServiceInfo) մեթոդ
 ---
 
+# WebServicesManager.Update(WebServiceInfo) մեթոդ
+
 ```c#
 public Task Update(WebServiceInfo service)
 ```

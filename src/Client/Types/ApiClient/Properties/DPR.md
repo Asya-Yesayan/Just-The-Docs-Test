@@ -2,6 +2,8 @@
 title: ApiClient.DPR հատկություն
 ---
 
+# ApiClient.DPR հատկություն
+
 ```c#
 public DataProcessingRequestRoutes DPR { get; }
 ```

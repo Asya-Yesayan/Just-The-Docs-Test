@@ -1,6 +1,8 @@
 ---
-title: LanguageService.CurrentUICultureName հատկություն  
+title: LanguageService.CurrentUICultureName հատկություն
 ---
+
+# LanguageService.CurrentUICultureName հատկություն
 
 ## Նկարագիր
 

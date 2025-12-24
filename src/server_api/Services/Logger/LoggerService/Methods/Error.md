@@ -2,6 +2,8 @@
 title: LoggerService.Error(ILogger, string) մեթոդ
 ---
 
+# LoggerService.Error(ILogger, string) մեթոդ
+
 ```c#
 public void Error(ILogger logger, 
                   string messageTemplate)

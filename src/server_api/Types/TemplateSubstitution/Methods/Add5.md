@@ -2,6 +2,8 @@
 title: TemplateSubstitution.Add(string, decimal) մեթոդ
 ---
 
+# TemplateSubstitution.Add(string, decimal) մեթոդ
+
 ```c#
 public void Add(string code, decimal value)
 ```

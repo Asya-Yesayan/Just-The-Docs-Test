@@ -2,6 +2,8 @@
 title: DocumentRoutes.GetChildren(int, string, DocumentOrder, string) մեթոդ
 ---
 
+# DocumentRoutes.GetChildren(int, string, DocumentOrder, string) մեթոդ
+
 ```c#
 public List<DocumentResponseInfo> GetChildren(int isn, 
                                               string docType = "", 

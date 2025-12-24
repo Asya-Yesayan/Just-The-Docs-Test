@@ -8,6 +8,8 @@ sublinks:
 - { title: "Parse", ref: parse }
 ---
 
+# DSParser դաս: Տվյալների աղբյուրների 8X տեղափոխման մասնակի ավտոմատացում
+
 Բովանդակություն
 
 - [DSParser](#dsparser)

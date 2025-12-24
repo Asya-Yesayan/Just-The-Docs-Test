@@ -2,6 +2,8 @@
 title: LoginController.AuthenticateWithCertificate(CertificateAuthenticateRequest request) մեթոդ
 ---
 
+# LoginController.AuthenticateWithCertificate(CertificateAuthenticateRequest request) մեթոդ
+
 ```c#
 [HttpPost("WithCertificate")]
 public Task<CertificateAuthenticateResponse> AuthenticateWithCertificate([FromBody] CertificateAuthenticateRequest request)

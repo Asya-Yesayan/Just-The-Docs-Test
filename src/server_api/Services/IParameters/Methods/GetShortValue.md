@@ -1,6 +1,8 @@
 ---
-title: IParametersService.GetShortValue մեթոդ  
+title: IParametersService.GetShortValue մեթոդ
 ---
+
+# IParametersService.GetShortValue մեթոդ
 
 ## Նկարագիր
 

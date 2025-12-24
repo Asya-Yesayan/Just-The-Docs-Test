@@ -2,6 +2,8 @@
 title: Document.CreatorSUID հատկություն
 ---
 
+# Document.CreatorSUID հատկություն
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsDoc․CreatorSUID](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/ASDOC/CreatorSUID.html)

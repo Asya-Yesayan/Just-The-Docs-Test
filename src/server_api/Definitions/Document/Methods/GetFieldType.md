@@ -2,6 +2,8 @@
 title: Document.GetFieldType(string) մեթոդ
 ---
 
+# Document.GetFieldType(string) մեթոդ
+
 ## Նկարագիր
 
 **Դաս՝** [Document](../Document.md)

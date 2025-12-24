@@ -2,6 +2,8 @@
 title: IExecutionProgress.CancellationRequest հատկություն
 ---
 
+# IExecutionProgress.CancellationRequest հատկություն
+
 ## Նկարագիր
 
 **Դաս՝** [IExecutionProgress](../../IExecutionProgress.md)

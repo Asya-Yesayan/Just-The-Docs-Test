@@ -2,6 +2,8 @@
 title: DocumentExtender.PreValidate(Document, ValidateEventArgs) մեթոդ
 ---
 
+# DocumentExtender.PreValidate(Document, ValidateEventArgs) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** ScriptExtension.DocPreValidate

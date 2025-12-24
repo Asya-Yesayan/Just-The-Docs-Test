@@ -2,6 +2,8 @@
 title: IDocumentService.CreateFactsUsingStateMoverFrom(Document, int) մեթոդ
 ---
 
+# IDocumentService.CreateFactsUsingStateMoverFrom(Document, int) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** AsDoc.CreateFactsUsingDocStateMoverFrom

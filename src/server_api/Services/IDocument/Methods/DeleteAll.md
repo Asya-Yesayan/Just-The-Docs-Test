@@ -2,6 +2,8 @@
 title: Document.DeleteAll(List<int>, bool, string, bool, bool) մեթոդ
 ---
 
+# Document.DeleteAll(List<int>, bool, string, bool, bool) մեթոդ
+
 ## Նկարագիր
 
 **Դաս՝** [IDocumentService](../IDocumentService.md)

@@ -2,6 +2,8 @@
 title: Document.InitGrids() մեթոդ
 ---
 
+# Document.InitGrids() մեթոդ
+
 ## Նկարագիր
 
 **Դաս՝** [Document](../Document.md)

@@ -2,6 +2,8 @@
 title: DocumentExtender.PostAfterCreate(Document, AfterCreateEventArgs) մեթոդ
 ---
 
+# DocumentExtender.PostAfterCreate(Document, AfterCreateEventArgs) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** ScriptExtension.DocPostAfterCreate

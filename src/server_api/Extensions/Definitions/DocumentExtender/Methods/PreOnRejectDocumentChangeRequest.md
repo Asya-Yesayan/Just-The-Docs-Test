@@ -2,6 +2,8 @@
 title: DocumentExtender.PreOnRejectDocumentChangeRequest(Document, RejectDocumentChangeRequestEventArgs) մեթոդ
 ---
 
+# DocumentExtender.PreOnRejectDocumentChangeRequest(Document, RejectDocumentChangeRequestEventArgs) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** ScriptExtension.DocPreOnRejectDCR

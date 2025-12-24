@@ -2,6 +2,8 @@
 title: IDBService.ReadOnly հատկություն
 ---
 
+# IDBService.ReadOnly հատկություն
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsKernel.isDBReadOnly](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/Functions/isDBReadOnly.html)

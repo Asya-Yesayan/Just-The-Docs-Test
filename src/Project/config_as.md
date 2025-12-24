@@ -4,6 +4,8 @@ title: "config.as Կարգավորման ֆայլ"
 tags: [config]
 ---
 
+# config.as Կարգավորման ֆայլ
+
 [Config.as](https://armsoft.github.io/as4x-docs/HTM/Config_as_struct.html) ֆայլը նախատեսված է AS-4X հարթակի ծրագրերը կարգավորելու համար։ 
 Մասանավորապես ՀԾ-Բանկի (asbank.exe), ՀԾ-Ձեռնարկության (asbux.exe), ՀԾ-Աշխատավարձի (aswages.exe), Սկրիպտերի խմբագրիչի (scriped.exe) և Համակարգի կարգավորիչի (syscon.exe) համար։
 

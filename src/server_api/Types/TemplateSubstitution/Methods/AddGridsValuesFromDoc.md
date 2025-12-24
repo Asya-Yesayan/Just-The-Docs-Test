@@ -2,6 +2,8 @@
 title: TemplateSubstitution.AddGridsValuesFromDoc(Document.Document, string, string, bool) մեթոդ
 ---
 
+# TemplateSubstitution.AddGridsValuesFromDoc(Document.Document, string, string, bool) մեթոդ
+
 ```c#
 public void AddGridsValuesFromDoc(Document.Document document, 
                                   string prefix = "", 

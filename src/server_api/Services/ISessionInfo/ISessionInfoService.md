@@ -2,6 +2,8 @@
 title: "ISessionInfoService սերվիս"
 ---
 
+# ISessionInfoService սերվիս
+
 ## Ներածություն
 
 ISessionInfoService դասը նախատեսված է [սեսսիաների](../../Types/SessionInfo.md) հետ աշխատանքը ապահովելու համար։

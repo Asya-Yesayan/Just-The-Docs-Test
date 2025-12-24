@@ -2,6 +2,8 @@
 title: TextReport.AddFragment(int) մեթոդ
 ---
 
+# TextReport.AddFragment(int) մեթոդ
+
 ```c#
 public void AddFragment(int width)
 ```

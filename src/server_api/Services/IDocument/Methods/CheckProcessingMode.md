@@ -2,6 +2,8 @@
 title: IDocumentService.CheckProcessingMode(string) մեթոդ
 ---
 
+# IDocumentService.CheckProcessingMode(string) մեթոդ
+
 ## Նկարագիր
 
 **Դաս՝** [IDocumentService](../IDocumentService.md)

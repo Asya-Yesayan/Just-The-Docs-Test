@@ -2,6 +2,8 @@
 title: PrintTemplateSubstitutionImage դաս
 ---
 
+# PrintTemplateSubstitutionImage դաս
+
 ## Հատկություններ
 
 | Անվանում | Նկարագրություն |

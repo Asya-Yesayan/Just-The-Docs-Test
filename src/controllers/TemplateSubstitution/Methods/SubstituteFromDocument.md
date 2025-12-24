@@ -1,6 +1,8 @@
 ---
-title: "SubstituteFromDocument մեթոդ" 
+title: "SubstituteFromDocument մեթոդ"
 ---
+
+# SubstituteFromDocument մեթոդ
 
 ```txt
 POST {{base_url}}/api/TemplateSubstitution/{{docIsn}}/Substitute?name={{template_name}}&type={{template_type}}

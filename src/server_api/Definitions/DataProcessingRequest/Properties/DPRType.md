@@ -2,6 +2,8 @@
 title: DataProcessingRequest.DPRType հատկություն
 ---
 
+# DataProcessingRequest.DPRType հատկություն
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [DataProcessingRequest.SysType](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/DataProcessingRequest.html#systype)

@@ -2,6 +2,8 @@
 title: LoginService.AuthenticateAsync մեթոդ
 ---
 
+# LoginService.AuthenticateAsync մեթոդ
+
 ## Գերբեռնումներ
 
 | Անվանում | Նկարագրություն |

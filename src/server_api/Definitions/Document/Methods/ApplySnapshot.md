@@ -2,6 +2,8 @@
 title: Document.ApplySnapshot(DocumentSnapshot) մեթոդ
 ---
 
+# Document.ApplySnapshot(DocumentSnapshot) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** AsDoc.ApplySnapshot

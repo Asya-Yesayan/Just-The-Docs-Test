@@ -2,6 +2,8 @@
 title: IDBService.CreateReadOnlyConnection(bool) մեթոդ
 ---
 
+# IDBService.CreateReadOnlyConnection(bool) մեթոդ
+
 ## Նկարագիր
 
 **Դաս՝** [IDBService](../IDBService.md)

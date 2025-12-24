@@ -2,6 +2,8 @@
 title: Document.Action(ActionEventArgs) մեթոդ
 ---
 
+# Document.Action(ActionEventArgs) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [Action](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/ScriptProcs/Action.html)

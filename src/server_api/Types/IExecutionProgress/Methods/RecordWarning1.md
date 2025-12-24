@@ -2,6 +2,8 @@
 title: IExecutionProgress.RecordWarning(IEnumerable<string>, int, string, int, Dictionary<string, object>) մեթոդ
 ---
 
+# IExecutionProgress.RecordWarning(IEnumerable<string>, int, string, int, Dictionary<string, object>) մեթոդ
+
 ## Նկարագիր
 
 **Դաս՝** [IExecutionProgress](../../IExecutionProgress.md)

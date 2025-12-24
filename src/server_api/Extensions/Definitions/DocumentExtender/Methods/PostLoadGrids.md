@@ -2,6 +2,8 @@
 title: DocumentExtender.PostLoadGrids(Document, LoadGridsEventArgs) մեթոդ
 ---
 
+# DocumentExtender.PostLoadGrids(Document, LoadGridsEventArgs) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** ScriptExtension.DocPostLoadGrids

@@ -1,6 +1,9 @@
 ---
 title: StatisticsService.DeleteReportCalls(DateTime, DateTime, short?) մեթոդ
 ---
+
+# StatisticsService.DeleteReportCalls(DateTime, DateTime, short?) մեթոդ
+
  
 ## Նկարագիր
  

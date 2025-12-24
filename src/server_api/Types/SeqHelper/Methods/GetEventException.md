@@ -2,6 +2,8 @@
 title: SeqHelper.GetEventException(string) մեթոդ
 ---
 
+# SeqHelper.GetEventException(string) մեթոդ
+
 ```c#
 public static string GetEventException(string eventId)
 ```

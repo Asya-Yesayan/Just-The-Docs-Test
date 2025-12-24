@@ -2,6 +2,8 @@
 title: DataProcessingRequestRoutes.GetObject(DPRType, string) մեթոդ
 ---
 
+# DataProcessingRequestRoutes.GetObject(DPRType, string) մեթոդ
+
 ```c#
 public DPRInfoExtended GetObject(DPRType type, 
                                  string name)

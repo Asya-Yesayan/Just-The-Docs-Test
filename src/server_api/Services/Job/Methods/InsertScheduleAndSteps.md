@@ -2,6 +2,8 @@
 title: JobService.InsertScheduleAndSteps(ScheduledJob) մեթոդ
 ---
 
+# JobService.InsertScheduleAndSteps(ScheduledJob) մեթոդ
+
 ```c#
 public Task<int> InsertScheduleAndSteps(ScheduledJob job)
 ```

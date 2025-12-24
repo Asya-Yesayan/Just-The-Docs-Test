@@ -2,6 +2,8 @@
 title: DataSource.IsUpdatable հատկություն
 ---
 
+# DataSource.IsUpdatable հատկություն
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [Data.UpdateSQL](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/ASDATA/UpdateSQL.html)

@@ -2,6 +2,8 @@
 title: IExecutionProgress.Add(int, string) մեթոդ
 ---
 
+# IExecutionProgress.Add(int, string) մեթոդ
+
 ## Նկարագիր
 
 **Դաս՝** [IExecutionProgress](../../IExecutionProgress.md)

@@ -2,6 +2,8 @@
 title: TextReport.UseFormatting հատկություն
 ---
 
+# TextReport.UseFormatting հատկություն
+
 ```c#
 public bool UseFormatting { get; set; }
 ```

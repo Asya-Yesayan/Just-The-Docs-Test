@@ -2,6 +2,8 @@
 title: AuthenticationClient դաս
 ---
 
+# AuthenticationClient դաս
+
 ## Ներածություն
 
 AuthenticationClient դասը նախատեսված է 8X սերվիսին միացման ժամանակ նույնականացնելու համար։ 

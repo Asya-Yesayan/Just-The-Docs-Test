@@ -1,6 +1,8 @@
 ---
-title: IFolderService.GetElements մեթոդ  
+title: IFolderService.GetElements մեթոդ
 ---
+
+# IFolderService.GetElements մեթոդ
 
 ## Գերբեռնումներ
 

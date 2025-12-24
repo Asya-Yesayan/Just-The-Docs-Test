@@ -2,6 +2,8 @@
 title: DocumentExtender.PostDelete(Document, DeleteEventArgs) մեթոդ
 ---
 
+# DocumentExtender.PostDelete(Document, DeleteEventArgs) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** ScriptExtension.DocPostDelete

@@ -2,6 +2,8 @@
 title: IAttachmentService.GetContent(int, string) մեթոդ
 ---
 
+# IAttachmentService.GetContent(int, string) մեթոդ
+
 ## Նկարագիր
 
 **Դաս՝** [IAttachmentService](../../IAttachment/IAttachmentService.md)

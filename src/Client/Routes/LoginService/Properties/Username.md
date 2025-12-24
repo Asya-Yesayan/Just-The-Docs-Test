@@ -2,6 +2,8 @@
 title: LoginService.Username հատկություն
 ---
 
+# LoginService.Username հատկություն
+
 ```c#
 public string Username { get; private set; }
 ```

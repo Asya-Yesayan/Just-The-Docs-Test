@@ -1,6 +1,8 @@
 ---
-title: ITemplateSubstitutionService.GetReadyTemplateSubstitution(Document.Document, string, SubstitutionType, Dictionary<string, object>) մեթոդ  
+title: ITemplateSubstitutionService.GetReadyTemplateSubstitution(Document.Document, string, SubstitutionType, Dictionary<string, object>) մեթոդ
 ---
+
+# ITemplateSubstitutionService.GetReadyTemplateSubstitution(Document.Document, string, SubstitutionType, Dictionary<string, object>) մեթոդ
 
 ## Նկարագիր
 

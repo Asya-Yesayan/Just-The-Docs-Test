@@ -2,6 +2,8 @@
 title: TextReport.AddRow(string, int, string, int) մեթոդ
 ---
 
+# TextReport.AddRow(string, int, string, int) մեթոդ
+
 ```c#
 public void AddRow(string row, int isn = -1, string rowDesc = "", int splitSize = -1)
 ```

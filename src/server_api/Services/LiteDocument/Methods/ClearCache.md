@@ -1,6 +1,8 @@
 ---
-title: LiteDocumentService.ClearCache() մեթոդ  
+title: LiteDocumentService.ClearCache() մեթոդ
 ---
+
+# LiteDocumentService.ClearCache() մեթոդ
 
 ## Նկարագիր
 

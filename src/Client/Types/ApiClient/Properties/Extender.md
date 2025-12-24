@@ -2,6 +2,8 @@
 title: ApiClient.Extender հատկություն
 ---
 
+# ApiClient.Extender հատկություն
+
 ```c#
 public ExtenderRoutes Extender { get; }
 ```

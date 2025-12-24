@@ -2,6 +2,8 @@
 title: DataSource.Progress հատկություն
 ---
 
+# DataSource.Progress հատկություն
+
 ## Նկարագիր
 
 **Դաս՝** [DataSource](../DataSource.md)

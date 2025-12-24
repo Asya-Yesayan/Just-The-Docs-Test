@@ -2,6 +2,8 @@
 title: BlobRoutes.UploadAsync(string, string, byte[], CancellationToken) մեթոդ
 ---
 
+# BlobRoutes.UploadAsync(string, string, byte[], CancellationToken) մեթոդ
+
 ```c#
 public Task<bool> UploadAsync(string container, 
                               string blobName, 

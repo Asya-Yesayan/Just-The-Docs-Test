@@ -1,6 +1,8 @@
 ---
-title: IParametersService.SetValueWithAdditionalConnection(string, object) մեթոդ  
+title: IParametersService.SetValueWithAdditionalConnection(string, object) մեթոդ
 ---
+
+# IParametersService.SetValueWithAdditionalConnection(string, object) մեթոդ
 
 ## Նկարագիր
 

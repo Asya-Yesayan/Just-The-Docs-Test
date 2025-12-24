@@ -1,6 +1,8 @@
 ---
-title: LiteDocumentService.LoadGrids մեթոդ  
+title: LiteDocumentService.LoadGrids մեթոդ
 ---
+
+# LiteDocumentService.LoadGrids մեթոդ
 
 ## LiteDocumentService.LoadGrids(LiteDocument, bool) մեթոդ 
 

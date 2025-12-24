@@ -2,6 +2,8 @@
 title: BankApiClient.LoanApplications հատկություն
 ---
 
+# BankApiClient.LoanApplications հատկություն
+
 ```c#
 public LoanApplicationsRoutes LoanApplications { get; }
 ```

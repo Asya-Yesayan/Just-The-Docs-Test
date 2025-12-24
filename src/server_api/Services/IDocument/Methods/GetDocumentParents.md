@@ -2,6 +2,8 @@
 title: IDocumentService.GetDocumentParents(int, string, DocumentChildrenOrder, string) մեթոդ
 ---
 
+# IDocumentService.GetDocumentParents(int, string, DocumentChildrenOrder, string) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsDocEngine.DocParents](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/Functions/DocumentsCirculation/DocParents.html)

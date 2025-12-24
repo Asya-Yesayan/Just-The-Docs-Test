@@ -2,6 +2,8 @@
 title: DocumentExtender.PostAfterLoad(Document, AfterLoadEventArgs) մեթոդ
 ---
 
+# DocumentExtender.PostAfterLoad(Document, AfterLoadEventArgs) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** ScriptExtension.DocPostAfterLoad

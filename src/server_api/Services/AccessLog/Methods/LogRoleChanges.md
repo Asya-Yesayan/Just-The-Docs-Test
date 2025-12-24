@@ -2,6 +2,8 @@
 title: AccessLogService.LogRoleChanges(HashSet<string>, HashSet<string>, short) մեթոդ
 ---
 
+# AccessLogService.LogRoleChanges(HashSet<string>, HashSet<string>, short) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** AsAccessLogProvider.LogRoleChange

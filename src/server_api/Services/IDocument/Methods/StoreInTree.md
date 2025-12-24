@@ -2,6 +2,8 @@
 title: IDocumentService.StoreInTree(Document, TreeElement) մեթոդ
 ---
 
+# IDocumentService.StoreInTree(Document, TreeElement) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsDoc.StoreInFolder](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/ASDOC/StoreInFolder.html)

@@ -1,6 +1,8 @@
 ---
-title: IParametersService.GetDecimalValue մեթոդ  
+title: IParametersService.GetDecimalValue մեթոդ
 ---
+
+# IParametersService.GetDecimalValue մեթոդ
 
 ## Նկարագիր
 

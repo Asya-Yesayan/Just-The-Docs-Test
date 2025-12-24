@@ -2,6 +2,8 @@
 title: AccountingExtender.PreOnDelete(Accounting, OnDeleteEventArgs) մեթոդ
 ---
 
+# AccountingExtender.PreOnDelete(Accounting, OnDeleteEventArgs) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [PreOnDelete](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/ScriptProcs/AccountingExtenderEvents/PreOnDelete.html)

@@ -6,6 +6,8 @@ sublinks:
 - { title: "Օրինակ GetSqlRelatedException", ref: օրինակ-2 }
 ---
 
+# Օրինակ IErrorHandlingService
+
 ## Բովանդակություն
 - [IErrorHandlingService, GetSqlExceptionText, ILogger օգտագործման օրինակ](#օրինակ-1)
 - [IErrorHandlingService, GetSqlRelatedException օգտագործման օրինակ](#օրինակ-2)

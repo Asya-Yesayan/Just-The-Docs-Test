@@ -2,6 +2,8 @@
 title: BankApiClient.Clients հատկություն
 ---
 
+# BankApiClient.Clients հատկություն
+
 ```c#
 public ClientsRoutes Clients { get; }
 ```

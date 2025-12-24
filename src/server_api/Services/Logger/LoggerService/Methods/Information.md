@@ -2,6 +2,8 @@
 title: LoggerService.Information(ILogger, string) մեթոդ
 ---
 
+# LoggerService.Information(ILogger, string) մեթոդ
+
 ```c#
 public void Information(ILogger logger, string messageTemplate)
 ```

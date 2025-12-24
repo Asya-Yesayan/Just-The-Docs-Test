@@ -21,6 +21,8 @@ sublinks:
 - { title: "Storage", ref: storage }
 ---
 
+# appsettings.json: Կարգավորման ֆայլ
+
 ## Բովանդակություն
 
 <div class="version-block" data-product-id="bank" data-version="250929.000" markdown="1">

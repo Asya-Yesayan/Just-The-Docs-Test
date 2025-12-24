@@ -2,6 +2,8 @@
 title: LoggerService.DebugForContext(string, object, Exception, string) մեթոդ
 ---
 
+# LoggerService.DebugForContext(string, object, Exception, string) մեթոդ
+
 ```c#
 public void DebugForContext(string contextPropertyName, 
                             object contextValue, 

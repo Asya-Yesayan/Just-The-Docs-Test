@@ -2,6 +2,8 @@
 title: TemplateSubstitution.Add(string, DateTime) մեթոդ
 ---
 
+# TemplateSubstitution.Add(string, DateTime) մեթոդ
+
 ```c#
 public void Add(string code, DateTime value)
 ```

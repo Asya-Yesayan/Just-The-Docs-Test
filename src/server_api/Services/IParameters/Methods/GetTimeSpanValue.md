@@ -1,6 +1,8 @@
 ---
-title: IParametersService.GetTimeSpanValue մեթոդ  
+title: IParametersService.GetTimeSpanValue մեթոդ
 ---
+
+# IParametersService.GetTimeSpanValue մեթոդ
 
 ## Նկարագիր
 

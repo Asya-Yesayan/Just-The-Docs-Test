@@ -2,6 +2,8 @@
 title: IDBService.CreateCommand(TimeoutType) մեթոդ
 ---
 
+# IDBService.CreateCommand(TimeoutType) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** AsRdoConnection.CreateSqlCommand

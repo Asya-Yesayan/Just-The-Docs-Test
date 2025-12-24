@@ -2,6 +2,8 @@
 title: BlobRoutes.AppendAsync(string, string, byte[], int, CancellationToken) մեթոդ
 ---
 
+# BlobRoutes.AppendAsync(string, string, byte[], int, CancellationToken) մեթոդ
+
 ```c#
 public Task<bool> AppendAsync(string container, 
                               string blobName, 

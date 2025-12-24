@@ -2,6 +2,8 @@
 title: Document.InitialSnapshot հատկություն
 ---
 
+# Document.InitialSnapshot հատկություն
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** AsDoc.InitialSnapshot

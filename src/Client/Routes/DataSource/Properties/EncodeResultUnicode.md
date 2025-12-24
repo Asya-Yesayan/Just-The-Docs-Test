@@ -2,6 +2,8 @@
 title: DataSource.EncodeResultUnicode հատկություն
 ---
 
+# DataSource.EncodeResultUnicode հատկություն
+
 ```c#
 public bool EncodeResultUnicode { get; set; }
 ```

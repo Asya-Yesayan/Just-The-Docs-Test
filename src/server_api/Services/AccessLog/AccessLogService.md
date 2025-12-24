@@ -2,6 +2,8 @@
 title: "AccessLogService սերվիս"
 ---
 
+# AccessLogService սերվիս
+
 ## Ներածություն
 
 AccessLogService դասը նախատեսված է դերերի և իրավասությունների փոփոխությունների լոգավորման համար։

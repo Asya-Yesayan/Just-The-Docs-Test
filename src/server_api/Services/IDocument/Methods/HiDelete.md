@@ -2,6 +2,8 @@
 title: IDocumentService.HiDelete(Document, bool) մեթոդ
 ---
 
+# IDocumentService.HiDelete(Document, bool) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsDoc.HiDelete](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/ASDOC/HiDelete.html)

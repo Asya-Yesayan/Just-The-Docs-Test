@@ -2,6 +2,8 @@
 title: RODocument.LastTSCheck հատկություն
 ---
 
+# RODocument.LastTSCheck հատկություն
+
 ```c#
 public DateTime LastTSCheck { get; private set; }
 ```

@@ -2,6 +2,8 @@
 title: ApiClient.Blob հատկություն
 ---
 
+# ApiClient.Blob հատկություն
+
 ```c#
 public BlobRoutes Blob { get; }
 ```

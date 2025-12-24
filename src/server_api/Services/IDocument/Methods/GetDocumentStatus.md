@@ -2,6 +2,8 @@
 title: IDocumentService.GetDocumentStatus(string, int) մեթոդ
 ---
 
+# IDocumentService.GetDocumentStatus(string, int) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** AsDocEngine.GetDocStatus

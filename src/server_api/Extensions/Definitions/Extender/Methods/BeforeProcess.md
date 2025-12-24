@@ -2,6 +2,8 @@
 title: Extender.BeforeProcess(IList<IExtendableRow>, IDataSourceArgs) մեթոդ
 ---
 
+# Extender.BeforeProcess(IList<IExtendableRow>, IDataSourceArgs) մեթոդ
+
 ## Նկարագիր
 
 **Դաս՝** [Extender](../ds_extender.md)

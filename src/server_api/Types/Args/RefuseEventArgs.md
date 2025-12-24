@@ -1,7 +1,9 @@
 ---
 layout: page
-title: "RefuseEventArgs դաս" 
+title: "RefuseEventArgs դաս"
 ---
+
+# RefuseEventArgs դաս
 
 Այս դասը օգտագործվում է [Document.OnRefuse](../../Definitions/Document/Methods/OnRefuse.md) մեթոդում։
 

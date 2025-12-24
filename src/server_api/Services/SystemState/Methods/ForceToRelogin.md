@@ -1,6 +1,8 @@
 ---
-title: SystemStateService.ForceToRelogin(bool) մեթոդ  
+title: SystemStateService.ForceToRelogin(bool) մեթոդ
 ---
+
+# SystemStateService.ForceToRelogin(bool) մեթոդ
 
 ## Նկարագիր
 

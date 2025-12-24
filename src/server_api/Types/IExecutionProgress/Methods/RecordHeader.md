@@ -2,6 +2,8 @@
 title: IExecutionProgress.RecordHeader(string) մեթոդ
 ---
 
+# IExecutionProgress.RecordHeader(string) մեթոդ
+
 ## Նկարագիր
 
 **Դաս՝** [IExecutionProgress](../../IExecutionProgress.md)

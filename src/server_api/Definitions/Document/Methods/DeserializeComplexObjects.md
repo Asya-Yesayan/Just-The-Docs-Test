@@ -2,6 +2,8 @@
 title: Document.DeserializeComplexObjects(DeserializeComplexObjectsEventArgs) մեթոդ
 ---
 
+# Document.DeserializeComplexObjects(DeserializeComplexObjectsEventArgs) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** DeserializeComplexObjects

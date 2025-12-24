@@ -2,6 +2,8 @@
 title: Document.StoreGrids(StoreGridsEventArgs) մեթոդ
 ---
 
+# Document.StoreGrids(StoreGridsEventArgs) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [StoreGrid](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/ScriptProcs/StoreGrid.html)

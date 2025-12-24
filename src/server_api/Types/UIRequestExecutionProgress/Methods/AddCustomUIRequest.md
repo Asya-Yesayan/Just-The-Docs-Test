@@ -2,6 +2,8 @@
 title: UIRequestExecutionProgress.AddCustomUIRequest<R, S>(S, int, int, Action<S>, bool) մեթոդ
 ---
 
+# UIRequestExecutionProgress.AddCustomUIRequest<R, S>(S, int, int, Action<S>, bool) մեթոդ
+
 ```c#
 public Task<CustomUIRequestResult<R>> AddCustomUIRequest<R, S>(S requestSource, 
                                                                int id,

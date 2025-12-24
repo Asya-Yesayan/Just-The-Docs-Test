@@ -2,6 +2,8 @@
 title: TextReport.ApplyStyle(string, TextReportStyle) մեթոդ
 ---
 
+# TextReport.ApplyStyle(string, TextReportStyle) մեթոդ
+
 ```c#
 public static string ApplyStyle(string source, TextReportStyle style)
 ```

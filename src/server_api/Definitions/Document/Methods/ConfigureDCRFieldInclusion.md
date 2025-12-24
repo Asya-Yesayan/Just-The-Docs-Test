@@ -2,6 +2,8 @@
 title: Document.ConfigureDCRFieldInclusion(ConfigureDCRFieldInclusionEventArgs) մեթոդ
 ---
 
+# Document.ConfigureDCRFieldInclusion(ConfigureDCRFieldInclusionEventArgs) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [ConfigureDCRFields](https://asya-yesayan.github.io/as4x-docs/HTM/ProgrGuide/ScriptProcs/ConfigureDCRFields.html)

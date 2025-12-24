@@ -2,6 +2,8 @@
 title: Document.Grids հատկություն
 ---
 
+# Document.Grids հատկություն
+
 ## Նկարագիր
 
 **Դաս՝** [Document](../Document.md)

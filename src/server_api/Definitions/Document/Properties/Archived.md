@@ -2,6 +2,8 @@
 title: Document.Archived հատկություն
 ---
 
+# Document.Archived հատկություն
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsDoc.Archived](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/ASDOC/Archived.html)

@@ -2,6 +2,8 @@
 title: AccountsRoutes.CreateGeneralAccForCli(CreateGeneralAccRequest) մեթոդ
 ---
 
+# AccountsRoutes.CreateGeneralAccForCli(CreateGeneralAccRequest) մեթոդ
+
 ```c#
 public Task<CreateGeneralAccResponse> CreateGeneralAccForCli(CreateGeneralAccRequest request)
 ```

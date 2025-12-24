@@ -2,6 +2,8 @@
 title: LiteDocument.DocumentType հատկություն
 ---
 
+# LiteDocument.DocumentType հատկություն
+
 ```c#
 public string DocumentType { get; }
 ```

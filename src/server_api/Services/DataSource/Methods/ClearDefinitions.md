@@ -2,6 +2,8 @@
 title: DataSourceService.ClearDefinitions(IEnumerable<string>) մեթոդ
 ---
 
+# DataSourceService.ClearDefinitions(IEnumerable<string>) մեթոդ
+
 ## Նկարագիր
 
 **Դաս՝** [DataSourceService](../DataSourceService.md)

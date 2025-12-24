@@ -2,6 +2,8 @@
 title: DataProcessingRequestRoutes.GetList մեթոդ
 ---
 
+# DataProcessingRequestRoutes.GetList մեթոդ
+
 ## Գերբեռնումներ
 
 | Անվանում | Նկարագրություն |

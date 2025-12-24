@@ -2,6 +2,8 @@
 title: IDBService.SetIsolationLevel(IsolationLevel) մեթոդ
 ---
 
+# IDBService.SetIsolationLevel(IsolationLevel) մեթոդ
+
 ## Նկարագիր
 
 **Դաս՝** [IDBService](../IDBService.md)

@@ -2,6 +2,8 @@
 title: DataProcessingRequest.Execute(P, CancellationToken) մեթոդ
 ---
 
+# DataProcessingRequest.Execute(P, CancellationToken) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsKernel.ExecuteDPR](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/Functions/8X/ExecuteDPR.html)

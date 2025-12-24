@@ -2,6 +2,8 @@
 title: LoginService.ConfigurationName հատկություն
 ---
 
+# LoginService.ConfigurationName հատկություն
+
 ```c#
 public string ConfigurationName { get; private set; }
 ```

@@ -2,6 +2,8 @@
 title: IExecutionProgress.SaveToStorageAsText(StorageInfo, bool, bool, bool) մեթոդ
 ---
 
+# IExecutionProgress.SaveToStorageAsText(StorageInfo, bool, bool, bool) մեթոդ
+
 ## Նկարագիր
 
 **Դաս՝** [IExecutionProgress](../../IExecutionProgress.md)

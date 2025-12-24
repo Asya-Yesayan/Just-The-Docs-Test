@@ -2,6 +2,8 @@
 title: IDocumentService.GetParentIsn մեթոդ
 ---
 
+# IDocumentService.GetParentIsn մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsDocEngine.DocParentIsn](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/Functions/DocumentsCirculation/DocParentISN.html)

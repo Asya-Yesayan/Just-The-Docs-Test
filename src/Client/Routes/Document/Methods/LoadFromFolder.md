@@ -2,6 +2,8 @@
 title: DocumentRoutes.LoadFromFolder(string, string, bool) մեթոդ
 ---
 
+# DocumentRoutes.LoadFromFolder(string, string, bool) մեթոդ
+
 ```c#
 public DocumentModel LoadFromFolder(string folder, 
                                     string key, 

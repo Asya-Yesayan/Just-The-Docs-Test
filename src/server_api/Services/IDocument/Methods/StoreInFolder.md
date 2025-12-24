@@ -2,6 +2,8 @@
 title: IDocumentService.StoreInFolder(Document, FolderElement) մեթոդ
 ---
 
+# IDocumentService.StoreInFolder(Document, FolderElement) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsDoc.StoreInFolder](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/ASDOC/StoreInFolder.html)

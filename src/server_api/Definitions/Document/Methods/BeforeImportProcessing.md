@@ -2,6 +2,8 @@
 title: Document.BeforeImportProcessing(BeforeImportProcessingEventArgs) մեթոդ
 ---
 
+# Document.BeforeImportProcessing(BeforeImportProcessingEventArgs) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [BeforeImport](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/ScriptProcs/BeforeImport.html)

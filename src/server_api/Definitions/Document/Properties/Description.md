@@ -2,6 +2,8 @@
 title: Document.Description հատկություն
 ---
 
+# Document.Description հատկություն
+
 ## Նկարագիր
 
 **Դաս՝** [Document](../Document.md)

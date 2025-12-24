@@ -1,6 +1,8 @@
 ---
-title: LiteDocumentService.Load մեթոդ  
+title: LiteDocumentService.Load մեթոդ
 ---
+
+# LiteDocumentService.Load մեթոդ
 
 ## LiteDocumentService.Load(int, bool, bool, bool) մեթոդ 
 

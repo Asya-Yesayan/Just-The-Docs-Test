@@ -1,6 +1,8 @@
 ---
-title: IProcessServerClient.GetProgress(Guid) մեթոդ  
+title: IProcessServerClient.GetProgress(Guid) մեթոդ
 ---
+
+# IProcessServerClient.GetProgress(Guid) մեթոդ
 
 ## Նկարագիր
 

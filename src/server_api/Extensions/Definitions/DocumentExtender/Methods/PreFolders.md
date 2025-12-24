@@ -2,6 +2,8 @@
 title: DocumentExtender.PreFolders(Document, FoldersEventArgs) մեթոդ
 ---
 
+# DocumentExtender.PreFolders(Document, FoldersEventArgs) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** ScriptExtension.DocPreFolders

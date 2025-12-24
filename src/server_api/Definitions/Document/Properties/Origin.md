@@ -2,6 +2,8 @@
 title: Document.Origin հատկություն
 ---
 
+# Document.Origin հատկություն
+
 ## Նկարագիր
 
 **Դաս՝** [Document](../Document.md)

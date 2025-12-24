@@ -2,6 +2,8 @@
 title: LiteDocument.CreatorSUID հատկություն
 ---
 
+# LiteDocument.CreatorSUID հատկություն
+
 ```c#
 public short CreatorSUID { get; internal set; }
 ```

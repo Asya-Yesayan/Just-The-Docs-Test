@@ -2,6 +2,8 @@
 title: Document.GetMemo(string) մեթոդ
 ---
 
+# Document.GetMemo(string) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsDoc.Memo](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/ASDOC/Memo.html)

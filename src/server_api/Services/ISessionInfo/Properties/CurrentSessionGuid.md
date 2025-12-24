@@ -2,6 +2,8 @@
 title: ISessionInfoService.CurrentSessionGuid հատկություն
 ---
 
+# ISessionInfoService.CurrentSessionGuid հատկություն
+
 ## Նկարագիր
 
 **Դաս՝** [ISessionInfoService](../ISessionInfoService.md)

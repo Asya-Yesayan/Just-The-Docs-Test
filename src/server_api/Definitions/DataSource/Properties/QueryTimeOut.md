@@ -2,6 +2,8 @@
 title: DataSource.QueryTimeOut հատկություն
 ---
 
+# DataSource.QueryTimeOut հատկություն
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** Data.QueryTimeout

@@ -2,6 +2,8 @@
 title: ServerSideModuleMetadata.GetByInterface() մեթոդ
 ---
 
+# ServerSideModuleMetadata.GetByInterface() մեթոդ
+
 ```c#
 public IReadOnlyDictionary<string, Type> GetByInterface<T>()
 ```

@@ -2,6 +2,8 @@
 title: RODocument.LastLookup հատկություն
 ---
 
+# RODocument.LastLookup հատկություն
+
 ```c#
 public DateTime LastLookup { get; private set; }
 ```

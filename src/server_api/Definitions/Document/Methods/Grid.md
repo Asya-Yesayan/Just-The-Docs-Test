@@ -2,6 +2,8 @@
 title: Document.Grid(string) մեթոդ
 ---
 
+# Document.Grid(string) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsDoc.Grid](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/ASDOC/Grid.html)

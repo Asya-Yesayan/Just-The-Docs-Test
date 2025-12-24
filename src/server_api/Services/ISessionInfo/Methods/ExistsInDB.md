@@ -2,6 +2,8 @@
 title: ISessionInfoService.ExistsInDB(string) մեթոդ
 ---
 
+# ISessionInfoService.ExistsInDB(string) մեթոդ
+
 ```c#
 public Task<bool> ExistsInDB(string guid)
 ```

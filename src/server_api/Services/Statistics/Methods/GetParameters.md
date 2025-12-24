@@ -1,6 +1,9 @@
 ---
 title: StatisticsService․GetParameters(string) մեթոդ
 ---
+
+# StatisticsService․GetParameters(string) մեթոդ
+
  
 ## Նկարագիր
  

@@ -2,6 +2,8 @@
 title: IExecutionProgress.RecordError(string, Exception, int, string, int, Dictionary<string, object>) մեթոդ
 ---
 
+# IExecutionProgress.RecordError(string, Exception, int, string, int, Dictionary<string, object>) մեթոդ
+
 ## Նկարագիր
 
 **Դաս՝** [IExecutionProgress](../../IExecutionProgress.md)

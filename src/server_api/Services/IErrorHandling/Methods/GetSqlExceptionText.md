@@ -2,6 +2,8 @@
 title: IErrorHandlingService.GetSqlExceptionText(SqlException, string) մեթոդ
 ---
 
+# IErrorHandlingService.GetSqlExceptionText(SqlException, string) մեթոդ
+
 ## Նկարագիր
 
 **Դաս՝** [IErrorHandlingService](../IErrorHandlingService.md)

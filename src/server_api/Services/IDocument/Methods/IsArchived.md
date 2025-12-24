@@ -2,6 +2,8 @@
 title: IDocumentService.IsArchived(int) մեթոդ
 ---
 
+# IDocumentService.IsArchived(int) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** AsDocEngine.IsDocArchived

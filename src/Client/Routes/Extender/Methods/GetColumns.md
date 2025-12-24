@@ -2,6 +2,8 @@
 title: ExtenderRoutes.GetColumns(string) մեթոդ
 ---
 
+# ExtenderRoutes.GetColumns(string) մեթոդ
+
 ```c#
 public List<string> GetColumns(string name)
 ```

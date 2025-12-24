@@ -2,6 +2,8 @@
 title: LoginController.Delete(LoginService) մեթոդ
 ---
 
+# LoginController.Delete(LoginService) մեթոդ
+
 ```c#
 [HttpDelete]
 [Authorize]

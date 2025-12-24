@@ -2,6 +2,8 @@
 title: DataSource.Definition հատկություն
 ---
 
+# DataSource.Definition հատկություն
+
 ```c#
 public DataSourceDefinition Definition { get; set; }
 ```

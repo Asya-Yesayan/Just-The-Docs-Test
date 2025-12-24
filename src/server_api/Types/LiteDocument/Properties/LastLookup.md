@@ -2,6 +2,8 @@
 title: LiteDocument.LastLookup հատկություն
 ---
 
+# LiteDocument.LastLookup հատկություն
+
 ```c#
 public DateTime LastLookup { get; private set; }
 ```

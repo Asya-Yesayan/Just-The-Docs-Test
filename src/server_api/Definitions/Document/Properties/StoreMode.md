@@ -2,6 +2,8 @@
 title: Document.StoreMode հատկություն
 ---
 
+# Document.StoreMode հատկություն
+
 ## Նկարագիր
 
 **Դաս՝** [Document](../Document.md)

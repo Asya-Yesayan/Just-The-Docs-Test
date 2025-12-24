@@ -1,6 +1,8 @@
 ---
-title: IFolderService.GetISN(string, string) մեթոդ  
+title: IFolderService.GetISN(string, string) մեթոդ
 ---
+
+# IFolderService.GetISN(string, string) մեթոդ
 
 ## Նկարագիր
 

@@ -2,6 +2,8 @@
 title: DataProcessingRequest.Progress հատկություն
 ---
 
+# DataProcessingRequest.Progress հատկություն
+
 ## Նկարագիր
 
 **Դաս՝** [DataProcessingRequest](../DataProcessingRequest.md)

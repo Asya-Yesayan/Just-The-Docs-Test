@@ -2,6 +2,8 @@
 title: DataSource.AfterExecuteSQLCommand(DataSourceArgs<P>, SqlDataReader) մեթոդ
 ---
 
+# DataSource.AfterExecuteSQLCommand(DataSourceArgs<P>, SqlDataReader) մեթոդ
+
 ## Նկարագիր
 
 **Դաս՝** [DataSource](../DataSource.md)

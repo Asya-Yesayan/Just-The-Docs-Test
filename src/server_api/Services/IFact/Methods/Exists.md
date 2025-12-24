@@ -2,6 +2,8 @@
 title: IFactService.Exists(int, int, string, string, bool) մեթոդ
 ---
 
+# IFactService.Exists(int, int, string, string, bool) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsKernel.ExistsFact](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/Functions/AccManagement/ExistsFact.html)

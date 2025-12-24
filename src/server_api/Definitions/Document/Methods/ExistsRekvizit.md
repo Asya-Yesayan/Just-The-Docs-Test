@@ -2,6 +2,8 @@
 title: Document.ExistsRekvizit(string) մեթոդ
 ---
 
+# Document.ExistsRekvizit(string) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsDoc.ExistsRekv](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/ASDOC/ExistsRekv.html)

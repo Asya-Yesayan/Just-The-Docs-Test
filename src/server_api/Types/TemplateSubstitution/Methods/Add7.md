@@ -2,6 +2,8 @@
 title: TemplateSubstitution.Add(string, float) մեթոդ
 ---
 
+# TemplateSubstitution.Add(string, float) մեթոդ
+
 ```c#
 public void Add(string code, float value)
 ```

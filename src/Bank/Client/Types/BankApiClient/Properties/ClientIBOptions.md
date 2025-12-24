@@ -2,6 +2,8 @@
 title: BankApiClient.ClientIBOptions հատկություն
 ---
 
+# BankApiClient.ClientIBOptions հատկություն
+
 ```c#
 public ClientIBOptionsRoutes ClientIBOptions { get; }
 ```

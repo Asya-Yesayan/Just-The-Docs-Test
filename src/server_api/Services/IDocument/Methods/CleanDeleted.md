@@ -2,6 +2,8 @@
 title: IDocumentService.CleanDeleted(DateTime, DateTime, string) մեթոդ
 ---
 
+# IDocumentService.CleanDeleted(DateTime, DateTime, string) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** AsUtil.CleanDelDoc

@@ -2,6 +2,8 @@
 title: SessionInfoCacheService.GetAll() մեթոդ
 ---
 
+# SessionInfoCacheService.GetAll() մեթոդ
+
 ```c#
 public List<SessionInfo> GetAll()
 ```

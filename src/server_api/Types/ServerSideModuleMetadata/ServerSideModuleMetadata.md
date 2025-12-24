@@ -2,6 +2,8 @@
 title: ServerSideModuleMetadata դաս
 ---
 
+# ServerSideModuleMetadata դաս
+
 ## Հատկություններ
 
 | Անվանում | Նկարագրություն |

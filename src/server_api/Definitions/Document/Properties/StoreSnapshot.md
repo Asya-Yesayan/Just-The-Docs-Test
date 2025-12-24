@@ -2,6 +2,8 @@
 title: Document.StoreSnapshot հատկություն
 ---
 
+# Document.StoreSnapshot հատկություն
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** AsDoc.StoreSnapshot

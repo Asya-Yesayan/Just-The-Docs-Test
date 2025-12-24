@@ -1,6 +1,9 @@
 ---
 title: StatisticsService․StoreReportCallsAndParams(ReportCallsStoreModel) մեթոդ
 ---
+
+# StatisticsService․StoreReportCallsAndParams(ReportCallsStoreModel) մեթոդ
+
  
 ## Նկարագիր
  

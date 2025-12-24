@@ -2,6 +2,8 @@
 title: DataSource.Client հատկություն
 ---
 
+# DataSource.Client հատկություն
+
 ```c#
 public ApiClient Client { get; set; }
 ```

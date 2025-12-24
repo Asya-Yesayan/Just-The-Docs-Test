@@ -2,6 +2,8 @@
 title: AuthenticationClient.AuthenticateWithSecretAsync(string, short, string, CancellationToken) մեթոդ
 ---
 
+# AuthenticationClient.AuthenticateWithSecretAsync(string, short, string, CancellationToken) մեթոդ
+
 ```c#
 public Task<AuthenticateResponse> AuthenticateWithSecretAsync(
     string username, 

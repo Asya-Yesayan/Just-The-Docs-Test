@@ -1,6 +1,8 @@
 ---
-title: IProcessServerClient.GetInfo(string) մեթոդ  
+title: IProcessServerClient.GetInfo(string) մեթոդ
 ---
+
+# IProcessServerClient.GetInfo(string) մեթոդ
 
 ## Նկարագիր
 

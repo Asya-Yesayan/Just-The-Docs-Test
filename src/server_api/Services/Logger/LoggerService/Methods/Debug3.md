@@ -2,6 +2,8 @@
 title: LoggerService.Debug(ILogger, Exception, string, object[]) մեթոդ
 ---
 
+# LoggerService.Debug(ILogger, Exception, string, object[]) մեթոդ
+
 ```c#
 public void Debug(ILogger logger, 
                   Exception exception, 

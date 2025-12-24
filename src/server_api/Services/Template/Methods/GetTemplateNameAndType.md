@@ -1,6 +1,8 @@
 ---
-title: TemplateService.GetTemplateNameAndType(string, bool) մեթոդ  
+title: TemplateService.GetTemplateNameAndType(string, bool) մեթոդ
 ---
+
+# TemplateService.GetTemplateNameAndType(string, bool) մեթոդ
 
 ## Նկարագիր
 

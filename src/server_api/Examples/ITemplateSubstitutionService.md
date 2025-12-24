@@ -5,6 +5,8 @@ sublinks:
 - { title: "Օրինակ IMailService, PostBeforeCommit", ref: օրինակ-1 }
 ---
 
+# Օրինակ ITemplateSubstitutionService
+
 ## Բովանդակություն
 - [ITemplateSubstitutionService, IMailService, PostBeforeCommit օգտագործման օրինակ](#օրինակ-1)
 

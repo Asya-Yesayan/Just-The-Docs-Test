@@ -1,6 +1,9 @@
 ---
 title: UserManagerService․GetAccessibleRoles(short) մեթոդ
 ---
+
+# UserManagerService․GetAccessibleRoles(short) մեթոդ
+
  
 ## Նկարագիր
 

@@ -2,6 +2,8 @@
 title: Document.SetCheckValue(string, bool) մեթոդ
 ---
 
+# Document.SetCheckValue(string, bool) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsDoc.CheckValue](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/ASDOC/CheckValue.html)

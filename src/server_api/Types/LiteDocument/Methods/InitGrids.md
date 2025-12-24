@@ -2,6 +2,8 @@
 title: LiteDocument.InitGrids() մեթոդ
 ---
 
+# LiteDocument.InitGrids() մեթոդ
+
 ```c#
 protected void InitGrids();
 ```

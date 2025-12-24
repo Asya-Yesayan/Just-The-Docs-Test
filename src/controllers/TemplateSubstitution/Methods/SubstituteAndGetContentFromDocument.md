@@ -1,6 +1,8 @@
 ---
-title: "SubstituteAndGetContentFromDocument մեթոդ" 
+title: "SubstituteAndGetContentFromDocument մեթոդ"
 ---
+
+# SubstituteAndGetContentFromDocument մեթոդ
 
 ```
 POST {{base_url}}/api/TemplateSubstitution/{{docIsn}}/Content?name={{templateName}}&type={{templateType}}

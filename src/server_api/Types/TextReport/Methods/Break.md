@@ -2,6 +2,8 @@
 title: TextReport.Break() մեթոդ
 ---
 
+# TextReport.Break() մեթոդ
+
 ```c#
 public void Break()
 ```

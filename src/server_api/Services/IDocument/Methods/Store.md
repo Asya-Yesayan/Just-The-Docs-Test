@@ -2,6 +2,8 @@
 title: IDocumentService.Store(Document, DocumentCheckLevel, string) մեթոդ
 ---
 
+# IDocumentService.Store(Document, DocumentCheckLevel, string) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsDoc.Store](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/ASDOC/Store.html)

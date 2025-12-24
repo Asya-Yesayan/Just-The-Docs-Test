@@ -2,6 +2,8 @@
 title: ExtenderRoutes.GetSchema(string) մեթոդ
 ---
 
+# ExtenderRoutes.GetSchema(string) մեթոդ
+
 ```c#
 public ExtenderSchema GetSchema(string extenderName)
 ```

@@ -2,6 +2,8 @@
 title: "IAccountingService սերվիս"
 ---
 
+# IAccountingService սերվիս
+
 ## Ներածություն
 
 IAccountingService դասը նախատեսված է հաշվառման հետ աշխատանքը ապահովելու համար։

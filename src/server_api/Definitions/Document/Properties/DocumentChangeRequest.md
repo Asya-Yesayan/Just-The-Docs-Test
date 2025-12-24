@@ -2,6 +2,8 @@
 title: Document.DocumentChangeRequest հատկություն
 ---
 
+# Document.DocumentChangeRequest հատկություն
+
 ## Նկարագիր
 
 **Դաս՝** [Document](../Document.md)

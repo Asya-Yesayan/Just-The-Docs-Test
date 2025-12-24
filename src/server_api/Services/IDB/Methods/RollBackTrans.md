@@ -2,6 +2,8 @@
 title: IDBService.RollBackTrans() մեթոդ
 ---
 
+# IDBService.RollBackTrans() մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsDocEngine.RollbackTrans](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/Functions/TransactionManagment/RollBackTrans.html)

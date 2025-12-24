@@ -4,6 +4,8 @@ title: "TextReportStyle"
 tags: [AsRepViewer, textReport]
 ---
 
+# TextReportStyle
+
 Այս enum-ը նախատեսված է տեքստային հաշվետվությունում (TextReport) ավելացող տողի ոճավորման համար։
 
 Պարունակում է HTML թեգերի բազմություն, որոնք կարելի է ավելացնել տեքստին [TextReport](TextReport.md).[ApplyStyle](TextReport/Methods/ApplyStyle.md) մեթոդի միջոցով։

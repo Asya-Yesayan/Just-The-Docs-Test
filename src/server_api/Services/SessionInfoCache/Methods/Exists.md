@@ -2,6 +2,8 @@
 title: SessionInfoCacheService.Exists(string) մեթոդ
 ---
 
+# SessionInfoCacheService.Exists(string) մեթոդ
+
 ```c#
 public bool Exists(string guid)
 ```

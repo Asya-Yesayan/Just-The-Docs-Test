@@ -2,6 +2,8 @@
 title: Document.AfterCreate(AfterCreateEventArgs) մեթոդ
 ---
 
+# Document.AfterCreate(AfterCreateEventArgs) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AfterCreate](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/ScriptProcs/AfterCreate.html)

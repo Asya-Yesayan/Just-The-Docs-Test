@@ -2,6 +2,8 @@
 title: DataSource.Name հատկություն
 ---
 
+# DataSource.Name հատկություն
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsData.Name](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/ASDATA/Name.html)

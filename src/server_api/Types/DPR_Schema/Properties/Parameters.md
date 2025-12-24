@@ -2,6 +2,8 @@
 title: DPR.Schema.Parameters հատկություն
 ---
 
+# DPR.Schema.Parameters հատկություն
+
 ```c#
 public List<ParametersDescription> Parameters { get; set; } = null;
 ```

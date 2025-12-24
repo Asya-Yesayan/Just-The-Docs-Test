@@ -2,6 +2,8 @@
 title: ServerSideModuleMetadata.GetByAttribute() մեթոդ
 ---
 
+# ServerSideModuleMetadata.GetByAttribute() մեթոդ
+
 ```c#
 public IReadOnlyDictionary<string, Type> GetByAttribute<T>() where T : Attribute
 ```

@@ -2,6 +2,8 @@
 title: DataSource.FillData(DataSourceArgs<P>, CancellationToken) մեթոդ
 ---
 
+# DataSource.FillData(DataSourceArgs<P>, CancellationToken) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [Load](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/ScriptProcs/Load.html)

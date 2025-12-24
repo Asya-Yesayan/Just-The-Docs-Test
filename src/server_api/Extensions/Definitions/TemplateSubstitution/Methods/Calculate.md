@@ -2,6 +2,8 @@
 title: ITemplateSubstitutionExtender.Calculate(TemplateSubstitutionExtenderArgs) մեթոդ
 ---
 
+# ITemplateSubstitutionExtender.Calculate(TemplateSubstitutionExtenderArgs) մեթոդ
+
 ## Նկարագիր
 
 **Դաս՝** [ITemplateSubstitutionExtender](../template_substitution.md)

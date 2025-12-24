@@ -2,6 +2,8 @@
 title: "IFolderService սերվիս"
 ---
 
+# IFolderService սերվիս
+
 ## Ներածություն
 
 FolderService դասը նախատեսված է [FOLDERS](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Database/Folders.html) աղյուսակից թղթապանակի տարրերի հետ աշխատանքը ապահովելու համար։

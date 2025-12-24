@@ -1,7 +1,9 @@
 ---
 layout: page
-title: "CertificateAuthenticateResponse դաս" 
+title: "CertificateAuthenticateResponse դաս"
 ---
+
+# CertificateAuthenticateResponse դաս
 
 Դասը պարունակում է նույնականացումը անցած կլիենտ ծրագրի և օգտագործողի տվյալները։
 

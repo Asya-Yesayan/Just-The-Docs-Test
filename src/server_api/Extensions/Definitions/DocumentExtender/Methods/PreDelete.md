@@ -2,6 +2,8 @@
 title: DocumentExtender.PreDelete(Document, DeleteEventArgs) մեթոդ
 ---
 
+# DocumentExtender.PreDelete(Document, DeleteEventArgs) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** ScriptExtension.DocPreDelete

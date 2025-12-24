@@ -1,6 +1,8 @@
 ---
-title: TemplateService.ExistsTemplate(string, string) մեթոդ  
+title: TemplateService.ExistsTemplate(string, string) մեթոդ
 ---
+
+# TemplateService.ExistsTemplate(string, string) մեթոդ
 
 ## Նկարագիր
 

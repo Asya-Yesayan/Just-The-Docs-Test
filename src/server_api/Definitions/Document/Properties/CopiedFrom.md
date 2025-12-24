@@ -2,6 +2,8 @@
 title: Document.CopiedFrom հատկություն
 ---
 
+# Document.CopiedFrom հատկություն
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** AsDoc.CopedFrom

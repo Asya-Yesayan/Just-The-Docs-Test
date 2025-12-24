@@ -2,6 +2,8 @@
 title: Document.CreationDate հատկություն
 ---
 
+# Document.CreationDate հատկություն
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsDoc․CreationDate](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/ASDOC/CreationDate.html)

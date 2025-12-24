@@ -2,6 +2,8 @@
 title: IFactService.LoadHI2ByObject(string, int, long, DateTime?, DateTime?, string) մեթոդ
 ---
 
+# IFactService.LoadHI2ByObject(string, int, long, DateTime?, DateTime?, string) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsKernel.LoadHI2FactByObject](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/Functions/AccManagement/LoadHI2FactByObject.html)

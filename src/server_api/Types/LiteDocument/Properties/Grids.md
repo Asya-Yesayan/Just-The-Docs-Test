@@ -2,6 +2,8 @@
 title: LiteDocument.Grids հատկություն
 ---
 
+# LiteDocument.Grids հատկություն
+
 ```c#
 public IReadOnlyDictionary<string, IGrid> Grids { get; private set; }
 ```

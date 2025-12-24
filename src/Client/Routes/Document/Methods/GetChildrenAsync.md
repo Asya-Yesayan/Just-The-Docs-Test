@@ -2,6 +2,8 @@
 title: DocumentRoutes.GetChildrenAsync(int, string, DocumentOrder, string, CancellationToken) մեթոդ
 ---
 
+# DocumentRoutes.GetChildrenAsync(int, string, DocumentOrder, string, CancellationToken) մեթոդ
+
 ```c#
 public Task<List<DocumentResponseInfo>> GetChildrenAsync(int isn, 
                                                          string docType = "", 

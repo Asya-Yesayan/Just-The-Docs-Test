@@ -2,7 +2,7 @@
 title: Schema.AddParam(string, string, FieldType, string, MultiFilterTypes, bool, string, bool, bool) մեթոդ
 ---
 
-
+# Schema.AddParam(string, string, FieldType, string, MultiFilterTypes, bool, string, bool, bool) մեթոդ
 
 ```c#
 public void AddParam(string name, string description, FieldType fieldType, string userReportValue = null,

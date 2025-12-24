@@ -2,6 +2,8 @@
 title: IDocumentService.GetDocumentChildren(int, string, DocumentChildrenOrder, string) մեթոդ
 ---
 
+# IDocumentService.GetDocumentChildren(int, string, DocumentChildrenOrder, string) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsDocEngine.DocChildren](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/Functions/DocumentsCirculation/DocChildren.html)

@@ -1,6 +1,8 @@
 ---
-title: ITemplateSubstitutionService.EvalAndAddUserDefinedParametersEx(string, SubstitutionType, PrintTemplateSubstitutionEx, Document.Document) մեթոդ  
+title: ITemplateSubstitutionService.EvalAndAddUserDefinedParametersEx(string, SubstitutionType, PrintTemplateSubstitutionEx, Document.Document) մեթոդ
 ---
+
+# ITemplateSubstitutionService.EvalAndAddUserDefinedParametersEx(string, SubstitutionType, PrintTemplateSubstitutionEx, Document.Document) մեթոդ
 
 ## Նկարագիր
 

@@ -2,6 +2,8 @@
 title: IDocumentChangeRequest.ChangeRequest(ChangeRequestEventArgs) մեթոդ
 ---
 
+# IDocumentChangeRequest.ChangeRequest(ChangeRequestEventArgs) մեթոդ
+
 ```c#
 public Task ChangeRequest(ChangeRequestEventArgs args)
 ```

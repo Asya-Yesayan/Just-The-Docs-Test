@@ -1,6 +1,8 @@
 ---
-title: LiteDocumentService.RemoveFromCache մեթոդ  
+title: LiteDocumentService.RemoveFromCache մեթոդ
 ---
+
+# LiteDocumentService.RemoveFromCache մեթոդ
 
 ## Գերբեռնումներ
 

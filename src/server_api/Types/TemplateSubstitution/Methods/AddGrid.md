@@ -2,6 +2,8 @@
 title: TemplateSubstitution.AddGrid(string) մեթոդ
 ---
 
+# TemplateSubstitution.AddGrid(string) մեթոդ
+
 ```c#
 public G AddGrid(string name)
 ```

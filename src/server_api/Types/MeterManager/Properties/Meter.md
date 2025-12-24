@@ -2,6 +2,8 @@
 title: MeterManager.Meter հատկություն
 ---
 
+# MeterManager.Meter հատկություն
+
 ```c#
 protected internal Meter Meter { get; } = meterFactory.Create(Settings.GetServiceName());
 ```

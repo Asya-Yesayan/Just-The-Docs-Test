@@ -2,6 +2,8 @@
 title: PrintTemplateSubstitutionImage.Name հատկություն
 ---
 
+# PrintTemplateSubstitutionImage.Name հատկություն
+
 ```c#
 public string Name { get; }
 ```

@@ -2,6 +2,8 @@
 title: RODocument.CheckImage() մեթոդ
 ---
 
+# RODocument.CheckImage() մեթոդ
+
 ```c#
 protected void CheckImage()
 ```

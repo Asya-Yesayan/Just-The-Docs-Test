@@ -1,6 +1,8 @@
 ---
-title: IFolderService.Exists(string) մեթոդ  
+title: IFolderService.Exists(string) մեթոդ
 ---
+
+# IFolderService.Exists(string) մեթոդ
 
 ## Նկարագիր
 

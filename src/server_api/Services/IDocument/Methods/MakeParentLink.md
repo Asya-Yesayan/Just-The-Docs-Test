@@ -2,6 +2,8 @@
 title: IDocumentService.MakeParentLink(Document, int, bool) մեթոդ
 ---
 
+# IDocumentService.MakeParentLink(Document, int, bool) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsDocEngine.MakeParentLink](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/Functions/DocumentsCirculation/MakeParentLink.html)

@@ -2,6 +2,8 @@
 title: ExtenderRoutes դաս
 ---
 
+# ExtenderRoutes դաս
+
 ## Ներածություն
 
 ExtenderRoutes դասը նախատեսված է ընդլայնումների հետ աշխատանքը ապահովելու համար։

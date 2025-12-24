@@ -1,6 +1,8 @@
 ---
-title: TreeElementsService.ExistsInDB(string, string) մեթոդ  
+title: TreeElementsService.ExistsInDB(string, string) մեթոդ
 ---
+
+# TreeElementsService.ExistsInDB(string, string) մեթոդ
 
 ## Նկարագիր
 

@@ -1,6 +1,8 @@
 ---
-title: IParametersService.GetIntegerValue մեթոդ  
+title: IParametersService.GetIntegerValue մեթոդ
 ---
+
+# IParametersService.GetIntegerValue մեթոդ
 
 ## Նկարագիր
 

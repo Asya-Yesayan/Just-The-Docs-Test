@@ -2,6 +2,8 @@
 title: LiteDocument.LastTSCheck հատկություն
 ---
 
+# LiteDocument.LastTSCheck հատկություն
+
 ```c#
 public DateTime LastTSCheck { get; private set; }
 ```

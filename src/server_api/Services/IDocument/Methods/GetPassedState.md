@@ -2,6 +2,8 @@
 title: IDocumentService.GetPassedState մեթոդ
 ---
 
+# IDocumentService.GetPassedState մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsDocEngine.GetDocPassedState](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/Functions/DocumentsCirculation/GetDocPassedState.html)

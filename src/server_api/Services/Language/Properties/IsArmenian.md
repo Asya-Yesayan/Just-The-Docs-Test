@@ -1,6 +1,8 @@
 ---
-title: LanguageService.IsArmenian հատկություն  
+title: LanguageService.IsArmenian հատկություն
 ---
+
+# LanguageService.IsArmenian հատկություն
 
 ## Նկարագիր
 

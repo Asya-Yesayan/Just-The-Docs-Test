@@ -1,7 +1,9 @@
 ---
 layout: page
-title: "MessageBoxDefaultButton" 
+title: "MessageBoxDefaultButton"
 ---
+
+# MessageBoxDefaultButton
 
 Այս enum-ը նախատեսված է հաղորդագրության պատուհանում (MessageBox) լռությամբ կոճակի սահմանման համար։
 

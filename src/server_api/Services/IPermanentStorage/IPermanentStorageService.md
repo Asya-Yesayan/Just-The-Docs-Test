@@ -2,6 +2,8 @@
 title: "IPermanentStorageService սերվիս"
 ---
 
+# IPermanentStorageService սերվիս
+
 ## Ներածություն
 
 IPermanentStorageService դասը նախատեսված է ծրագրի աշխատանքի ընթացքում ձևավորվող մշտական ֆայլերի պահպանման և բեռնման համար։

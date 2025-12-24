@@ -1,7 +1,9 @@
 ---
 layout: page
-title: "Բոլոր նկարագրությունները" 
+title: "Բոլոր նկարագրությունները"
 ---
+
+# Բոլոր նկարագրությունները
 
 * [Փաստաթղթի նկարագրություն](Definitions/Document/Document.md)
 * [Տվյալների աղբյուրի նկարագրություն](Definitions/DataSource/DataSource.md)

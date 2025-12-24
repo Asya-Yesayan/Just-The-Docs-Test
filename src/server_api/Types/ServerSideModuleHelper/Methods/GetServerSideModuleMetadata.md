@@ -2,6 +2,8 @@
 title: ServerSideModuleHelper.GetServerSideModuleMetadata(IDBService, string) մեթոդ
 ---
 
+# ServerSideModuleHelper.GetServerSideModuleMetadata(IDBService, string) մեթոդ
+
 ```c#
 public static Task<ServerSideModuleMetadata> GetServerSideModuleMetadata(IDBService dbService, string name)
 ```

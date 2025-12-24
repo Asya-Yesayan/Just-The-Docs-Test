@@ -2,6 +2,8 @@
 title: "IAttachmentService սերվիս"
 ---
 
+# IAttachmentService սերվիս
+
 ## Ներածություն
 
 IAttachmentService դասը նախատեսված է փաստաթղթին կցված ֆայլերի հետ աշխատանքը ապահովելու համար։

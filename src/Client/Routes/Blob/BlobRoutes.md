@@ -2,6 +2,8 @@
 title: BlobRoutes դաս
 ---
 
+# BlobRoutes դաս
+
 ## Ներածություն
 
 ## Մեթոդներ

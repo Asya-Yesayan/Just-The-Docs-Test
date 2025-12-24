@@ -2,6 +2,8 @@
 title: LoginService.SessionGuid հատկություն
 ---
 
+# LoginService.SessionGuid հատկություն
+
 ```c#
 public string SessionGuid { get; private set; }
 ```

@@ -2,6 +2,8 @@
 title: RODocument.RefreshLastLookup() մեթոդ
 ---
 
+# RODocument.RefreshLastLookup() մեթոդ
+
 ```c#
 public void RefreshLastLookup();
 ```

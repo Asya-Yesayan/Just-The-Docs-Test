@@ -2,6 +2,8 @@
 title: DataProcessingRequest.Name հատկություն
 ---
 
+# DataProcessingRequest.Name հատկություն
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [DataProcessingRequest.Name](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/DataProcessingRequest.html#name)

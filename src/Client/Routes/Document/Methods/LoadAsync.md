@@ -2,6 +2,8 @@
 title: DocumentRoutes.LoadAsync(int, bool, bool, CancellationToken) մեթոդ
 ---
 
+# DocumentRoutes.LoadAsync(int, bool, bool, CancellationToken) մեթոդ
+
 ```c#
 public Task<DocumentModelSimple> LoadAsync(int isn, 
                                            bool throwExceptionIfDeleted = true, 

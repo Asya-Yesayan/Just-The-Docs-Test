@@ -2,6 +2,8 @@
 title: Document.DocumentLog հատկություն
 ---
 
+# Document.DocumentLog հատկություն
+
 ## Նկարագիր
 
 **Դաս՝** [Document](../Document.md)

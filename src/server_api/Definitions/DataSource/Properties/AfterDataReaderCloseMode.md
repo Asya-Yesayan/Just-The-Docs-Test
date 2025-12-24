@@ -2,6 +2,8 @@
 title: DataSource.AfterDataReaderCloseMode հատկություն
 ---
 
+# DataSource.AfterDataReaderCloseMode հատկություն
+
 ## Նկարագիր
 
 **Դաս՝** [DataSource](../DataSource.md)

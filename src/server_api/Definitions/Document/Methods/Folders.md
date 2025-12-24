@@ -2,6 +2,8 @@
 title: Document.Folders(FoldersEventArgs) մեթոդ
 ---
 
+# Document.Folders(FoldersEventArgs) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [Folders](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/ScriptProcs/Folders.html)

@@ -2,6 +2,8 @@
 title: LoginService.DbName հատկություն
 ---
 
+# LoginService.DbName հատկություն
+
 ```c#
 public string DbName { get; private set; }
 ```

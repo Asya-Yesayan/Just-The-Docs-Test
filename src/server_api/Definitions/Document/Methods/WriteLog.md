@@ -2,6 +2,8 @@
 title: Document.WriteLog(string, int, bool) մեթոդ
 ---
 
+# Document.WriteLog(string, int, bool) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsDoc.WriteLog](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/ASDOC/WriteLog.html)

@@ -2,6 +2,8 @@
 title: FieldTypeProvider.AmAcc հատկություն
 ---
 
+# FieldTypeProvider.AmAcc հատկություն
+
 ```c#
 public static AmAccFieldType AmAcc { get; }
 ```

@@ -2,6 +2,8 @@
 title: LoginService.IsLoggedIn հատկություն
 ---
 
+# LoginService.IsLoggedIn հատկություն
+
 ```c#
 public bool IsLoggedIn { get; }
 ```

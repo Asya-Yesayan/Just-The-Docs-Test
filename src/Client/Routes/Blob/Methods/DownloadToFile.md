@@ -2,6 +2,8 @@
 title: BlobRoutes.DownloadToFile(string, string, string, bool) մեթոդ
 ---
 
+# BlobRoutes.DownloadToFile(string, string, string, bool) մեթոդ
+
 ```c#
 public void DownloadToFile(string container, 
                            string blobName,

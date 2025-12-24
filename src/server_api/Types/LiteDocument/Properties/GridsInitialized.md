@@ -2,6 +2,8 @@
 title: LiteDocument.GridsInitialized հատկություն
 ---
 
+# LiteDocument.GridsInitialized հատկություն
+
 ```c#
 public bool GridsInitialized { get; protected internal set; }
 ```

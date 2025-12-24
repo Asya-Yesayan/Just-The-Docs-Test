@@ -2,6 +2,8 @@
 title: LoginController.AuthenticateWithSecret(short, SecretAuthenticateRequest) մեթոդ
 ---
 
+# LoginController.AuthenticateWithSecret(short, SecretAuthenticateRequest) մեթոդ
+
 ```c#
 [HttpPost("WithSecret")]
 [Authorize("ApiClientSecret")]

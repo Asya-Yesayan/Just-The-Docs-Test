@@ -1,7 +1,9 @@
 ---
 layout: page
-title: "AfterLoadEventArgs դաս" 
+title: "AfterLoadEventArgs դաս"
 ---
+
+# AfterLoadEventArgs դաս
 
 Այս դասը օգտագործվում է [Document.AfterLoad](../../Definitions/Document/Methods/AfterLoad.md) մեթոդում։
 

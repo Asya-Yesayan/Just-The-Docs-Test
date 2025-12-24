@@ -2,6 +2,8 @@
 title: "RODocumentService սերվիս"
 ---
 
+# RODocumentService սերվիս
+
 ## Ներածություն
 
 RODocumentService դասը նախատեսված է [RODocument](../../Types/RODocument.md) տիպի փաստաթղթերը տվյալների պահոցից բեռնելու, քեշում պահելու և քեշից կարդալու համար։

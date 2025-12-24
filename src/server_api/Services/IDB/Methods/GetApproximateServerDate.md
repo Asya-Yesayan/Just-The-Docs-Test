@@ -2,6 +2,8 @@
 title: IDBService.GetApproximateServerDate() մեթոդ
 ---
 
+# IDBService.GetApproximateServerDate() մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** AsUtil.GetApproximateServerDate

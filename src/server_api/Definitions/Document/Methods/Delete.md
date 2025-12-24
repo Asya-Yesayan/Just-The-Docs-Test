@@ -2,6 +2,8 @@
 title: Document.Delete(DeleteEventArgs) մեթոդ
 ---
 
+# Document.Delete(DeleteEventArgs) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [Delete](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/ScriptProcs/Delete.html)

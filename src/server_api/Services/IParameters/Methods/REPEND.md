@@ -1,6 +1,8 @@
 ---
-title: IParametersService.REPEND մեթոդ  
+title: IParametersService.REPEND մեթոդ
 ---
+
+# IParametersService.REPEND մեթոդ
 
 ## Գերբեռնումներ
 

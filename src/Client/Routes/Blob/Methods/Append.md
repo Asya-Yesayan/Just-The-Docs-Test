@@ -2,6 +2,8 @@
 title: BlobRoutes.Append(string, string, byte[], int) մեթոդ
 ---
 
+# BlobRoutes.Append(string, string, byte[], int) մեթոդ
+
 ```c#
 public bool Append(string container, 
                    string blobName, 

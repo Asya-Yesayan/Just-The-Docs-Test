@@ -2,6 +2,8 @@
 title: "IDocumentService սերվիս"
 ---
 
+# IDocumentService սերվիս
+
 ## Ներածություն
 
 IDocumentService դասը նախատեսված է փաստաթղթի ([Document](../../Definitions/Document/Document.md)) հետ աշխատանքը ապահովելու համար։

@@ -2,6 +2,8 @@
 title: LiteDocument.ExistsRekvizit(string) մեթոդ
 ---
 
+# LiteDocument.ExistsRekvizit(string) մեթոդ
+
 ```c#
 public bool ExistsRekvizit(string rekv);
 ```

@@ -2,6 +2,8 @@
 title: PrintTemplateSubstitutionImage.CompareTo(PrintTemplateSubstitutionImage) մեթոդ
 ---
 
+# PrintTemplateSubstitutionImage.CompareTo(PrintTemplateSubstitutionImage) մեթոդ
+
 ```c#
 public int CompareTo(PrintTemplateSubstitutionImage other)
 ```

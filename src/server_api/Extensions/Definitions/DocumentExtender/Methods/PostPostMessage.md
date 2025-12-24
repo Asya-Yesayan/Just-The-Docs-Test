@@ -2,6 +2,8 @@
 title: DocumentExtender.PostPostMessage(Document, PostMessageEventArgs) մեթոդ
 ---
 
+# DocumentExtender.PostPostMessage(Document, PostMessageEventArgs) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [PostPostMessage](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/ScriptProcs/DocExtenderEvents/PostPostMessage.html)

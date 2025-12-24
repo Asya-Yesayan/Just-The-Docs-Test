@@ -2,6 +2,8 @@
 title: LiteDocument.ISN հատկություն
 ---
 
+# LiteDocument.ISN հատկություն
+
 ```c#
 public int ISN { get; internal set; }
 ```

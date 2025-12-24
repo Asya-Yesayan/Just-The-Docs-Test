@@ -2,6 +2,8 @@
 title: Document.NestedTransactionReport հատկություն
 ---
 
+# Document.NestedTransactionReport հատկություն
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** AsDoc.NestedTransactionReport

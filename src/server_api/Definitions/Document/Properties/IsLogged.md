@@ -2,6 +2,8 @@
 title: Document.IsLogged հատկություն
 ---
 
+# Document.IsLogged հատկություն
+
 ## Նկարագիր
 
 **Դաս՝** [Document](../Document.md)

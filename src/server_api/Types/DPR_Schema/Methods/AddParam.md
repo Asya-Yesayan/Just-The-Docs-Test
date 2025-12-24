@@ -2,6 +2,8 @@
 title: DPR.Schema.AddParam(string, string, string, FieldType, object, bool, bool) մեթոդ
 ---
 
+# DPR.Schema.AddParam(string, string, string, FieldType, object, bool, bool) մեթոդ
+
 ```c#
 public void AddParam(string name, 
                      string armenianCaption, 

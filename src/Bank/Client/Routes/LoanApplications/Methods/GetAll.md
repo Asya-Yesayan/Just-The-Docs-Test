@@ -2,6 +2,8 @@
 title: LoanApplicationsRoutes.GetAll(GetAllRequest) մեթոդ
 ---
 
+# LoanApplicationsRoutes.GetAll(GetAllRequest) մեթոդ
+
 ```c#
 public async Task<GetAllResponse> GetAll(GetAllRequest request)
 ```

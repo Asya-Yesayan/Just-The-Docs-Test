@@ -2,6 +2,8 @@
 title: RODocument.TimeStamp հատկություն
 ---
 
+# RODocument.TimeStamp հատկություն
+
 ```c#
 public byte[] TimeStamp { get; set; }
 ```

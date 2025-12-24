@@ -2,6 +2,8 @@
 title: DocumentRoutes.CreateAsync(string, DocumentCreateRequestModel, CancellationToken) մեթոդ
 ---
 
+# DocumentRoutes.CreateAsync(string, DocumentCreateRequestModel, CancellationToken) մեթոդ
+
 ```c#
 public Task<DocumentModelSimple> CreateAsync(string type, 
                                              DocumentCreateRequestModel createRequestModel, 

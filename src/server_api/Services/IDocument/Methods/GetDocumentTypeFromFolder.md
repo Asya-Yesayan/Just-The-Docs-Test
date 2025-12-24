@@ -2,6 +2,8 @@
 title: IDocumentService.GetDocumentTypeFromFolder(string, string) մեթոդ
 ---
 
+# IDocumentService.GetDocumentTypeFromFolder(string, string) մեթոդ
+
 ## Նկարագիր
 
 **Դաս՝** [IDocumentService](../IDocumentService.md)

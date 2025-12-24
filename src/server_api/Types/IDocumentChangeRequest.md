@@ -2,6 +2,8 @@
 title: IDocumentChangeRequest դաս
 ---
 
+# IDocumentChangeRequest դաս
+
 ## Մեթոդներ
 
 | Անվանում | Նկարագրություն |

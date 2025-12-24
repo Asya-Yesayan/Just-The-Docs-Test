@@ -2,6 +2,8 @@
 title: CardsRoutes.GetCardAgreementFiles(int, Language) մեթոդ
 ---
 
+# CardsRoutes.GetCardAgreementFiles(int, Language) մեթոդ
+
 ```c#
 public Task<FilesInfoResponse> GetCardAgreementFiles(int cardIsn, Language language)
 ```

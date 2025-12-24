@@ -2,6 +2,8 @@
 title: Document.TimeStamp հատկություն
 ---
 
+# Document.TimeStamp հատկություն
+
 ## Նկարագիր
 
 **Դաս՝** [Document](../Document.md)

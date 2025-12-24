@@ -2,6 +2,8 @@
 title: Document.LogTransactions հատկություն
 ---
 
+# Document.LogTransactions հատկություն
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsDoc.LogTransactions](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/ASDOC/LogTransactions.html)

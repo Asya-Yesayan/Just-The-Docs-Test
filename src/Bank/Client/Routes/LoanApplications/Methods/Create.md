@@ -2,6 +2,8 @@
 title: LoanApplicationsRoutes.Create(CreateRequest) մեթոդ
 ---
 
+# LoanApplicationsRoutes.Create(CreateRequest) մեթոդ
+
 ```c#
 public async Task<CreateResponse> Create(CreateRequest request)
 ```

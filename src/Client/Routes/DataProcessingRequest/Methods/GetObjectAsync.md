@@ -2,6 +2,8 @@
 title: DataProcessingRequestRoutes.GetObjectAsync(DPRType, string, CancellationToken) մեթոդ
 ---
 
+# DataProcessingRequestRoutes.GetObjectAsync(DPRType, string, CancellationToken) մեթոդ
+
 ```c#
 public Task<DPRInfoExtended> GetObjectAsync(DPRType type, 
                                             string name, 

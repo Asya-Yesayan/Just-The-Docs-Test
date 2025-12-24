@@ -1,6 +1,8 @@
 ---
-title: IOlapDBService.Connection հատկություն  
+title: IOlapDBService.Connection հատկություն
 ---
+
+# IOlapDBService.Connection հատկություն
 
 ## Նկարագիր
 

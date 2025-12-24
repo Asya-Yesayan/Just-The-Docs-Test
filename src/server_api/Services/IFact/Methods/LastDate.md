@@ -2,6 +2,8 @@
 title: IFactService.LastDate(string, int, DateTime?, string) մեթոդ
 ---
 
+# IFactService.LastDate(string, int, DateTime?, string) մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [AsAccounting.LastFactDate](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/Functions/AsAccounting/LastFactDate.html)

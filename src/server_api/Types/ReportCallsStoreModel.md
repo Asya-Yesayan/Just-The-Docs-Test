@@ -1,6 +1,8 @@
 ---
-title: "ReportCallsStoreModel դաս" 
+title: "ReportCallsStoreModel դաս"
 ---
+
+# ReportCallsStoreModel դաս
 
 Դասը պարունակում է տվյալներ դիտելու ձևի մասին։
 

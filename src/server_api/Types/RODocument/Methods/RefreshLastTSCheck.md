@@ -2,6 +2,8 @@
 title: RODocument.RefreshLastTSCheck() մեթոդ
 ---
 
+# RODocument.RefreshLastTSCheck() մեթոդ
+
 ```c#
 public void RefreshLastTSCheck();
 ```

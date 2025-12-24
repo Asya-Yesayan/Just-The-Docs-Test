@@ -2,6 +2,8 @@
 title: IAccountingOnLimitFault.OnLimitFault մեթոդ
 ---
 
+# IAccountingOnLimitFault.OnLimitFault մեթոդ
+
 ## Նկարագիր
 
 **Համարժեքը 4x-ում՝** [OnLimitFault](https://armsoft.github.io/as4x-docs/HTM/ProgrGuide/ScriptProcs/OnLimitFault.html)
