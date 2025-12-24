@@ -1,5 +1,7 @@
 ﻿---
 title: Accounting.OnDelete(OnDeleteEventArgs) մեթոդ
+parent: "Մեթոդներ"
+grand_parent: "Հաշվառում"
 ---
 
 ## Նկարագիր
