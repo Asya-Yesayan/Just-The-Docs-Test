@@ -1,5 +1,7 @@
 ---
-title: DataProcessingRequest նկարագրություն
+title: Տվյալների մշակման հարցում
+parent: "Համակարգային նկարագրություններ"
+nav_order: 2
 ---
 
 # DataProcessingRequest նկարագրություն

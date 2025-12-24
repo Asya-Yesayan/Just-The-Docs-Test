@@ -1,5 +1,7 @@
 ---
-title: Accounting նկարագրություն
+title: Հաշվառում
+parent: "Համակարգային նկարագրություններ"
+nav_order: 2
 ---
 
 # Accounting նկարագրություն
