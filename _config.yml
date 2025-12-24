@@ -51,7 +51,6 @@ defaults:
       path: "src"
     values:
       layout: "page"
-      nav_order: 1
 
 versions:
   - id: bank
