@@ -19,6 +19,8 @@ sublinks:
 - { title: "Լոգի ֆիլտրում", ref: լոգի-ֆիլտրում }
 - { title: "Մի քանի լոգերի կիրառում", ref: մի-քանի-լոգերի-կիրառում }
 - { title: "Storage", ref: storage }
+parent: "Պրոյեկտների կառուցվածք"
+nav_order: 2
 ---
 
 # appsettings.json: Կարգավորման ֆայլ

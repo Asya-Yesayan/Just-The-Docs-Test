@@ -2,6 +2,8 @@
 layout: page
 title: "config.as Կարգավորման ֆայլ" 
 tags: [config]
+parent: "Պրոյեկտների կառուցվածք"
+nav_order: 2
 ---
 
 # config.as Կարգավորման ֆայլ
