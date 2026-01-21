@@ -1,6 +1,7 @@
 ---
 title: "IErrorHandlingService սերվիս"
-nav_exclude: true
+parent: "Սերվիսներ"
+nav_order: 2
 ---
 
 # IErrorHandlingService սերվիս

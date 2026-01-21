@@ -1,6 +1,7 @@
 ---
 title: "IProcessServerClient սերվիս"
-nav_exclude: true
+parent: "Սերվիսներ"
+nav_order: 2
 ---
 
 # IProcessServerClient սերվիս

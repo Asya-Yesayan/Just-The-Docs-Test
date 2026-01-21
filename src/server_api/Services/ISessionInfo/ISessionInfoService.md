@@ -1,6 +1,7 @@
 ---
 title: "ISessionInfoService սերվիս"
-nav_exclude: true
+parent: "Սերվիսներ"
+nav_order: 2
 ---
 
 # ISessionInfoService սերվիս

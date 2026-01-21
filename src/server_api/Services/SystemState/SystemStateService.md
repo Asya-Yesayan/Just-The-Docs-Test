@@ -1,6 +1,7 @@
 ---
 title: "SystemStateService սերվիս"
-nav_exclude: true
+parent: "Սերվիսներ"
+nav_order: 2
 ---
 
 # SystemStateService սերվիս

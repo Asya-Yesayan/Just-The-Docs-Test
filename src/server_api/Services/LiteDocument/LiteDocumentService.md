@@ -1,6 +1,7 @@
 ---
 title: "LiteDocumentService սերվիս"
-nav_exclude: true
+parent: "Սերվիսներ"
+nav_order: 2
 ---
 
 # LiteDocumentService սերվիս

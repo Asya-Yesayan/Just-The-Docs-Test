@@ -1,6 +1,7 @@
 ---
 title: "IDocumentService սերվիս"
-nav_exclude: true
+parent: "Սերվիսներ"
+nav_order: 2
 ---
 
 # IDocumentService սերվիս

@@ -1,6 +1,7 @@
 ---
 title: "UserManagerService սերվիս"
-nav_exclude: true
+parent: "Սերվիսներ"
+nav_order: 2
 ---
 
 # UserManagerService սերվիս

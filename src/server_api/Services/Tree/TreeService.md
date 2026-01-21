@@ -1,6 +1,7 @@
 ---
 title: TreeService սերվիս
-nav_exclude: true
+parent: "Սերվիսներ"
+nav_order: 2
 ---
 
 # TreeService սերվիս

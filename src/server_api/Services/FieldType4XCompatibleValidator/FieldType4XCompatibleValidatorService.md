@@ -1,6 +1,7 @@
 ---
 title: FieldType4XCompatibleValidatorService սերվիս
-nav_exclude: true
+parent: "Սերվիսներ"
+nav_order: 2
 ---
 
 # FieldType4XCompatibleValidatorService սերվիս
