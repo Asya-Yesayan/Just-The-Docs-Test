@@ -1,5 +1,6 @@
 ---
 title: Extender նկարագրություն
+nav_exclude: true
 ---
 
 # Extender նկարագրություն

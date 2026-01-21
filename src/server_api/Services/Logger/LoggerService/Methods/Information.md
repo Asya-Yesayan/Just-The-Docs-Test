@@ -1,5 +1,6 @@
 ---
 title: Information(ILogger, string)
+nav_exclude: true
 ---
 
 # LoggerService.Information(ILogger, string) մեթոդ

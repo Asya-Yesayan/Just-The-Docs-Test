@@ -1,5 +1,6 @@
 ---
 title: GetTurnBetween(string, int, DateTime, DateTime, string, bool)
+nav_exclude: true
 ---
 
 # IKernelService.GetTurnBetween(string, int, DateTime, DateTime, string, bool) մեթոդ

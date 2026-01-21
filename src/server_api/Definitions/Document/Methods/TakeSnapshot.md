@@ -1,5 +1,6 @@
 ---
 title: TakeSnapshot(SnapshotContent, string, bool)
+nav_exclude: true
 ---
 
 # Document.TakeSnapshot(SnapshotContent, string, bool) մեթոդ

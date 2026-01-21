@@ -1,5 +1,6 @@
 ---
 title: "IFolderService սերվիս"
+nav_exclude: true
 ---
 
 # IFolderService սերվիս

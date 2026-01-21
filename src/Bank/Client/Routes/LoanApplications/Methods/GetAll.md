@@ -1,5 +1,6 @@
 ---
 title: GetAll(GetAllRequest)
+nav_exclude: true
 ---
 
 # LoanApplicationsRoutes.GetAll(GetAllRequest) մեթոդ

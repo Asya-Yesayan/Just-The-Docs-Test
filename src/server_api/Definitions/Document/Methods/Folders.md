@@ -1,5 +1,6 @@
 ---
 title: Folders(FoldersEventArgs)
+nav_exclude: true
 ---
 
 # Document.Folders(FoldersEventArgs) մեթոդ

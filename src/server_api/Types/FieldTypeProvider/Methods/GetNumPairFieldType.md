@@ -1,5 +1,6 @@
 ---
 title: GetNumPairFieldType(NumericFieldType, NumericFieldType, string, bool)
+nav_exclude: true
 ---
 
 # FieldTypeProvider.GetNumPairFieldType(NumericFieldType, NumericFieldType, string, bool) մեթոդ

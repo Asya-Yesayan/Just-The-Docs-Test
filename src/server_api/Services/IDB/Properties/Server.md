@@ -1,5 +1,6 @@
 ---
 title: Server
+nav_exclude: true
 ---
 
 # IDBService.Server հատկություն

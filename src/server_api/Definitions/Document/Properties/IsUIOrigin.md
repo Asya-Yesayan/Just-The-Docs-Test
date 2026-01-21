@@ -1,5 +1,6 @@
 ---
 title: IsUIOrigin
+nav_exclude: true
 ---
 
 # Document.IsUIOrigin հատկություն

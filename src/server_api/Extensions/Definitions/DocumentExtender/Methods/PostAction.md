@@ -1,5 +1,6 @@
 ---
 title: PostAction(Document, ActionEventArgs)
+nav_exclude: true
 ---
 
 # DocumentExtender.PostAction(Document, ActionEventArgs) մեթոդ

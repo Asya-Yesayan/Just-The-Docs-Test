@@ -1,5 +1,6 @@
 ---
 title: GetParameters(string)
+nav_exclude: true
 ---
 
 # StatisticsService․GetParameters(string) մեթոդ

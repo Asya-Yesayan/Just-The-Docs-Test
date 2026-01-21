@@ -1,5 +1,6 @@
 ---
 title: IsValid(FieldType)
+nav_exclude: true
 ---
 
 # FieldType4XCompatibleValidatorService.IsValid(FieldType) մեթոդ

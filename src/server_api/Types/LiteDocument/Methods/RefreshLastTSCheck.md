@@ -1,5 +1,6 @@
 ---
 title: RefreshLastTSCheck()
+nav_exclude: true
 ---
 
 # LiteDocument.RefreshLastTSCheck() մեթոդ

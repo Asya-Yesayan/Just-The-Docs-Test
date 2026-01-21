@@ -1,5 +1,6 @@
 ---
 title: AddRow(string, int, string, int)
+nav_exclude: true
 ---
 
 # TextReport.AddRow(string, int, string, int) մեթոդ

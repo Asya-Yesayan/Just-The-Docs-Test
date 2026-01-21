@@ -1,5 +1,6 @@
 ---
 title: LogTransactions
+nav_exclude: true
 ---
 
 # Document.LogTransactions հատկություն

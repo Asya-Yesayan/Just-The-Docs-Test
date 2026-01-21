@@ -1,5 +1,6 @@
 ---
 title: Error(ILogger, string, object[])
+nav_exclude: true
 ---
 
 # LoggerService.Error(ILogger, string, object[]) մեթոդ

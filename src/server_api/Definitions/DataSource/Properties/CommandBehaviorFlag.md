@@ -1,5 +1,6 @@
 ---
 title: CommandBehaviorFlag
+nav_exclude: true
 ---
 
 # DataSource.CommandBehaviorFlag հատկություն

@@ -1,5 +1,6 @@
 ---
 title: TemplateSubstitutionEx(Dictionary<string, bool>, Dictionary<string, object>)
+nav_exclude: true
 ---
 
 # Document.TemplateSubstitutionEx(Dictionary<string, bool>, Dictionary<string, object>) մեթոդ

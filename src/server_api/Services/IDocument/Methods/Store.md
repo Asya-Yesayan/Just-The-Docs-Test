@@ -1,5 +1,6 @@
 ---
 title: Store(Document, DocumentCheckLevel, string)
+nav_exclude: true
 ---
 
 # IDocumentService.Store(Document, DocumentCheckLevel, string) մեթոդ

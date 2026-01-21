@@ -1,5 +1,6 @@
 ---
 title: UnmoveHeadCount
+nav_exclude: true
 ---
 
 # TextReport.UnmoveHeadCount հատկություն

@@ -1,5 +1,6 @@
 ---
 title: Add(int, string)
+nav_exclude: true
 ---
 
 # IExecutionProgress.Add(int, string) մեթոդ

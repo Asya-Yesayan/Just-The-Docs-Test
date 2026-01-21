@@ -1,5 +1,6 @@
 ---
 title: REPEND
+nav_exclude: true
 ---
 
 # IParametersService.REPEND մեթոդ

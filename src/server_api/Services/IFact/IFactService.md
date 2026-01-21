@@ -1,5 +1,6 @@
 ---
 title: "IFactService սերվիս"
+nav_exclude: true
 ---
 
 # IFactService սերվիս

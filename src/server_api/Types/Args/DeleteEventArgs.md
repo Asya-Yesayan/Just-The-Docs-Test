@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "DeleteEventArgs դաս"
+nav_exclude: true
 ---
 
 # DeleteEventArgs դաս

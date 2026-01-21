@@ -1,5 +1,6 @@
 ---
 title: "IMailService սերվիս"
+nav_exclude: true
 ---
 
 # IMailService սերվիս

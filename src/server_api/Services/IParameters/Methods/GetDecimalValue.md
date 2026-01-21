@@ -1,5 +1,6 @@
 ---
 title: GetDecimalValue
+nav_exclude: true
 ---
 
 # IParametersService.GetDecimalValue մեթոդ

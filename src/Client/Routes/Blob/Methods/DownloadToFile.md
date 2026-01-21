@@ -1,5 +1,6 @@
 ---
 title: DownloadToFile(string, string, string, bool)
+nav_exclude: true
 ---
 
 # BlobRoutes.DownloadToFile(string, string, string, bool) մեթոդ

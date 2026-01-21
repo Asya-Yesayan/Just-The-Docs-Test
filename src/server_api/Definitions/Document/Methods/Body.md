@@ -1,5 +1,6 @@
 ---
 title: Body()
+nav_exclude: true
 ---
 
 # Document.Body() մեթոդ

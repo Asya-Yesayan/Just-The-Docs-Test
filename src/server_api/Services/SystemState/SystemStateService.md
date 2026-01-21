@@ -1,5 +1,6 @@
 ---
 title: "SystemStateService սերվիս"
+nav_exclude: true
 ---
 
 # SystemStateService սերվիս

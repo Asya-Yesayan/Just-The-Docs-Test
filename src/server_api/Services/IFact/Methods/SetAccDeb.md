@@ -1,5 +1,6 @@
 ---
 title: SetAccDeb(Fact, string, bool)
+nav_exclude: true
 ---
 
 # IFactService.SetAccDeb(Fact, string, bool) մեթոդ

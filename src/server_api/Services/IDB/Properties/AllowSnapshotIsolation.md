@@ -1,5 +1,6 @@
 ---
 title: AllowSnapshotIsolation
+nav_exclude: true
 ---
 
 # IDBService.AllowSnapshotIsolation հատկություն

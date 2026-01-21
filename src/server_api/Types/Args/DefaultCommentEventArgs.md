@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "DefaultCommentEventArgs դաս"
+nav_exclude: true
 ---
 
 # DefaultCommentEventArgs դաս

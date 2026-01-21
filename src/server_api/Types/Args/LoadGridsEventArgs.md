@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "LoadGridsEventArgs դաս"
+nav_exclude: true
 ---
 
 # LoadGridsEventArgs դաս

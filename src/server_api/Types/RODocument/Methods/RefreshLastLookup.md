@@ -1,5 +1,6 @@
 ---
 title: RefreshLastLookup()
+nav_exclude: true
 ---
 
 # RODocument.RefreshLastLookup() մեթոդ

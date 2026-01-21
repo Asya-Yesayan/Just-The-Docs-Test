@@ -1,5 +1,6 @@
 ---
 title: "StatisticsService սերվիս"
+nav_exclude: true
 ---
 
 # StatisticsService սերվիս

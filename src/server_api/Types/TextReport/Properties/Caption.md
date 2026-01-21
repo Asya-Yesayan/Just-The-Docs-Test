@@ -1,5 +1,6 @@
 ---
 title: Caption
+nav_exclude: true
 ---
 
 # TextReport.Caption հատկություն

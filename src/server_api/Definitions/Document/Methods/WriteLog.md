@@ -1,5 +1,6 @@
 ---
 title: WriteLog(string, int, bool)
+nav_exclude: true
 ---
 
 # Document.WriteLog(string, int, bool) մեթոդ

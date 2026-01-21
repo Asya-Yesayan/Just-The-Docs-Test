@@ -1,5 +1,6 @@
 ---
 title: Add(AttachmentAddModel)
+nav_exclude: true
 ---
 
 # IAttachmentService.Add(AttachmentAddModel) մեթոդ

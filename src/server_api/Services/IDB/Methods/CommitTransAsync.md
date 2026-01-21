@@ -1,5 +1,6 @@
 ---
 title: CommitTransAsync()
+nav_exclude: true
 ---
 
 # IDBService.CommitTransAsync() մեթոդ

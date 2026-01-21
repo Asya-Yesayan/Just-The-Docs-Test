@@ -1,5 +1,6 @@
 ---
 title: UserElProp(short)
+nav_exclude: true
 ---
 
 # IUserService.UserElProp(short) մեթոդ

@@ -1,5 +1,6 @@
 ---
 title: "IStorageService սերվիս"
+nav_exclude: true
 ---
 
 # IStorageService սերվիս

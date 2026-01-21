@@ -1,5 +1,6 @@
 ---
 title: ExistsImage(string)
+nav_exclude: true
 ---
 
 # TemplateSubstitution.ExistsImage(string) մեթոդ

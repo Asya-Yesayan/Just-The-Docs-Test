@@ -1,5 +1,6 @@
 ---
 title: Delete(Guid)
+nav_exclude: true
 ---
 
 # IProcessServerClient.Delete(Guid) մեթոդ

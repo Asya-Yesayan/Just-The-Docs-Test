@@ -1,5 +1,6 @@
 ---
 title: SeqHelper դաս
+nav_exclude: true
 ---
 
 # SeqHelper դաս

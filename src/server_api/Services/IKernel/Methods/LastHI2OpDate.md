@@ -1,5 +1,6 @@
 ---
 title: LastHI2OpDate
+nav_exclude: true
 ---
 
 # IKernelService.LastHI2OpDate մեթոդ

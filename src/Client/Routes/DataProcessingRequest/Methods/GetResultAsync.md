@@ -1,5 +1,6 @@
 ---
 title: GetResultAsync(Guid, bool, CancellationToken)
+nav_exclude: true
 ---
 
 # DataProcessingRequestRoutes.GetResultAsync(Guid, bool, CancellationToken) մեթոդ

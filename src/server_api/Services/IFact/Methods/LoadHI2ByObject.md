@@ -1,5 +1,6 @@
 ---
 title: LoadHI2ByObject(string, int, long, DateTime?, DateTime?, string)
+nav_exclude: true
 ---
 
 # IFactService.LoadHI2ByObject(string, int, long, DateTime?, DateTime?, string) մեթոդ

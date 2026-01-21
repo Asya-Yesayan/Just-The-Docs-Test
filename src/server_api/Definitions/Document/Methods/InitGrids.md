@@ -1,5 +1,6 @@
 ---
 title: InitGrids()
+nav_exclude: true
 ---
 
 # Document.InitGrids() մեթոդ

@@ -1,5 +1,6 @@
 ---
 title: CurrentServiceId
+nav_exclude: true
 ---
 
 # Settings.CurrentServiceId հատկություն

@@ -1,5 +1,6 @@
 ---
 title: GridsLoading
+nav_exclude: true
 ---
 
 # LiteDocument.GridsLoading հատկություն

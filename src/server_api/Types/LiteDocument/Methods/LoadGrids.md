@@ -1,5 +1,6 @@
 ---
 title: LoadGrids(IDBService, ArchiveInfo)
+nav_exclude: true
 ---
 
 # LiteDocument.LoadGrids(IDBService, ArchiveInfo) մեթոդ

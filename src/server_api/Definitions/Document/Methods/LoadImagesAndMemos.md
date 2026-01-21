@@ -1,5 +1,6 @@
 ---
 title: LoadImagesAndMemos(ArchiveInfo)
+nav_exclude: true
 ---
 
 # Document.LoadImagesAndMemos(ArchiveInfo) մեթոդ

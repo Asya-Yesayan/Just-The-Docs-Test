@@ -1,5 +1,6 @@
 ---
 title: AddParam(string, string, FieldType)
+nav_exclude: true
 ---
 
 # Extender.AddParam(string, string, FieldType) մեթոդ

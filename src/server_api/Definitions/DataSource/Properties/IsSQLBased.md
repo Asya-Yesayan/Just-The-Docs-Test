@@ -1,5 +1,6 @@
 ---
 title: IsSQLBased
+nav_exclude: true
 ---
 
 # DataSource.IsSQLBased հատկություն

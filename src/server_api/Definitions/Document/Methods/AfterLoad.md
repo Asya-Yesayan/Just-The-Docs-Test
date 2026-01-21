@@ -1,5 +1,6 @@
 ---
 title: AfterLoad(AfterLoadEventArgs)
+nav_exclude: true
 ---
 
 # Document.AfterLoad(AfterLoadEventArgs) մեթոդ

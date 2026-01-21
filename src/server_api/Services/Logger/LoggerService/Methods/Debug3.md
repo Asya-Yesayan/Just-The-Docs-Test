@@ -1,5 +1,6 @@
 ---
 title: Debug(ILogger, Exception, string, object[])
+nav_exclude: true
 ---
 
 # LoggerService.Debug(ILogger, Exception, string, object[]) մեթոդ

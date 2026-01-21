@@ -1,5 +1,6 @@
 ---
 title: DeleteReportCalls(DateTime, DateTime, short?)
+nav_exclude: true
 ---
 
 # StatisticsService.DeleteReportCalls(DateTime, DateTime, short?) մեթոդ

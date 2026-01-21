@@ -1,5 +1,6 @@
 ---
 title: MessageBox
+nav_exclude: true
 ---
 
 # UIRequestExecutionProgress.MessageBox մեթոդ

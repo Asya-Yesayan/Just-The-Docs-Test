@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "AttachmentAddModel դաս"
+nav_exclude: true
 ---
 
 # AttachmentAddModel դաս

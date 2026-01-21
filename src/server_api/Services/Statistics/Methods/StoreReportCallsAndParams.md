@@ -1,5 +1,6 @@
 ---
 title: StoreReportCallsAndParams(ReportCallsStoreModel)
+nav_exclude: true
 ---
 
 # StatisticsService․StoreReportCallsAndParams(ReportCallsStoreModel) մեթոդ

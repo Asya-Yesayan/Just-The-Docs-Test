@@ -1,5 +1,6 @@
 ---
 title: LogRoleChanges(HashSet<string>, HashSet<string>, short)
+nav_exclude: true
 ---
 
 # AccessLogService.LogRoleChanges(HashSet<string>, HashSet<string>, short) մեթոդ

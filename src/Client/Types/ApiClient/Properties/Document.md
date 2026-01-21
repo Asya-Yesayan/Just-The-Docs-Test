@@ -1,5 +1,6 @@
 ---
 title: Document
+nav_exclude: true
 ---
 
 # ApiClient.Document հատկություն

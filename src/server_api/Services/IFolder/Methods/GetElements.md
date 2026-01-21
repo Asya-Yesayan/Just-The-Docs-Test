@@ -1,5 +1,6 @@
 ---
 title: GetElements
+nav_exclude: true
 ---
 
 # IFolderService.GetElements մեթոդ

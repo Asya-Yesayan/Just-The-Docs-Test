@@ -1,5 +1,6 @@
 ---
 title: State
+nav_exclude: true
 ---
 
 # RODocument.State հատկություն

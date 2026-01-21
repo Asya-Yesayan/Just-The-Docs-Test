@@ -1,5 +1,6 @@
 ---
 title: GetDocumentParents(int, string, DocumentChildrenOrder, string)
+nav_exclude: true
 ---
 
 # IDocumentService.GetDocumentParents(int, string, DocumentChildrenOrder, string) մեթոդ

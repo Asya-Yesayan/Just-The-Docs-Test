@@ -1,5 +1,6 @@
 ---
 title: Delete(string)
+nav_exclude: true
 ---
 
 # WebServicesManager.Delete(string) մեթոդ

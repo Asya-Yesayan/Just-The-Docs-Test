@@ -1,5 +1,6 @@
 ---
 title: "IParametersService սերվիս"
+nav_exclude: true
 ---
 
 # IParametersService սերվիս

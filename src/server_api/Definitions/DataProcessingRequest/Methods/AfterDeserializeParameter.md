@@ -1,5 +1,6 @@
 ---
 title: AfterDeserializeParameter(P, JsonElement)
+nav_exclude: true
 ---
 
 # DataProcessingRequest.AfterDeserializeParameter(P, JsonElement) մեթոդ

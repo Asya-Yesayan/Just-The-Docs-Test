@@ -1,5 +1,6 @@
 ---
 title: SupportsSnapshotIsolation
+nav_exclude: true
 ---
 
 # DataSource.SupportsSnapshotIsolation հատկություն

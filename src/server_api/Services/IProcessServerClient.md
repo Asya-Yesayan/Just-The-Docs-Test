@@ -1,5 +1,6 @@
 ---
 title: "IProcessServerClient սերվիս"
+nav_exclude: true
 ---
 
 # IProcessServerClient սերվիս

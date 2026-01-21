@@ -1,5 +1,6 @@
 ---
 title: AddRekvValuesFromDoc(Document.Document, string, string)
+nav_exclude: true
 ---
 
 # TemplateSubstitution.AddRekvValuesFromDoc(Document.Document, string, string) մեթոդ

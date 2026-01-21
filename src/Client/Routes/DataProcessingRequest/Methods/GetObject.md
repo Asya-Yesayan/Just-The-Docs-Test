@@ -1,5 +1,6 @@
 ---
 title: GetObject(DPRType, string)
+nav_exclude: true
 ---
 
 # DataProcessingRequestRoutes.GetObject(DPRType, string) մեթոդ

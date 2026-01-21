@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "FoldersEventArgs դաս"
+nav_exclude: true
 ---
 
 # FoldersEventArgs դաս

@@ -1,5 +1,6 @@
 ---
 title: Time
+nav_exclude: true
 ---
 
 # FieldTypeProvider.Time հատկություն

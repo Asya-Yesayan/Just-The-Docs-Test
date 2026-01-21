@@ -1,5 +1,6 @@
 ---
 title: Container
+nav_exclude: true
 ---
 
 # IStorageService.Container հատկություն

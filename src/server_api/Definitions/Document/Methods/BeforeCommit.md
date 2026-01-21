@@ -1,5 +1,6 @@
 ---
 title: BeforeCommit(BeforeCommitEventArgs)
+nav_exclude: true
 ---
 
 # Document.BeforeCommit(BeforeCommitEventArgs) մեթոդ

@@ -1,5 +1,6 @@
 ---
 title: CheckTransactionExistence(string, int, int)
+nav_exclude: true
 ---
 
 # IDocumentService.CheckTransactionExistence(string, int, int) մեթոդ

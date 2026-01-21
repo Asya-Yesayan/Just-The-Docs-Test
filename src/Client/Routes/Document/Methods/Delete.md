@@ -1,5 +1,6 @@
 ---
 title: Delete
+nav_exclude: true
 ---
 
 # DocumentRoutes.Delete մեթոդ

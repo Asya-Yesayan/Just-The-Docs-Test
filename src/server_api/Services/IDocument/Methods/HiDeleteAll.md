@@ -1,5 +1,6 @@
 ---
 title: HiDeleteAll(Document)
+nav_exclude: true
 ---
 
 # IDocumentService.HiDeleteAll(Document) մեթոդ

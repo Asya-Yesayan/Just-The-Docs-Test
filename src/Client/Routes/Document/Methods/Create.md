@@ -1,5 +1,6 @@
 ---
 title: Create(string, DocumentCreateRequestModel)
+nav_exclude: true
 ---
 
 # DocumentRoutes.Create(string, DocumentCreateRequestModel) մեթոդ

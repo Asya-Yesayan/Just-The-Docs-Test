@@ -1,5 +1,6 @@
 ---
 title: GetApproximateServerDate()
+nav_exclude: true
 ---
 
 # IDBService.GetApproximateServerDate() մեթոդ

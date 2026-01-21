@@ -1,5 +1,6 @@
 ---
 title: AuthenticationClient դաս
+nav_exclude: true
 ---
 
 # AuthenticationClient դաս

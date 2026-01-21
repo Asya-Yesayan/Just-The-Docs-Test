@@ -1,5 +1,6 @@
 ---
 title: CreateReadOnlyConnection(bool)
+nav_exclude: true
 ---
 
 # IDBService.CreateReadOnlyConnection(bool) մեթոդ

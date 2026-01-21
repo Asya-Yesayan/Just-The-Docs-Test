@@ -1,5 +1,6 @@
 ---
 title: Blob
+nav_exclude: true
 ---
 
 # ApiClient.Blob հատկություն

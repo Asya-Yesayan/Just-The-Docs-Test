@@ -1,5 +1,6 @@
 ---
 title: SupportPrepareExecutionPhase
+nav_exclude: true
 ---
 
 # DataSource.SupportPrepareExecutionPhase հատկություն

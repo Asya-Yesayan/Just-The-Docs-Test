@@ -1,5 +1,6 @@
 ---
 title: SetHiPar(string, DateTime, int, string, string, DateTime?)
+nav_exclude: true
 ---
 
 # IParametersService.SetHiPar(string, DateTime, int, string, string, DateTime?) մեթոդ

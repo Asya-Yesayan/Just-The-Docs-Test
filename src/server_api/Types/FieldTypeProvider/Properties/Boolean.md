@@ -1,5 +1,6 @@
 ---
 title: Boolean
+nav_exclude: true
 ---
 
 # FieldTypeProvider.Boolean հատկություն

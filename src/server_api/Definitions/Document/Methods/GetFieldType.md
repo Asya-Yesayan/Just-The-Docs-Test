@@ -1,5 +1,6 @@
 ---
 title: GetFieldType(string)
+nav_exclude: true
 ---
 
 # Document.GetFieldType(string) մեթոդ

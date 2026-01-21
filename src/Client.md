@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Web API կլիենտական գրադարան"
+nav_exclude: true
 ---
 
 # Web API կլիենտական գրադարան

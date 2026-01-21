@@ -1,5 +1,6 @@
 ---
 title: StopAsync(Guid, CancellationToken)
+nav_exclude: true
 ---
 
 # DataProcessingRequestRoutes.StopAsync(Guid, CancellationToken) մեթոդ

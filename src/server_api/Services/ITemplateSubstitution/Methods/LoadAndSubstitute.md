@@ -1,5 +1,6 @@
 ---
 title: LoadAndSubstitute(IPrintTemplateSubstitution, string, SubstitutionType, HtmlImageOption, string, bool)
+nav_exclude: true
 ---
 
 # ITemplateSubstitutionService.LoadAndSubstitute(IPrintTemplateSubstitution, string, SubstitutionType, HtmlImageOption, string, bool) մեթոդ

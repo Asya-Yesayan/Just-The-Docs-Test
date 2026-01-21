@@ -1,5 +1,6 @@
 ---
 title: CreateCommand(TimeoutType)
+nav_exclude: true
 ---
 
 # IDBService.CreateCommand(TimeoutType) մեթոդ

@@ -1,5 +1,6 @@
 ---
 title: Rows
+nav_exclude: true
 ---
 
 # DataSource.Rows հատկություն

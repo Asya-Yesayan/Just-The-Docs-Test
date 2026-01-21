@@ -1,5 +1,6 @@
 ---
 title: Logout()
+nav_exclude: true
 ---
 
 # LoginService.Logout() մեթոդ

@@ -1,5 +1,6 @@
 ---
 title: "AccessLogService սերվիս"
+nav_exclude: true
 ---
 
 # AccessLogService սերվիս

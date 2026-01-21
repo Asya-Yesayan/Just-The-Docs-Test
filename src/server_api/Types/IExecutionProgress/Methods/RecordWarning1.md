@@ -1,5 +1,6 @@
 ---
 title: RecordWarning(IEnumerable<string>, int, string, int, Dictionary<string, object>)
+nav_exclude: true
 ---
 
 # IExecutionProgress.RecordWarning(IEnumerable<string>, int, string, int, Dictionary<string, object>) մեթոդ

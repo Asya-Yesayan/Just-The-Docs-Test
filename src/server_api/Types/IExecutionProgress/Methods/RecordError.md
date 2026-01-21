@@ -1,5 +1,6 @@
 ---
 title: RecordError(IEnumerable<string>, Exception, int, string, int, Dictionary<string, object>)
+nav_exclude: true
 ---
 
 # IExecutionProgress.RecordError(IEnumerable<string>, Exception, int, string, int, Dictionary<string, object>) մեթոդ

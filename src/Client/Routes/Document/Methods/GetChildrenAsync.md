@@ -1,5 +1,6 @@
 ---
 title: GetChildrenAsync(int, string, DocumentOrder, string, CancellationToken)
+nav_exclude: true
 ---
 
 # DocumentRoutes.GetChildrenAsync(int, string, DocumentOrder, string, CancellationToken) մեթոդ

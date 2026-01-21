@@ -1,5 +1,6 @@
 ---
 title: Create
+nav_exclude: true
 ---
 
 # IDocumentService.Create մեթոդ

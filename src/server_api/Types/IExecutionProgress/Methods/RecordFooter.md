@@ -1,5 +1,6 @@
 ---
 title: RecordFooter(string)
+nav_exclude: true
 ---
 
 # IExecutionProgress.RecordFooter(string) մեթոդ

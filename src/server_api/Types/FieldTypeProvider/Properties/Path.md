@@ -1,5 +1,6 @@
 ---
 title: Path
+nav_exclude: true
 ---
 
 # FieldTypeProvider.Path հատկություն

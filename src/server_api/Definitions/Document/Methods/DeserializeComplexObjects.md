@@ -1,5 +1,6 @@
 ---
 title: DeserializeComplexObjects(DeserializeComplexObjectsEventArgs)
+nav_exclude: true
 ---
 
 # Document.DeserializeComplexObjects(DeserializeComplexObjectsEventArgs) մեթոդ

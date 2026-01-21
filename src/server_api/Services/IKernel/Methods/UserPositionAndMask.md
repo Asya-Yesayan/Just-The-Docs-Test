@@ -1,5 +1,6 @@
 ---
 title: UserPositionAndMask(byte, byte, short)
+nav_exclude: true
 ---
 
 # IKernelService.UserPositionAndMask(byte, byte, short) մեթոդ

@@ -1,5 +1,6 @@
 ---
 title: StoreInFolder(Document, FolderElement)
+nav_exclude: true
 ---
 
 # IDocumentService.StoreInFolder(Document, FolderElement) մեթոդ

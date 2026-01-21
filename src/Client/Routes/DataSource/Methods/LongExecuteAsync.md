@@ -1,5 +1,6 @@
 ---
 title: LongExecuteAsync(P, HashSet<string>, string, bool, CancellationToken, TimeSpan?)
+nav_exclude: true
 ---
 
 # DataSource.LongExecuteAsync(P, HashSet<string>, string, bool, CancellationToken, TimeSpan?) մեթոդ

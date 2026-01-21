@@ -1,5 +1,6 @@
 ---
 title: "ITemplateSubstitutionService սերվիս"
+nav_exclude: true
 ---
 
 # ITemplateSubstitutionService սերվիս

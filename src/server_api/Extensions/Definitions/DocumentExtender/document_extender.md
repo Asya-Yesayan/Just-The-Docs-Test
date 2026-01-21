@@ -1,5 +1,6 @@
 ---
 title: DocumentExtender նկարագրություն
+nav_exclude: true
 ---
 
 # DocumentExtender նկարագրություն

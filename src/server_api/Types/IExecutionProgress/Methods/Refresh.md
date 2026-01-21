@@ -1,5 +1,6 @@
 ---
 title: Refresh(string)
+nav_exclude: true
 ---
 
 # IExecutionProgress.Refresh(string) մեթոդ

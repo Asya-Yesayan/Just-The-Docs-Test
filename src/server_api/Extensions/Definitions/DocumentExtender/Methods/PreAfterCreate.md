@@ -1,5 +1,6 @@
 ---
 title: PreAfterCreate(Document, AfterCreateEventArgs)
+nav_exclude: true
 ---
 
 # DocumentExtender.PreAfterCreate(Document, AfterCreateEventArgs) մեթոդ

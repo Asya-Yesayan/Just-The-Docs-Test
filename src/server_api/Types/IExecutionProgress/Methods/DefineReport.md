@@ -1,5 +1,6 @@
 ---
 title: DefineReport(string, string, bool)
+nav_exclude: true
 ---
 
 # IExecutionProgress.DefineReport(string, string, bool) մեթոդ

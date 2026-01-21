@@ -1,5 +1,6 @@
 ---
 title: LoggerService սերվիս
+nav_exclude: true
 ---
 
 # LoggerService սերվիս

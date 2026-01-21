@@ -1,5 +1,6 @@
 ---
 title: PrintStyle
+nav_exclude: true
 ---
 
 # TextReport.PrintStyle հատկություն

@@ -1,5 +1,6 @@
 ---
 title: GetProcessingModes(string)
+nav_exclude: true
 ---
 
 # IDocumentService.GetProcessingModes(string) մեթոդ

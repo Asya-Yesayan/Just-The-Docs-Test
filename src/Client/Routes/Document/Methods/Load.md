@@ -1,5 +1,6 @@
 ---
 title: Load(int, bool, bool)
+nav_exclude: true
 ---
 
 # DocumentRoutes.Load(int, bool, bool) մեթոդ

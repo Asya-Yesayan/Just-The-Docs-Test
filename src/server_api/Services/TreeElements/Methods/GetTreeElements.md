@@ -1,5 +1,6 @@
 ---
 title: GetTreeElements(int, Dictionary<string, TreeElement>, bool, bool)
+nav_exclude: true
 ---
 
 # TreeElementsService.GetTreeElements(int, Dictionary<string, TreeElement>, bool, bool) մեթոդ

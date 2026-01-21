@@ -1,5 +1,6 @@
 ---
 title: Substitute(IPrintTemplateSubstitution, byte[], SubstitutionType, HtmlImageOption, bool, string, bool, bool)
+nav_exclude: true
 ---
 
 # ITemplateSubstitutionService.Substitute(IPrintTemplateSubstitution, byte[], SubstitutionType, HtmlImageOption, bool, string, bool, bool) մեթոդ

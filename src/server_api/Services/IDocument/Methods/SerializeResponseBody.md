@@ -1,5 +1,6 @@
 ---
 title: SerializeResponseBody<T>(Document, bool)
+nav_exclude: true
 ---
 
 # IDocumentService.SerializeResponseBody<T>(Document, bool) մեթոդ

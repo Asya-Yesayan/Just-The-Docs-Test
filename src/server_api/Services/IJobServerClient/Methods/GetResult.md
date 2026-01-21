@@ -1,5 +1,6 @@
 ---
 title: GetResult(Guid)
+nav_exclude: true
 ---
 
 # IProcessServerClient.GetResult(Guid) մեթոդ

@@ -1,5 +1,6 @@
 ---
 title: ProcessRow(DataSourceArgs<P>, R, SqlDataReader)
+nav_exclude: true
 ---
 
 # DataSource.ProcessRow(DataSourceArgs<P>, R, SqlDataReader) մեթոդ

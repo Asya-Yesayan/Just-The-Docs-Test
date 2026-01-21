@@ -1,5 +1,6 @@
 ---
 title: Append(string, string, byte[], int)
+nav_exclude: true
 ---
 
 # BlobRoutes.Append(string, string, byte[], int) մեթոդ

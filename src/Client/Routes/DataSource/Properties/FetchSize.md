@@ -1,5 +1,6 @@
 ---
 title: FetchSize
+nav_exclude: true
 ---
 
 # DataSource.FetchSize հատկություն

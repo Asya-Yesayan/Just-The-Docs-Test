@@ -1,5 +1,6 @@
 ---
 title: UploadBlobAsync
+nav_exclude: true
 ---
 
 # IStorageService.UploadBlobAsync մեթոդ

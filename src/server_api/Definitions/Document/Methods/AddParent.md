@@ -1,5 +1,6 @@
 ---
 title: AddParent(int)
+nav_exclude: true
 ---
 
 # Document.AddParent(int) մեթոդ

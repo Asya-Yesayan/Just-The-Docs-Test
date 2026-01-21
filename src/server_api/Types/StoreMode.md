@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "StoreMode"
+nav_exclude: true
 ---
 
 # StoreMode

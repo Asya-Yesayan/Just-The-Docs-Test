@@ -1,5 +1,6 @@
 ---
 title: Client
+nav_exclude: true
 ---
 
 # DataSource.Client հատկություն

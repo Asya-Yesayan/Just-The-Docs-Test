@@ -1,5 +1,6 @@
 ---
 title: WebServicesManager սերվիս
+nav_exclude: true
 ---
 
 # WebServicesManager սերվիս

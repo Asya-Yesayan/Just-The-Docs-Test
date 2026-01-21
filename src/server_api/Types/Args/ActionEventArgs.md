@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "ActionEventArgs դաս"
+nav_exclude: true
 ---
 
 # ActionEventArgs դաս

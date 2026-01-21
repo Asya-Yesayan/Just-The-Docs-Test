@@ -1,5 +1,6 @@
 ---
 title: StoreSnapshot
+nav_exclude: true
 ---
 
 # Document.StoreSnapshot հատկություն

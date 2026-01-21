@@ -1,5 +1,6 @@
 ---
 title: Extender
+nav_exclude: true
 ---
 
 # ApiClient.Extender հատկություն

@@ -1,5 +1,6 @@
 ---
 title: StoreValuesHistory()
+nav_exclude: true
 ---
 
 # Document.StoreValuesHistory() մեթոդ

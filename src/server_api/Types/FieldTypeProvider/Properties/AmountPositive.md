@@ -1,5 +1,6 @@
 ---
 title: AmountPositive
+nav_exclude: true
 ---
 
 # FieldTypeProvider.AmountPositive հատկություն

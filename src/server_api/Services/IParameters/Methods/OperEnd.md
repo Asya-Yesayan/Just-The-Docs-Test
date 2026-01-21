@@ -1,5 +1,6 @@
 ---
 title: OperEnd
+nav_exclude: true
 ---
 
 # IParametersService.OperEnd մեթոդ

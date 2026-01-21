@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Descriptor"
+nav_exclude: true
 ---
 
 # Descriptor

@@ -1,5 +1,6 @@
 ---
 title: GetPassedState
+nav_exclude: true
 ---
 
 # IDocumentService.GetPassedState մեթոդ

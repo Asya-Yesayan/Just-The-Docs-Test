@@ -1,5 +1,6 @@
 ---
 title: SessionInfoCacheService սերվիս
+nav_exclude: true
 ---
 
 # SessionInfoCacheService սերվիս

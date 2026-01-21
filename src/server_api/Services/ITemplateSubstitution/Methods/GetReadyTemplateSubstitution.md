@@ -1,5 +1,6 @@
 ---
 title: GetReadyTemplateSubstitution(Document.Document, string, SubstitutionType, Dictionary<string, object>)
+nav_exclude: true
 ---
 
 # ITemplateSubstitutionService.GetReadyTemplateSubstitution(Document.Document, string, SubstitutionType, Dictionary<string, object>) մեթոդ

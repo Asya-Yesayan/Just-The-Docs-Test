@@ -1,5 +1,6 @@
 ---
 title: Add(string, int)
+nav_exclude: true
 ---
 
 # TemplateSubstitution.Add(string, int) մեթոդ

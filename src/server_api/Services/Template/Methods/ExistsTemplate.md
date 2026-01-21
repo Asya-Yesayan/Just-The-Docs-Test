@@ -1,5 +1,6 @@
 ---
 title: ExistsTemplate(string, string)
+nav_exclude: true
 ---
 
 # TemplateService.ExistsTemplate(string, string) մեթոդ

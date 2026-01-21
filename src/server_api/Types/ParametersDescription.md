@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "ParametersDescription դաս"
+nav_exclude: true
 ---
 
 # ParametersDescription դաս

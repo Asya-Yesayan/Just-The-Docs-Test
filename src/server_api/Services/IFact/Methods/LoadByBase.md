@@ -1,5 +1,6 @@
 ---
 title: LoadByBase(int, string, string, bool)
+nav_exclude: true
 ---
 
 # IFactService.LoadByBase(int, string, string, bool) մեթոդ

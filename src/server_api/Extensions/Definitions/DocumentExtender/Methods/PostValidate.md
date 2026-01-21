@@ -1,5 +1,6 @@
 ---
 title: PostValidate(Document, ValidateEventArgs)
+nav_exclude: true
 ---
 
 # DocumentExtender.PostValidate(Document, ValidateEventArgs) մեթոդ

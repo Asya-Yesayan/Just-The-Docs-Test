@@ -1,5 +1,6 @@
 ---
 title: UseFormatting
+nav_exclude: true
 ---
 
 # TextReport.UseFormatting հատկություն

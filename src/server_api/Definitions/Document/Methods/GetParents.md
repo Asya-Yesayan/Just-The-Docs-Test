@@ -1,5 +1,6 @@
 ---
 title: GetParents()
+nav_exclude: true
 ---
 
 # Document.GetParents() մեթոդ

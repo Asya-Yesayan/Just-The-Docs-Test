@@ -1,5 +1,6 @@
 ---
 title: Snapshots
+nav_exclude: true
 ---
 
 # Document.Snapshots հատկություն

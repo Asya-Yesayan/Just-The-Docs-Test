@@ -1,5 +1,6 @@
 ---
 title: Meter
+nav_exclude: true
 ---
 
 # MeterManager.Meter հատկություն

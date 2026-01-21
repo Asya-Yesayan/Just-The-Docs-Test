@@ -1,5 +1,6 @@
 ---
 title: GetRemHI2(string, int, int, DateTime?)
+nav_exclude: true
 ---
 
 # IKernelService.GetRemHI2(string, int, int, DateTime?) մեթոդ

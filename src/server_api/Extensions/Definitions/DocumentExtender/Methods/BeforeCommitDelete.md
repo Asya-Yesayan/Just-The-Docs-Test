@@ -1,5 +1,6 @@
 ---
 title: BeforeCommitDelete(Document, BeforeCommitDeleteEventArgs)
+nav_exclude: true
 ---
 
 # DocumentExtender.BeforeCommitDelete(Document, BeforeCommitDeleteEventArgs) մեթոդ

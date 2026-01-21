@@ -1,5 +1,6 @@
 ---
 title: ExistsAtomic(string)
+nav_exclude: true
 ---
 
 # TemplateSubstitution.ExistsAtomic(string) մեթոդ

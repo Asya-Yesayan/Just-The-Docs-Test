@@ -1,5 +1,6 @@
 ---
 title: SetValue(string, object)
+nav_exclude: true
 ---
 
 # IParametersService.SetValue(string, object) մեթոդ

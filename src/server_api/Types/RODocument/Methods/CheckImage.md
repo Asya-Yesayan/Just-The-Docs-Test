@@ -1,5 +1,6 @@
 ---
 title: CheckImage()
+nav_exclude: true
 ---
 
 # RODocument.CheckImage() մեթոդ

@@ -1,5 +1,6 @@
 ---
 title: TemplateSubstitutionIsExtended
+nav_exclude: true
 ---
 
 # Document.TemplateSubstitutionIsExtended հատկություն

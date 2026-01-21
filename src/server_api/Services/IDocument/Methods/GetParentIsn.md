@@ -1,5 +1,6 @@
 ---
 title: GetParentIsn
+nav_exclude: true
 ---
 
 # IDocumentService.GetParentIsn մեթոդ

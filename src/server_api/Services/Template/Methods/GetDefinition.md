@@ -1,5 +1,6 @@
 ---
 title: GetDefinition(string, string)
+nav_exclude: true
 ---
 
 # TemplateService.GetDefinition(string, string) մեթոդ

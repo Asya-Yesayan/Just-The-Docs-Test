@@ -1,5 +1,6 @@
 ---
 title: GetUnhiddenUsers()
+nav_exclude: true
 ---
 
 # UserManagerService․GetUnhiddenUsers() մեթոդ

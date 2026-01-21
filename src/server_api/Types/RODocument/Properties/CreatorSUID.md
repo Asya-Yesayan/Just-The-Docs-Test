@@ -1,5 +1,6 @@
 ---
 title: CreatorSUID
+nav_exclude: true
 ---
 
 # RODocument.CreatorSUID հատկություն

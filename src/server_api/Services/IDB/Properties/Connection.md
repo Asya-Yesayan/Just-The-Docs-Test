@@ -1,5 +1,6 @@
 ---
 title: Connection
+nav_exclude: true
 ---
 
 # IDBService.Connection հատկություն

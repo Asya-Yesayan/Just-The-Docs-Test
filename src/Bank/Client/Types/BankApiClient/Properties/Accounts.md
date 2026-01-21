@@ -1,5 +1,6 @@
 ---
 title: Accounts
+nav_exclude: true
 ---
 
 # BankApiClient.Accounts հատկություն

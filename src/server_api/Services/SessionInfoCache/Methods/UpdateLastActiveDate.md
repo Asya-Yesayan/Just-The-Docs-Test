@@ -1,5 +1,6 @@
 ---
 title: UpdateLastActiveDate(string, DateTime)
+nav_exclude: true
 ---
 
 # SessionInfoCacheService.UpdateLastActiveDate(string, DateTime) մեթոդ

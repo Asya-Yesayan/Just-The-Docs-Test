@@ -1,5 +1,6 @@
 ---
 title: GetDocumentStatus(string, int)
+nav_exclude: true
 ---
 
 # IDocumentService.GetDocumentStatus(string, int) մեթոդ

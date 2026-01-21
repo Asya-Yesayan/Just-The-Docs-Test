@@ -1,5 +1,6 @@
 ---
 title: DeleteNode(string, string)
+nav_exclude: true
 ---
 
 # TreeElementsService.DeleteNode(string, string) մեթոդ

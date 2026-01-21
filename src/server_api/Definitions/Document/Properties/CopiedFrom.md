@@ -1,5 +1,6 @@
 ---
 title: CopiedFrom
+nav_exclude: true
 ---
 
 # Document.CopiedFrom հատկություն

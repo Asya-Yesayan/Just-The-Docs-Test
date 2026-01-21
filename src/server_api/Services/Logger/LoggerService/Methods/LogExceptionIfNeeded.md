@@ -1,5 +1,6 @@
 ---
 title: LogExceptionIfNeeded(Exception)
+nav_exclude: true
 ---
 
 # LoggerService.LogExceptionIfNeeded(Exception) մեթոդ

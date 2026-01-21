@@ -1,5 +1,6 @@
 ---
 title: AddHeader(string)
+nav_exclude: true
 ---
 
 # TextReport.AddHeader(string) մեթոդ

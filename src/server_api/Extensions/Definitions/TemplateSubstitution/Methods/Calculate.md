@@ -1,5 +1,6 @@
 ---
 title: Calculate(TemplateSubstitutionExtenderArgs)
+nav_exclude: true
 ---
 
 # ITemplateSubstitutionExtender.Calculate(TemplateSubstitutionExtenderArgs) մեթոդ

@@ -1,5 +1,6 @@
 ---
 title: DefaultComment(DefaultCommentEventArgs)
+nav_exclude: true
 ---
 
 # Document.DefaultComment(DefaultCommentEventArgs) մեթոդ

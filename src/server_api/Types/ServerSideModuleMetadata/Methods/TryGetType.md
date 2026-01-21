@@ -1,5 +1,6 @@
 ---
 title: TryGetType(string, Type)
+nav_exclude: true
 ---
 
 # ServerSideModuleMetadata.TryGetType(string, Type) մեթոդ

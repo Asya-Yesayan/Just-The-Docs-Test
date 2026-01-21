@@ -1,5 +1,6 @@
 ---
 title: DPRType
+nav_exclude: true
 ---
 
 # DataProcessingRequest.DPRType հատկություն

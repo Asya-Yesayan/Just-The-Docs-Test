@@ -1,5 +1,6 @@
 ---
 title: CleanDeleted(DateTime, DateTime, string)
+nav_exclude: true
 ---
 
 # IDocumentService.CleanDeleted(DateTime, DateTime, string) մեթոդ

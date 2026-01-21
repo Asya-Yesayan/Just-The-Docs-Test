@@ -1,5 +1,6 @@
 ---
 title: DebugForContext(string, object[])
+nav_exclude: true
 ---
 
 # LoggerService.DebugForContext(string, object[]) մեթոդ

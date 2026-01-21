@@ -1,5 +1,6 @@
 ---
 title: FieldTypeProvider դաս
+nav_exclude: true
 ---
 
 # FieldTypeProvider դաս

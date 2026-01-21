@@ -1,5 +1,6 @@
 ---
 title: GetNumericFieldType(short, short, bool, string, bool)
+nav_exclude: true
 ---
 
 # FieldTypeProvider.GetNumericFieldType(short, short, bool, string, bool) մեթոդ

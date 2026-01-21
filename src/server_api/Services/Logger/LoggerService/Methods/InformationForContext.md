@@ -1,5 +1,6 @@
 ---
 title: InformationForContext(string)
+nav_exclude: true
 ---
 
 # LoggerService.InformationForContext(string) մեթոդ

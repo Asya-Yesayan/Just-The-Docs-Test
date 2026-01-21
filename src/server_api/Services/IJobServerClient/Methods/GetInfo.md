@@ -1,5 +1,6 @@
 ---
 title: GetInfo(string)
+nav_exclude: true
 ---
 
 # IProcessServerClient.GetInfo(string) մեթոդ

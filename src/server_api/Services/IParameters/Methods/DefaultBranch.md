@@ -1,5 +1,6 @@
 ---
 title: DefaultBranch
+nav_exclude: true
 ---
 
 # IParametersService.DefaultBranch մեթոդ

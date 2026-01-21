@@ -1,5 +1,6 @@
 ---
 title: ErrorForContext(string)
+nav_exclude: true
 ---
 
 # LoggerService.ErrorForContext(string) մեթոդ

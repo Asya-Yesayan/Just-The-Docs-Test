@@ -1,5 +1,6 @@
 ---
 title: SetCheckValue(string, bool)
+nav_exclude: true
 ---
 
 # Document.SetCheckValue(string, bool) մեթոդ

@@ -1,5 +1,6 @@
 ---
 title: GetDocumentState(int)
+nav_exclude: true
 ---
 
 # IDocumentService.GetDocumentState(int) մեթոդ

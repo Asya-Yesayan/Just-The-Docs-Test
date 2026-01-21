@@ -1,5 +1,6 @@
 ---
 title: "AppLogService սերվիս"
+nav_exclude: true
 ---
 
 # AppLogService սերվիս

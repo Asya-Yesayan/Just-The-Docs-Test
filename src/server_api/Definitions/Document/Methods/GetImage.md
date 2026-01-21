@@ -1,5 +1,6 @@
 ---
 title: GetImage(string)
+nav_exclude: true
 ---
 
 # Document.GetImage(string) մեթոդ

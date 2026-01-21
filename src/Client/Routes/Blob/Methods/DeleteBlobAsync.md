@@ -1,5 +1,6 @@
 ---
 title: DeleteBlobAsync(string, string, CancellationToken)
+nav_exclude: true
 ---
 
 # BlobRoutes.DeleteBlobAsync(string, string, CancellationToken) մեթոդ

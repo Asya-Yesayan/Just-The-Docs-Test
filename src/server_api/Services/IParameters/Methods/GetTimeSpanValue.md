@@ -1,5 +1,6 @@
 ---
 title: GetTimeSpanValue
+nav_exclude: true
 ---
 
 # IParametersService.GetTimeSpanValue մեթոդ

@@ -1,5 +1,6 @@
 ---
 title: SendMessage(string, int, string, bool, bool)
+nav_exclude: true
 ---
 
 # Document.SendMessage(string, int, string, bool, bool) մեթոդ

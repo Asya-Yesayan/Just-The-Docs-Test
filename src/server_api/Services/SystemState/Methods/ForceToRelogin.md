@@ -1,5 +1,6 @@
 ---
 title: ForceToRelogin(bool)
+nav_exclude: true
 ---
 
 # SystemStateService.ForceToRelogin(bool) մեթոդ

@@ -1,5 +1,6 @@
 ---
 title: GetToken(TimeSpan?)
+nav_exclude: true
 ---
 
 # LoginService.GetToken(TimeSpan?) մեթոդ

@@ -1,5 +1,6 @@
 ---
 title: SetSerializedValue(string, string, short, bool)
+nav_exclude: true
 ---
 
 # IParametersService.SetSerializedValue(string, string, short, bool) մեթոդ

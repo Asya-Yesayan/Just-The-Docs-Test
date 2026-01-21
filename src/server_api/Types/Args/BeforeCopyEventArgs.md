@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "BeforeCopyEventArgs դաս"
+nav_exclude: true
 ---
 
 # BeforeCopyEventArgs դաս

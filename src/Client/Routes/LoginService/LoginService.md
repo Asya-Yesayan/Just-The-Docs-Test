@@ -1,5 +1,6 @@
 ---
 title: LoginService դաս
+nav_exclude: true
 ---
 
 # LoginService դաս

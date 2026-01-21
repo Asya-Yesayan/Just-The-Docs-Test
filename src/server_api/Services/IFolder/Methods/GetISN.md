@@ -1,5 +1,6 @@
 ---
 title: GetISN(string, string)
+nav_exclude: true
 ---
 
 # IFolderService.GetISN(string, string) մեթոդ

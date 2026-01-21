@@ -1,5 +1,6 @@
 ---
 title: GetAcceptLanguage(CultureInfo)
+nav_exclude: true
 ---
 
 # LanguageService.GetAcceptLanguage(CultureInfo) մեթոդ

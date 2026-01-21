@@ -1,5 +1,6 @@
 ---
 title: Cards
+nav_exclude: true
 ---
 
 # BankApiClient.Cards հատկություն

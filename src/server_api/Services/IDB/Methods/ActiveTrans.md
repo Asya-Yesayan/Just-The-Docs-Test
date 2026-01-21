@@ -1,5 +1,6 @@
 ---
 title: ActiveTrans()
+nav_exclude: true
 ---
 
 # IDBService.ActiveTrans() մեթոդ

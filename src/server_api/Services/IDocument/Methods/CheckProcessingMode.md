@@ -1,5 +1,6 @@
 ---
 title: CheckProcessingMode(string)
+nav_exclude: true
 ---
 
 # IDocumentService.CheckProcessingMode(string) մեթոդ

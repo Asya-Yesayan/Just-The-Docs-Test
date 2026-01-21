@@ -1,5 +1,6 @@
 ---
 title: EnglishCaption
+nav_exclude: true
 ---
 
 # DataProcessingRequest.EnglishCaption հատկություն

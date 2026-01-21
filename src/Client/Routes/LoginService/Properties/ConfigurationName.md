@@ -1,5 +1,6 @@
 ---
 title: ConfigurationName
+nav_exclude: true
 ---
 
 # LoginService.ConfigurationName հատկություն

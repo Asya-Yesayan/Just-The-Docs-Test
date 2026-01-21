@@ -1,5 +1,6 @@
 ---
 title: Add(string, decimal)
+nav_exclude: true
 ---
 
 # TemplateSubstitution.Add(string, decimal) մեթոդ

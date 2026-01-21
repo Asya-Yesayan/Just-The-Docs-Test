@@ -1,5 +1,6 @@
 ---
 title: StoredFacts
+nav_exclude: true
 ---
 
 # Document.StoredFacts հատկություն

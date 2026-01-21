@@ -1,5 +1,6 @@
 ---
 title: LastTSCheck
+nav_exclude: true
 ---
 
 # LiteDocument.LastTSCheck հատկություն

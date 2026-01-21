@@ -1,5 +1,6 @@
 ---
 title: Error(ILogger, Exception, string)
+nav_exclude: true
 ---
 
 # LoggerService.Error(ILogger, Exception, string) մեթոդ

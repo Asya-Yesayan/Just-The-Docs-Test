@@ -1,5 +1,6 @@
 ---
 title: GetDocumentParents(int, DocumentParentsRequestModel)
+nav_exclude: true
 ---
 
 # DocumentRoutes.GetDocumentParents(int, DocumentParentsRequestModel) մեթոդ

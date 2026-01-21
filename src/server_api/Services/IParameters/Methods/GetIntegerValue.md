@@ -1,5 +1,6 @@
 ---
 title: GetIntegerValue
+nav_exclude: true
 ---
 
 # IParametersService.GetIntegerValue մեթոդ

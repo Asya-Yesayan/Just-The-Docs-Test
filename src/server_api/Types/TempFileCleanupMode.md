@@ -1,5 +1,6 @@
 ---
 title: "TempFileCleanupMode enum"
+nav_exclude: true
 ---
 
 # TempFileCleanupMode enum

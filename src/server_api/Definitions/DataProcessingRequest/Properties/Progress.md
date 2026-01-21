@@ -1,5 +1,6 @@
 ---
 title: Progress
+nav_exclude: true
 ---
 
 # DataProcessingRequest.Progress հատկություն

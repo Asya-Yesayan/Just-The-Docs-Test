@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "MessageBoxIconType"
+nav_exclude: true
 ---
 
 # MessageBoxIconType

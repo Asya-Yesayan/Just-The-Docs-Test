@@ -2,6 +2,7 @@
 layout: page
 title: "ChangeRequestEventArgs" 
 tags: ChangeRequest
+nav_exclude: true
 ---
 
 # ChangeRequestEventArgs

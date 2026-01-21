@@ -1,5 +1,6 @@
 ---
 title: SaveToStorageAsText(StorageInfo, bool, bool, bool)
+nav_exclude: true
 ---
 
 # TextReport.SaveToStorageAsText(StorageInfo, bool, bool, bool) մեթոդ

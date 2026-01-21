@@ -1,5 +1,6 @@
 ---
 title: Name
+nav_exclude: true
 ---
 
 # DataProcessingRequest.Name հատկություն

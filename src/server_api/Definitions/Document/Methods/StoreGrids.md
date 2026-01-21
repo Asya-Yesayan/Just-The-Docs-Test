@@ -1,5 +1,6 @@
 ---
 title: StoreGrids(StoreGridsEventArgs)
+nav_exclude: true
 ---
 
 # Document.StoreGrids(StoreGridsEventArgs) մեթոդ

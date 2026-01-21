@@ -1,5 +1,6 @@
 ---
 title: Execute(P, HashSet<string>, IExtender, CancellationToken)
+nav_exclude: true
 ---
 
 # DataSource.Execute(P, HashSet<string>, IExtender, CancellationToken) մեթոդ

@@ -1,5 +1,6 @@
 ---
 title: Suid
+nav_exclude: true
 ---
 
 # LoginService.Suid հատկություն

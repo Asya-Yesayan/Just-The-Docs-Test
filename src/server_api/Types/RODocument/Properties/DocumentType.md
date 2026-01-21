@@ -1,5 +1,6 @@
 ---
 title: DocumentType
+nav_exclude: true
 ---
 
 # RODocument.DocumentType հատկություն

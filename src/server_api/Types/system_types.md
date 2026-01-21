@@ -2,6 +2,7 @@
 layout: page
 title: "Համակարգային տիպեր"
 tags: [FieldType, FieldTypes, type]
+nav_exclude: true
 ---
 
 # Համակարգային տիպեր

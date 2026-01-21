@@ -1,5 +1,6 @@
 ---
 title: PostTemplateSubstitutionEx(Document, TemplateSubstitutionEventArgs<TemplateSubstitution>)
+nav_exclude: true
 ---
 
 # DocumentExtender.PostTemplateSubstitutionEx(Document, TemplateSubstitutionEventArgs<TemplateSubstitution>) մեթոդ

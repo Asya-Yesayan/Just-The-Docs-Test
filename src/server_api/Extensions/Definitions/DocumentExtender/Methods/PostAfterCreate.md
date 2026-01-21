@@ -1,5 +1,6 @@
 ---
 title: PostAfterCreate(Document, AfterCreateEventArgs)
+nav_exclude: true
 ---
 
 # DocumentExtender.PostAfterCreate(Document, AfterCreateEventArgs) մեթոդ

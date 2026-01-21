@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "AfterLoadEventArgs դաս"
+nav_exclude: true
 ---
 
 # AfterLoadEventArgs դաս

@@ -1,5 +1,6 @@
 ---
 title: MergeFile
+nav_exclude: true
 ---
 
 # ITemplateSubstitutionService.MergeFile մեթոդ

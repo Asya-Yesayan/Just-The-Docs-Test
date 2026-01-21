@@ -2,6 +2,7 @@
 layout: page
 title: "RejectDocumentChangeRequestEventArgs" 
 tags: OnRejectDCR
+nav_exclude: true
 ---
 
 # RejectDocumentChangeRequestEventArgs

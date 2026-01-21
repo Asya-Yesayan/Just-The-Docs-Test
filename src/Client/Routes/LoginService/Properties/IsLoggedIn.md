@@ -1,5 +1,6 @@
 ---
 title: IsLoggedIn
+nav_exclude: true
 ---
 
 # LoginService.IsLoggedIn հատկություն

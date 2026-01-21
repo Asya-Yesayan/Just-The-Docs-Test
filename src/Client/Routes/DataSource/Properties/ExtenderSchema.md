@@ -1,5 +1,6 @@
 ---
 title: ExtenderSchema
+nav_exclude: true
 ---
 
 # DataSource.ExtenderSchema հատկություն

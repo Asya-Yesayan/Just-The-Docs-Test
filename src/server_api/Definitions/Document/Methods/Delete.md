@@ -1,5 +1,6 @@
 ---
 title: Delete(DeleteEventArgs)
+nav_exclude: true
 ---
 
 # Document.Delete(DeleteEventArgs) մեթոդ

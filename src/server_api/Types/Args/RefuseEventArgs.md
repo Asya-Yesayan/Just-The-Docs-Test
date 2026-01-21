@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "RefuseEventArgs դաս"
+nav_exclude: true
 ---
 
 # RefuseEventArgs դաս

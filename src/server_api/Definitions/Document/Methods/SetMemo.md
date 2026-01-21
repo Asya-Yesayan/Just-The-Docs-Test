@@ -1,5 +1,6 @@
 ---
 title: SetMemo(string, string)
+nav_exclude: true
 ---
 
 # Document.SetMemo(string, string) մեթոդ

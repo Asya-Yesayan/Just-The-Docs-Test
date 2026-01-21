@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "MessageBoxButtons"
+nav_exclude: true
 ---
 
 # MessageBoxButtons

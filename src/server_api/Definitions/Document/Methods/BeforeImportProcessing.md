@@ -1,5 +1,6 @@
 ---
 title: BeforeImportProcessing(BeforeImportProcessingEventArgs)
+nav_exclude: true
 ---
 
 # Document.BeforeImportProcessing(BeforeImportProcessingEventArgs) մեթոդ

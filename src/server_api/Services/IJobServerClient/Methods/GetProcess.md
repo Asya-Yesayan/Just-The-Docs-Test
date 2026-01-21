@@ -1,5 +1,6 @@
 ---
 title: GetProcess(Guid)
+nav_exclude: true
 ---
 
 # IProcessServerClient.GetProcess(Guid) մեթոդ

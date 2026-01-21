@@ -1,5 +1,6 @@
 ---
 title: CreateAdditionalConnection(bool, string, bool)
+nav_exclude: true
 ---
 
 # IDBService.CreateAdditionalConnection(bool, string, bool) մեթոդ

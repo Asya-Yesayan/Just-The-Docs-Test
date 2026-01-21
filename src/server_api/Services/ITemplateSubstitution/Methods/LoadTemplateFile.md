@@ -1,5 +1,6 @@
 ---
 title: LoadTemplateFile(string, SubstitutionType)
+nav_exclude: true
 ---
 
 # ITemplateSubstitutionService.LoadTemplateFile(string, SubstitutionType) մեթոդ

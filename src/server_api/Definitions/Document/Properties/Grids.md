@@ -1,5 +1,6 @@
 ---
 title: Grids
+nav_exclude: true
 ---
 
 # Document.Grids հատկություն

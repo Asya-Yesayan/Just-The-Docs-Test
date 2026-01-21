@@ -1,5 +1,6 @@
 ---
 title: GetRows(long, long)
+nav_exclude: true
 ---
 
 # TextReport.GetRows(long, long) մեթոդ

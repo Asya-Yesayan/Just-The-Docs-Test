@@ -1,5 +1,6 @@
 ---
 title: GetSchemaAsync(string, CancellationToken)
+nav_exclude: true
 ---
 
 # ExtenderRoutes.GetSchemaAsync(string, CancellationToken) մեթոդ

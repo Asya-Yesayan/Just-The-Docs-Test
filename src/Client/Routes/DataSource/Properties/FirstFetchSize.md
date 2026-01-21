@@ -1,5 +1,6 @@
 ---
 title: FirstFetchSize
+nav_exclude: true
 ---
 
 # DataSource.FirstFetchSize հատկություն

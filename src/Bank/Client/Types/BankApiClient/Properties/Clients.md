@@ -1,5 +1,6 @@
 ---
 title: Clients
+nav_exclude: true
 ---
 
 # BankApiClient.Clients հատկություն

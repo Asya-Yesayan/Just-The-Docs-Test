@@ -1,5 +1,6 @@
 ---
 title: CreateFactsUsingStateMoverFrom(Document, int)
+nav_exclude: true
 ---
 
 # IDocumentService.CreateFactsUsingStateMoverFrom(Document, int) մեթոդ

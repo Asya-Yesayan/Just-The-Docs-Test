@@ -1,5 +1,6 @@
 ---
 title: CheckMemo()
+nav_exclude: true
 ---
 
 # RODocument.CheckMemo() մեթոդ

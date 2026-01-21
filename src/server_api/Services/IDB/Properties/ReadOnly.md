@@ -1,5 +1,6 @@
 ---
 title: ReadOnly
+nav_exclude: true
 ---
 
 # IDBService.ReadOnly հատկություն

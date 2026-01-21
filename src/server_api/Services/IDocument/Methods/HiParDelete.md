@@ -1,5 +1,6 @@
 ---
 title: HiParDelete(Document)
+nav_exclude: true
 ---
 
 # IDocumentService.HiParDelete(Document) մեթոդ

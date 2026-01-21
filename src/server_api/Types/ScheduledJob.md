@@ -1,5 +1,6 @@
 ---
 title: "ScheduledJob դաս"
+nav_exclude: true
 ---
 
 # ScheduledJob դաս

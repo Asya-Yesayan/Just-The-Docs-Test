@@ -1,5 +1,6 @@
 ---
 title: RemoveFromCache
+nav_exclude: true
 ---
 
 # RODocumentService.RemoveFromCache մեթոդ

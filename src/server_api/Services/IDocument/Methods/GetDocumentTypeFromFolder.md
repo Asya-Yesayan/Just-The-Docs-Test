@@ -1,5 +1,6 @@
 ---
 title: GetDocumentTypeFromFolder(string, string)
+nav_exclude: true
 ---
 
 # IDocumentService.GetDocumentTypeFromFolder(string, string) մեթոդ

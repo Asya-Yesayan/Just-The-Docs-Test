@@ -1,5 +1,6 @@
 ---
 title: GlobalTags
+nav_exclude: true
 ---
 
 # MeterManager.GlobalTags հատկություն

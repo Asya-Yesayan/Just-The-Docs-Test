@@ -1,5 +1,6 @@
 ---
 title: GetSqlRelatedException(SqlException, string, bool)
+nav_exclude: true
 ---
 
 # IErrorHandlingService.GetSqlRelatedException(SqlException, string, bool) մեթոդ

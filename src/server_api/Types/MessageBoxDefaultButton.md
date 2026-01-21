@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "MessageBoxDefaultButton"
+nav_exclude: true
 ---
 
 # MessageBoxDefaultButton

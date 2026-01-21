@@ -1,5 +1,6 @@
 ---
 title: GetServerDate()
+nav_exclude: true
 ---
 
 # IDBService.GetServerDate() մեթոդ

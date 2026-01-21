@@ -1,5 +1,6 @@
 ---
 title: AppLock(string, string, string, string, int, string)
+nav_exclude: true
 ---
 
 # IDBService.AppLock(string, string, string, string, int, string) մեթոդ

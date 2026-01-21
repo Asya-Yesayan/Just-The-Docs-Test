@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Language"
+nav_exclude: true
 ---
 
 # Language

@@ -1,5 +1,6 @@
 ---
 title: Debug(ILogger, string)
+nav_exclude: true
 ---
 
 # LoggerService.Debug(ILogger, string) մեթոդ

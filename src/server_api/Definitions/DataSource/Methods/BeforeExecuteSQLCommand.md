@@ -1,5 +1,6 @@
 ---
 title: BeforeExecuteSQLCommand(DataSourceArgs<P>, CancellationToken)
+nav_exclude: true
 ---
 
 # DataSource.BeforeExecuteSQLCommand(DataSourceArgs<P>, CancellationToken) մեթոդ

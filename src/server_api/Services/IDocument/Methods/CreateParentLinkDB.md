@@ -1,5 +1,6 @@
 ---
 title: CreateParentLinkDB(int, int)
+nav_exclude: true
 ---
 
 # IDocumentService.CreateParentLinkDB(int, int) մեթոդ

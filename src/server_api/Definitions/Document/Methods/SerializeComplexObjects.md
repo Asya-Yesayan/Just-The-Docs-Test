@@ -1,5 +1,6 @@
 ---
 title: SerializeComplexObjects(SerializeComplexObjectsEventArgs)
+nav_exclude: true
 ---
 
 # Document.SerializeComplexObjects(SerializeComplexObjectsEventArgs) մեթոդ

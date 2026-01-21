@@ -1,5 +1,6 @@
 ---
 title: "IAttachmentService սերվիս"
+nav_exclude: true
 ---
 
 # IAttachmentService սերվիս

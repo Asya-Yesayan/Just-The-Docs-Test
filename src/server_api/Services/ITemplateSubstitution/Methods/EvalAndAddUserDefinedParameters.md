@@ -1,5 +1,6 @@
 ---
 title: EvalAndAddUserDefinedParameters(string, SubstitutionType, PrintTemplateSubstitution, Document.Document)
+nav_exclude: true
 ---
 
 # ITemplateSubstitutionService.EvalAndAddUserDefinedParameters(string, SubstitutionType, PrintTemplateSubstitution, Document.Document) մեթոդ

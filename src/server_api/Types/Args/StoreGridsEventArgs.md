@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "StoreGridsEventArgs դաս"
+nav_exclude: true
 ---
 
 # StoreGridsEventArgs դաս

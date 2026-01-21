@@ -1,5 +1,6 @@
 ---
 title: Width
+nav_exclude: true
 ---
 
 # PrintTemplateSubstitutionImage.Width հատկություն

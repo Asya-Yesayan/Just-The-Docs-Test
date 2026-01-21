@@ -7,6 +7,7 @@ sublinks:
 - { title: "ProccessRow ֆունկցիա", ref: proccessrow-ֆունկցիա }
 - { title: "BeforeProcess ֆունկցիա", ref: beforeprocess-ֆունկցիա }
 - { title: "Ներմուծում և օգտագործում", ref: ներմուծում-և-օգտագործում }
+nav_exclude: true
 ---
 
 # Տվյալների աղբյուրի ընդլայնման ձեռնարկ

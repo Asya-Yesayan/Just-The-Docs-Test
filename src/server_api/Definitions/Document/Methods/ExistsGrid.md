@@ -1,5 +1,6 @@
 ---
 title: ExistsGrid(string)
+nav_exclude: true
 ---
 
 # Document.ExistsGrid(string) մեթոդ

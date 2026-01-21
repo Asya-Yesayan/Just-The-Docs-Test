@@ -1,5 +1,6 @@
 ---
 title: GetSqlExceptionText(SqlException, string)
+nav_exclude: true
 ---
 
 # IErrorHandlingService.GetSqlExceptionText(SqlException, string) մեթոդ

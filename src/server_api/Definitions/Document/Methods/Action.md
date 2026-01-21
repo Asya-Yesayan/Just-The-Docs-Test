@@ -1,5 +1,6 @@
 ---
 title: Action(ActionEventArgs)
+nav_exclude: true
 ---
 
 # Document.Action(ActionEventArgs) մեթոդ

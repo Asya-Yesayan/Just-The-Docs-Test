@@ -1,5 +1,6 @@
 ---
 title: Deleting
+nav_exclude: true
 ---
 
 # Document.Deleting հատկություն

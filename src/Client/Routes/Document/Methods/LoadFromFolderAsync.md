@@ -1,5 +1,6 @@
 ---
 title: LoadFromFolderAsync(string, string, bool, CancellationToken)
+nav_exclude: true
 ---
 
 # DocumentRoutes.LoadFromFolderAsync(string, string, bool, CancellationToken) մեթոդ

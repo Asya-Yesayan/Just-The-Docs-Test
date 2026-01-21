@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Սերվերային API"
+nav_exclude: true
 ---
 
 # Սերվերային API

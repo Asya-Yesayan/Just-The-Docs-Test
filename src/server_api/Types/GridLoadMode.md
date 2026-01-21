@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "GridLoadMode"
+nav_exclude: true
 ---
 
 # GridLoadMode

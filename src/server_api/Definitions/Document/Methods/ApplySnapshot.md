@@ -1,5 +1,6 @@
 ---
 title: ApplySnapshot(DocumentSnapshot)
+nav_exclude: true
 ---
 
 # Document.ApplySnapshot(DocumentSnapshot) մեթոդ

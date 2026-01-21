@@ -1,5 +1,6 @@
 ---
 title: DeleteBlobAsync
+nav_exclude: true
 ---
 
 # IStorageService.DeleteBlobAsync մեթոդ

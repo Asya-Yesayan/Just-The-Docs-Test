@@ -1,5 +1,6 @@
 ---
 title: PreBeforeCopy(Document, BeforeCopyEventArgs)
+nav_exclude: true
 ---
 
 # DocumentExtender.PreBeforeCopy(Document, BeforeCopyEventArgs) մեթոդ

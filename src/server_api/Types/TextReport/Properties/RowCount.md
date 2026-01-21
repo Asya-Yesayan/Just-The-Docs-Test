@@ -1,5 +1,6 @@
 ---
 title: RowCount
+nav_exclude: true
 ---
 
 # TextReport.RowCount հատկություն

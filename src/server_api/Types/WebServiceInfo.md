@@ -1,5 +1,6 @@
 ---
 title: "WebServiceInfo դաս"
+nav_exclude: true
 ---
 
 # WebServiceInfo դաս

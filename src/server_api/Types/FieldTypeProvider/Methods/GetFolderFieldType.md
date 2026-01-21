@@ -1,5 +1,6 @@
 ---
 title: GetFolderFieldType(string, short, bool)
+nav_exclude: true
 ---
 
 # FieldTypeProvider.GetFolderFieldType(string, short, bool) մեթոդ

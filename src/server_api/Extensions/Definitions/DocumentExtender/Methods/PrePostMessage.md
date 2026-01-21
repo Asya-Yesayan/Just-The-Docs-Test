@@ -1,5 +1,6 @@
 ---
 title: PrePostMessage(Document, PostMessageEventArgs)
+nav_exclude: true
 ---
 
 # DocumentExtender.PrePostMessage(Document, PostMessageEventArgs) մեթոդ

@@ -1,5 +1,6 @@
 ---
 title: LoadSubstitutionAndGetStorage(IPrintTemplateSubstitution, string, SubstitutionType, HtmlImageOption, string, bool)
+nav_exclude: true
 ---
 
 # ITemplateSubstitutionService.LoadSubstitutionAndGetStorage(IPrintTemplateSubstitution, string, SubstitutionType, HtmlImageOption, string, bool) մեթոդ

@@ -1,5 +1,6 @@
 ---
 title: NestedTransactions(Document, List<T>, TextReport,bool, bool)
+nav_exclude: true
 ---
 
 # IDocumentService.NestedTransactions(Document, List<T>, TextReport,bool, bool) մեթոդ

@@ -1,5 +1,6 @@
 ---
 title: TransDeferred
+nav_exclude: true
 ---
 
 # IDBService.TransDeferred հատկություն

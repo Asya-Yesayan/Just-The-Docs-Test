@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "AuthenticationClient օրինակ"
+nav_exclude: true
 ---
 
 # AuthenticationClient օրինակ

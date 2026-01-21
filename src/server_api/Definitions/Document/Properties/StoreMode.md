@@ -1,5 +1,6 @@
 ---
 title: StoreMode
+nav_exclude: true
 ---
 
 # Document.StoreMode հատկություն

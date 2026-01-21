@@ -1,5 +1,6 @@
 ---
 title: AddGrid(string)
+nav_exclude: true
 ---
 
 # TemplateSubstitution.AddGrid(string) մեթոդ

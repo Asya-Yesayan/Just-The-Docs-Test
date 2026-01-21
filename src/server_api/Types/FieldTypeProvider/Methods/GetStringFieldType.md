@@ -1,5 +1,6 @@
 ---
 title: GetStringFieldType(short, bool)
+nav_exclude: true
 ---
 
 # FieldTypeProvider.GetStringFieldType(short, bool) մեթոդ

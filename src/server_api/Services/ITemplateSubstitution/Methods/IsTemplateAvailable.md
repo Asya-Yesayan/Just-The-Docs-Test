@@ -1,5 +1,6 @@
 ---
 title: IsTemplateAvailable(string, string, Document)
+nav_exclude: true
 ---
 
 # ITemplateSubstitutionService.IsTemplateAvailable(string, string, Document) մեթոդ

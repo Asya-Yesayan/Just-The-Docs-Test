@@ -1,5 +1,6 @@
 ---
 title: CreationDate
+nav_exclude: true
 ---
 
 # RODocument.CreationDate հատկություն

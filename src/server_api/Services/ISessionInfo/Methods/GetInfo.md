@@ -1,5 +1,6 @@
 ---
 title: GetInfo()
+nav_exclude: true
 ---
 
 # ISessionInfoService.GetInfo() մեթոդ

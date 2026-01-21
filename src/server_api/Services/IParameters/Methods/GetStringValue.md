@@ -1,5 +1,6 @@
 ---
 title: GetStringValue
+nav_exclude: true
 ---
 
 # IParametersService.GetStringValue մեթոդ

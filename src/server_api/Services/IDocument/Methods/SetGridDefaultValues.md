@@ -1,5 +1,6 @@
 ---
 title: SetGridDefaultValues(Document, Dictionary<string, HashSet<string>>)
+nav_exclude: true
 ---
 
 # IDocumentService.SetGridDefaultValues(Document, Dictionary<string, HashSet<string>>) մեթոդ

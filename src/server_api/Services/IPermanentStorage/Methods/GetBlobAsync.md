@@ -1,5 +1,6 @@
 ---
 title: GetBlobAsync(string, string, CancellationToken)
+nav_exclude: true
 ---
 
 # IPermanentStorageService.GetBlobAsync(string, string, CancellationToken) մեթոդ

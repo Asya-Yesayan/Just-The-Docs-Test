@@ -1,5 +1,6 @@
 ---
 title: LoadAsync(int, bool, bool, CancellationToken)
+nav_exclude: true
 ---
 
 # DocumentRoutes.LoadAsync(int, bool, bool, CancellationToken) մեթոդ

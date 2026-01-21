@@ -1,5 +1,6 @@
 ---
 title: TryConfigure(IParametersService)
+nav_exclude: true
 ---
 
 # MeterManager.TryConfigure(IParametersService) մեթոդ

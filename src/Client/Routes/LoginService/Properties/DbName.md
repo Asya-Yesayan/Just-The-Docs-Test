@@ -1,5 +1,6 @@
 ---
 title: DbName
+nav_exclude: true
 ---
 
 # LoginService.DbName հատկություն

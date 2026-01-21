@@ -1,5 +1,6 @@
 ---
 title: LoadByTrans(int, int, string, string)
+nav_exclude: true
 ---
 
 # IFactService.LoadByTrans(int, int, string, string) մեթոդ

@@ -1,5 +1,6 @@
 ---
 title: SetImage(string, byte[])
+nav_exclude: true
 ---
 
 # Document.SetImage(string, byte[]) մեթոդ

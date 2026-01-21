@@ -1,5 +1,6 @@
 ---
 title: FileName
+nav_exclude: true
 ---
 
 # PrintTemplateSubstitutionImage.FileName հատկություն

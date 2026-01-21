@@ -1,5 +1,6 @@
 ---
 title: GetCheckValue(string)
+nav_exclude: true
 ---
 
 # Document.GetCheckValue(string) մեթոդ

@@ -1,5 +1,6 @@
 ---
 title: QueryTimeOut
+nav_exclude: true
 ---
 
 # DataSource.QueryTimeOut հատկություն

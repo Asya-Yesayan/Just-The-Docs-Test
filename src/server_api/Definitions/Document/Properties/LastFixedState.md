@@ -1,5 +1,6 @@
 ---
 title: LastFixedState
+nav_exclude: true
 ---
 
 # Document.LastFixedState հատկություն

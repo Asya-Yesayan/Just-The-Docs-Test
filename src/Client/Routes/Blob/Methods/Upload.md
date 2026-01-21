@@ -1,5 +1,6 @@
 ---
 title: Upload(string, string, byte[])
+nav_exclude: true
 ---
 
 # BlobRoutes.Upload(string, string, byte[]) մեթոդ

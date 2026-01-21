@@ -1,5 +1,6 @@
 ---
 title: GetProgress(Guid)
+nav_exclude: true
 ---
 
 # DataProcessingRequestRoutes.GetProgress(Guid) մեթոդ

@@ -1,5 +1,6 @@
 ---
 title: LoadDefinitionAsync(string, CancellationToken)
+nav_exclude: true
 ---
 
 # DataSource.LoadDefinitionAsync(string, CancellationToken) մեթոդ

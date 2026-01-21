@@ -1,5 +1,6 @@
 ---
 title: DocBased
+nav_exclude: true
 ---
 
 # TextReport.DocBased հատկություն

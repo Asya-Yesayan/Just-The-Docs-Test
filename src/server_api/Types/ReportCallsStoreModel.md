@@ -1,5 +1,6 @@
 ---
 title: "ReportCallsStoreModel դաս"
+nav_exclude: true
 ---
 
 # ReportCallsStoreModel դաս

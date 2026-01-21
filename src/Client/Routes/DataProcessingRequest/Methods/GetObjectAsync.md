@@ -1,5 +1,6 @@
 ---
 title: GetObjectAsync(DPRType, string, CancellationToken)
+nav_exclude: true
 ---
 
 # DataProcessingRequestRoutes.GetObjectAsync(DPRType, string, CancellationToken) մեթոդ

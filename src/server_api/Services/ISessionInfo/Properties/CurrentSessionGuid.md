@@ -1,5 +1,6 @@
 ---
 title: CurrentSessionGuid
+nav_exclude: true
 ---
 
 # ISessionInfoService.CurrentSessionGuid հատկություն

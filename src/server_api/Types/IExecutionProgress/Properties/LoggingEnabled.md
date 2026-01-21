@@ -1,5 +1,6 @@
 ---
 title: LoggingEnabled
+nav_exclude: true
 ---
 
 # IExecutionProgress.LoggingEnabled հատկություն

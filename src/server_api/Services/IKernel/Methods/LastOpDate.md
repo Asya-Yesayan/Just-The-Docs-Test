@@ -1,5 +1,6 @@
 ---
 title: LastOpDate(string, int, DateTime?, string, int)
+nav_exclude: true
 ---
 
 # IKernelService.LastOpDate(string, int, DateTime?, string, int) մեթոդ

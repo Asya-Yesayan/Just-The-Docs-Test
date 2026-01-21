@@ -1,5 +1,6 @@
 ---
 title: Language
+nav_exclude: true
 ---
 
 # LanguageService.Language հատկություն

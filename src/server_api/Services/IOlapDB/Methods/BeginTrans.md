@@ -1,5 +1,6 @@
 ---
 title: BeginTrans()
+nav_exclude: true
 ---
 
 # IOlapDBService.BeginTrans() մեթոդ

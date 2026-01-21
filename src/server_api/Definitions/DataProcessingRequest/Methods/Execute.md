@@ -1,5 +1,6 @@
 ---
 title: Execute(P, CancellationToken)
+nav_exclude: true
 ---
 
 # DataProcessingRequest.Execute(P, CancellationToken) մեթոդ

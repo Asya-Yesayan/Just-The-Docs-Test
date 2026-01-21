@@ -1,5 +1,6 @@
 ---
 title: GridsLoaded
+nav_exclude: true
 ---
 
 # Document.GridsLoaded հատկություն

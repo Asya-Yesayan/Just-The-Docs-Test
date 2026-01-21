@@ -1,5 +1,6 @@
 ---
 title: InitGrids()
+nav_exclude: true
 ---
 
 # LiteDocument.InitGrids() մեթոդ

@@ -1,5 +1,6 @@
 ---
 title: GetDescriptor(string)
+nav_exclude: true
 ---
 
 # IParametersService.GetDescriptor(string) մեթոդ

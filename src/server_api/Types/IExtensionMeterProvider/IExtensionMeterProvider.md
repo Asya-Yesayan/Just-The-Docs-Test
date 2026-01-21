@@ -1,5 +1,6 @@
 ---
 title: IExtensionMeterProvider ինտերֆեյս
+nav_exclude: true
 ---
 
 # IExtensionMeterProvider ինտերֆեյս

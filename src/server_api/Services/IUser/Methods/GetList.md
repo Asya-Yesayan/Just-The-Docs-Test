@@ -1,5 +1,6 @@
 ---
 title: GetList()
+nav_exclude: true
 ---
 
 # IUserService.GetList() մեթոդ

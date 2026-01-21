@@ -1,5 +1,6 @@
 ---
 title: Description
+nav_exclude: true
 ---
 
 # RODocument.Description հատկություն

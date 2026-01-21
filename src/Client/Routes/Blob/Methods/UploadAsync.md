@@ -1,5 +1,6 @@
 ---
 title: UploadAsync(string, string, byte[], CancellationToken)
+nav_exclude: true
 ---
 
 # BlobRoutes.UploadAsync(string, string, byte[], CancellationToken) մեթոդ

@@ -1,5 +1,6 @@
 ---
 title: NestedTransactionReport
+nav_exclude: true
 ---
 
 # Document.NestedTransactionReport հատկություն

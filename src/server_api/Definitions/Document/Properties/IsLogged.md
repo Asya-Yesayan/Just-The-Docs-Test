@@ -1,5 +1,6 @@
 ---
 title: IsLogged
+nav_exclude: true
 ---
 
 # Document.IsLogged հատկություն

@@ -1,5 +1,6 @@
 ---
 title: DPR
+nav_exclude: true
 ---
 
 # ApiClient.DPR հատկություն

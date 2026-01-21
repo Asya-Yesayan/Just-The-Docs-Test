@@ -1,5 +1,6 @@
 ---
 title: Database
+nav_exclude: true
 ---
 
 # IDBService.Database հատկություն

@@ -1,5 +1,6 @@
 ---
 title: Exists(int, int, string, string, bool)
+nav_exclude: true
 ---
 
 # IFactService.Exists(int, int, string, string, bool) մեթոդ

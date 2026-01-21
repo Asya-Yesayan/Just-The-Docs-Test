@@ -1,5 +1,6 @@
 ---
 title: GetTurnFull(string, int, DateTime, DateTime)
+nav_exclude: true
 ---
 
 # IKernelService.GetTurnFull(string, int, DateTime, DateTime) մեթոդ

@@ -1,5 +1,6 @@
 ---
 title: Add(WebServiceInfo)
+nav_exclude: true
 ---
 
 # WebServicesManager.Add(WebServiceInfo) մեթոդ

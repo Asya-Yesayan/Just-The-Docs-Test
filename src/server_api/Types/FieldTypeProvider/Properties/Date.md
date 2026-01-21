@@ -1,5 +1,6 @@
 ---
 title: Date
+nav_exclude: true
 ---
 
 # FieldTypeProvider.Date հատկություն

@@ -1,5 +1,6 @@
 ---
 title: RefreshTimeStamp()
+nav_exclude: true
 ---
 
 # Document.RefreshTimeStamp() մեթոդ

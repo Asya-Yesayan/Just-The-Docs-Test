@@ -1,5 +1,6 @@
 ---
 title: DebugForContext(string)
+nav_exclude: true
 ---
 
 # LoggerService.DebugForContext(string) մեթոդ

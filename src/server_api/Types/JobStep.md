@@ -1,5 +1,6 @@
 ---
 title: "JobStep դաս"
+nav_exclude: true
 ---
 
 # JobStep դաս

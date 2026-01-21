@@ -1,5 +1,6 @@
 ---
 title: ExistsRekvizit(string)
+nav_exclude: true
 ---
 
 # Document.ExistsRekvizit(string) մեթոդ

@@ -1,5 +1,6 @@
 ---
 title: MakeSQLCommand(DataSourceArgs<P>, CancellationToken)
+nav_exclude: true
 ---
 
 # DataSource.MakeSQLCommand(DataSourceArgs<P>, CancellationToken) մեթոդ

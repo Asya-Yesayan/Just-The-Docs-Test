@@ -1,5 +1,6 @@
 ---
 title: MakeParentLink(Document, int, bool)
+nav_exclude: true
 ---
 
 # IDocumentService.MakeParentLink(Document, int, bool) մեթոդ

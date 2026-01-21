@@ -1,5 +1,6 @@
 ---
 title: LoadFromFolder(string, string, bool)
+nav_exclude: true
 ---
 
 # LiteDocumentService.LoadFromFolder(string, string, bool) մեթոդ

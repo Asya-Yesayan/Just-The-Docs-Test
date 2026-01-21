@@ -1,5 +1,6 @@
 ---
 title: GetFileFieldType(string, bool)
+nav_exclude: true
 ---
 
 # FieldTypeProvider.GetFileFieldType(string, bool) մեթոդ

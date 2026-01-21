@@ -1,5 +1,6 @@
 ---
 title: Approve(Document, DocumentCheckLevel, string)
+nav_exclude: true
 ---
 
 # IDocumentService.Approve(Document, DocumentCheckLevel, string) մեթոդ

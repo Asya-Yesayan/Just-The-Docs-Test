@@ -1,5 +1,6 @@
 ---
 title: "IKernelService սերվիս"
+nav_exclude: true
 ---
 
 # IKernelService սերվիս

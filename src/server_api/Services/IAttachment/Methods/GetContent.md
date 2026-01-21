@@ -1,5 +1,6 @@
 ---
 title: GetContent(int, string)
+nav_exclude: true
 ---
 
 # IAttachmentService.GetContent(int, string) մեթոդ

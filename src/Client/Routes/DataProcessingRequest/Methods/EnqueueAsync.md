@@ -1,5 +1,6 @@
 ---
 title: EnqueueAsync(DPRType, string, bool, ProcessDPRRequest, CancellationToken)
+nav_exclude: true
 ---
 
 # DataProcessingRequestRoutes.EnqueueAsync(DPRType, string, bool, ProcessDPRRequest, CancellationToken) մեթոդ

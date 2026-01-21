@@ -2,6 +2,7 @@
 layout: page
 title: "Տպելու ձևի ընդլայնման օրինակ" 
 tags: TemplateSubstitution
+nav_exclude: true
 ---
 
 # Տպելու ձևի ընդլայնման օրինակ

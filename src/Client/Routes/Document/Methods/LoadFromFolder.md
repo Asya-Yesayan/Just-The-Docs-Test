@@ -1,5 +1,6 @@
 ---
 title: LoadFromFolder(string, string, bool)
+nav_exclude: true
 ---
 
 # DocumentRoutes.LoadFromFolder(string, string, bool) մեթոդ

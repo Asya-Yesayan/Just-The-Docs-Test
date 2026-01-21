@@ -1,5 +1,6 @@
 ---
 title: TreeEventHandler սերվիս
+nav_exclude: true
 ---
 
 # TreeEventHandler սերվիս

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "ConfirmDocumentChangeRequestEventArgs դաս"
+nav_exclude: true
 ---
 
 # ConfirmDocumentChangeRequestEventArgs դաս

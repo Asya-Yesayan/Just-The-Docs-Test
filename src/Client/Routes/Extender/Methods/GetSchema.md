@@ -1,5 +1,6 @@
 ---
 title: GetSchema(string)
+nav_exclude: true
 ---
 
 # ExtenderRoutes.GetSchema(string) մեթոդ

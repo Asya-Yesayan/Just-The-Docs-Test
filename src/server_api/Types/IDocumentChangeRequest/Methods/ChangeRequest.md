@@ -1,5 +1,6 @@
 ---
 title: ChangeRequest(ChangeRequestEventArgs)
+nav_exclude: true
 ---
 
 # IDocumentChangeRequest.ChangeRequest(ChangeRequestEventArgs) մեթոդ

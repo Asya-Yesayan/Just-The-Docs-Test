@@ -1,5 +1,6 @@
 ---
 title: ClearCache()
+nav_exclude: true
 ---
 
 # RODocumentService.ClearCache() մեթոդ

@@ -1,5 +1,6 @@
 ---
 title: UIRequestEnabled
+nav_exclude: true
 ---
 
 # UIRequestExecutionProgress.UIRequestEnabled հատկություն

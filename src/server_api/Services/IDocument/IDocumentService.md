@@ -1,5 +1,6 @@
 ---
 title: "IDocumentService սերվիս"
+nav_exclude: true
 ---
 
 # IDocumentService սերվիս

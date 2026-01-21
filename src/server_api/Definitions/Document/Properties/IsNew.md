@@ -1,5 +1,6 @@
 ---
 title: IsNew
+nav_exclude: true
 ---
 
 # Document.IsNew հատկություն

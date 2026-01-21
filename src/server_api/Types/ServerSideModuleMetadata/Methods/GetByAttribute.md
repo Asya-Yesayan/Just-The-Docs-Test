@@ -1,5 +1,6 @@
 ---
 title: GetByAttribute()
+nav_exclude: true
 ---
 
 # ServerSideModuleMetadata.GetByAttribute() մեթոդ

@@ -1,5 +1,6 @@
 ---
 title: Download(string, string)
+nav_exclude: true
 ---
 
 # BlobRoutes.Download(string, string) մեթոդ

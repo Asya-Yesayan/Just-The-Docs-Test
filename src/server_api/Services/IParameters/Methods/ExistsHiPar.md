@@ -1,5 +1,6 @@
 ---
 title: ExistsHiPar(string, DateTime, bool, string)
+nav_exclude: true
 ---
 
 # IParametersService.ExistsHiPar(string, DateTime, bool, string) մեթոդ

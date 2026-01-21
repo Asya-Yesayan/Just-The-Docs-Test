@@ -1,5 +1,6 @@
 ---
 title: "LanguageService սերվիս"
+nav_exclude: true
 ---
 
 # LanguageService սերվիս

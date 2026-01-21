@@ -1,5 +1,6 @@
 ---
 title: "IDBService սերվիս"
+nav_exclude: true
 ---
 
 # IDBService սերվիս

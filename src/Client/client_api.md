@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Կլիենտական գրադարանի API"
+nav_exclude: true
 ---
 
 # Կլիենտական գրադարանի API

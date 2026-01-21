@@ -1,5 +1,6 @@
 ---
 title: IsArchived(int)
+nav_exclude: true
 ---
 
 # IDocumentService.IsArchived(int) մեթոդ

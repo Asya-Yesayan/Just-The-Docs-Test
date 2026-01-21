@@ -1,5 +1,6 @@
 ---
 title: GetDataSource
+nav_exclude: true
 ---
 
 # DataSourceService.GetDataSource մեթոդ

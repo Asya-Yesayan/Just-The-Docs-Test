@@ -1,5 +1,6 @@
 ---
 title: Configuration
+nav_exclude: true
 ---
 
 # MeterManager.Configuration հատկություն

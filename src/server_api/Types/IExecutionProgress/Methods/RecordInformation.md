@@ -1,5 +1,6 @@
 ---
 title: RecordInformation(IEnumerable<string>, int, string, int, Dictionary<string, object>)
+nav_exclude: true
 ---
 
 # IExecutionProgress.RecordInformation(IEnumerable<string>, int, string, int, Dictionary<string, object>) մեթոդ

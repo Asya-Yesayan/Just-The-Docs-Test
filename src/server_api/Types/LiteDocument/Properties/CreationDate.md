@@ -1,5 +1,6 @@
 ---
 title: CreationDate
+nav_exclude: true
 ---
 
 # LiteDocument.CreationDate հատկություն

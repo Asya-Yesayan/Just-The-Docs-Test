@@ -1,5 +1,6 @@
 ---
 title: SetIsolationLevel(IsolationLevel)
+nav_exclude: true
 ---
 
 # IDBService.SetIsolationLevel(IsolationLevel) մեթոդ

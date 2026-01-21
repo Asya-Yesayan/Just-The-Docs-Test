@@ -1,5 +1,6 @@
 ---
 title: GetDocumentType(int)
+nav_exclude: true
 ---
 
 # IDocumentService.GetDocumentType(int) մեթոդ

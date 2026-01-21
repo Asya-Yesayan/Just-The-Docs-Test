@@ -1,5 +1,6 @@
 ---
 title: ExistsInDB
+nav_exclude: true
 ---
 
 # Document.ExistsInDB հատկություն

@@ -1,5 +1,6 @@
 ---
 title: AfterDataReaderClose
+nav_exclude: true
 ---
 
 # DataSource.AfterDataReaderClose մեթոդ

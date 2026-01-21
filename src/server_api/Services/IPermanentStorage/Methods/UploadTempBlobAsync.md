@@ -1,5 +1,6 @@
 ---
 title: UploadTempBlobAsync(string, string, Stream, BlobProperties, CancellationToken)
+nav_exclude: true
 ---
 
 # IPermanentStorageService.UploadTempBlobAsync(string, string, Stream, BlobProperties, CancellationToken) մեթոդ

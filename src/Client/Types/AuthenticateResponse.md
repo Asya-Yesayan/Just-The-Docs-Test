@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "AuthenticateResponse"
+nav_exclude: true
 ---
 
 # AuthenticateResponse

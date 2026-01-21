@@ -1,5 +1,6 @@
 ---
 title: AmAcc
+nav_exclude: true
 ---
 
 # FieldTypeProvider.AmAcc հատկություն

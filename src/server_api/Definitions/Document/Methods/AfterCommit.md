@@ -1,5 +1,6 @@
 ---
 title: AfterCommit(AfterCommitEventArgs)
+nav_exclude: true
 ---
 
 # Document.AfterCommit(AfterCommitEventArgs) մեթոդ

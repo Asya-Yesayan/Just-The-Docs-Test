@@ -1,5 +1,6 @@
 ---
 title: TokenValidToUTC
+nav_exclude: true
 ---
 
 # LoginService.TokenValidToUTC հատկություն

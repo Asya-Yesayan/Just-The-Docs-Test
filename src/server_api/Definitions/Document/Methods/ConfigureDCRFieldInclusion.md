@@ -1,5 +1,6 @@
 ---
 title: ConfigureDCRFieldInclusion(ConfigureDCRFieldInclusionEventArgs)
+nav_exclude: true
 ---
 
 # Document.ConfigureDCRFieldInclusion(ConfigureDCRFieldInclusionEventArgs) մեթոդ

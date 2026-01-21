@@ -1,5 +1,6 @@
 ---
 title: InsertScheduleAndSteps(ScheduledJob)
+nav_exclude: true
 ---
 
 # JobService.InsertScheduleAndSteps(ScheduledJob) մեթոդ

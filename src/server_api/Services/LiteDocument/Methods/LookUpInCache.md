@@ -1,5 +1,6 @@
 ---
 title: LookUpInCache
+nav_exclude: true
 ---
 
 # LiteDocumentService.LookUpInCache մեթոդ

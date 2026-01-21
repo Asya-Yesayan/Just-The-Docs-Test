@@ -1,5 +1,6 @@
 ---
 title: GetTurn(string, int, DateTime, DateTime, string)
+nav_exclude: true
 ---
 
 # IKernelService.GetTurn(string, int, DateTime, DateTime, string) մեթոդ

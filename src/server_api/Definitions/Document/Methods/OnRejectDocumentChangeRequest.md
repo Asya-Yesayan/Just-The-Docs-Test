@@ -1,5 +1,6 @@
 ---
 title: OnRejectDocumentChangeRequest(RejectDocumentChangeRequestEventArgs)
+nav_exclude: true
 ---
 
 # Document.OnRejectDocumentChangeRequest(RejectDocumentChangeRequestEventArgs) մեթոդ

@@ -1,5 +1,6 @@
 ---
 title: CreateClientFromEkeng(CreateClientFromEkengRequest)
+nav_exclude: true
 ---
 
 # ClientsRoutes.CreateClientFromEkeng(CreateClientFromEkengRequest) մեթոդ

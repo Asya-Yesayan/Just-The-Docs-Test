@@ -1,5 +1,6 @@
 ---
 title: EncodeResultUnicode
+nav_exclude: true
 ---
 
 # DataSource.EncodeResultUnicode հատկություն

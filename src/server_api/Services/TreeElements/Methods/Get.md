@@ -1,5 +1,6 @@
 ---
 title: Get(string, string, bool)
+nav_exclude: true
 ---
 
 # TreeElementsService.Get(string, string, bool) մեթոդ

@@ -1,5 +1,6 @@
 ---
 title: Schema
+nav_exclude: true
 ---
 
 # DataSource.Schema հատկություն

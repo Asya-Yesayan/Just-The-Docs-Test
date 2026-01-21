@@ -1,5 +1,6 @@
 ---
 title: GetDocsInfo()
+nav_exclude: true
 ---
 
 # IDocumentService.GetDocsInfo() մեթոդ

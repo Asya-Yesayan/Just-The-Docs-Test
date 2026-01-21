@@ -1,5 +1,6 @@
 ---
 title: Break()
+nav_exclude: true
 ---
 
 # TextReport.Break() մեթոդ

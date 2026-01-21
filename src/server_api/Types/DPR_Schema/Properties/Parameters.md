@@ -1,5 +1,6 @@
 ---
 title: Parameters
+nav_exclude: true
 ---
 
 # DPR.Schema.Parameters հատկություն

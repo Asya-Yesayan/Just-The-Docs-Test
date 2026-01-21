@@ -1,5 +1,6 @@
 ---
 title: CreationDate(int, bool)
+nav_exclude: true
 ---
 
 # IDocumentService.CreationDate(int, bool) մեթոդ

@@ -1,5 +1,6 @@
 ---
 title: GetDateTimeValue
+nav_exclude: true
 ---
 
 # IParametersService.GetDateTimeValue մեթոդ

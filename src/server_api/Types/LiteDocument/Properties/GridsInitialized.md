@@ -1,5 +1,6 @@
 ---
 title: GridsInitialized
+nav_exclude: true
 ---
 
 # LiteDocument.GridsInitialized հատկություն

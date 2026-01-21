@@ -1,5 +1,6 @@
 ---
 title: "IAccountingService սերվիս"
+nav_exclude: true
 ---
 
 # IAccountingService սերվիս

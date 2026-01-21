@@ -1,5 +1,6 @@
 ---
 title: Load
+nav_exclude: true
 ---
 
 # LiteDocumentService.Load մեթոդ

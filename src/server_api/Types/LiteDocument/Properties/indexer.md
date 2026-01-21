@@ -1,5 +1,6 @@
 ---
 title: indexer
+nav_exclude: true
 ---
 
 # LiteDocument.indexer հատկություն

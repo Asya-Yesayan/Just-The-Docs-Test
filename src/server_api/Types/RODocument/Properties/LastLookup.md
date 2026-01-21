@@ -1,5 +1,6 @@
 ---
 title: LastLookup
+nav_exclude: true
 ---
 
 # RODocument.LastLookup հատկություն

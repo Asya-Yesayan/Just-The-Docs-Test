@@ -1,5 +1,6 @@
 ---
 title: CreatePhysicalClientByFullData(CreatePhysicalClientByFullDataRequest)
+nav_exclude: true
 ---
 
 # ClientsRoutes.CreatePhysicalClientByFullData(CreatePhysicalClientByFullDataRequest) մեթոդ

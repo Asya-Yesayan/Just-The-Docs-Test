@@ -1,5 +1,6 @@
 ---
 title: Version
+nav_exclude: true
 ---
 
 # ApiClient.Version հատկություն

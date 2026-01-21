@@ -1,5 +1,6 @@
 ---
 title: RecordHeader(string)
+nav_exclude: true
 ---
 
 # IExecutionProgress.RecordHeader(string) մեթոդ

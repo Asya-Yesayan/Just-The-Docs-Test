@@ -1,5 +1,6 @@
 ---
 title: GetColumnsDefinition(string)
+nav_exclude: true
 ---
 
 # DataSourceService.GetColumnsDefinition(string) մեթոդ

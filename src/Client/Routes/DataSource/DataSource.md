@@ -1,5 +1,6 @@
 ---
 title: DataSource դաս
+nav_exclude: true
 ---
 
 # DataSource դաս

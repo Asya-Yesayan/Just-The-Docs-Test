@@ -1,5 +1,6 @@
 ---
 title: TemplateSubstitutionEventArgs.Mode հատկություն
+nav_exclude: true
 ---
 
 # TemplateSubstitutionEventArgs.Mode հատկություն

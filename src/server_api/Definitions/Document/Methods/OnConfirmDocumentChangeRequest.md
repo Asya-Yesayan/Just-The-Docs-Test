@@ -1,5 +1,6 @@
 ---
 title: OnConfirmDocumentChangeRequest(ConfirmDocumentChangeRequestEventArgs)
+nav_exclude: true
 ---
 
 # Document.OnConfirmDocumentChangeRequest(ConfirmDocumentChangeRequestEventArgs) մեթոդ

@@ -1,5 +1,6 @@
 ---
 title: ForceStop(Guid, string)
+nav_exclude: true
 ---
 
 # IProcessServerClient.ForceStop(Guid, string) մեթոդ

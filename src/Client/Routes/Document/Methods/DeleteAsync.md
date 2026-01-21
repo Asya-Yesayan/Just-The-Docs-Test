@@ -1,5 +1,6 @@
 ---
 title: DeleteAsync
+nav_exclude: true
 ---
 
 # DocumentRoutes.DeleteAsync մեթոդ

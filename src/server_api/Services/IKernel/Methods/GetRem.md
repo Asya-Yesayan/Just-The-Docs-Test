@@ -1,5 +1,6 @@
 ---
 title: GetRem(string, int, DateTime?)
+nav_exclude: true
 ---
 
 # IKernelService.GetRem(string, int, DateTime?) մեթոդ

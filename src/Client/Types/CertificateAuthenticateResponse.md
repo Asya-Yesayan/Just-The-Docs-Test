@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "CertificateAuthenticateResponse դաս"
+nav_exclude: true
 ---
 
 # CertificateAuthenticateResponse դաս

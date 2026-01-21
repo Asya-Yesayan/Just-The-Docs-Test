@@ -1,5 +1,6 @@
 ---
 title: IsEmpty(DocumentChangeRequest, bool)
+nav_exclude: true
 ---
 
 # IDocumentChangeRequestService.IsEmpty(DocumentChangeRequest, bool) մեթոդ

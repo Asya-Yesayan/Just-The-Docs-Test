@@ -1,5 +1,6 @@
 ---
 title: TryAppLock(string, string, string, string)
+nav_exclude: true
 ---
 
 # IDBService.TryAppLock(string, string, string, string) մեթոդ

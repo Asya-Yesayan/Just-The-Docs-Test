@@ -1,5 +1,6 @@
 ---
 title: Load
+nav_exclude: true
 ---
 
 # RODocumentService.Load մեթոդ

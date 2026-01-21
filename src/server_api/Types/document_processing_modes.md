@@ -2,6 +2,7 @@
 layout: page
 title: "Փաստաթղթի ռեժիմներ"
 tags: [PROCESSINGMODE]
+nav_exclude: true
 ---
 
 # Փաստաթղթի ռեժիմներ

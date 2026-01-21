@@ -1,5 +1,6 @@
 ---
 title: GetByInterface()
+nav_exclude: true
 ---
 
 # ServerSideModuleMetadata.GetByInterface() մեթոդ

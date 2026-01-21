@@ -1,5 +1,6 @@
 ---
 title: "TemplateService սերվիս"
+nav_exclude: true
 ---
 
 # TemplateService սերվիս

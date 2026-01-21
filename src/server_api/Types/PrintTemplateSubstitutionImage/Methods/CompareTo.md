@@ -1,5 +1,6 @@
 ---
 title: CompareTo(PrintTemplateSubstitutionImage)
+nav_exclude: true
 ---
 
 # PrintTemplateSubstitutionImage.CompareTo(PrintTemplateSubstitutionImage) մեթոդ

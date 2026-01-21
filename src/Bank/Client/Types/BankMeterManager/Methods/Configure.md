@@ -1,5 +1,6 @@
 ---
 title: Configure(IParametersService)
+nav_exclude: true
 ---
 
 # BankMeterManager.Configure(IParametersService) մեթոդ

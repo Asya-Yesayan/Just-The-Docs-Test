@@ -1,5 +1,6 @@
 ---
 title: Origin
+nav_exclude: true
 ---
 
 # Document.Origin հատկություն

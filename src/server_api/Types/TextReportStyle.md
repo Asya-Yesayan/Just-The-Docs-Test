@@ -2,6 +2,7 @@
 layout: page
 title: "TextReportStyle" 
 tags: [AsRepViewer, textReport]
+nav_exclude: true
 ---
 
 # TextReportStyle

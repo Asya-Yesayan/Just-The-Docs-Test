@@ -1,5 +1,6 @@
 ---
 title: ExecuteDataSource
+nav_exclude: true
 ---
 
 # DataSourceService.ExecuteDataSource մեթոդ

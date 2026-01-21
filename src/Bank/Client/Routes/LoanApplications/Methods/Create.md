@@ -1,5 +1,6 @@
 ---
 title: Create(CreateRequest)
+nav_exclude: true
 ---
 
 # LoanApplicationsRoutes.Create(CreateRequest) մեթոդ

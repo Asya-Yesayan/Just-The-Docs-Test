@@ -1,5 +1,6 @@
 ---
 title: GetCHFieldType(string, short, short, bool)
+nav_exclude: true
 ---
 
 # FieldTypeProvider.GetCHFieldType(string, short, short, bool) մեթոդ

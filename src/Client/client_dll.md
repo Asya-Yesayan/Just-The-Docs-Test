@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Web API կլիենտական գրադարանի dll-ներ"
+nav_exclude: true
 ---
 
 # Web API կլիենտական գրադարանի dll-ներ

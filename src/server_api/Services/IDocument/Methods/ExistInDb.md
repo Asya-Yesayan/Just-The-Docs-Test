@@ -1,5 +1,6 @@
 ---
 title: ExistInDb(int)
+nav_exclude: true
 ---
 
 # IDocumentService.ExistInDb(int) մեթոդ

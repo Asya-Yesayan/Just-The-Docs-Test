@@ -1,5 +1,6 @@
 ---
 title: UpdateContent(AttachmentContentModel)
+nav_exclude: true
 ---
 
 # IAttachmentService.UpdateContent(AttachmentContentModel) մեթոդ

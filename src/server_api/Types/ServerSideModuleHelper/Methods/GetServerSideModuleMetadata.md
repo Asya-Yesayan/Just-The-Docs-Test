@@ -1,5 +1,6 @@
 ---
 title: GetServerSideModuleMetadata(IDBService, string)
+nav_exclude: true
 ---
 
 # ServerSideModuleHelper.GetServerSideModuleMetadata(IDBService, string) մեթոդ

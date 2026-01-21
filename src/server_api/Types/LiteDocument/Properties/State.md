@@ -1,5 +1,6 @@
 ---
 title: State
+nav_exclude: true
 ---
 
 # LiteDocument.State հատկություն

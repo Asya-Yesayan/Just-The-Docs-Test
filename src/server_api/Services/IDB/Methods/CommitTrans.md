@@ -1,5 +1,6 @@
 ---
 title: CommitTrans()
+nav_exclude: true
 ---
 
 # IDBService.CommitTrans() մեթոդ

@@ -1,5 +1,6 @@
 ---
 title: AfterExecuteSQLCommand(DataSourceArgs<P>, SqlDataReader)
+nav_exclude: true
 ---
 
 # DataSource.AfterExecuteSQLCommand(DataSourceArgs<P>, SqlDataReader) մեթոդ

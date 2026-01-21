@@ -1,5 +1,6 @@
 ---
 title: GetAll()
+nav_exclude: true
 ---
 
 # SessionInfoCacheService.GetAll() մեթոդ

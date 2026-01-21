@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "DeserializeComplexObjectsEventArgs դաս"
+nav_exclude: true
 ---
 
 # DeserializeComplexObjectsEventArgs դաս

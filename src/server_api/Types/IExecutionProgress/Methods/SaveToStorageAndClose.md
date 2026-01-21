@@ -1,5 +1,6 @@
 ---
 title: SaveToStorageAndClose()
+nav_exclude: true
 ---
 
 # IExecutionProgress.SaveToStorageAndClose() մեթոդ

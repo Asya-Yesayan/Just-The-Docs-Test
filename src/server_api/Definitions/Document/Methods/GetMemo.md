@@ -1,5 +1,6 @@
 ---
 title: GetMemo(string)
+nav_exclude: true
 ---
 
 # Document.GetMemo(string) մեթոդ

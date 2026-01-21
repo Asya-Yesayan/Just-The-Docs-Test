@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "BeforeCommitEventArgs դաս"
+nav_exclude: true
 ---
 
 # BeforeCommitEventArgs դաս

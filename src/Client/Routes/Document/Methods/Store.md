@@ -1,5 +1,6 @@
 ---
 title: Store(DocumentStoreRequestModel)
+nav_exclude: true
 ---
 
 # DocumentRoutes.Store(DocumentStoreRequestModel) մեթոդ

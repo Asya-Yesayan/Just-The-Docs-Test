@@ -1,5 +1,6 @@
 ---
 title: BeginSqlServerDistributedTransaction()
+nav_exclude: true
 ---
 
 # IDBService.BeginSqlServerDistributedTransaction() մեթոդ

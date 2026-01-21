@@ -1,5 +1,6 @@
 ---
 title: IsAdmin
+nav_exclude: true
 ---
 
 # LoginService.IsAdmin հատկություն

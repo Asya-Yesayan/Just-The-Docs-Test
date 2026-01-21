@@ -1,5 +1,6 @@
 ---
 title: ApplyStyle(string, TextReportStyle)
+nav_exclude: true
 ---
 
 # TextReport.ApplyStyle(string, TextReportStyle) մեթոդ

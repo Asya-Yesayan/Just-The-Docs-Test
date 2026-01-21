@@ -1,5 +1,6 @@
 ---
 title: AttachReservedCardToClient(AttachReservedCardToClientRequest)
+nav_exclude: true
 ---
 
 # CardsRoutes.AttachReservedCardToClient(AttachReservedCardToClientRequest) մեթոդ

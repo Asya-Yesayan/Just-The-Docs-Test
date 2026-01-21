@@ -1,5 +1,6 @@
 ---
 title: CurrentUICultureName
+nav_exclude: true
 ---
 
 # LanguageService.CurrentUICultureName հատկություն

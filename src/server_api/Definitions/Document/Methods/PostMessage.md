@@ -1,5 +1,6 @@
 ---
 title: PostMessage(PostMessageEventArgs)
+nav_exclude: true
 ---
 
 # Document.PostMessage(PostMessageEventArgs) մեթոդ

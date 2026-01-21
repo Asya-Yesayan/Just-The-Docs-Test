@@ -1,5 +1,6 @@
 ---
 title: LoggingAdditionalData
+nav_exclude: true
 ---
 
 # IExecutionProgress.LoggingAdditionalData հատկություն

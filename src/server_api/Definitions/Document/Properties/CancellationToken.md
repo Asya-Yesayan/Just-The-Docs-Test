@@ -1,5 +1,6 @@
 ---
 title: CancellationToken
+nav_exclude: true
 ---
 
 # Document.CancellationToken հատկություն

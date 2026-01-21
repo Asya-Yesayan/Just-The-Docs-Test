@@ -1,5 +1,6 @@
 ---
 title: LoadFromFolder
+nav_exclude: true
 ---
 
 # IDocumentService.LoadFromFolder մեթոդ

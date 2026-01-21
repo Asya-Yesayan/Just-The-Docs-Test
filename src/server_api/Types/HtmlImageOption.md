@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "HtmlImageOption"
+nav_exclude: true
 ---
 
 # HtmlImageOption

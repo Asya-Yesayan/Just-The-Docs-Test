@@ -1,5 +1,6 @@
 ---
 title: ISN
+nav_exclude: true
 ---
 
 # LiteDocument.ISN հատկություն

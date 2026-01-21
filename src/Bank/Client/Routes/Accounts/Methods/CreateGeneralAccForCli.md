@@ -1,5 +1,6 @@
 ---
 title: CreateGeneralAccForCli(CreateGeneralAccRequest)
+nav_exclude: true
 ---
 
 # AccountsRoutes.CreateGeneralAccForCli(CreateGeneralAccRequest) մեթոդ

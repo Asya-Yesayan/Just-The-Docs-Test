@@ -1,5 +1,6 @@
 ---
 title: AlwaysCallBeforeProcess
+nav_exclude: true
 ---
 
 # Extender.AlwaysCallBeforeProcess հատկություն

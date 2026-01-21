@@ -1,5 +1,6 @@
 ---
 title: Add(string, DateTime)
+nav_exclude: true
 ---
 
 # TemplateSubstitution.Add(string, DateTime) մեթոդ

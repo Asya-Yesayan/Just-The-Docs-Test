@@ -1,5 +1,6 @@
 ---
 title: "ISessionInfoService սերվիս"
+nav_exclude: true
 ---
 
 # ISessionInfoService սերվիս

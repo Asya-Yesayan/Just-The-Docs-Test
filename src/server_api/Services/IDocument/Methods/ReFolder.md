@@ -1,5 +1,6 @@
 ---
 title: ReFolder(Document, StoreMode)
+nav_exclude: true
 ---
 
 # IDocumentService.ReFolder(Document, StoreMode) մեթոդ

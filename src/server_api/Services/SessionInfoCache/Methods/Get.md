@@ -1,5 +1,6 @@
 ---
 title: Get(string)
+nav_exclude: true
 ---
 
 # SessionInfoCacheService.Get(string) մեթոդ

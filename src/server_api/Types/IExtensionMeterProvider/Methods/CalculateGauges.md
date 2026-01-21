@@ -1,5 +1,6 @@
 ---
 title: CalculateGauges(IDBService)
+nav_exclude: true
 ---
 
 # IExtensionMeterProvider.CalculateGauges(IDBService) մեթոդ

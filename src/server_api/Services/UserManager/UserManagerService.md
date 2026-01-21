@@ -1,5 +1,6 @@
 ---
 title: "UserManagerService սերվիս"
+nav_exclude: true
 ---
 
 # UserManagerService սերվիս

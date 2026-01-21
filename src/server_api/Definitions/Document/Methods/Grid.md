@@ -1,5 +1,6 @@
 ---
 title: Grid(string)
+nav_exclude: true
 ---
 
 # Document.Grid(string) մեթոդ

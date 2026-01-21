@@ -1,5 +1,6 @@
 ---
 title: InsertRows(TextReport, long, long)
+nav_exclude: true
 ---
 
 # TextReport.InsertRows(TextReport, long, long) մեթոդ

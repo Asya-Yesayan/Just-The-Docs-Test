@@ -1,5 +1,6 @@
 ---
 title: LoadParents()
+nav_exclude: true
 ---
 
 # Document.LoadParents() մեթոդ

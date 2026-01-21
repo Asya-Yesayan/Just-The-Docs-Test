@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "DPRAttribute դաս"
+nav_exclude: true
 ---
 
 # DPRAttribute դաս

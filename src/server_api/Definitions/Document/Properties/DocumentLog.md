@@ -1,5 +1,6 @@
 ---
 title: DocumentLog
+nav_exclude: true
 ---
 
 # Document.DocumentLog հատկություն

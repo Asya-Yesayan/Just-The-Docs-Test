@@ -1,5 +1,6 @@
 ---
 title: CommitTrans()
+nav_exclude: true
 ---
 
 # IOlapDBService.CommitTrans() մեթոդ

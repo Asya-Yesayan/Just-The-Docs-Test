@@ -1,5 +1,6 @@
 ---
 title: GetActiveSessionsAndReset()
+nav_exclude: true
 ---
 
 # SessionInfoCacheService.GetActiveSessionsAndReset() մեթոդ

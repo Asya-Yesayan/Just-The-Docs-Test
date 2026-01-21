@@ -1,5 +1,6 @@
 ---
 title: Validate(ValidateEventArgs)
+nav_exclude: true
 ---
 
 # Document.Validate(ValidateEventArgs) մեթոդ

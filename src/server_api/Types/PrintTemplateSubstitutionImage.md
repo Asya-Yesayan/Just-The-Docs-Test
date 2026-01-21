@@ -1,5 +1,6 @@
 ---
 title: PrintTemplateSubstitutionImage դաս
+nav_exclude: true
 ---
 
 # PrintTemplateSubstitutionImage դաս

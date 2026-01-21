@@ -1,5 +1,6 @@
 ---
 title: TS
+nav_exclude: true
 ---
 
 # ServerSideModuleMetadata.TS հատկություն

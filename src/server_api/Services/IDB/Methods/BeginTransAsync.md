@@ -1,5 +1,6 @@
 ---
 title: BeginTransAsync()
+nav_exclude: true
 ---
 
 # IDBService.BeginTransAsync() մեթոդ

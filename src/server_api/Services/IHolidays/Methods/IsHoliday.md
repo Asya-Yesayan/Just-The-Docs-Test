@@ -1,5 +1,6 @@
 ---
 title: IsHoliday(DateTime)
+nav_exclude: true
 ---
 
 # IHolidaysService.IsHoliday(DateTime) մեթոդ

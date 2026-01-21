@@ -1,5 +1,6 @@
 ---
 title: ExistsInDB(string)
+nav_exclude: true
 ---
 
 # ISessionInfoService.ExistsInDB(string) մեթոդ

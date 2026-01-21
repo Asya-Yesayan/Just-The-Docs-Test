@@ -1,5 +1,6 @@
 ---
 title: GetTemplateNameAndType(string, bool)
+nav_exclude: true
 ---
 
 # TemplateService.GetTemplateNameAndType(string, bool) մեթոդ

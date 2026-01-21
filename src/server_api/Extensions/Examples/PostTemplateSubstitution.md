@@ -1,5 +1,6 @@
 ---
 title: "PostTemplateSubstitution-ի օգտագործման օրինակ"
+nav_exclude: true
 ---
 
 # PostTemplateSubstitution-ի օգտագործման օրինակ

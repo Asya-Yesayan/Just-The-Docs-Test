@@ -4,6 +4,7 @@ title: "Օրինակ IErrorHandlingService"
 sublinks:
 - { title: "Օրինակ GetSqlExceptionText, ILogger", ref: օրինակ-1 }
 - { title: "Օրինակ GetSqlRelatedException", ref: օրինակ-2 }
+nav_exclude: true
 ---
 
 # Օրինակ IErrorHandlingService

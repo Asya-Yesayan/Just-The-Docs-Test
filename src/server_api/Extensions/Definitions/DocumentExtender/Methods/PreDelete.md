@@ -1,5 +1,6 @@
 ---
 title: PreDelete(Document, DeleteEventArgs)
+nav_exclude: true
 ---
 
 # DocumentExtender.PreDelete(Document, DeleteEventArgs) մեթոդ

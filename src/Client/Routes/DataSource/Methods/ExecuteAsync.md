@@ -1,5 +1,6 @@
 ---
 title: ExecuteAsync(P, HashSet<string>, string, CancellationToken, TimeSpan?)
+nav_exclude: true
 ---
 
 # DataSource.ExecuteAsync(P, HashSet<string>, string, CancellationToken, TimeSpan?) մեթոդ

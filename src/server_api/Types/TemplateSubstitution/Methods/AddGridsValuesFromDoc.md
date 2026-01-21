@@ -1,5 +1,6 @@
 ---
 title: AddGridsValuesFromDoc(Document.Document, string, string, bool)
+nav_exclude: true
 ---
 
 # TemplateSubstitution.AddGridsValuesFromDoc(Document.Document, string, string, bool) մեթոդ

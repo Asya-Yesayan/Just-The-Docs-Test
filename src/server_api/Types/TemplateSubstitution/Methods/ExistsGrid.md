@@ -1,5 +1,6 @@
 ---
 title: ExistsGrid(string)
+nav_exclude: true
 ---
 
 # TemplateSubstitution.ExistsGrid(string) մեթոդ

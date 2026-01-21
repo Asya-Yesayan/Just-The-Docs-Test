@@ -1,5 +1,6 @@
 ---
 title: LastDate(string, int, DateTime?, string)
+nav_exclude: true
 ---
 
 # IFactService.LastDate(string, int, DateTime?, string) մեթոդ

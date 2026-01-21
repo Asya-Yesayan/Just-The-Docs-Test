@@ -1,5 +1,6 @@
 ---
 title: UnmoveFragment
+nav_exclude: true
 ---
 
 # TextReport.UnmoveFragment հատկություն

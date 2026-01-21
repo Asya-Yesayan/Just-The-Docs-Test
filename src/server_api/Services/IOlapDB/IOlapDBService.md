@@ -1,5 +1,6 @@
 ---
 title: "IOlapDBService սերվիս"
+nav_exclude: true
 ---
 
 # IOlapDBService սերվիս

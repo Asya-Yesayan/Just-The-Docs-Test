@@ -1,5 +1,6 @@
 ---
 title: SessionGuid
+nav_exclude: true
 ---
 
 # LoginService.SessionGuid հատկություն

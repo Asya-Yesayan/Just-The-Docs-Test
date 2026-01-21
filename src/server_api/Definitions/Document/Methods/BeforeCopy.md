@@ -1,5 +1,6 @@
 ---
 title: BeforeCopy(BeforeCopyEventArgs)
+nav_exclude: true
 ---
 
 # Document.BeforeCopy(BeforeCopyEventArgs) մեթոդ

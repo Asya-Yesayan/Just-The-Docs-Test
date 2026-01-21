@@ -1,5 +1,6 @@
 ---
 title: GetNextWorkDay(DateTime)
+nav_exclude: true
 ---
 
 # IHolidaysService.GetNextWorkDay(DateTime) մեթոդ

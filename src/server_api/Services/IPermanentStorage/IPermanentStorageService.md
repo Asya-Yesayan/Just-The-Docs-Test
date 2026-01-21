@@ -1,5 +1,6 @@
 ---
 title: "IPermanentStorageService սերվիս"
+nav_exclude: true
 ---
 
 # IPermanentStorageService սերվիս

@@ -1,5 +1,6 @@
 ---
 title: IDocumentChangeRequest դաս
+nav_exclude: true
 ---
 
 # IDocumentChangeRequest դաս

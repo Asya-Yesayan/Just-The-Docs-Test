@@ -1,5 +1,6 @@
 ---
 title: "ServerSideModuleAttribute"
+nav_exclude: true
 ---
 
 # ServerSideModuleAttribute

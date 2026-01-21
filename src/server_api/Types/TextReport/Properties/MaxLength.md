@@ -1,5 +1,6 @@
 ---
 title: MaxLength
+nav_exclude: true
 ---
 
 # TextReport.MaxLength հատկություն

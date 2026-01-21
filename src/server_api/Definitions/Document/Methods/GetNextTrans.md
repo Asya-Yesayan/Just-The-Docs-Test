@@ -1,5 +1,6 @@
 ---
 title: GetNextTrans()
+nav_exclude: true
 ---
 
 # Document.GetNextTrans() մեթոդ

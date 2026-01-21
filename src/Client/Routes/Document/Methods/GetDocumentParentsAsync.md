@@ -1,5 +1,6 @@
 ---
 title: GetDocumentParentsAsync(int, DocumentParentsRequestModel, CancellationToken)
+nav_exclude: true
 ---
 
 # DocumentRoutes.GetDocumentParentsAsync(int, DocumentParentsRequestModel, CancellationToken) մեթոդ

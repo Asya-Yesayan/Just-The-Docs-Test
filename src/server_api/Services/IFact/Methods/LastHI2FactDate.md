@@ -1,5 +1,6 @@
 ---
 title: LastHI2FactDate(string, int, int, DateTime?, string)
+nav_exclude: true
 ---
 
 # IFactService.LastHI2FactDate(string, int, int, DateTime?, string) մեթոդ

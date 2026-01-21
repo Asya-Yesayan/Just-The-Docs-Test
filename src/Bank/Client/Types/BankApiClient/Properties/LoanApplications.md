@@ -1,5 +1,6 @@
 ---
 title: LoanApplications
+nav_exclude: true
 ---
 
 # BankApiClient.LoanApplications հատկություն

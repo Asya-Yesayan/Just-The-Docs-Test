@@ -1,5 +1,6 @@
 ---
 title: GetColumns(string)
+nav_exclude: true
 ---
 
 # ExtenderRoutes.GetColumns(string) մեթոդ

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Փաստաթղթի նկարագրության օրինակ 8X սերվիսում (DOCUMENT)"
+nav_exclude: true
 ---
 
 # Փաստաթղթի նկարագրության օրինակ 8X սերվիսում (DOCUMENT)

@@ -1,5 +1,6 @@
 ---
 title: CurrentPhase
+nav_exclude: true
 ---
 
 # IExecutionProgress.CurrentPhase հատկություն

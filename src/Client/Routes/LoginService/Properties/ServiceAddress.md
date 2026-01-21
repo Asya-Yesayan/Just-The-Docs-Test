@@ -1,5 +1,6 @@
 ---
 title: ServiceAddress
+nav_exclude: true
 ---
 
 # LoginService.ServiceAddress հատկություն

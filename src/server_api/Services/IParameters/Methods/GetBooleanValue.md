@@ -1,5 +1,6 @@
 ---
 title: GetBooleanValue
+nav_exclude: true
 ---
 
 # IParametersService.GetBooleanValue մեթոդ

@@ -1,5 +1,6 @@
 ---
 title: ArmenianCaption
+nav_exclude: true
 ---
 
 # TextReport.ArmenianCaption հատկություն

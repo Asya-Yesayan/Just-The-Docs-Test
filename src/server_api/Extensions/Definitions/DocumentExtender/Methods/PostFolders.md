@@ -1,5 +1,6 @@
 ---
 title: PostFolders(Document, FoldersEventArgs)
+nav_exclude: true
 ---
 
 # DocumentExtender.PostFolders(Document, FoldersEventArgs) մեթոդ

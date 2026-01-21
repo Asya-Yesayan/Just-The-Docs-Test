@@ -1,5 +1,6 @@
 ---
 title: CurrentIsolationLevel
+nav_exclude: true
 ---
 
 # IDBService.CurrentIsolationLevel հատկություն

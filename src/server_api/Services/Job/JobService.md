@@ -1,5 +1,6 @@
 ---
 title: JobService սերվիս
+nav_exclude: true
 ---
 
 # JobService սերվիս

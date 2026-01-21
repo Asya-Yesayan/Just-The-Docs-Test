@@ -1,5 +1,6 @@
 ---
 title: Update(WebServiceInfo)
+nav_exclude: true
 ---
 
 # WebServicesManager.Update(WebServiceInfo) մեթոդ

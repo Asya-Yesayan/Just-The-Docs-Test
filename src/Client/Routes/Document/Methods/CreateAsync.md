@@ -1,5 +1,6 @@
 ---
 title: CreateAsync(string, DocumentCreateRequestModel, CancellationToken)
+nav_exclude: true
 ---
 
 # DocumentRoutes.CreateAsync(string, DocumentCreateRequestModel, CancellationToken) մեթոդ

@@ -1,5 +1,6 @@
 ---
 title: GetGrandChildren(int, string, string, string, string)
+nav_exclude: true
 ---
 
 # IDocumentService.GetGrandChildren(int, string, string, string, string) մեթոդ

@@ -1,5 +1,6 @@
 ---
 title: EditNode(TreeElement)
+nav_exclude: true
 ---
 
 # TreeElementsService.EditNode(TreeElement) մեթոդ

@@ -1,5 +1,6 @@
 ---
 title: AfterDataReaderCloseMode
+nav_exclude: true
 ---
 
 # DataSource.AfterDataReaderCloseMode հատկություն

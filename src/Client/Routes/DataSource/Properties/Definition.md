@@ -1,5 +1,6 @@
 ---
 title: Definition
+nav_exclude: true
 ---
 
 # DataSource.Definition հատկություն

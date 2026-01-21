@@ -1,5 +1,6 @@
 ---
 title: DocumentChangeRequest
+nav_exclude: true
 ---
 
 # Document.DocumentChangeRequest հատկություն

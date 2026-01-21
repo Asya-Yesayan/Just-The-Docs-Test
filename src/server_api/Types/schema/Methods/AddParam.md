@@ -1,5 +1,6 @@
 ---
 title: AddParam(string, string, FieldType, string, MultiFilterTypes, bool, string, bool, bool)
+nav_exclude: true
 ---
 
 # Schema.AddParam(string, string, FieldType, string, MultiFilterTypes, bool, string, bool, bool) մեթոդ

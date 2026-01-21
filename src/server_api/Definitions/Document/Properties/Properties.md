@@ -1,5 +1,6 @@
 ---
 title: Properties
+nav_exclude: true
 ---
 
 # Document.Properties հատկություն

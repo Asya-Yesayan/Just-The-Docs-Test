@@ -1,5 +1,6 @@
 ---
 title: AddCustomUIRequest<R, S>(S, int, int, Action<S>, bool)
+nav_exclude: true
 ---
 
 # UIRequestExecutionProgress.AddCustomUIRequest<R, S>(S, int, int, Action<S>, bool) մեթոդ

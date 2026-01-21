@@ -1,5 +1,6 @@
 ---
 title: BuildEmbeddedUIRequest(T uiRequestExecutionProgress)
+nav_exclude: true
 ---
 
 # Document.BuildEmbeddedUIRequest(T uiRequestExecutionProgress) մեթոդ

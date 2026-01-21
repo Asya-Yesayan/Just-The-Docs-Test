@@ -1,5 +1,6 @@
 ---
 title: RODocument դաս
+nav_exclude: true
 ---
 
 # RODocument դաս

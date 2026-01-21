@@ -1,5 +1,6 @@
 ---
 title: RollBackTransAsync()
+nav_exclude: true
 ---
 
 # IOlapDBService.RollBackTransAsync() մեթոդ

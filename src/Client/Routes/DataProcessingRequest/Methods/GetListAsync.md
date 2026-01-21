@@ -1,5 +1,6 @@
 ---
 title: GetListAsync
+nav_exclude: true
 ---
 
 # DataProcessingRequestRoutes.GetListAsync մեթոդ

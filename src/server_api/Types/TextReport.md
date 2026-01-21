@@ -1,5 +1,6 @@
 ---
 title: TextReport դաս
+nav_exclude: true
 ---
 
 # TextReport դաս

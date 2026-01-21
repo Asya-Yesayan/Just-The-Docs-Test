@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "ValidateEventArgs դաս"
+nav_exclude: true
 ---
 
 # ValidateEventArgs դաս

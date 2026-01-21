@@ -1,5 +1,6 @@
 ---
 title: Stop(Guid)
+nav_exclude: true
 ---
 
 # DataProcessingRequestRoutes.Stop(Guid) մեթոդ

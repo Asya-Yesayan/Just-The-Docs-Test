@@ -1,5 +1,6 @@
 ---
 title: Amount
+nav_exclude: true
 ---
 
 # FieldTypeProvider.Amount հատկություն

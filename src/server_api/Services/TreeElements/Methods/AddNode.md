@@ -1,5 +1,6 @@
 ---
 title: AddNode(TreeElement, bool)
+nav_exclude: true
 ---
 
 # TreeElementsService.AddNode(TreeElement, bool) մեթոդ

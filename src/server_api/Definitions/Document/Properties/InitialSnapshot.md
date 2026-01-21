@@ -1,5 +1,6 @@
 ---
 title: InitialSnapshot
+nav_exclude: true
 ---
 
 # Document.InitialSnapshot հատկություն

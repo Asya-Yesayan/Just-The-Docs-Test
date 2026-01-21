@@ -1,5 +1,6 @@
 ---
 title: Get(string, string)
+nav_exclude: true
 ---
 
 # WebServicesManager.Get(string, string) մեթոդ

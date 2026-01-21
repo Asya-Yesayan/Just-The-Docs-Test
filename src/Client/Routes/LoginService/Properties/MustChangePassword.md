@@ -1,5 +1,6 @@
 ---
 title: MustChangePassword
+nav_exclude: true
 ---
 
 # LoginService.MustChangePassword հատկություն

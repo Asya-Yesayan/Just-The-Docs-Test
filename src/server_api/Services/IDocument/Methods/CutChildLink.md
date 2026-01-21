@@ -1,5 +1,6 @@
 ---
 title: CutChildLink(int, int)
+nav_exclude: true
 ---
 
 # IDocumentService.CutChildLink(int, int) մեթոդ

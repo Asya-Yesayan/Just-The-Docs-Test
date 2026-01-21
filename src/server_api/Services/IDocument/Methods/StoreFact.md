@@ -1,5 +1,6 @@
 ---
 title: StoreFact(Document, Fact)
+nav_exclude: true
 ---
 
 # IDocumentService.StoreFact(Document, Fact) մեթոդ

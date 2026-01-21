@@ -1,5 +1,6 @@
 ---
 title: GetStatus(GetStatusRequest)
+nav_exclude: true
 ---
 
 # ClientIBOptionsRoutes.GetStatus(GetStatusRequest) մեթոդ

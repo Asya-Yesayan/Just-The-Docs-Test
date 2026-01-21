@@ -1,5 +1,6 @@
 ---
 title: GetSystemDocuments()
+nav_exclude: true
 ---
 
 # IDocumentService.GetSystemDocuments() մեթոդ

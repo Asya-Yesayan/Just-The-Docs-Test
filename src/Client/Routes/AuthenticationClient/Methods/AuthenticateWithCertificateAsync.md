@@ -1,5 +1,6 @@
 ---
 title: AuthenticateWithCertificateAsync(CertificateAuthenticateRequest, CancellationToken)
+nav_exclude: true
 ---
 
 # AuthenticationClient.AuthenticateWithCertificateAsync(CertificateAuthenticateRequest, CancellationToken) մեթոդ

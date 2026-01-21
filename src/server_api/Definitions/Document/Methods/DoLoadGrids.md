@@ -1,5 +1,6 @@
 ---
 title: DoLoadGrids(LoadGridsEventArgs)
+nav_exclude: true
 ---
 
 # Document.DoLoadGrids(LoadGridsEventArgs) մեթոդ

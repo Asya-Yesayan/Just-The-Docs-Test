@@ -1,5 +1,6 @@
 ---
 title: Enqueue(DPR.Descriptor, object, bool, IServiceProvider, Dictionary<int, UIRequestResultBase>, string, bool)
+nav_exclude: true
 ---
 
 # IProcessServerClient.Enqueue(DPR.Descriptor, object, bool, IServiceProvider, Dictionary<int, UIRequestResultBase>, string, bool) մեթոդ

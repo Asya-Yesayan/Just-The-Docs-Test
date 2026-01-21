@@ -1,5 +1,6 @@
 ---
 title: ServiceUrlData
+nav_exclude: true
 ---
 
 # LoginService.ServiceUrlData հատկություն

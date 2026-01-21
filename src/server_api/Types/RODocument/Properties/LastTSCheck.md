@@ -1,5 +1,6 @@
 ---
 title: LastTSCheck
+nav_exclude: true
 ---
 
 # RODocument.LastTSCheck հատկություն

@@ -1,5 +1,6 @@
 ---
 title: DefineLimits(string, int, DateTime, decimal, decimal)
+nav_exclude: true
 ---
 
 # Document.DefineLimits(string, int, DateTime, decimal, decimal) մեթոդ

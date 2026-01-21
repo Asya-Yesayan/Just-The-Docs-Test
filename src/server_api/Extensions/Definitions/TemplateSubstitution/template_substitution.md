@@ -1,5 +1,6 @@
 ---
 title: ITemplateSubstitutionExtender նկարագրություն
+nav_exclude: true
 ---
 
 # ITemplateSubstitutionExtender նկարագրություն

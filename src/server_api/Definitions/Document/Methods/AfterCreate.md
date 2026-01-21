@@ -1,5 +1,6 @@
 ---
 title: AfterCreate(AfterCreateEventArgs)
+nav_exclude: true
 ---
 
 # Document.AfterCreate(AfterCreateEventArgs) մեթոդ

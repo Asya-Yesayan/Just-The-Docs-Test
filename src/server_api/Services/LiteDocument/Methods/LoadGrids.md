@@ -1,5 +1,6 @@
 ---
 title: LoadGrids
+nav_exclude: true
 ---
 
 # LiteDocumentService.LoadGrids մեթոդ

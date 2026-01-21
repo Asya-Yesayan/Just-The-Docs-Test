@@ -1,5 +1,6 @@
 ---
 title: SetAccCrd(Fact, string, bool)
+nav_exclude: true
 ---
 
 # IFactService.SetAccCrd(Fact, string, bool) մեթոդ

@@ -1,5 +1,6 @@
 ---
 title: Add(string, byte)
+nav_exclude: true
 ---
 
 # TemplateSubstitution.Add(string, byte) մեթոդ

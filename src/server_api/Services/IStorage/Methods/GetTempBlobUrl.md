@@ -1,5 +1,6 @@
 ---
 title: GetTempBlobUrl(string, string)
+nav_exclude: true
 ---
 
 # IStorageService.GetTempBlobUrl(string, string) մեթոդ

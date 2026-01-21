@@ -1,5 +1,6 @@
 ---
 title: ClientIBOptions
+nav_exclude: true
 ---
 
 # BankApiClient.ClientIBOptions հատկություն

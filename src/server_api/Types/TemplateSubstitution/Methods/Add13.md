@@ -1,5 +1,6 @@
 ---
 title: Add(string, TimeSpan?)
+nav_exclude: true
 ---
 
 # TemplateSubstitution.Add(string, TimeSpan?) մեթոդ

@@ -1,5 +1,6 @@
 ---
 title: FileName
+nav_exclude: true
 ---
 
 # TextReport.FileName հատկություն

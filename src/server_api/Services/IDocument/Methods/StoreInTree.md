@@ -1,5 +1,6 @@
 ---
 title: StoreInTree(Document, TreeElement)
+nav_exclude: true
 ---
 
 # IDocumentService.StoreInTree(Document, TreeElement) մեթոդ

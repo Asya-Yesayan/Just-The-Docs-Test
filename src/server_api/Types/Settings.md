@@ -1,5 +1,6 @@
 ---
 title: Settings դաս
+nav_exclude: true
 ---
 
 # Settings դաս

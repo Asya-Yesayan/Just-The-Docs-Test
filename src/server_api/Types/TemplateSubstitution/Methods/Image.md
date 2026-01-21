@@ -1,5 +1,6 @@
 ---
 title: Image(string)
+nav_exclude: true
 ---
 
 # TemplateSubstitution.Image(string) մեթոդ

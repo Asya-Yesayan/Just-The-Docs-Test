@@ -1,5 +1,6 @@
 ---
 title: IsEnglish
+nav_exclude: true
 ---
 
 # LanguageService.IsEnglish հատկություն

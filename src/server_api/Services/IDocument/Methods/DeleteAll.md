@@ -1,5 +1,6 @@
 ---
 title: DeleteAll(List<int>, bool, string, bool, bool)
+nav_exclude: true
 ---
 
 # Document.DeleteAll(List<int>, bool, string, bool, bool) մեթոդ

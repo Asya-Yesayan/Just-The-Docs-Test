@@ -1,5 +1,6 @@
 ---
 title: CancellationRequest
+nav_exclude: true
 ---
 
 # IExecutionProgress.CancellationRequest հատկություն

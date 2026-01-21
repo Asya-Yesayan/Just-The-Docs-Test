@@ -1,5 +1,6 @@
 ---
 title: Store(DocumentCheckLevel, string)
+nav_exclude: true
 ---
 
 # Document.Store(DocumentCheckLevel, string) մեթոդ

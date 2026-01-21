@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "AfterCommitEventArgs դաս"
+nav_exclude: true
 ---
 
 # AfterCommitEventArgs դաս

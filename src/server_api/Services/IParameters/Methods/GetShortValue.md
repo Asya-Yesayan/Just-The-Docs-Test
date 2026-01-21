@@ -1,5 +1,6 @@
 ---
 title: GetShortValue
+nav_exclude: true
 ---
 
 # IParametersService.GetShortValue մեթոդ

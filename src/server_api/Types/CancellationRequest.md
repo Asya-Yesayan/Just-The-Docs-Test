@@ -1,5 +1,6 @@
 ---
 title: "CancellationRequest դաս"
+nav_exclude: true
 ---
 
 # CancellationRequest դաս

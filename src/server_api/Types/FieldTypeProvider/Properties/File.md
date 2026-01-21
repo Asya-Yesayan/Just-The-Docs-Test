@@ -1,5 +1,6 @@
 ---
 title: File
+nav_exclude: true
 ---
 
 # FieldTypeProvider.File հատկություն

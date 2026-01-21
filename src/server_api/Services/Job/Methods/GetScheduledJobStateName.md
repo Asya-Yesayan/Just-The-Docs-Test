@@ -1,5 +1,6 @@
 ---
 title: GetScheduledJobStateName(int)
+nav_exclude: true
 ---
 
 # JobService.GetScheduledJobStateName(int) մեթոդ

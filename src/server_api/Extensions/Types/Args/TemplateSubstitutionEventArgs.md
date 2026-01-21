@@ -1,5 +1,6 @@
 ---
 title: "TemplateSubstitutionEventArgs դաս"
+nav_exclude: true
 ---
 
 # TemplateSubstitutionEventArgs դաս

@@ -1,5 +1,6 @@
 ---
 title: AddFooter(string)
+nav_exclude: true
 ---
 
 # TextReport.AddFooter(string) մեթոդ

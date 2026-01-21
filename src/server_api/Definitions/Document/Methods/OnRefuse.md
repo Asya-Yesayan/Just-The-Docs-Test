@@ -1,5 +1,6 @@
 ---
 title: OnRefuse(RefuseEventArgs)
+nav_exclude: true
 ---
 
 # Document.OnRefuse(RefuseEventArgs) մեթոդ

@@ -1,5 +1,6 @@
 ---
 title: CheckGrid()
+nav_exclude: true
 ---
 
 # RODocument.CheckGrid() մեթոդ

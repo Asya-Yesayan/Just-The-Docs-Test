@@ -1,5 +1,6 @@
 ---
 title: "DataSourceService սերվիս"
+nav_exclude: true
 ---
 
 # DataSourceService սերվիս

@@ -12,6 +12,7 @@ sublinks:
 - { title: "Action", ref: action }
 - { title: "Folders", ref: folders }
 - { title: "Delete", ref: delete }
+nav_exclude: true
 ---
 
 # (Document) Փաստաթղթի նկարագրման ձեռնարկ

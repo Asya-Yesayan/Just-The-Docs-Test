@@ -1,5 +1,6 @@
 ---
 title: IsArmenian
+nav_exclude: true
 ---
 
 # LanguageService.IsArmenian հատկություն

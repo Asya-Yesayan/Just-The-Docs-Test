@@ -1,5 +1,6 @@
 ---
 title: GetDefinition(string, bool)
+nav_exclude: true
 ---
 
 # DataSourceService.GetDefinition(string, bool) մեթոդ

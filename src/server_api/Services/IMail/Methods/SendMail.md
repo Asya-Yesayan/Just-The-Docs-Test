@@ -1,5 +1,6 @@
 ---
 title: SendMail(MailArgs)
+nav_exclude: true
 ---
 
 # IMailService.SendMail(MailArgs) մեթոդ

@@ -1,5 +1,6 @@
 ---
 title: HasError
+nav_exclude: true
 ---
 
 # IExecutionProgress.HasError հատկություն

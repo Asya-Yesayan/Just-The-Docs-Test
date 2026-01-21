@@ -1,5 +1,6 @@
 ---
 title: "SubstitutionType SmartEnum"
+nav_exclude: true
 ---
 
 # SubstitutionType SmartEnum

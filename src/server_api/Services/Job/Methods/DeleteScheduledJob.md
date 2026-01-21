@@ -1,5 +1,6 @@
 ---
 title: DeleteScheduledJob(int, int, CancellationToken)
+nav_exclude: true
 ---
 
 # JobService.DeleteScheduledJob(int, int, CancellationToken) մեթոդ

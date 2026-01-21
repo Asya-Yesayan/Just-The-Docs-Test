@@ -1,5 +1,6 @@
 ---
 title: AuthenticateAsync
+nav_exclude: true
 ---
 
 # LoginService.AuthenticateAsync մեթոդ

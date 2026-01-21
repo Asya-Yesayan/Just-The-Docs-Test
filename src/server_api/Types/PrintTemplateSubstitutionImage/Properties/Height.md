@@ -1,5 +1,6 @@
 ---
 title: Height
+nav_exclude: true
 ---
 
 # PrintTemplateSubstitutionImage.Height հատկություն

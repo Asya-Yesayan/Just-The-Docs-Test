@@ -13,6 +13,7 @@ sublinks:
 - { title: "OTLPENDPOINT", ref: otlpendpoint }
 - { title: "OTLPPROCMETERENABLED", ref: otlpprocmeterenabled }
 - { title: "OTLPPROTOCOL", ref: otlpprotocol }
+nav_exclude: true
 ---
 
 # OTLP-ի աշխատանքի համար անհրաժեշտ պարամետրեր

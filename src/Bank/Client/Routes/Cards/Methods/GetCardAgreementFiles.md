@@ -1,5 +1,6 @@
 ---
 title: GetCardAgreementFiles(int, Language)
+nav_exclude: true
 ---
 
 # CardsRoutes.GetCardAgreementFiles(int, Language) մեթոդ

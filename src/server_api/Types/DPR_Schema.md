@@ -1,5 +1,6 @@
 ---
 title: DPR.Schema դաս
+nav_exclude: true
 ---
 
 # DPR.Schema դաս

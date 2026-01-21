@@ -1,5 +1,6 @@
 ---
 title: Copy(int, object, int)
+nav_exclude: true
 ---
 
 # IDocumentService.Copy(int, object, int) մեթոդ

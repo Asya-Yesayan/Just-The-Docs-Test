@@ -1,5 +1,6 @@
 ---
 title: "LiteDocumentService սերվիս"
+nav_exclude: true
 ---
 
 # LiteDocumentService սերվիս

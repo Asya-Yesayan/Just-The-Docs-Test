@@ -1,5 +1,6 @@
 ---
 title: DownloadAsync(string, string, CancellationToken)
+nav_exclude: true
 ---
 
 # BlobRoutes.DownloadAsync(string, string, CancellationToken) մեթոդ

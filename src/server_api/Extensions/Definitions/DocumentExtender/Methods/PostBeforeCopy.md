@@ -1,5 +1,6 @@
 ---
 title: PostBeforeCopy(Document, BeforeCopyEventArgs)
+nav_exclude: true
 ---
 
 # DocumentExtender.PostBeforeCopy(Document, BeforeCopyEventArgs) մեթոդ

@@ -1,5 +1,6 @@
 ---
 title: AuthenticationMode
+nav_exclude: true
 ---
 
 # LoginService.AuthenticationMode հատկություն

@@ -1,5 +1,6 @@
 ---
 title: LoadHI2ByBase(int, string, string, long)
+nav_exclude: true
 ---
 
 # IFactService.LoadHI2ByBase(int, string, string, long) մեթոդ

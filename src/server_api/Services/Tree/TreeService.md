@@ -1,5 +1,6 @@
 ---
 title: TreeService սերվիս
+nav_exclude: true
 ---
 
 # TreeService սերվիս

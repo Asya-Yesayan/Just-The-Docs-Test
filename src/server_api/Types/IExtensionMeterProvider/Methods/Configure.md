@@ -1,5 +1,6 @@
 ---
 title: Configure(IParametersService, Meter)
+nav_exclude: true
 ---
 
 # IExtensionMeterProvider.Configure(IParametersService, Meter) մեթոդ

@@ -1,5 +1,6 @@
 ---
 title: GetPrintForms(GetPrintFormsRequest)
+nav_exclude: true
 ---
 
 # LoanApplicationsRoutes.GetPrintForms(GetPrintFormsRequest) մեթոդ

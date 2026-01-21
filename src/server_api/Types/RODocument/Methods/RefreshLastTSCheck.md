@@ -1,5 +1,6 @@
 ---
 title: RefreshLastTSCheck()
+nav_exclude: true
 ---
 
 # RODocument.RefreshLastTSCheck() մեթոդ

@@ -1,5 +1,6 @@
 ---
 title: GetSUIDAndDate(int, int, bool)
+nav_exclude: true
 ---
 
 # IDocumentService.GetSUIDAndDate(int, int, bool) մեթոդ

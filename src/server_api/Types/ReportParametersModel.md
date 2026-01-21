@@ -1,5 +1,6 @@
 ---
 title: "ReportParametersModel դաս"
+nav_exclude: true
 ---
 
 # ReportParametersModel դաս

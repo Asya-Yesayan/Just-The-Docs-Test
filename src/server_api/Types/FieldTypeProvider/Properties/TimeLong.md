@@ -1,5 +1,6 @@
 ---
 title: TimeLong
+nav_exclude: true
 ---
 
 # FieldTypeProvider.TimeLong հատկություն

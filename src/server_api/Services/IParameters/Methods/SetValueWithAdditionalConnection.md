@@ -1,5 +1,6 @@
 ---
 title: SetValueWithAdditionalConnection(string, object)
+nav_exclude: true
 ---
 
 # IParametersService.SetValueWithAdditionalConnection(string, object) մեթոդ

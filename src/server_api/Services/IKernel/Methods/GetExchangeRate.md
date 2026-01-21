@@ -1,5 +1,6 @@
 ---
 title: GetExchangeRate(string, DateTime, DateTime?)
+nav_exclude: true
 ---
 
 # IKernelService.GetExchangeRate(string, DateTime, DateTime?) մեթոդ

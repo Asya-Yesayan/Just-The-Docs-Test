@@ -1,5 +1,6 @@
 ---
 title: GetTurnHI2(string, int, int, DateTime, DateTime, string, int)
+nav_exclude: true
 ---
 
 # IKernelService.GetTurnHI2(string, int, int, DateTime, DateTime, string, int) մեթոդ

@@ -1,5 +1,6 @@
 ---
 title: DataProcessingRequestRoutes դաս
+nav_exclude: true
 ---
 
 # DataProcessingRequestRoutes դաս

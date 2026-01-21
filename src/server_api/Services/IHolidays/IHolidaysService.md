@@ -1,5 +1,6 @@
 ---
 title: "IHolidaysService սերվիս"
+nav_exclude: true
 ---
 
 # IHolidaysService սերվիս

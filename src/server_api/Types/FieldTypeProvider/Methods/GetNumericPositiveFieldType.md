@@ -1,5 +1,6 @@
 ---
 title: GetNumericPositiveFieldType(short, short, bool, string, bool)
+nav_exclude: true
 ---
 
 # FieldTypeProvider.GetNumericPositiveFieldType(short, short, bool, string, bool) մեթոդ

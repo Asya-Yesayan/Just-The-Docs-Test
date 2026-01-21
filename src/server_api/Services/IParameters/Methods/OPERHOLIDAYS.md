@@ -1,5 +1,6 @@
 ---
 title: OPERHOLIDAYS()
+nav_exclude: true
 ---
 
 # IParametersService.OPERHOLIDAYS() մեթոդ

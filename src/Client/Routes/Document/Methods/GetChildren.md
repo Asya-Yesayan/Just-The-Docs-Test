@@ -1,5 +1,6 @@
 ---
 title: GetChildren(int, string, DocumentOrder, string)
+nav_exclude: true
 ---
 
 # DocumentRoutes.GetChildren(int, string, DocumentOrder, string) մեթոդ

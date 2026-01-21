@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "PostMessageEventArgs դաս"
+nav_exclude: true
 ---
 
 # PostMessageEventArgs դաս

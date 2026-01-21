@@ -1,5 +1,6 @@
 ---
 title: TimeStamp
+nav_exclude: true
 ---
 
 # LiteDocument.TimeStamp հատկություն

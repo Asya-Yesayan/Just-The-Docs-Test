@@ -1,5 +1,6 @@
 ---
 title: Sign(SignRequest)
+nav_exclude: true
 ---
 
 # LoanApplicationsRoutes.Sign(SignRequest) մեթոդ

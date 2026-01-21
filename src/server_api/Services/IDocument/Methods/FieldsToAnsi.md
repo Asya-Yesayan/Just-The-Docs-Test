@@ -1,5 +1,6 @@
 ---
 title: FieldsToAnsi(string, Dictionary<string, object>)
+nav_exclude: true
 ---
 
 # IDocumentService.FieldsToAnsi(string, Dictionary<string, object>) մեթոդ

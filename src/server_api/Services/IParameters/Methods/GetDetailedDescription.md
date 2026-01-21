@@ -1,5 +1,6 @@
 ---
 title: GetDetailedDescription(string)
+nav_exclude: true
 ---
 
 # IParametersService.GetDetailedDescription(string) մեթոդ

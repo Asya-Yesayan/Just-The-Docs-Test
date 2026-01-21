@@ -1,5 +1,6 @@
 ---
 title: GetAccessibleRoles(short)
+nav_exclude: true
 ---
 
 # UserManagerService․GetAccessibleRoles(short) մեթոդ

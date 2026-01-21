@@ -1,5 +1,6 @@
 ---
 title: DocumentRoutes դաս
+nav_exclude: true
 ---
 
 # DocumentRoutes դաս

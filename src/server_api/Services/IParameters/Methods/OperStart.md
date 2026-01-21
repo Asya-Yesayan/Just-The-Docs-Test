@@ -1,5 +1,6 @@
 ---
 title: OperStart
+nav_exclude: true
 ---
 
 # IParametersService.OperStart մեթոդ

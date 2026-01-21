@@ -1,5 +1,6 @@
 ---
 title: Archived
+nav_exclude: true
 ---
 
 # Document.Archived հատկություն

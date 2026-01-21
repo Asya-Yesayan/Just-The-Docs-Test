@@ -1,5 +1,6 @@
 ---
 title: IsUpdatable
+nav_exclude: true
 ---
 
 # DataSource.IsUpdatable հատկություն

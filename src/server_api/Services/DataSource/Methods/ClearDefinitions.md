@@ -1,5 +1,6 @@
 ---
 title: ClearDefinitions(IEnumerable<string>)
+nav_exclude: true
 ---
 
 # DataSourceService.ClearDefinitions(IEnumerable<string>) մեթոդ
