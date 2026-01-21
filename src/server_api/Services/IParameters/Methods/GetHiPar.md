@@ -1,6 +1,7 @@
 ---
 title: GetHiPar(string, DateTime, bool, string, bool, DateTime?)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IParametersService սերվիս"
 ---
 
 # IParametersService.GetHiPar(string, DateTime, bool, string, bool, DateTime?) մեթոդ

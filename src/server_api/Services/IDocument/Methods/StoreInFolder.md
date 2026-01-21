@@ -1,6 +1,7 @@
 ---
 title: StoreInFolder(Document, FolderElement)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IDocumentService սերվիս"
 ---
 
 # IDocumentService.StoreInFolder(Document, FolderElement) մեթոդ

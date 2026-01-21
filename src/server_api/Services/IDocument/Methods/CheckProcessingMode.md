@@ -1,6 +1,7 @@
 ---
 title: CheckProcessingMode(string)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IDocumentService սերվիս"
 ---
 
 # IDocumentService.CheckProcessingMode(string) մեթոդ

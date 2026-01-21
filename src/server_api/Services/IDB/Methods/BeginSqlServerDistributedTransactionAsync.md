@@ -1,6 +1,7 @@
 ---
 title: BeginSqlServerDistributedTransactionAsync()
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IDBService սերվիս"
 ---
 
 # IDBService.BeginSqlServerDistributedTransactionAsync() մեթոդ

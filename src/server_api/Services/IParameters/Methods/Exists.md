@@ -1,6 +1,7 @@
 ---
 title: Exists(string)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IParametersService սերվիս"
 ---
 
 # IParametersService.Exists(string) մեթոդ

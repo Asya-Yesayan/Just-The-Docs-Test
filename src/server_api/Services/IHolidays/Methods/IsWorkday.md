@@ -1,6 +1,7 @@
 ---
 title: IsWorkday(DateTime)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IHolidaysService սերվիս"
 ---
 
 # IHolidaysService.IsWorkday(DateTime) մեթոդ

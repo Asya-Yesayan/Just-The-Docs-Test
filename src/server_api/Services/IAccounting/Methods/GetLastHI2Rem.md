@@ -1,5 +1,7 @@
 ﻿---
 title: GetLastHI2Rem(string, int, int)
+parent: "Մեթոդներ"
+grand_parent: "IAccountingService սերվիս"
 ---
 
 ## Նկարագիր

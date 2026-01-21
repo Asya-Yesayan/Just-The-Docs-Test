@@ -1,6 +1,8 @@
 ---
 title: GetParameters(string)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "StatisticsService սերվիս"
+
 ---
 
 # StatisticsService․GetParameters(string) մեթոդ

@@ -1,6 +1,8 @@
 ---
 title: StoreReportCallsAndParams(ReportCallsStoreModel)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "StatisticsService սերվիս"
+
 ---
 
 # StatisticsService․StoreReportCallsAndParams(ReportCallsStoreModel) մեթոդ

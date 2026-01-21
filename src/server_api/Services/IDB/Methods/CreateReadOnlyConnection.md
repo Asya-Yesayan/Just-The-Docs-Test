@@ -1,6 +1,7 @@
 ---
 title: CreateReadOnlyConnection(bool)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IDBService սերվիս"
 ---
 
 # IDBService.CreateReadOnlyConnection(bool) մեթոդ

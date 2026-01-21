@@ -1,6 +1,18 @@
 ---
 title: Exists(string)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "TreeService սերվիս
+
+---
+
+# TreeService սերվիս
+
+## Մեթոդներ
+
+| Անվանում | Նկարագրություն |
+|----------|----------------|
+| [Exists(string)](Methods/Exists.md) | Ստուգում է նշված ծառի առկայությունը տվյալների պահոցում։ |"
+
 ---
 
 # TreeService.Exists(string) մեթոդ

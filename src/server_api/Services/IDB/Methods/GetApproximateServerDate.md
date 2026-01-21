@@ -1,6 +1,7 @@
 ---
 title: GetApproximateServerDate()
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IDBService սերվիս"
 ---
 
 # IDBService.GetApproximateServerDate() մեթոդ

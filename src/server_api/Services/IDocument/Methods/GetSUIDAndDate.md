@@ -1,6 +1,7 @@
 ---
 title: GetSUIDAndDate(int, int, bool)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IDocumentService սերվիս"
 ---
 
 # IDocumentService.GetSUIDAndDate(int, int, bool) մեթոդ

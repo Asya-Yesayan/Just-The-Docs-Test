@@ -1,6 +1,7 @@
 ---
 title: GetResult(Guid)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IProcessServerClient սերվիս"
 ---
 
 # IProcessServerClient.GetResult(Guid) մեթոդ

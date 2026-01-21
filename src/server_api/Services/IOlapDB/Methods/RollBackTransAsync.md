@@ -1,6 +1,7 @@
 ---
 title: RollBackTransAsync()
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IOlapDBService սերվիս"
 ---
 
 # IOlapDBService.RollBackTransAsync() մեթոդ

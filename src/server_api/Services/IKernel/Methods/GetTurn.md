@@ -1,6 +1,7 @@
 ---
 title: GetTurn(string, int, DateTime, DateTime, string)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IKernelService սերվիս"
 ---
 
 # IKernelService.GetTurn(string, int, DateTime, DateTime, string) մեթոդ

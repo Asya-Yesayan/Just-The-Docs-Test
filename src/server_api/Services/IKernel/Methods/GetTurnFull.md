@@ -1,6 +1,7 @@
 ---
 title: GetTurnFull(string, int, DateTime, DateTime)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IKernelService սերվիս"
 ---
 
 # IKernelService.GetTurnFull(string, int, DateTime, DateTime) մեթոդ

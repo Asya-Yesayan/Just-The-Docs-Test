@@ -1,6 +1,7 @@
 ---
 title: StoreFact(Document, Fact)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IDocumentService սերվիս"
 ---
 
 # IDocumentService.StoreFact(Document, Fact) մեթոդ

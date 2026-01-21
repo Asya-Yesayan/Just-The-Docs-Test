@@ -1,6 +1,7 @@
 ---
 title: Add(WebServiceInfo)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "WebServicesManager սերվիս"
 ---
 
 # WebServicesManager.Add(WebServiceInfo) մեթոդ

@@ -1,6 +1,7 @@
 ---
 title: DeleteScheduledJob(int, int, CancellationToken)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: JobService սերվիս
 ---
 
 # JobService.DeleteScheduledJob(int, int, CancellationToken) մեթոդ

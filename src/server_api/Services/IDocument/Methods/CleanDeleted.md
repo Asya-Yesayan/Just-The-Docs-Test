@@ -1,6 +1,7 @@
 ---
 title: CleanDeleted(DateTime, DateTime, string)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IDocumentService սերվիս"
 ---
 
 # IDocumentService.CleanDeleted(DateTime, DateTime, string) մեթոդ

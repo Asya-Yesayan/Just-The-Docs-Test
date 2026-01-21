@@ -1,6 +1,7 @@
 ---
 title: DeserializeRequestBody(DocumentModel, bool)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IDocumentService սերվիս"
 ---
 
 # IDocumentService.DeserializeRequestBody(DocumentModel, bool) մեթոդ

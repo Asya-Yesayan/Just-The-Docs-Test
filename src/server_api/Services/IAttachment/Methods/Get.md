@@ -1,5 +1,7 @@
 ﻿---
 title: Get(int, string)
+parent: "Մեթոդներ"
+grand_parent: "IAttachmentService սերվիս"
 ---
 
 ## Նկարագիր

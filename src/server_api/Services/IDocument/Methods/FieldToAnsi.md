@@ -1,6 +1,7 @@
 ---
 title: FieldToAnsi(string, string, object)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IDocumentService սերվիս"
 ---
 
 # IDocumentService.FieldToAnsi(string, string, object) մեթոդ

@@ -1,6 +1,7 @@
 ---
 title: Approve(Document, DocumentCheckLevel, string)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IDocumentService սերվիս"
 ---
 
 # IDocumentService.Approve(Document, DocumentCheckLevel, string) մեթոդ

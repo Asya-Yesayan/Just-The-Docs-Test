@@ -1,6 +1,7 @@
 ---
 title: GetDocumentType(int)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IDocumentService սերվիս"
 ---
 
 # IDocumentService.GetDocumentType(int) մեթոդ

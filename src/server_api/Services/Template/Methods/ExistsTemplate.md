@@ -1,6 +1,8 @@
 ---
 title: ExistsTemplate(string, string)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "TemplateService սերվիս"
+
 ---
 
 # TemplateService.ExistsTemplate(string, string) մեթոդ

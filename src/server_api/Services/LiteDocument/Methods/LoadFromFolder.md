@@ -1,6 +1,7 @@
 ---
 title: LoadFromFolder(string, string, bool)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "LiteDocumentService սերվիս"
 ---
 
 # LiteDocumentService.LoadFromFolder(string, string, bool) մեթոդ

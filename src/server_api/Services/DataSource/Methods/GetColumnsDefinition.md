@@ -1,6 +1,7 @@
 ---
 title: GetColumnsDefinition(string)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "DataSourceService սերվիս"
 ---
 
 # DataSourceService.GetColumnsDefinition(string) մեթոդ

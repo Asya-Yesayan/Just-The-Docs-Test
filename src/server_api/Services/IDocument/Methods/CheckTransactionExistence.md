@@ -1,6 +1,7 @@
 ---
 title: CheckTransactionExistence(string, int, int)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IDocumentService սերվիս"
 ---
 
 # IDocumentService.CheckTransactionExistence(string, int, int) մեթոդ

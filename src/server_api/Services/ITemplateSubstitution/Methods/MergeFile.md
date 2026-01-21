@@ -1,6 +1,7 @@
 ---
 title: MergeFile
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "ITemplateSubstitutionService սերվիս"
 ---
 
 # ITemplateSubstitutionService.MergeFile մեթոդ

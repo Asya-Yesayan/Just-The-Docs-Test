@@ -1,6 +1,7 @@
 ---
 title: BeginTransAsync()
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IDBService սերվիս"
 ---
 
 # IDBService.BeginTransAsync() մեթոդ

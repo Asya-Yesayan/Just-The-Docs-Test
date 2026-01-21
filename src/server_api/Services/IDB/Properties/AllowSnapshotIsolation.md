@@ -1,6 +1,7 @@
 ---
 title: AllowSnapshotIsolation
-nav_exclude: true
+parent: "Հատկություններ"
+grand_parent: "IDBService սերվիս"
 ---
 
 # IDBService.AllowSnapshotIsolation հատկություն

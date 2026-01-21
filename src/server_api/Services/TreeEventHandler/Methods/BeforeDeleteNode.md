@@ -1,6 +1,7 @@
 ---
 title: BeforeDeleteNode(BeforeDeleteNodeEventArgs)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "TreeEventHandler սերվիս"
 ---
 
 # TreeEventHandler.BeforeDeleteNode(BeforeDeleteNodeEventArgs) մեթոդ

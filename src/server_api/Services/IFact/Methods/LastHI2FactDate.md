@@ -1,6 +1,7 @@
 ---
 title: LastHI2FactDate(string, int, int, DateTime?, string)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IFactService սերվիս"
 ---
 
 # IFactService.LastHI2FactDate(string, int, int, DateTime?, string) մեթոդ

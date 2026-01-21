@@ -1,6 +1,7 @@
 ---
 title: GetIntegerValue
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IParametersService սերվիս"
 ---
 
 # IParametersService.GetIntegerValue մեթոդ

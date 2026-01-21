@@ -1,6 +1,7 @@
 ---
 title: Store(Document, DocumentCheckLevel, string)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IDocumentService սերվիս"
 ---
 
 # IDocumentService.Store(Document, DocumentCheckLevel, string) մեթոդ

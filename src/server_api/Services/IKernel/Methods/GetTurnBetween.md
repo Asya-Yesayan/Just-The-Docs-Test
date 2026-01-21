@@ -1,6 +1,7 @@
 ---
 title: GetTurnBetween(string, int, DateTime, DateTime, string, bool)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IKernelService սերվիս"
 ---
 
 # IKernelService.GetTurnBetween(string, int, DateTime, DateTime, string, bool) մեթոդ

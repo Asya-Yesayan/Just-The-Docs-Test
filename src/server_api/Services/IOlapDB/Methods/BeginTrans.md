@@ -1,6 +1,7 @@
 ---
 title: BeginTrans()
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IOlapDBService սերվիս"
 ---
 
 # IOlapDBService.BeginTrans() մեթոդ

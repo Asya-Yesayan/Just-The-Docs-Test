@@ -1,6 +1,7 @@
 ---
 title: ExistsInDB(string, string)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "TreeElementsService սերվիս"
 ---
 
 # TreeElementsService.ExistsInDB(string, string) մեթոդ

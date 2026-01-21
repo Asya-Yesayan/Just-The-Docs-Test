@@ -1,6 +1,8 @@
 ---
 title: ForceToRelogin(bool)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "SystemStateService սերվիս"
+
 ---
 
 # SystemStateService.ForceToRelogin(bool) մեթոդ

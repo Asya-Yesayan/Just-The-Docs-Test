@@ -1,6 +1,7 @@
 ---
 title: GetDocumentChildren(int, string, DocumentChildrenOrder, string)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IDocumentService սերվիս"
 ---
 
 # IDocumentService.GetDocumentChildren(int, string, DocumentChildrenOrder, string) մեթոդ

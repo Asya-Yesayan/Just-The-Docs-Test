@@ -1,6 +1,7 @@
 ---
 title: UploadTempBlobAsync(string, string, Stream, BlobProperties, CancellationToken)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IStorageService սերվիս"
 ---
 
 # IStorageService.UploadTempBlobAsync(string, string, Stream, BlobProperties, CancellationToken) մեթոդ

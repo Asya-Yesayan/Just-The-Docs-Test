@@ -1,6 +1,7 @@
 ---
 title: BeginSqlServerDistributedTransaction()
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IDBService սերվիս"
 ---
 
 # IDBService.BeginSqlServerDistributedTransaction() մեթոդ

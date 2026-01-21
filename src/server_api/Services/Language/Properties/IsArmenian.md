@@ -1,6 +1,7 @@
 ---
 title: IsArmenian
-nav_exclude: true
+parent: "Հատկություններ"
+grand_parent: "LanguageService սերվիս"
 ---
 
 # LanguageService.IsArmenian հատկություն

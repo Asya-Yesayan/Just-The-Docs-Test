@@ -1,6 +1,7 @@
 ---
 title: Enqueue(DPR.Descriptor, object, bool, IServiceProvider, Dictionary<int, UIRequestResultBase>, string, bool)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IProcessServerClient սերվիս"
 ---
 
 # IProcessServerClient.Enqueue(DPR.Descriptor, object, bool, IServiceProvider, Dictionary<int, UIRequestResultBase>, string, bool) մեթոդ

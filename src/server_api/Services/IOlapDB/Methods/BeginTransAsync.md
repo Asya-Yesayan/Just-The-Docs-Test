@@ -1,6 +1,7 @@
 ---
 title: BeginTransAsync()
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IOlapDBService սերվիս"
 ---
 
 # IOlapDBService.BeginTransAsync() մեթոդ

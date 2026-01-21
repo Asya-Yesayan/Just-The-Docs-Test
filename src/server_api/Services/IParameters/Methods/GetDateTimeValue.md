@@ -1,6 +1,7 @@
 ---
 title: GetDateTimeValue
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IParametersService սերվիս"
 ---
 
 # IParametersService.GetDateTimeValue մեթոդ

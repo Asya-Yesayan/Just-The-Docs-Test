@@ -1,6 +1,7 @@
 ---
 title: SetValue(string, object)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IParametersService սերվիս"
 ---
 
 # IParametersService.SetValue(string, object) մեթոդ

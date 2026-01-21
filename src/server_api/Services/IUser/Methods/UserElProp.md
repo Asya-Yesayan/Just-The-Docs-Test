@@ -1,6 +1,7 @@
 ---
 title: UserElProp(short)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IUserService սերվիս"
 ---
 
 # IUserService.UserElProp(short) մեթոդ

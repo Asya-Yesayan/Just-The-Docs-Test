@@ -1,6 +1,7 @@
 ---
 title: TryAppLock(string, string, string, string)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IDBService սերվիս"
 ---
 
 # IDBService.TryAppLock(string, string, string, string) մեթոդ

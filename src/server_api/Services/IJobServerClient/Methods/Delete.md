@@ -1,6 +1,7 @@
 ---
 title: Delete(Guid)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IProcessServerClient սերվիս"
 ---
 
 # IProcessServerClient.Delete(Guid) մեթոդ

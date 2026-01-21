@@ -1,6 +1,7 @@
 ---
 title: CreateAdditionalConnection(bool, string, bool)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IOlapDBService սերվիս"
 ---
 
 # IOlapDBService.CreateAdditionalConnection(bool, string, bool) մեթոդ

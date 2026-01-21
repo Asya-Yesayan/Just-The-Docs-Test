@@ -1,6 +1,7 @@
 ---
 title: GetTreeElements(int, Dictionary<string, TreeElement>, bool, bool)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "TreeElementsService սերվիս"
 ---
 
 # TreeElementsService.GetTreeElements(int, Dictionary<string, TreeElement>, bool, bool) մեթոդ

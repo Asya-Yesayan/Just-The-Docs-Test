@@ -1,6 +1,7 @@
 ---
 title: BeginTrans()
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IDBService սերվիս"
 ---
 
 # IDBService.BeginTrans() մեթոդ

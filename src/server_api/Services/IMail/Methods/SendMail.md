@@ -1,6 +1,7 @@
 ---
 title: SendMail(MailArgs)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IMailService սերվիս"
 ---
 
 # IMailService.SendMail(MailArgs) մեթոդ

@@ -1,6 +1,7 @@
 ---
 title: ExistsInDB(string)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "ISessionInfoService սերվիս"
 ---
 
 # ISessionInfoService.ExistsInDB(string) մեթոդ

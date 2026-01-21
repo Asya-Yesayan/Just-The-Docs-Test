@@ -1,6 +1,7 @@
 ---
 title: GetSqlExceptionText(SqlException, string)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IErrorHandlingService սերվիս"
 ---
 
 # IErrorHandlingService.GetSqlExceptionText(SqlException, string) մեթոդ

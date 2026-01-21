@@ -1,6 +1,7 @@
 ---
 title: IsEmpty(DocumentChangeRequest, bool)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IDocumentChangeRequestService սերվիս"
 ---
 
 # IDocumentChangeRequestService.IsEmpty(DocumentChangeRequest, bool) մեթոդ

@@ -1,5 +1,7 @@
 ﻿---
 title: GetLinkedAccounting(string)
+parent: "Մեթոդներ"
+grand_parent: "IAccountingService սերվիս"
 ---
 
 ## Նկարագիր

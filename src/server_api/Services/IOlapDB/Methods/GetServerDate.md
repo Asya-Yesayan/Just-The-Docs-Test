@@ -1,6 +1,7 @@
 ---
 title: GetServerDate()
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IOlapDBService սերվիս"
 ---
 
 # IOlapDBService.GetServerDate() մեթոդ

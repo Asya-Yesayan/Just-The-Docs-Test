@@ -1,6 +1,7 @@
 ---
 title: GetReadyTemplateSubstitution(Document.Document, string, SubstitutionType, Dictionary<string, object>)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "ITemplateSubstitutionService սերվիս"
 ---
 
 # ITemplateSubstitutionService.GetReadyTemplateSubstitution(Document.Document, string, SubstitutionType, Dictionary<string, object>) մեթոդ

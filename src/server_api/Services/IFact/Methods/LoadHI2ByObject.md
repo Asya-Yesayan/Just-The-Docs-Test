@@ -1,6 +1,7 @@
 ---
 title: LoadHI2ByObject(string, int, long, DateTime?, DateTime?, string)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IFactService սերվիս"
 ---
 
 # IFactService.LoadHI2ByObject(string, int, long, DateTime?, DateTime?, string) մեթոդ

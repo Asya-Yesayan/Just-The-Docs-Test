@@ -1,6 +1,7 @@
 ---
 title: CurrentUICultureName
-nav_exclude: true
+parent: "Հատկություններ"
+grand_parent: "LanguageService սերվիս"
 ---
 
 # LanguageService.CurrentUICultureName հատկություն

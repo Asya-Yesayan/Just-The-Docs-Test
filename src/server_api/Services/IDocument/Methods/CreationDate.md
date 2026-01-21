@@ -1,6 +1,7 @@
 ---
 title: CreationDate(int, bool)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IDocumentService սերվիս"
 ---
 
 # IDocumentService.CreationDate(int, bool) մեթոդ

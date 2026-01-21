@@ -1,6 +1,7 @@
 ---
 title: CurrentIsolationLevel
-nav_exclude: true
+parent: "Հատկություններ"
+grand_parent: "IDBService սերվիս"
 ---
 
 # IDBService.CurrentIsolationLevel հատկություն

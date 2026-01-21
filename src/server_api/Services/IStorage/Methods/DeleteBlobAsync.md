@@ -1,6 +1,7 @@
 ---
 title: DeleteBlobAsync
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IStorageService սերվիս"
 ---
 
 # IStorageService.DeleteBlobAsync մեթոդ

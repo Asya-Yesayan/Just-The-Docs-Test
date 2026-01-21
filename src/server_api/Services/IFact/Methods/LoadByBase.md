@@ -1,6 +1,7 @@
 ---
 title: LoadByBase(int, string, string, bool)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IFactService սերվիս"
 ---
 
 # IFactService.LoadByBase(int, string, string, bool) մեթոդ

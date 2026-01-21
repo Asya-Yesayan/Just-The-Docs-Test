@@ -1,6 +1,8 @@
 ---
 title: GetList
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "RolesService սերվիս"
+
 ---
 
 # RolesService.GetList մեթոդ

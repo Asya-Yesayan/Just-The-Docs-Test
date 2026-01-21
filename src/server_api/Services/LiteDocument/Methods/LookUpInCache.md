@@ -1,6 +1,7 @@
 ---
 title: LookUpInCache
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "LiteDocumentService սերվիս"
 ---
 
 # LiteDocumentService.LookUpInCache մեթոդ

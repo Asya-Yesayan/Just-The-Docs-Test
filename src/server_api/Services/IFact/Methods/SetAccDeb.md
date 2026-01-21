@@ -1,6 +1,7 @@
 ---
 title: SetAccDeb(Fact, string, bool)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IFactService սերվիս"
 ---
 
 # IFactService.SetAccDeb(Fact, string, bool) մեթոդ

@@ -1,6 +1,8 @@
 ---
 title: Load
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "RODocumentService սերվիս"
+
 ---
 
 # RODocumentService.Load մեթոդ

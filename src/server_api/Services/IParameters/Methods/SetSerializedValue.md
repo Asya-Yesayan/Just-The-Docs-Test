@@ -1,6 +1,7 @@
 ---
 title: SetSerializedValue(string, string, short, bool)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IParametersService սերվիս"
 ---
 
 # IParametersService.SetSerializedValue(string, string, short, bool) մեթոդ

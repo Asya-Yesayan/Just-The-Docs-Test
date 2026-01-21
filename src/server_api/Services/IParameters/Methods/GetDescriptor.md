@@ -1,6 +1,7 @@
 ---
 title: GetDescriptor(string)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IParametersService սերվիս"
 ---
 
 # IParametersService.GetDescriptor(string) մեթոդ

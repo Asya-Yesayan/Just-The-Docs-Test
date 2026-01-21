@@ -1,6 +1,7 @@
 ---
 title: IsValid(FieldType)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: FieldType4XCompatibleValidatorService սերվիս
 ---
 
 # FieldType4XCompatibleValidatorService.IsValid(FieldType) մեթոդ

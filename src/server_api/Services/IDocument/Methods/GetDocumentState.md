@@ -1,6 +1,7 @@
 ---
 title: GetDocumentState(int)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IDocumentService սերվիս"
 ---
 
 # IDocumentService.GetDocumentState(int) մեթոդ

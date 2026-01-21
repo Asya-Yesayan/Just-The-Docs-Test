@@ -1,5 +1,7 @@
 ﻿---
 title: Write
+parent: "Մեթոդներ"
+grand_parent: "AppLogService սերվիս"
 ---
 
 ## Նկարագիր

@@ -1,6 +1,7 @@
 ---
 title: IsEnglish
-nav_exclude: true
+parent: "Հատկություններ"
+grand_parent: "LanguageService սերվիս"
 ---
 
 # LanguageService.IsEnglish հատկություն

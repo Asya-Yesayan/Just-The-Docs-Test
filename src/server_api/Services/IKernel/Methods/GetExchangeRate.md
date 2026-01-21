@@ -1,6 +1,7 @@
 ---
 title: GetExchangeRate(string, DateTime, DateTime?)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IKernelService սերվիս"
 ---
 
 # IKernelService.GetExchangeRate(string, DateTime, DateTime?) մեթոդ

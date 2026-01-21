@@ -1,6 +1,7 @@
 ---
 title: GetRem(string, int, DateTime?)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IKernelService սերվիս"
 ---
 
 # IKernelService.GetRem(string, int, DateTime?) մեթոդ

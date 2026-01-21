@@ -1,6 +1,7 @@
 ---
 title: SetDefaultValue(string, object, bool, bool)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IParametersService սերվիս"
 ---
 
 # IParametersService.SetDefaultValue(string, object, bool, bool) մեթոդ

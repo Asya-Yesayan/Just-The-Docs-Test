@@ -1,6 +1,8 @@
 ---
 title: GetTemplateNameAndType(string, bool)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "TemplateService սերվիս"
+
 ---
 
 # TemplateService.GetTemplateNameAndType(string, bool) մեթոդ

@@ -1,5 +1,7 @@
 ﻿---
 title: CalculateCacheRem(string, int)
+parent: "Մեթոդներ"
+grand_parent: "IAccountingService սերվիս"
 ---
 
 ## Նկարագիր

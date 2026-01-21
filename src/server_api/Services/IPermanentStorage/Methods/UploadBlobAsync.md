@@ -1,6 +1,7 @@
 ---
 title: UploadBlobAsync
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IPermanentStorageService սերվիս"
 ---
 
 # IPermanentStorageService.UploadBlobAsync մեթոդ

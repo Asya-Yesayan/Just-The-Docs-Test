@@ -1,6 +1,7 @@
 ---
 title: ExistInDb(int)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IDocumentService սերվիս"
 ---
 
 # IDocumentService.ExistInDb(int) մեթոդ

@@ -1,6 +1,7 @@
 ---
 title: GetInfo(string)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IProcessServerClient սերվիս"
 ---
 
 # IProcessServerClient.GetInfo(string) մեթոդ

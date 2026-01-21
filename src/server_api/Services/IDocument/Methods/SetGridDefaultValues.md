@@ -1,6 +1,7 @@
 ---
 title: SetGridDefaultValues(Document, Dictionary<string, HashSet<string>>)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IDocumentService սերվիս"
 ---
 
 # IDocumentService.SetGridDefaultValues(Document, Dictionary<string, HashSet<string>>) մեթոդ

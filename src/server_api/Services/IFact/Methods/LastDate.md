@@ -1,6 +1,7 @@
 ---
 title: LastDate(string, int, DateTime?, string)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IFactService սերվիս"
 ---
 
 # IFactService.LastDate(string, int, DateTime?, string) մեթոդ

@@ -1,6 +1,7 @@
 ---
 title: GetDefinition(string, bool)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "DataSourceService սերվիս"
 ---
 
 # DataSourceService.GetDefinition(string, bool) մեթոդ

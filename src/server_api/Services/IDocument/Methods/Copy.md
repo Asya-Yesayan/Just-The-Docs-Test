@@ -1,6 +1,7 @@
 ---
 title: Copy(int, object, int)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IDocumentService սերվիս"
 ---
 
 # IDocumentService.Copy(int, object, int) մեթոդ

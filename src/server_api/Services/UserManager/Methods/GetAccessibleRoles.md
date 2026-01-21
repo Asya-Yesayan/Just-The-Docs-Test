@@ -1,6 +1,8 @@
 ---
 title: GetAccessibleRoles(short)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "UserManagerService սերվիս"
+
 ---
 
 # UserManagerService․GetAccessibleRoles(short) մեթոդ

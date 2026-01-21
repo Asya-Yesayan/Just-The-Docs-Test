@@ -1,6 +1,7 @@
 ---
 title: SerializeResponseBody<T>(Document, bool)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IDocumentService սերվիս"
 ---
 
 # IDocumentService.SerializeResponseBody<T>(Document, bool) մեթոդ

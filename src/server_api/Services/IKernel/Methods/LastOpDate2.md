@@ -1,6 +1,7 @@
 ---
 title: LastOpDate2(string, int, DateTime?, bool, string, string)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IKernelService սերվիս"
 ---
 
 # IKernelService.LastOpDate2(string, int, DateTime?, bool, string, string) մեթոդ

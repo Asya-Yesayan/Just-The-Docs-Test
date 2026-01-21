@@ -1,6 +1,7 @@
 ---
 title: Exists(string)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IFolderService սերվիս"
 ---
 
 # IFolderService.Exists(string) մեթոդ

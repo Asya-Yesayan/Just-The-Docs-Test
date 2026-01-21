@@ -1,6 +1,7 @@
 ---
 title: IsTemplateAvailable(string, string, Document)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "ITemplateSubstitutionService սերվիս"
 ---
 
 # ITemplateSubstitutionService.IsTemplateAvailable(string, string, Document) մեթոդ

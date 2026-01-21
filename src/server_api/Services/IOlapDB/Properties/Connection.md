@@ -1,6 +1,7 @@
 ---
 title: Connection
-nav_exclude: true
+parent: "Հատկություններ"
+grand_parent: "IOlapDBService սերվիս"
 ---
 
 # IOlapDBService.Connection հատկություն

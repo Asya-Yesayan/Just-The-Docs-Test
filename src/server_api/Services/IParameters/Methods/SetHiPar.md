@@ -1,6 +1,7 @@
 ---
 title: SetHiPar(string, DateTime, int, string, string, DateTime?)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IParametersService սերվիս"
 ---
 
 # IParametersService.SetHiPar(string, DateTime, int, string, string, DateTime?) մեթոդ

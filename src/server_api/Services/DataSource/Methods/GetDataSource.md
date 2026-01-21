@@ -1,6 +1,7 @@
 ---
 title: GetDataSource
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "DataSourceService սերվիս"
 ---
 
 # DataSourceService.GetDataSource մեթոդ

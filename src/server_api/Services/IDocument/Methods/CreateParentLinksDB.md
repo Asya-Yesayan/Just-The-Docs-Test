@@ -1,6 +1,7 @@
 ---
 title: CreateParentLinksDB(int, List<int>)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IDocumentService սերվիս"
 ---
 
 # IDocumentService.CreateParentLinksDB(int, List<int>) մեթոդ

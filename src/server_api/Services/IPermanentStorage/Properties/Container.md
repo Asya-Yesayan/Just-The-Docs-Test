@@ -1,6 +1,7 @@
 ---
 title: Container
-nav_exclude: true
+parent: "Հատկություններ"
+grand_parent: "IPermanentStorageService սերվիս"
 ---
 
 # IPermanentStorageService.Container հատկություն

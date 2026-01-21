@@ -1,6 +1,7 @@
 ---
 title: LoadByTrans(int, int, string, string)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IFactService սերվիս"
 ---
 
 # IFactService.LoadByTrans(int, int, string, string) մեթոդ

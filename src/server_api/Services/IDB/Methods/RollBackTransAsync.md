@@ -1,6 +1,7 @@
 ---
 title: RollBackTransAsync()
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IDBService սերվիս"
 ---
 
 # IDBService.RollBackTransAsync() մեթոդ

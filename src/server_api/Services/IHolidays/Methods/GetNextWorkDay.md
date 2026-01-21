@@ -1,6 +1,7 @@
 ---
 title: GetNextWorkDay(DateTime)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IHolidaysService սերվիս"
 ---
 
 # IHolidaysService.GetNextWorkDay(DateTime) մեթոդ

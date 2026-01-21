@@ -1,5 +1,7 @@
 ﻿---
 title: Stop(Guid, object)
+parent: "Մեթոդներ"
+grand_parent: "IProcessServerClient սերվիս"
 ---
 
 ## Նկարագիր

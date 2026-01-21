@@ -1,6 +1,7 @@
 ---
 title: Load
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IDocumentService սերվիս"
 ---
 
 # IDocumentService.Load մեթոդ

@@ -1,6 +1,8 @@
 ---
 title: GetUnhiddenUsers()
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "UserManagerService սերվիս"
+
 ---
 
 # UserManagerService․GetUnhiddenUsers() մեթոդ

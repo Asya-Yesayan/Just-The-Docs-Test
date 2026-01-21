@@ -1,6 +1,7 @@
 ---
 title: Get(string, string, bool)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "TreeElementsService սերվիս"
 ---
 
 # TreeElementsService.Get(string, string, bool) մեթոդ

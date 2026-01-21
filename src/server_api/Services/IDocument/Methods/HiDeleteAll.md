@@ -1,6 +1,7 @@
 ---
 title: HiDeleteAll(Document)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IDocumentService սերվիս"
 ---
 
 # IDocumentService.HiDeleteAll(Document) մեթոդ

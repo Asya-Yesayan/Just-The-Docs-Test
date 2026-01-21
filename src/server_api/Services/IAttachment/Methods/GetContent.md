@@ -1,6 +1,7 @@
 ---
 title: GetContent(int, string)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IAttachmentService սերվիս"
 ---
 
 # IAttachmentService.GetContent(int, string) մեթոդ

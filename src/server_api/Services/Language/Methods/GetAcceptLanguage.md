@@ -1,6 +1,7 @@
 ---
 title: GetAcceptLanguage(CultureInfo)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "LanguageService սերվիս"
 ---
 
 # LanguageService.GetAcceptLanguage(CultureInfo) մեթոդ

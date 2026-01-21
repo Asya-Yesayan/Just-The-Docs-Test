@@ -1,6 +1,7 @@
 ---
 title: SetValueWithAdditionalConnection(string, object)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IParametersService սերվիս"
 ---
 
 # IParametersService.SetValueWithAdditionalConnection(string, object) մեթոդ

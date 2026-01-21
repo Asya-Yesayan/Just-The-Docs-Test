@@ -1,6 +1,8 @@
 ---
 title: DeleteReportCalls(DateTime, DateTime, short?)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "StatisticsService սերվիս"
+
 ---
 
 # StatisticsService.DeleteReportCalls(DateTime, DateTime, short?) մեթոդ

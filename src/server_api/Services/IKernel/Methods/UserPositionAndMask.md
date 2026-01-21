@@ -1,6 +1,7 @@
 ---
 title: UserPositionAndMask(byte, byte, short)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IKernelService սերվիս"
 ---
 
 # IKernelService.UserPositionAndMask(byte, byte, short) մեթոդ

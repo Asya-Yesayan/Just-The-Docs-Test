@@ -1,6 +1,7 @@
 ---
 title: LoadHI2ByBase(int, string, string, long)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IFactService սերվիս"
 ---
 
 # IFactService.LoadHI2ByBase(int, string, string, long) մեթոդ

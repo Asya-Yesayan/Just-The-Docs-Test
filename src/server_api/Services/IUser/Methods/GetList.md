@@ -1,6 +1,7 @@
 ---
 title: GetList()
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IUserService սերվիս"
 ---
 
 # IUserService.GetList() մեթոդ

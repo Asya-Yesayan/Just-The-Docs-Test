@@ -1,6 +1,7 @@
 ---
 title: CutParentLink(int, int)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IDocumentService սերվիս"
 ---
 
 # IDocumentService.CutParentLink(int, int) մեթոդ

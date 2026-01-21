@@ -1,6 +1,7 @@
 ---
 title: SetIsolationLevel(IsolationLevel)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IDBService սերվիս"
 ---
 
 # IDBService.SetIsolationLevel(IsolationLevel) մեթոդ

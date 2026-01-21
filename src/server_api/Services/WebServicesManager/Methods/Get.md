@@ -1,6 +1,7 @@
 ---
 title: Get(string, string)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "WebServicesManager սերվիս"
 ---
 
 # WebServicesManager.Get(string, string) մեթոդ

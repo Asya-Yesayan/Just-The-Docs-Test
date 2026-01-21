@@ -1,6 +1,7 @@
 ---
 title: GetElements
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "IFolderService սերվիս"
 ---
 
 # IFolderService.GetElements մեթոդ
