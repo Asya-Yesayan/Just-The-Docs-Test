@@ -1,6 +1,7 @@
 ---
 title: GridsLoaded
-nav_exclude: true
+parent: "Հատկություններ"
+grand_parent: "Փաստաթուղթ"
 ---
 
 # Document.GridsLoaded հատկություն

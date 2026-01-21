@@ -1,6 +1,7 @@
 ---
 title: ExistsInDB
-nav_exclude: true
+parent: "Հատկություններ"
+grand_parent: "Փաստաթուղթ"
 ---
 
 # Document.ExistsInDB հատկություն

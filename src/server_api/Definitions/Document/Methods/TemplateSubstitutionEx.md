@@ -1,6 +1,7 @@
 ---
 title: TemplateSubstitutionEx(Dictionary<string, bool>, Dictionary<string, object>)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "Փաստաթուղթ"
 ---
 
 # Document.TemplateSubstitutionEx(Dictionary<string, bool>, Dictionary<string, object>) մեթոդ

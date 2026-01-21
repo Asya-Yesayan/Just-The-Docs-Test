@@ -1,6 +1,7 @@
 ---
 title: indexer
-nav_exclude: true
+parent: "Հատկություններ"
+grand_parent: "Փաստաթուղթ"
 ---
 
 # Document.indexer հատկություն

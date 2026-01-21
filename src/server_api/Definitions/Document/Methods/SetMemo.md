@@ -1,6 +1,7 @@
 ---
 title: SetMemo(string, string)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "Փաստաթուղթ"
 ---
 
 # Document.SetMemo(string, string) մեթոդ

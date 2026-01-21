@@ -1,6 +1,7 @@
 ---
 title: OnRejectDocumentChangeRequest(RejectDocumentChangeRequestEventArgs)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "Փաստաթուղթ"
 ---
 
 # Document.OnRejectDocumentChangeRequest(RejectDocumentChangeRequestEventArgs) մեթոդ

@@ -1,6 +1,7 @@
 ---
 title: GetImage(string)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "Փաստաթուղթ"
 ---
 
 # Document.GetImage(string) մեթոդ

@@ -1,6 +1,7 @@
 ---
 title: LoadGrids(LoadGridsEventArgs)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "Փաստաթուղթ"
 ---
 
 # Document.LoadGrids(LoadGridsEventArgs) մեթոդ

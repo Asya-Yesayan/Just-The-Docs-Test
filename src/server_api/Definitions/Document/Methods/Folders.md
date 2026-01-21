@@ -1,6 +1,7 @@
 ---
 title: Folders(FoldersEventArgs)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "Փաստաթուղթ"
 ---
 
 # Document.Folders(FoldersEventArgs) մեթոդ

@@ -1,6 +1,7 @@
 ---
 title: CopiedFrom
-nav_exclude: true
+parent: "Հատկություններ"
+grand_parent: "Փաստաթուղթ"
 ---
 
 # Document.CopiedFrom հատկություն

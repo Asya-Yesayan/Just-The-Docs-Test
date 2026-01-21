@@ -1,6 +1,7 @@
 ---
 title: AfterLoad(AfterLoadEventArgs)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "Փաստաթուղթ"
 ---
 
 # Document.AfterLoad(AfterLoadEventArgs) մեթոդ

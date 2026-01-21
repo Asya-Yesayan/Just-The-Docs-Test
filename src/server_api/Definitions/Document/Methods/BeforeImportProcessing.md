@@ -1,6 +1,7 @@
 ---
 title: BeforeImportProcessing(BeforeImportProcessingEventArgs)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "Փաստաթուղթ"
 ---
 
 # Document.BeforeImportProcessing(BeforeImportProcessingEventArgs) մեթոդ

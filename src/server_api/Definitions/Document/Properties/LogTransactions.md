@@ -1,6 +1,7 @@
 ---
 title: LogTransactions
-nav_exclude: true
+parent: "Հատկություններ"
+grand_parent: "Փաստաթուղթ"
 ---
 
 # Document.LogTransactions հատկություն

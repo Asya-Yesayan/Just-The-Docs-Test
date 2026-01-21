@@ -1,6 +1,7 @@
 ---
 title: LastFixedState
-nav_exclude: true
+parent: "Հատկություններ"
+grand_parent: "Փաստաթուղթ"
 ---
 
 # Document.LastFixedState հատկություն

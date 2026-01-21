@@ -1,6 +1,7 @@
 ---
 title: Body()
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "Փաստաթուղթ"
 ---
 
 # Document.Body() մեթոդ

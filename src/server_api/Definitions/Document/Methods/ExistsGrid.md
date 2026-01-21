@@ -1,6 +1,7 @@
 ---
 title: ExistsGrid(string)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "Փաստաթուղթ"
 ---
 
 # Document.ExistsGrid(string) մեթոդ

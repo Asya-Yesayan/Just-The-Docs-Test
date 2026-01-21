@@ -1,6 +1,7 @@
 ---
 title: PostMessage(PostMessageEventArgs)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "Փաստաթուղթ"
 ---
 
 # Document.PostMessage(PostMessageEventArgs) մեթոդ

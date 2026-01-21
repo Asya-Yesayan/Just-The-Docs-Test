@@ -1,6 +1,7 @@
 ---
 title: AfterCommit(AfterCommitEventArgs)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "Փաստաթուղթ"
 ---
 
 # Document.AfterCommit(AfterCommitEventArgs) մեթոդ

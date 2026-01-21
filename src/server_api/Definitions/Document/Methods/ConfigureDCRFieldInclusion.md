@@ -1,6 +1,7 @@
 ---
 title: ConfigureDCRFieldInclusion(ConfigureDCRFieldInclusionEventArgs)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "Փաստաթուղթ"
 ---
 
 # Document.ConfigureDCRFieldInclusion(ConfigureDCRFieldInclusionEventArgs) մեթոդ

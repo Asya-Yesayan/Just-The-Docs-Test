@@ -1,6 +1,7 @@
 ---
 title: Store(DocumentCheckLevel, string)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "Փաստաթուղթ"
 ---
 
 # Document.Store(DocumentCheckLevel, string) մեթոդ

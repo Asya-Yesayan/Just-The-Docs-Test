@@ -1,6 +1,7 @@
 ---
 title: AfterCreate(AfterCreateEventArgs)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "Փաստաթուղթ"
 ---
 
 # Document.AfterCreate(AfterCreateEventArgs) մեթոդ

@@ -1,6 +1,7 @@
 ---
 title: GetCheckValue(string)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "Փաստաթուղթ"
 ---
 
 # Document.GetCheckValue(string) մեթոդ

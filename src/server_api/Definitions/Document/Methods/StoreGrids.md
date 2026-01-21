@@ -1,6 +1,7 @@
 ---
 title: StoreGrids(StoreGridsEventArgs)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "Փաստաթուղթ"
 ---
 
 # Document.StoreGrids(StoreGridsEventArgs) մեթոդ

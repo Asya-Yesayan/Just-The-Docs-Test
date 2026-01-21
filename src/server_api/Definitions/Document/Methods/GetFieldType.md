@@ -1,6 +1,7 @@
 ---
 title: GetFieldType(string)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "Փաստաթուղթ"
 ---
 
 # Document.GetFieldType(string) մեթոդ

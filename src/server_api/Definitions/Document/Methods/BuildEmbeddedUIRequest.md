@@ -1,6 +1,7 @@
 ---
 title: BuildEmbeddedUIRequest(T uiRequestExecutionProgress)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "Փաստաթուղթ"
 ---
 
 # Document.BuildEmbeddedUIRequest(T uiRequestExecutionProgress) մեթոդ

@@ -1,6 +1,7 @@
 ---
 title: CreationDate
-nav_exclude: true
+parent: "Հատկություններ"
+grand_parent: "Փաստաթուղթ"
 ---
 
 # Document.CreationDate հատկություն

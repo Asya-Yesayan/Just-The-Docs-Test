@@ -1,6 +1,7 @@
 ---
 title: GetNextTrans()
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "Փաստաթուղթ"
 ---
 
 # Document.GetNextTrans() մեթոդ
