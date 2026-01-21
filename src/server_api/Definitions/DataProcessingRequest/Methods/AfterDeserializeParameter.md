@@ -1,6 +1,7 @@
 ---
 title: AfterDeserializeParameter(P, JsonElement)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "Տվյալների մշակման հարցում"
 ---
 
 # DataProcessingRequest.AfterDeserializeParameter(P, JsonElement) մեթոդ

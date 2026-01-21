@@ -1,6 +1,7 @@
 ---
 title: ArmenianCaption
-nav_exclude: true
+parent: "Հատկություններ"
+grand_parent: "Տվյալների մշակման հարցում"
 ---
 
 # DataProcessingRequest.ArmenianCaption հատկություն

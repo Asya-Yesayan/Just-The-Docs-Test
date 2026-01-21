@@ -1,6 +1,7 @@
 ---
 title: Execute(P, CancellationToken)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "Տվյալների մշակման հարցում"
 ---
 
 # DataProcessingRequest.Execute(P, CancellationToken) մեթոդ
