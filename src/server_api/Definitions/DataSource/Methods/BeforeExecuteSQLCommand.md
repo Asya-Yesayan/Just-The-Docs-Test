@@ -1,6 +1,7 @@
 ---
 title: BeforeExecuteSQLCommand(DataSourceArgs<P>, CancellationToken)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "Տվյալների աղբյուր"
 ---
 
 # DataSource.BeforeExecuteSQLCommand(DataSourceArgs<P>, CancellationToken) մեթոդ

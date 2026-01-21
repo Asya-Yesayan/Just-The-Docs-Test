@@ -1,6 +1,7 @@
 ---
 title: EnglishCaption
-nav_exclude: true
+parent: "Հատկություններ"
+grand_parent: "Տվյալների աղբյուր"
 ---
 
 # DataSource.EnglishCaption հատկություն

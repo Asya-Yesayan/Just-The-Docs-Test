@@ -1,6 +1,7 @@
 ---
 title: CommandBehaviorFlag
-nav_exclude: true
+parent: "Հատկություններ"
+grand_parent: "Տվյալների աղբյուր"
 ---
 
 # DataSource.CommandBehaviorFlag հատկություն

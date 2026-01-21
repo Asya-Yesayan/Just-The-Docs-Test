@@ -1,6 +1,7 @@
 ---
 title: Execute(P, HashSet<string>, IExtender, CancellationToken)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "Տվյալների աղբյուր"
 ---
 
 # DataSource.Execute(P, HashSet<string>, IExtender, CancellationToken) մեթոդ

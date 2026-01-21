@@ -1,6 +1,7 @@
 ---
 title: IsSQLBased
-nav_exclude: true
+parent: "Հատկություններ"
+grand_parent: "Տվյալների աղբյուր"
 ---
 
 # DataSource.IsSQLBased հատկություն

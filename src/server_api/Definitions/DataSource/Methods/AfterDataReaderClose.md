@@ -1,6 +1,7 @@
 ---
 title: AfterDataReaderClose
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "Տվյալների աղբյուր"
 ---
 
 # DataSource.AfterDataReaderClose մեթոդ

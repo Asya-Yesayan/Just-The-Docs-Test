@@ -1,6 +1,7 @@
 ---
 title: ProcessRow(DataSourceArgs<P>, R, SqlDataReader)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "Տվյալների աղբյուր"
 ---
 
 # DataSource.ProcessRow(DataSourceArgs<P>, R, SqlDataReader) մեթոդ

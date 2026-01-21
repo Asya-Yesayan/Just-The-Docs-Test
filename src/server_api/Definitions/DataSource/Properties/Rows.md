@@ -1,6 +1,7 @@
 ---
 title: Rows
-nav_exclude: true
+parent: "Հատկություններ"
+grand_parent: "Տվյալների աղբյուր"
 ---
 
 # DataSource.Rows հատկություն

@@ -1,6 +1,7 @@
 ---
 title: AfterExecuteSQLCommand(DataSourceArgs<P>, SqlDataReader)
-nav_exclude: true
+parent: "Մեթոդներ"
+grand_parent: "Տվյալների աղբյուր"
 ---
 
 # DataSource.AfterExecuteSQLCommand(DataSourceArgs<P>, SqlDataReader) մեթոդ
