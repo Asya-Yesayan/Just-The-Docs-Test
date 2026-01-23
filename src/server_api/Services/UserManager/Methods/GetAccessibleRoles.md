@@ -1,7 +1,7 @@
 ---
 title: GetAccessibleRoles(short)
 parent: "Մեթոդներ"
-grand_parent: "UserManagerService սերվիս"
+grand_parent: "UserManagerService"
 
 ---
 

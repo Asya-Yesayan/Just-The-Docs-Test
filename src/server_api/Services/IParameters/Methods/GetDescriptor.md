@@ -1,7 +1,7 @@
 ---
 title: GetDescriptor(string)
 parent: "Մեթոդներ"
-grand_parent: "IParametersService սերվիս"
+grand_parent: "IParametersService"
 ---
 
 # IParametersService.GetDescriptor(string) մեթոդ

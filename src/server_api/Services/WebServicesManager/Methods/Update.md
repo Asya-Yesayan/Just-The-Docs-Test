@@ -1,7 +1,7 @@
 ---
 title: Update(WebServiceInfo)
 parent: "Մեթոդներ"
-grand_parent: "WebServicesManager սերվիս"
+grand_parent: "WebServicesManager"
 ---
 
 # WebServicesManager.Update(WebServiceInfo) մեթոդ

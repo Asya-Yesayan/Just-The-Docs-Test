@@ -1,5 +1,5 @@
 ---
-title: "IFolderService սերվիս"
+title: "IFolderService"
 parent: "Սերվիսներ"
 nav_order: 2
 ---

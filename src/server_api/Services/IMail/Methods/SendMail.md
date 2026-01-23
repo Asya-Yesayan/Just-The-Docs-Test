@@ -1,7 +1,7 @@
 ---
 title: SendMail(MailArgs)
 parent: "Մեթոդներ"
-grand_parent: "IMailService սերվիս"
+grand_parent: "IMailService"
 ---
 
 # IMailService.SendMail(MailArgs) մեթոդ

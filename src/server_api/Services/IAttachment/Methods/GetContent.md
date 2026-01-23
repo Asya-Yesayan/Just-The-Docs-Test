@@ -1,7 +1,7 @@
 ---
 title: GetContent(int, string)
 parent: "Մեթոդներ"
-grand_parent: "IAttachmentService սերվիս"
+grand_parent: "IAttachmentService"
 ---
 
 # IAttachmentService.GetContent(int, string) մեթոդ

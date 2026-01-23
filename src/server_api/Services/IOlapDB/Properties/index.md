@@ -1,6 +1,6 @@
 ---
 title: Հատկություններ
-parent: "IOlapDBService սերվիս"
+parent: "IOlapDBService"
 ---
 
 # Հատկություններ

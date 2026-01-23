@@ -1,7 +1,7 @@
 ---
 title: LoadGrids
 parent: "Մեթոդներ"
-grand_parent: "LiteDocumentService սերվիս"
+grand_parent: "LiteDocumentService"
 ---
 
 # LiteDocumentService.LoadGrids մեթոդ

@@ -1,5 +1,5 @@
 ---
-title: "IErrorHandlingService սերվիս"
+title: "IErrorHandlingService"
 parent: "Սերվիսներ"
 nav_order: 2
 ---

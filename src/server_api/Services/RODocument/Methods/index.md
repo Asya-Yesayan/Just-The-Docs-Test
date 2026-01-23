@@ -1,6 +1,6 @@
 ---
 title: Մեթոդներ
-parent: "RODocumentService սերվիս"
+parent: "RODocumentService"
 ---
 
 # Մեթոդներ

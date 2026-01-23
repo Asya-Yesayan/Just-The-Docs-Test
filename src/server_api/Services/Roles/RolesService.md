@@ -1,5 +1,5 @@
 ---
-title: "RolesService սերվիս"
+title: "RolesService"
 parent: "Սերվիսներ"
 nav_order: 2
 ---

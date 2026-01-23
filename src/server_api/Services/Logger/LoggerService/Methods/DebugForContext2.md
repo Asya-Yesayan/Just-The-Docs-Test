@@ -1,7 +1,7 @@
 ---
 title: DebugForContext(Exception, string)
 parent: "Մեթոդներ"
-grand_parent: "LoggerService սերվիս"
+grand_parent: "LoggerService"
 ---
 
 # LoggerService սերվիս

@@ -1,6 +1,6 @@
 ---
 title: Մեթոդներ
-parent: "IPermanentStorageService սերվիս"
+parent: "IPermanentStorageService"
 ---
 
 # Մեթոդներ

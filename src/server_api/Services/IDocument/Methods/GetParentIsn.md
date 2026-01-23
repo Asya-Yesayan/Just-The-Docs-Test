@@ -1,7 +1,7 @@
 ---
 title: GetParentIsn
 parent: "Մեթոդներ"
-grand_parent: "IDocumentService սերվիս"
+grand_parent: "IDocumentService"
 ---
 
 # IDocumentService.GetParentIsn մեթոդ

@@ -1,7 +1,7 @@
 ---
 title: GetTemplateNameAndType(string, bool)
 parent: "Մեթոդներ"
-grand_parent: "TemplateService սերվիս"
+grand_parent: "TemplateService"
 
 ---
 

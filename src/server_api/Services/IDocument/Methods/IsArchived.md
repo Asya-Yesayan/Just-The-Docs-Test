@@ -1,7 +1,7 @@
 ---
 title: IsArchived(int)
 parent: "Մեթոդներ"
-grand_parent: "IDocumentService սերվիս"
+grand_parent: "IDocumentService"
 ---
 
 # IDocumentService.IsArchived(int) մեթոդ

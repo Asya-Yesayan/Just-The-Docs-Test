@@ -1,7 +1,7 @@
 ---
 title: Store(Document, DocumentCheckLevel, string)
 parent: "Մեթոդներ"
-grand_parent: "IDocumentService սերվիս"
+grand_parent: "IDocumentService"
 ---
 
 # IDocumentService.Store(Document, DocumentCheckLevel, string) մեթոդ

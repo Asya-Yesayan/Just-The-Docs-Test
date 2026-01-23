@@ -1,7 +1,7 @@
 ---
 title: CurrentUICultureName
 parent: "Հատկություններ"
-grand_parent: "LanguageService սերվիս"
+grand_parent: "LanguageService"
 ---
 
 # LanguageService.CurrentUICultureName հատկություն

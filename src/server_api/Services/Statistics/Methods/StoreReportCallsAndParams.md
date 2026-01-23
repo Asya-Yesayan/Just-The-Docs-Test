@@ -1,7 +1,7 @@
 ---
 title: StoreReportCallsAndParams(ReportCallsStoreModel)
 parent: "Մեթոդներ"
-grand_parent: "StatisticsService սերվիս"
+grand_parent: "StatisticsService"
 
 ---
 

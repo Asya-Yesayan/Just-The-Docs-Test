@@ -1,7 +1,7 @@
 ---
 title: GetColumnsDefinition(string)
 parent: "Մեթոդներ"
-grand_parent: "DataSourceService սերվիս"
+grand_parent: "DataSourceService"
 ---
 
 # DataSourceService.GetColumnsDefinition(string) մեթոդ

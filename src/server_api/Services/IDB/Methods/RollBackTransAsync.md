@@ -1,7 +1,7 @@
 ---
 title: RollBackTransAsync()
 parent: "Մեթոդներ"
-grand_parent: "IDBService սերվիս"
+grand_parent: "IDBService"
 ---
 
 # IDBService.RollBackTransAsync() մեթոդ

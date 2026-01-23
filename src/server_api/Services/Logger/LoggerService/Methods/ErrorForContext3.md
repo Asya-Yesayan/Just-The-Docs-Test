@@ -1,7 +1,7 @@
 ---
 title: ErrorForContext(Exception, string, object[])
 parent: "Մեթոդներ"
-grand_parent: "LoggerService սերվիս"
+grand_parent: "LoggerService"
 ---
 
 # LoggerService սերվիս

@@ -1,7 +1,7 @@
 ---
 title: LookUpInCache
 parent: "Մեթոդներ"
-grand_parent: "RODocumentService սերվիս"
+grand_parent: "RODocumentService"
 
 ---
 

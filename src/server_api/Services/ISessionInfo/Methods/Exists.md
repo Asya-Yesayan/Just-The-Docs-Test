@@ -1,7 +1,7 @@
 ---
 title: Exists(string)
 parent: "Մեթոդներ"
-grand_parent: "ISessionInfoService սերվիս"
+grand_parent: "ISessionInfoService"
 ---
 
 # ISessionInfoService.Exists(string) մեթոդ

@@ -1,7 +1,7 @@
 ---
 title: CreateCommand(TimeoutType)
 parent: "Մեթոդներ"
-grand_parent: "IDBService սերվիս"
+grand_parent: "IDBService"
 ---
 
 # IDBService.CreateCommand(TimeoutType) մեթոդ

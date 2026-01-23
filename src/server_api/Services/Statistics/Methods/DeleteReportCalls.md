@@ -1,7 +1,7 @@
 ---
 title: DeleteReportCalls(DateTime, DateTime, short?)
 parent: "Մեթոդներ"
-grand_parent: "StatisticsService սերվիս"
+grand_parent: "StatisticsService"
 
 ---
 

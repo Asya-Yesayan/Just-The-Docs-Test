@@ -1,5 +1,5 @@
 ---
-title: "TreeElementsService սերվիս"
+title: "TreeElementsService"
 parent: "Սերվիսներ"
 nav_order: 2
 ---

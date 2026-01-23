@@ -1,7 +1,7 @@
 ---
 title: Delete(string)
 parent: "Մեթոդներ"
-grand_parent: "WebServicesManager սերվիս"
+grand_parent: "WebServicesManager"
 ---
 
 # WebServicesManager.Delete(string) մեթոդ

@@ -1,5 +1,5 @@
 ---
-title: "IFactService սերվիս"
+title: "IFactService"
 parent: "Սերվիսներ"
 nav_order: 2
 ---

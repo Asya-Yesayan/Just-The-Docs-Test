@@ -1,7 +1,7 @@
 ---
 title: AddNode(TreeElement, bool)
 parent: "Մեթոդներ"
-grand_parent: "TreeElementsService սերվիս"
+grand_parent: "TreeElementsService"
 ---
 
 # TreeElementsService.AddNode(TreeElement, bool) մեթոդ

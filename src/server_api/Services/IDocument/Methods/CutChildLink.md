@@ -1,7 +1,7 @@
 ---
 title: CutChildLink(int, int)
 parent: "Մեթոդներ"
-grand_parent: "IDocumentService սերվիս"
+grand_parent: "IDocumentService"
 ---
 
 # IDocumentService.CutChildLink(int, int) մեթոդ

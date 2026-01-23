@@ -1,6 +1,6 @@
 ---
 title: Մեթոդներ
-parent: "IKernelService սերվիս"
+parent: "IKernelService"
 ---
 
 # Մեթոդներ

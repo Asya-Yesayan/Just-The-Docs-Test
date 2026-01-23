@@ -1,6 +1,6 @@
 ---
 title: Մեթոդներ
-parent: "UserManagerService սերվիս"
+parent: "UserManagerService"
 ---
 
 # Մեթոդներ

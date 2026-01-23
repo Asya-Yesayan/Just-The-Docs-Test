@@ -1,7 +1,7 @@
 ---
 title: GetActiveSessionsAndReset()
 parent: "Մեթոդներ"
-grand_parent: "SessionInfoCacheService սերվիս
+grand_parent: "SessionInfoCacheService
 
 ---
 

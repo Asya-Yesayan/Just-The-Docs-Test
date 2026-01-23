@@ -1,7 +1,7 @@
 ---
 title: LoadByObject(string, int, DateTime, DateTime, string)
 parent: "Մեթոդներ"
-grand_parent: "IFactService սերվիս"
+grand_parent: "IFactService"
 ---
 
 # IFactService.LoadByObject(string, int, DateTime, DateTime, string) մեթոդ

@@ -1,7 +1,7 @@
 ---
 title: Container
 parent: "Հատկություններ"
-grand_parent: "IPermanentStorageService սերվիս"
+grand_parent: "IPermanentStorageService"
 ---
 
 # IPermanentStorageService.Container հատկություն

@@ -1,7 +1,7 @@
 ---
 title: LastOpDate(string, int, DateTime?, string, int)
 parent: "Մեթոդներ"
-grand_parent: "IKernelService սերվիս"
+grand_parent: "IKernelService"
 ---
 
 # IKernelService.LastOpDate(string, int, DateTime?, string, int) մեթոդ

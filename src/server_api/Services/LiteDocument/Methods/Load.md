@@ -1,7 +1,7 @@
 ---
 title: Load
 parent: "Մեթոդներ"
-grand_parent: "LiteDocumentService սերվիս"
+grand_parent: "LiteDocumentService"
 ---
 
 # LiteDocumentService.Load մեթոդ

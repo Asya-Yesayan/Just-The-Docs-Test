@@ -1,7 +1,7 @@
 ---
 title: UserElProp(short)
 parent: "Մեթոդներ"
-grand_parent: "IUserService սերվիս"
+grand_parent: "IUserService"
 ---
 
 # IUserService.UserElProp(short) մեթոդ

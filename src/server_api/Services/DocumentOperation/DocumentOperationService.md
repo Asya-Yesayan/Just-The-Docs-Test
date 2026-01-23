@@ -1,5 +1,5 @@
 ---
-title: "DocumentOperationService սերվիս"
+title: "DocumentOperationService"
 parent: "Սերվիսներ"
 nav_order: 2
 ---

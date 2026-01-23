@@ -1,6 +1,6 @@
 ---
 title: Մեթոդներ
-parent: "IMailService սերվիս"
+parent: "IMailService"
 ---
 
 # Մեթոդներ

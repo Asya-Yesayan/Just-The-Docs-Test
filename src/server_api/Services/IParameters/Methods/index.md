@@ -1,6 +1,6 @@
 ---
 title: Մեթոդներ
-parent: "IParametersService սերվիս"
+parent: "IParametersService"
 ---
 
 # Մեթոդներ

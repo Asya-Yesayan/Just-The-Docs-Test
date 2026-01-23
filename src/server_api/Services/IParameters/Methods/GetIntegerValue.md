@@ -1,7 +1,7 @@
 ---
 title: GetIntegerValue
 parent: "Մեթոդներ"
-grand_parent: "IParametersService սերվիս"
+grand_parent: "IParametersService"
 ---
 
 # IParametersService.GetIntegerValue մեթոդ

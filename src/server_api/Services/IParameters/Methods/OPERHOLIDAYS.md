@@ -1,7 +1,7 @@
 ---
 title: OPERHOLIDAYS()
 parent: "Մեթոդներ"
-grand_parent: "IParametersService սերվիս"
+grand_parent: "IParametersService"
 ---
 
 # IParametersService.OPERHOLIDAYS() մեթոդ

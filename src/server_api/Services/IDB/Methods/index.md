@@ -1,6 +1,6 @@
 ---
 title: Մեթոդներ
-parent: "IDBService սերվիս"
+parent: "IDBService"
 ---
 
 # Մեթոդներ

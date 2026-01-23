@@ -1,7 +1,7 @@
 ---
 title: GetDecimalValue
 parent: "Մեթոդներ"
-grand_parent: "IParametersService սերվիս"
+grand_parent: "IParametersService"
 ---
 
 # IParametersService.GetDecimalValue մեթոդ

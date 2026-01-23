@@ -1,7 +1,7 @@
 ---
 title: GetDocumentType(int)
 parent: "Մեթոդներ"
-grand_parent: "IDocumentService սերվիս"
+grand_parent: "IDocumentService"
 ---
 
 # IDocumentService.GetDocumentType(int) մեթոդ

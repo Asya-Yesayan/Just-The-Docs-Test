@@ -1,7 +1,7 @@
 ---
 title: DeleteAll(List<int>, bool, string, bool, bool)
 parent: "Մեթոդներ"
-grand_parent: "IDocumentService սերվիս"
+grand_parent: "IDocumentService"
 ---
 
 # Document.DeleteAll(List<int>, bool, string, bool, bool) մեթոդ

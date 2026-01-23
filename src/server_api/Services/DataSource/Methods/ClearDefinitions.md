@@ -1,7 +1,7 @@
 ---
 title: ClearDefinitions(IEnumerable<string>)
 parent: "Մեթոդներ"
-grand_parent: "DataSourceService սերվիս"
+grand_parent: "DataSourceService"
 ---
 
 # DataSourceService.ClearDefinitions(IEnumerable<string>) մեթոդ

@@ -1,7 +1,7 @@
 ---
 title: REPSTART
 parent: "Մեթոդներ"
-grand_parent: "IParametersService սերվիս"
+grand_parent: "IParametersService"
 ---
 
 # IParametersService.REPSTART մեթոդ

@@ -1,5 +1,5 @@
 ---
-title: "IPermanentStorageService սերվիս"
+title: "IPermanentStorageService"
 parent: "Սերվիսներ"
 nav_order: 2
 ---

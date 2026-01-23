@@ -1,6 +1,6 @@
 ---
 title: Մեթոդներ
-parent: "AppLogService սերվիս"
+parent: "AppLogService"
 ---
 
 # Մեթոդներ

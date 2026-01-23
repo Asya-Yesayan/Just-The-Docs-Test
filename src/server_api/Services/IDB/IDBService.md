@@ -1,5 +1,5 @@
 ---
-title: "IDBService սերվիս"
+title: "IDBService"
 parent: "Սերվիսներ"
 nav_order: 2
 ---

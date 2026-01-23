@@ -1,7 +1,7 @@
 ---
 title: DeleteBlobAsync
 parent: "Մեթոդներ"
-grand_parent: "IPermanentStorageService սերվիս"
+grand_parent: "IPermanentStorageService"
 ---
 
 # IPermanentStorageService.DeleteBlobAsync մեթոդ

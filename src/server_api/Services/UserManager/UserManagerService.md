@@ -1,5 +1,5 @@
 ---
-title: "UserManagerService սերվիս"
+title: "UserManagerService"
 parent: "Սերվիսներ"
 nav_order: 2
 ---

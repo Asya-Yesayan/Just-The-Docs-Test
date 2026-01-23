@@ -1,7 +1,7 @@
 ---
 title: IsTemplateAvailable(string, string, Document)
 parent: "Մեթոդներ"
-grand_parent: "ITemplateSubstitutionService սերվիս"
+grand_parent: "ITemplateSubstitutionService"
 ---
 
 # ITemplateSubstitutionService.IsTemplateAvailable(string, string, Document) մեթոդ

@@ -1,7 +1,7 @@
 ---
 title: GetInfo()
 parent: "Մեթոդներ"
-grand_parent: "ISessionInfoService սերվիս"
+grand_parent: "ISessionInfoService"
 ---
 
 # ISessionInfoService.GetInfo() մեթոդ

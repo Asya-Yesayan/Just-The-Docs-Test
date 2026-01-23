@@ -1,7 +1,7 @@
 ---
 title: GetList
 parent: "Մեթոդներ"
-grand_parent: "RolesService սերվիս"
+grand_parent: "RolesService"
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Մեթոդներ
-parent: "IFolderService սերվիս"
+parent: "IFolderService"
 ---
 
 # Մեթոդներ

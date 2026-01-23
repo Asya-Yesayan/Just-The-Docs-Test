@@ -1,6 +1,6 @@
 ---
 title: Մեթոդներ
-parent: "DocumentOperationService սերվիս"
+parent: "DocumentOperationService"
 ---
 
 # Մեթոդներ

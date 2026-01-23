@@ -1,5 +1,5 @@
 ---
-title: "IKernelService սերվիս"
+title: "IKernelService"
 parent: "Սերվիսներ"
 nav_order: 2
 ---

@@ -1,7 +1,7 @@
 ---
 title: GetElement
 parent: "Մեթոդներ"
-grand_parent: "IFolderService սերվիս"
+grand_parent: "IFolderService"
 ---
 
 # IFolderService.GetElement մեթոդ

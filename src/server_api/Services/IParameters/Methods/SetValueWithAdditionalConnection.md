@@ -1,7 +1,7 @@
 ---
 title: SetValueWithAdditionalConnection(string, object)
 parent: "Մեթոդներ"
-grand_parent: "IParametersService սերվիս"
+grand_parent: "IParametersService"
 ---
 
 # IParametersService.SetValueWithAdditionalConnection(string, object) մեթոդ

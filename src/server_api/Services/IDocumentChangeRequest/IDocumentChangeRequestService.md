@@ -1,5 +1,5 @@
 ---
-title: "IDocumentChangeRequestService սերվիս"
+title: "IDocumentChangeRequestService"
 parent: "Սերվիսներ"
 nav_order: 2
 ---

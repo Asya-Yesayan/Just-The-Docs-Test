@@ -1,7 +1,7 @@
 ---
 title: SetDefaultValue(string, object, bool, bool)
 parent: "Մեթոդներ"
-grand_parent: "IParametersService սերվիս"
+grand_parent: "IParametersService"
 ---
 
 # IParametersService.SetDefaultValue(string, object, bool, bool) մեթոդ

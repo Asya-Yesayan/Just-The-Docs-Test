@@ -1,7 +1,7 @@
 ---
 title: LoadTemplateFile(string, SubstitutionType)
 parent: "Մեթոդներ"
-grand_parent: "ITemplateSubstitutionService սերվիս"
+grand_parent: "ITemplateSubstitutionService"
 ---
 
 # ITemplateSubstitutionService.LoadTemplateFile(string, SubstitutionType) մեթոդ

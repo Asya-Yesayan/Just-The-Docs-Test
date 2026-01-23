@@ -1,6 +1,6 @@
 ---
 title: Մեթոդներ
-parent: "AccessLogService սերվիս"
+parent: "AccessLogService"
 ---
 
 # Մեթոդներ

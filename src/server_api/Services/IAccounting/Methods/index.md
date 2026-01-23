@@ -1,6 +1,6 @@
 ---
 title: Մեթոդներ
-parent: "IAccountingService սերվիս"
+parent: "IAccountingService"
 ---
 
 # Մեթոդներ

@@ -1,6 +1,6 @@
 ---
 title: Մեթոդներ
-parent: "IProcessServerClient սերվիս"
+parent: "IProcessServerClient"
 ---
 
 # Մեթոդներ

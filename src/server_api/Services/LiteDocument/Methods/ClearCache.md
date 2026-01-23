@@ -1,7 +1,7 @@
 ---
 title: ClearCache()
 parent: "Մեթոդներ"
-grand_parent: "LiteDocumentService սերվիս"
+grand_parent: "LiteDocumentService"
 ---
 
 # LiteDocumentService.ClearCache() մեթոդ

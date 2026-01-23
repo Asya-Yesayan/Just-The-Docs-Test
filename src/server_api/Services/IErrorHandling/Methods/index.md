@@ -1,6 +1,6 @@
 ---
 title: Մեթոդներ
-parent: "IErrorHandlingService սերվիս"
+parent: "IErrorHandlingService"
 ---
 
 # Մեթոդներ

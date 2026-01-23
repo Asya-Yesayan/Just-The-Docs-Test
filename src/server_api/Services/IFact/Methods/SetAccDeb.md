@@ -1,7 +1,7 @@
 ---
 title: SetAccDeb(Fact, string, bool)
 parent: "Մեթոդներ"
-grand_parent: "IFactService սերվիս"
+grand_parent: "IFactService"
 ---
 
 # IFactService.SetAccDeb(Fact, string, bool) մեթոդ

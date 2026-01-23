@@ -1,6 +1,6 @@
 ---
 title: Մեթոդներ
-parent: JobService սերվիս
+parent: JobService
 ---
 
 # Մեթոդներ

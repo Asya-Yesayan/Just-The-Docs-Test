@@ -1,6 +1,6 @@
 ---
 title: Մեթոդներ
-parent: "DataSourceService սերվիս"
+parent: "DataSourceService"
 ---
 
 # Մեթոդներ

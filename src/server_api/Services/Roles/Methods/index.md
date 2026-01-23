@@ -1,6 +1,6 @@
 ---
 title: Մեթոդներ
-parent: "RolesService սերվիս"
+parent: "RolesService"
 ---
 
 # Մեթոդներ

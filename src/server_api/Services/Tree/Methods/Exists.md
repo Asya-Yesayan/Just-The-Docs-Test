@@ -1,7 +1,7 @@
 ---
 title: Exists(string)
 parent: "Մեթոդներ"
-grand_parent: "TreeService սերվիս
+grand_parent: "TreeService
 
 ---
 

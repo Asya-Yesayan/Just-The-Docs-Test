@@ -1,6 +1,6 @@
 ---
 title: Մեթոդներ
-parent: "IDocumentChangeRequestService սերվիս"
+parent: "IDocumentChangeRequestService"
 ---
 
 # Մեթոդներ

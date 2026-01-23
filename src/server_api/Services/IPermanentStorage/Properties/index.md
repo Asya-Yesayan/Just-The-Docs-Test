@@ -1,6 +1,6 @@
 ---
 title: Հատկություններ
-parent: "IPermanentStorageService սերվիս"
+parent: "IPermanentStorageService"
 ---
 
 # Հատկություններ

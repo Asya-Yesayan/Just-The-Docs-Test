@@ -1,7 +1,7 @@
 ---
 title: Add(AttachmentAddModel)
 parent: "Մեթոդներ"
-grand_parent: "IAttachmentService սերվիս"
+grand_parent: "IAttachmentService"
 ---
 
 # IAttachmentService.Add(AttachmentAddModel) մեթոդ

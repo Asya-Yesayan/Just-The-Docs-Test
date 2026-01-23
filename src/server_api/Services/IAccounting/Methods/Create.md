@@ -1,7 +1,7 @@
 ﻿---
 title: Create(string)
 parent: "Մեթոդներ"
-grand_parent: "IAccountingService սերվիս"
+grand_parent: "IAccountingService"
 ---
 
 ## Նկարագիր

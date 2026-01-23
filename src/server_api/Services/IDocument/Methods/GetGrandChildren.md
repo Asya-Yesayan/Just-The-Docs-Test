@@ -1,7 +1,7 @@
 ---
 title: GetGrandChildren(int, string, string, string, string)
 parent: "Մեթոդներ"
-grand_parent: "IDocumentService սերվիս"
+grand_parent: "IDocumentService"
 ---
 
 # IDocumentService.GetGrandChildren(int, string, string, string, string) մեթոդ

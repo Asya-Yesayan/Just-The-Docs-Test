@@ -1,6 +1,6 @@
 ---
 title: Մեթոդներ
-parent: "LanguageService սերվիս"
+parent: "LanguageService"
 ---
 
 # Մեթոդներ

@@ -1,7 +1,7 @@
 ---
 title: ExistsInDB(string, string)
 parent: "Մեթոդներ"
-grand_parent: "TreeElementsService սերվիս"
+grand_parent: "TreeElementsService"
 ---
 
 # TreeElementsService.ExistsInDB(string, string) մեթոդ

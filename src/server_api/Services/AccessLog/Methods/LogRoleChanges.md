@@ -1,7 +1,7 @@
 ---
 title: LogRoleChanges(HashSet<string>, HashSet<string>, short)
 parent: "Մեթոդներ"
-grand_parent: "AccessLogService սերվիս"
+grand_parent: "AccessLogService"
 ---
 
 # AccessLogService.LogRoleChanges(HashSet<string>, HashSet<string>, short) մեթոդ

@@ -1,6 +1,6 @@
 ---
 title: Մեթոդներ
-parent: "IAttachmentService սերվիս"
+parent: "IAttachmentService"
 ---
 
 # Մեթոդներ

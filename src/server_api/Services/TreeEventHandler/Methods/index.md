@@ -1,6 +1,6 @@
 ---
 title: Մեթոդներ
-parent: TreeEventHandler սերվիս
+parent: TreeEventHandler
 ---
 
 # Մեթոդներ

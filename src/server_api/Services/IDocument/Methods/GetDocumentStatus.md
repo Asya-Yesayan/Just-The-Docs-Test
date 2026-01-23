@@ -1,7 +1,7 @@
 ---
 title: GetDocumentStatus(string, int)
 parent: "Մեթոդներ"
-grand_parent: "IDocumentService սերվիս"
+grand_parent: "IDocumentService"
 ---
 
 # IDocumentService.GetDocumentStatus(string, int) մեթոդ

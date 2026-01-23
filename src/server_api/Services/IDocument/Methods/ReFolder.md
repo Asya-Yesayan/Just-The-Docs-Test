@@ -1,7 +1,7 @@
 ---
 title: ReFolder(Document, StoreMode)
 parent: "Մեթոդներ"
-grand_parent: "IDocumentService սերվիս"
+grand_parent: "IDocumentService"
 ---
 
 # IDocumentService.ReFolder(Document, StoreMode) մեթոդ

@@ -1,7 +1,7 @@
 ﻿---
 title: Write
 parent: "Մեթոդներ"
-grand_parent: "AppLogService սերվիս"
+grand_parent: "AppLogService"
 ---
 
 ## Նկարագիր

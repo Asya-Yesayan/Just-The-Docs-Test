@@ -1,5 +1,5 @@
 ---
-title: WebServicesManager սերվիս
+title: WebServicesManager
 parent: "Սերվիսներ"
 nav_order: 2
 ---

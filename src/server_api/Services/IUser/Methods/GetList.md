@@ -1,7 +1,7 @@
 ---
 title: GetList()
 parent: "Մեթոդներ"
-grand_parent: "IUserService սերվիս"
+grand_parent: "IUserService"
 ---
 
 # IUserService.GetList() մեթոդ

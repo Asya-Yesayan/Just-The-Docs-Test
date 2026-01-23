@@ -1,7 +1,7 @@
 ---
 title: CurrentSessionGuid
 parent: "Հատկություններ"
-grand_parent: "ISessionInfoService սերվիս"
+grand_parent: "ISessionInfoService"
 ---
 
 # ISessionInfoService.CurrentSessionGuid հատկություն

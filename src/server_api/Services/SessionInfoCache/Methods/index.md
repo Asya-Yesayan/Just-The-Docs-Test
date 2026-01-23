@@ -1,6 +1,6 @@
 ---
 title: Մեթոդներ
-parent: SessionInfoCacheService սերվիս
+parent: SessionInfoCacheService
 ---
 
 # Մեթոդներ

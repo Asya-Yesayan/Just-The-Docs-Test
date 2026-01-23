@@ -1,7 +1,7 @@
 ---
 title: SetValue(string, object)
 parent: "Մեթոդներ"
-grand_parent: "IParametersService սերվիս"
+grand_parent: "IParametersService"
 ---
 
 # IParametersService.SetValue(string, object) մեթոդ

@@ -1,7 +1,7 @@
 ---
 title: GetSqlRelatedException(SqlException, string, bool)
 parent: "Մեթոդներ"
-grand_parent: "IErrorHandlingService սերվիս"
+grand_parent: "IErrorHandlingService"
 ---
 
 # IErrorHandlingService.GetSqlRelatedException(SqlException, string, bool) մեթոդ

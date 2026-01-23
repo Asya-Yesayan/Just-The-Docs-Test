@@ -1,7 +1,7 @@
 ---
 title: EditNode(TreeElement)
 parent: "Մեթոդներ"
-grand_parent: "TreeElementsService սերվիս"
+grand_parent: "TreeElementsService"
 ---
 
 # TreeElementsService.EditNode(TreeElement) մեթոդ

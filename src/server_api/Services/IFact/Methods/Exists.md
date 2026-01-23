@@ -1,7 +1,7 @@
 ---
 title: Exists(int, int, string, string, bool)
 parent: "Մեթոդներ"
-grand_parent: "IFactService սերվիս"
+grand_parent: "IFactService"
 ---
 
 # IFactService.Exists(int, int, string, string, bool) մեթոդ

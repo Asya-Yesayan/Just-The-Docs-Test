@@ -1,7 +1,7 @@
 ---
 title: MakeParentLink(Document, int, bool)
 parent: "Մեթոդներ"
-grand_parent: "IDocumentService սերվիս"
+grand_parent: "IDocumentService"
 ---
 
 # IDocumentService.MakeParentLink(Document, int, bool) մեթոդ

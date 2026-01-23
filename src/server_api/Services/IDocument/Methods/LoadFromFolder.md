@@ -1,7 +1,7 @@
 ---
 title: LoadFromFolder
 parent: "Մեթոդներ"
-grand_parent: "IDocumentService սերվիս"
+grand_parent: "IDocumentService"
 ---
 
 # IDocumentService.LoadFromFolder մեթոդ

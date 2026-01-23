@@ -1,5 +1,5 @@
 ---
-title: "LiteDocumentService սերվիս"
+title: "LiteDocumentService"
 parent: "Սերվիսներ"
 nav_order: 2
 ---

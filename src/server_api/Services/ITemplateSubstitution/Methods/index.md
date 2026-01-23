@@ -1,6 +1,6 @@
 ---
 title: Մեթոդներ
-parent: "ITemplateSubstitutionService սերվիս"
+parent: "ITemplateSubstitutionService"
 ---
 
 # Մեթոդներ

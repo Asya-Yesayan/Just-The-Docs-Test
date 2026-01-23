@@ -1,7 +1,7 @@
 ---
 title: IsArmenian
 parent: "Հատկություններ"
-grand_parent: "LanguageService սերվիս"
+grand_parent: "LanguageService"
 ---
 
 # LanguageService.IsArmenian հատկություն

@@ -1,7 +1,7 @@
 ---
 title: Connection
 parent: "Հատկություններ"
-grand_parent: "IOlapDBService սերվիս"
+grand_parent: "IOlapDBService"
 ---
 
 # IOlapDBService.Connection հատկություն

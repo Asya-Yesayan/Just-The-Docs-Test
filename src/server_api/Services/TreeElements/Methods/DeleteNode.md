@@ -1,7 +1,7 @@
 ---
 title: DeleteNode(string, string)
 parent: "Մեթոդներ"
-grand_parent: "TreeElementsService սերվիս"
+grand_parent: "TreeElementsService"
 ---
 
 # TreeElementsService.DeleteNode(string, string) մեթոդ

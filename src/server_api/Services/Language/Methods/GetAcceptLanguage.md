@@ -1,7 +1,7 @@
 ---
 title: GetAcceptLanguage(CultureInfo)
 parent: "Մեթոդներ"
-grand_parent: "LanguageService սերվիս"
+grand_parent: "LanguageService"
 ---
 
 # LanguageService.GetAcceptLanguage(CultureInfo) մեթոդ

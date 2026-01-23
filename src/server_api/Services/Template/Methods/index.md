@@ -1,6 +1,6 @@
 ---
 title: Մեթոդներ
-parent: "TemplateService սերվիս"
+parent: "TemplateService"
 ---
 
 # Մեթոդներ

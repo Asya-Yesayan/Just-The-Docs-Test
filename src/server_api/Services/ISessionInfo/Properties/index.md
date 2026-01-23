@@ -1,6 +1,6 @@
 ---
 title: Հատկություններ
-parent: "ISessionInfoService սերվիս"
+parent: "ISessionInfoService"
 ---
 
 # Հատկություններ

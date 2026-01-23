@@ -1,7 +1,7 @@
 ---
 title: GetRemHI2(string, int, int, DateTime?)
 parent: "Մեթոդներ"
-grand_parent: "IKernelService սերվիս"
+grand_parent: "IKernelService"
 ---
 
 # IKernelService.GetRemHI2(string, int, int, DateTime?) մեթոդ

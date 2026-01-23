@@ -1,7 +1,7 @@
 ---
 title: UploadBlobAsync
 parent: "Մեթոդներ"
-grand_parent: "IStorageService սերվիս"
+grand_parent: "IStorageService"
 ---
 
 # IStorageService.UploadBlobAsync մեթոդ

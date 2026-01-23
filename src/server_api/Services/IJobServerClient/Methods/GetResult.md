@@ -1,7 +1,7 @@
 ---
 title: GetResult(Guid)
 parent: "Մեթոդներ"
-grand_parent: "IProcessServerClient սերվիս"
+grand_parent: "IProcessServerClient"
 ---
 
 # IProcessServerClient.GetResult(Guid) մեթոդ

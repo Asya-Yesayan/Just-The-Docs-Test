@@ -1,7 +1,7 @@
 ---
 title: Get(string, string)
 parent: "Մեթոդներ"
-grand_parent: "WebServicesManager սերվիս"
+grand_parent: "WebServicesManager"
 ---
 
 # WebServicesManager.Get(string, string) մեթոդ

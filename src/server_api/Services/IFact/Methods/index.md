@@ -1,6 +1,6 @@
 ---
 title: Մեթոդներ
-parent: "IFactService սերվիս"
+parent: "IFactService"
 ---
 
 # Մեթոդներ

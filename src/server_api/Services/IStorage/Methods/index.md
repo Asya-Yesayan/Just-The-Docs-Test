@@ -1,6 +1,6 @@
 ---
 title: Մեթոդներ
-parent: "IStorageService սերվիս"
+parent: "IStorageService"
 ---
 
 # Մեթոդներ

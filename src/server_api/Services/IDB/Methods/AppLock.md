@@ -1,7 +1,7 @@
 ---
 title: AppLock(string, string, string, string, int, string)
 parent: "Մեթոդներ"
-grand_parent: "IDBService սերվիս"
+grand_parent: "IDBService"
 ---
 
 # IDBService.AppLock(string, string, string, string, int, string) մեթոդ

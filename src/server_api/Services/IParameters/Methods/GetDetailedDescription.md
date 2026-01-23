@@ -1,7 +1,7 @@
 ---
 title: GetDetailedDescription(string)
 parent: "Մեթոդներ"
-grand_parent: "IParametersService սերվիս"
+grand_parent: "IParametersService"
 ---
 
 # IParametersService.GetDetailedDescription(string) մեթոդ

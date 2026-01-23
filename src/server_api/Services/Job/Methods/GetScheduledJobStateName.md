@@ -1,7 +1,7 @@
 ---
 title: GetScheduledJobStateName(int)
 parent: "Մեթոդներ"
-grand_parent: JobService սերվիս
+grand_parent: JobService
 ---
 
 # JobService.GetScheduledJobStateName(int) մեթոդ

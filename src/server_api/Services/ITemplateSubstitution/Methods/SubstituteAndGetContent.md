@@ -1,7 +1,7 @@
 ---
 title: SubstituteAndGetContent(IPrintTemplateSubstitution, byte[], SubstitutionType, HtmlImageOption, bool, bool)
 parent: "Մեթոդներ"
-grand_parent: "ITemplateSubstitutionService սերվիս"
+grand_parent: "ITemplateSubstitutionService"
 ---
 
 # ITemplateSubstitutionService.SubstituteAndGetContent(IPrintTemplateSubstitution, byte[], SubstitutionType, HtmlImageOption, bool, bool) մեթոդ

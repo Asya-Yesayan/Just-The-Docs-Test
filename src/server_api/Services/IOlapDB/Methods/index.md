@@ -1,6 +1,6 @@
 ---
 title: Մեթոդներ
-parent: "IOlapDBService սերվիս"
+parent: "IOlapDBService"
 ---
 
 # Մեթոդներ

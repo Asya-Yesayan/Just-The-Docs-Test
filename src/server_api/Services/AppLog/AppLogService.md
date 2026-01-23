@@ -1,5 +1,5 @@
 ---
-title: "AppLogService սերվիս"
+title: "AppLogService"
 parent: "Սերվիսներ"
 nav_order: 2
 ---

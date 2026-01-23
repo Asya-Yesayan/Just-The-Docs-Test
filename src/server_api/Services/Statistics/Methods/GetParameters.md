@@ -1,7 +1,7 @@
 ---
 title: GetParameters(string)
 parent: "Մեթոդներ"
-grand_parent: "StatisticsService սերվիս"
+grand_parent: "StatisticsService"
 
 ---
 

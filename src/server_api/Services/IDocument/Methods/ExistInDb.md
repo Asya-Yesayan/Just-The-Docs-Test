@@ -1,7 +1,7 @@
 ---
 title: ExistInDb(int)
 parent: "Մեթոդներ"
-grand_parent: "IDocumentService սերվիս"
+grand_parent: "IDocumentService"
 ---
 
 # IDocumentService.ExistInDb(int) մեթոդ

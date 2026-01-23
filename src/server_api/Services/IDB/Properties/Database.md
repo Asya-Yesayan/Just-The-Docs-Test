@@ -1,7 +1,7 @@
 ---
 title: Database
 parent: "Հատկություններ"
-grand_parent: "IDBService սերվիս"
+grand_parent: "IDBService"
 ---
 
 # IDBService.Database հատկություն

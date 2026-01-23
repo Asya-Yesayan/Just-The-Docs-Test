@@ -1,7 +1,7 @@
 ---
 title: Copy(int, object, int)
 parent: "Մեթոդներ"
-grand_parent: "IDocumentService սերվիս"
+grand_parent: "IDocumentService"
 ---
 
 # IDocumentService.Copy(int, object, int) մեթոդ

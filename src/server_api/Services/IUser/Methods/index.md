@@ -1,6 +1,6 @@
 ---
 title: Մեթոդներ
-parent: "IUserService սերվիս"
+parent: "IUserService"
 ---
 
 # Մեթոդներ

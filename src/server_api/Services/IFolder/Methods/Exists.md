@@ -1,7 +1,7 @@
 ---
 title: Exists(string)
 parent: "Մեթոդներ"
-grand_parent: "IFolderService սերվիս"
+grand_parent: "IFolderService"
 ---
 
 # IFolderService.Exists(string) մեթոդ

@@ -1,7 +1,7 @@
 ---
 title: LookUpInCache
 parent: "Մեթոդներ"
-grand_parent: "LiteDocumentService սերվիս"
+grand_parent: "LiteDocumentService"
 ---
 
 # LiteDocumentService.LookUpInCache մեթոդ

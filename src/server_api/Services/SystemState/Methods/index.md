@@ -1,6 +1,6 @@
 ---
 title: Մեթոդներ
-parent: "SystemStateService սերվիս"
+parent: "SystemStateService"
 ---
 
 # Մեթոդներ

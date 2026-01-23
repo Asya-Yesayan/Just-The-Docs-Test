@@ -1,7 +1,7 @@
 ---
 title: EvalAndAddUserDefinedParameters(string, SubstitutionType, PrintTemplateSubstitution, Document.Document)
 parent: "Մեթոդներ"
-grand_parent: "ITemplateSubstitutionService սերվիս"
+grand_parent: "ITemplateSubstitutionService"
 ---
 
 # ITemplateSubstitutionService.EvalAndAddUserDefinedParameters(string, SubstitutionType, PrintTemplateSubstitution, Document.Document) մեթոդ

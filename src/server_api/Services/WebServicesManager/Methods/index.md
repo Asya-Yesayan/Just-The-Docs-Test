@@ -1,6 +1,6 @@
 ---
 title: Մեթոդներ
-parent: WebServicesManager սերվիս
+parent: WebServicesManager
 ---
 
 # Մեթոդներ

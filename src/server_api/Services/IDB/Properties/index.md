@@ -1,6 +1,6 @@
 ---
 title: Հատկություններ
-parent: "IDBService սերվիս"
+parent: "IDBService"
 ---
 
 # Հատկություններ

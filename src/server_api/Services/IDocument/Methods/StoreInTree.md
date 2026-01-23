@@ -1,7 +1,7 @@
 ---
 title: StoreInTree(Document, TreeElement)
 parent: "Մեթոդներ"
-grand_parent: "IDocumentService սերվիս"
+grand_parent: "IDocumentService"
 ---
 
 # IDocumentService.StoreInTree(Document, TreeElement) մեթոդ

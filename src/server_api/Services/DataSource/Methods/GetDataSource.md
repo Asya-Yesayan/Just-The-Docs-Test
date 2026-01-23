@@ -1,7 +1,7 @@
 ---
 title: GetDataSource
 parent: "Մեթոդներ"
-grand_parent: "DataSourceService սերվիս"
+grand_parent: "DataSourceService"
 ---
 
 # DataSourceService.GetDataSource մեթոդ

@@ -1,6 +1,6 @@
 ---
 title: Մեթոդներ
-parent: "IDocumentService սերվիս"
+parent: "IDocumentService"
 ---
 
 # Մեթոդներ

@@ -1,7 +1,7 @@
 ---
 title: NestedTransactions(Document, List<T>, TextReport,bool, bool)
 parent: "Մեթոդներ"
-grand_parent: "IDocumentService սերվիս"
+grand_parent: "IDocumentService"
 ---
 
 # IDocumentService.NestedTransactions(Document, List<T>, TextReport,bool, bool) մեթոդ

@@ -1,7 +1,7 @@
 ---
 title: GetBooleanValue
 parent: "Մեթոդներ"
-grand_parent: "IParametersService սերվիս"
+grand_parent: "IParametersService"
 ---
 
 # IParametersService.GetBooleanValue մեթոդ

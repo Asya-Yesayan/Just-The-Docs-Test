@@ -1,7 +1,7 @@
 ---
 title: CreateAdditionalConnection(bool, string, bool)
 parent: "Մեթոդներ"
-grand_parent: "IDBService սերվիս"
+grand_parent: "IDBService"
 ---
 
 # IDBService.CreateAdditionalConnection(bool, string, bool) մեթոդ

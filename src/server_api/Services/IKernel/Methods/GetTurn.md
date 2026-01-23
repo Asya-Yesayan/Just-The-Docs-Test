@@ -1,7 +1,7 @@
 ---
 title: GetTurn(string, int, DateTime, DateTime, string)
 parent: "Մեթոդներ"
-grand_parent: "IKernelService սերվիս"
+grand_parent: "IKernelService"
 ---
 
 # IKernelService.GetTurn(string, int, DateTime, DateTime, string) մեթոդ

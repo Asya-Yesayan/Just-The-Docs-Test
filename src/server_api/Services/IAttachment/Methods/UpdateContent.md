@@ -1,7 +1,7 @@
 ---
 title: UpdateContent(AttachmentContentModel)
 parent: "Մեթոդներ"
-grand_parent: "IAttachmentService սերվիս"
+grand_parent: "IAttachmentService"
 ---
 
 # IAttachmentService.UpdateContent(AttachmentContentModel) մեթոդ

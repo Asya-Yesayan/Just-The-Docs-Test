@@ -1,7 +1,7 @@
 ---
 title: CreateParentLinkDB(int, int)
 parent: "Մեթոդներ"
-grand_parent: "IDocumentService սերվիս"
+grand_parent: "IDocumentService"
 ---
 
 # IDocumentService.CreateParentLinkDB(int, int) մեթոդ

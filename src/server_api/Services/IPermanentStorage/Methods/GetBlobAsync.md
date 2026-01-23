@@ -1,7 +1,7 @@
 ---
 title: GetBlobAsync(string, string, CancellationToken)
 parent: "Մեթոդներ"
-grand_parent: "IPermanentStorageService սերվիս"
+grand_parent: "IPermanentStorageService"
 ---
 
 # IPermanentStorageService.GetBlobAsync(string, string, CancellationToken) մեթոդ

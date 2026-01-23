@@ -1,7 +1,7 @@
 ---
 title: BeginTrans()
 parent: "Մեթոդներ"
-grand_parent: "IOlapDBService սերվիս"
+grand_parent: "IOlapDBService"
 ---
 
 # IOlapDBService.BeginTrans() մեթոդ

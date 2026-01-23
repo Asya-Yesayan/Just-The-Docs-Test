@@ -1,7 +1,7 @@
 ---
 title: GetStringValue
 parent: "Մեթոդներ"
-grand_parent: "IParametersService սերվիս"
+grand_parent: "IParametersService"
 ---
 
 # IParametersService.GetStringValue մեթոդ

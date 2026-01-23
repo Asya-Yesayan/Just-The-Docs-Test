@@ -1,7 +1,7 @@
 ---
 title: RollBackTrans()
 parent: "Մեթոդներ"
-grand_parent: "IDBService սերվիս"
+grand_parent: "IDBService"
 ---
 
 # IDBService.RollBackTrans() մեթոդ

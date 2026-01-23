@@ -1,7 +1,7 @@
 ---
 title: RemoveFromCache
 parent: "Մեթոդներ"
-grand_parent: "LiteDocumentService սերվիս"
+grand_parent: "LiteDocumentService"
 ---
 
 # LiteDocumentService.RemoveFromCache մեթոդ

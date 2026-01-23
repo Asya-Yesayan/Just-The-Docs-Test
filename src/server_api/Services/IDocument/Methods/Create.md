@@ -1,7 +1,7 @@
 ---
 title: Create
 parent: "Մեթոդներ"
-grand_parent: "IDocumentService սերվիս"
+grand_parent: "IDocumentService"
 ---
 
 # IDocumentService.Create մեթոդ

@@ -1,5 +1,5 @@
 ---
-title: "IOlapDBService սերվիս"
+title: "IOlapDBService"
 parent: "Սերվիսներ"
 nav_order: 2
 ---

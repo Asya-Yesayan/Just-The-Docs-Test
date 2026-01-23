@@ -1,7 +1,7 @@
 ---
 title: GetDefinition(string, bool)
 parent: "Մեթոդներ"
-grand_parent: "DataSourceService սերվիս"
+grand_parent: "DataSourceService"
 ---
 
 # DataSourceService.GetDefinition(string, bool) մեթոդ

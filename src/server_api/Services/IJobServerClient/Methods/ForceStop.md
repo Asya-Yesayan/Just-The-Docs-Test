@@ -1,7 +1,7 @@
 ---
 title: ForceStop(Guid, string)
 parent: "Մեթոդներ"
-grand_parent: "IProcessServerClient սերվիս"
+grand_parent: "IProcessServerClient"
 ---
 
 # IProcessServerClient.ForceStop(Guid, string) մեթոդ

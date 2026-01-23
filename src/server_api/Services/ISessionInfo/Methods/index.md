@@ -1,6 +1,6 @@
 ---
 title: Մեթոդներ
-parent: "ISessionInfoService սերվիս"
+parent: "ISessionInfoService"
 ---
 
 # Մեթոդներ

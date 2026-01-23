@@ -1,7 +1,7 @@
 ---
 title: CreateFactsUsingStateMoverFrom(Document, int)
 parent: "Մեթոդներ"
-grand_parent: "IDocumentService սերվիս"
+grand_parent: "IDocumentService"
 ---
 
 # IDocumentService.CreateFactsUsingStateMoverFrom(Document, int) մեթոդ

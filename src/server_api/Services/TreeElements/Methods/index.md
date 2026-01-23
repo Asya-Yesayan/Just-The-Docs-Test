@@ -1,6 +1,6 @@
 ---
 title: Մեթոդներ
-parent: "TreeElementsService սերվիս"
+parent: "TreeElementsService"
 ---
 
 # Մեթոդներ

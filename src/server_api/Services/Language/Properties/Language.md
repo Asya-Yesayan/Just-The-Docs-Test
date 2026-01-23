@@ -1,7 +1,7 @@
 ---
 title: Language
 parent: "Հատկություններ"
-grand_parent: "LanguageService սերվիս"
+grand_parent: "LanguageService"
 ---
 
 # LanguageService.Language հատկություն

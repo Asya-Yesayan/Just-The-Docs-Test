@@ -1,7 +1,7 @@
 ---
 title: GetTurnHI2(string, int, int, DateTime, DateTime, string, int)
 parent: "Մեթոդներ"
-grand_parent: "IKernelService սերվիս"
+grand_parent: "IKernelService"
 ---
 
 # IKernelService.GetTurnHI2(string, int, int, DateTime, DateTime, string, int) մեթոդ

@@ -1,7 +1,7 @@
 ---
 title: Connection
 parent: "Հատկություններ"
-grand_parent: "IDBService սերվիս"
+grand_parent: "IDBService"
 ---
 
 # IDBService.Connection հատկություն

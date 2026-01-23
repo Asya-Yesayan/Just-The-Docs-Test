@@ -1,7 +1,7 @@
 ---
 title: CheckProcessingMode(string)
 parent: "Մեթոդներ"
-grand_parent: "IDocumentService սերվիս"
+grand_parent: "IDocumentService"
 ---
 
 # IDocumentService.CheckProcessingMode(string) մեթոդ

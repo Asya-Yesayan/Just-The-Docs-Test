@@ -1,7 +1,7 @@
 ---
 title: Get(string, string, bool)
 parent: "Մեթոդներ"
-grand_parent: "TreeElementsService սերվիս"
+grand_parent: "TreeElementsService"
 ---
 
 # TreeElementsService.Get(string, string, bool) մեթոդ

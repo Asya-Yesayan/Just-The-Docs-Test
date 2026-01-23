@@ -1,7 +1,7 @@
 ---
 title: IsEnglish
 parent: "Հատկություններ"
-grand_parent: "LanguageService սերվիս"
+grand_parent: "LanguageService"
 ---
 
 # LanguageService.IsEnglish հատկություն

@@ -1,6 +1,6 @@
 ---
 title: Մեթոդներ
-parent: "IHolidaysService սերվիս"
+parent: "IHolidaysService"
 ---
 
 # Մեթոդներ

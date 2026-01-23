@@ -1,7 +1,7 @@
 ---
 title: ForceToRelogin(bool)
 parent: "Մեթոդներ"
-grand_parent: "SystemStateService սերվիս"
+grand_parent: "SystemStateService"
 
 ---
 

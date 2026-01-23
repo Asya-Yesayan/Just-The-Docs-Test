@@ -1,7 +1,7 @@
 ---
 title: Load
 parent: "Մեթոդներ"
-grand_parent: "IDocumentService սերվիս"
+grand_parent: "IDocumentService"
 ---
 
 # IDocumentService.Load մեթոդ

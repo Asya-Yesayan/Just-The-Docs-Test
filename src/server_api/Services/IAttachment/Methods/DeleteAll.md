@@ -1,7 +1,7 @@
 ﻿---
 title: DeleteAll(int)
 parent: "Մեթոդներ"
-grand_parent: "IAttachmentService սերվիս"
+grand_parent: "IAttachmentService"
 ---
 
 ## Նկարագիր

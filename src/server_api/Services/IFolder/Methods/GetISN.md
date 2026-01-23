@@ -1,7 +1,7 @@
 ---
 title: GetISN(string, string)
 parent: "Մեթոդներ"
-grand_parent: "IFolderService սերվիս"
+grand_parent: "IFolderService"
 ---
 
 # IFolderService.GetISN(string, string) մեթոդ

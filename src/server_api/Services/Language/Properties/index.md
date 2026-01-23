@@ -1,6 +1,6 @@
 ---
 title: Հատկություններ
-parent: "LanguageService սերվիս"
+parent: "LanguageService"
 ---
 
 # Հատկություններ

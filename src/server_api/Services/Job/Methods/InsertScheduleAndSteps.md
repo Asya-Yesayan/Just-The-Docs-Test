@@ -1,7 +1,7 @@
 ---
 title: InsertScheduleAndSteps(ScheduledJob)
 parent: "Մեթոդներ"
-grand_parent: JobService սերվիս
+grand_parent: JobService
 ---
 
 # JobService.InsertScheduleAndSteps(ScheduledJob) մեթոդ

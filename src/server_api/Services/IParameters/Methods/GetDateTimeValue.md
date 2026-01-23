@@ -1,7 +1,7 @@
 ---
 title: GetDateTimeValue
 parent: "Մեթոդներ"
-grand_parent: "IParametersService սերվիս"
+grand_parent: "IParametersService"
 ---
 
 # IParametersService.GetDateTimeValue մեթոդ

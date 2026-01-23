@@ -1,6 +1,6 @@
 ---
 title: Մեթոդներ
-parent: FieldType4XCompatibleValidatorService սերվիս
+parent: FieldType4XCompatibleValidatorService
 ---
 
 # Մեթոդներ

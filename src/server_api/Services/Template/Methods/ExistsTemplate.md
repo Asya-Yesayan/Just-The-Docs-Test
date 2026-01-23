@@ -1,7 +1,7 @@
 ---
 title: ExistsTemplate(string, string)
 parent: "Մեթոդներ"
-grand_parent: "TemplateService սերվիս"
+grand_parent: "TemplateService"
 
 ---
 

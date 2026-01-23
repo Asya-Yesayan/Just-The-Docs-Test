@@ -1,7 +1,7 @@
 ---
 title: IsValid(FieldType)
 parent: "Մեթոդներ"
-grand_parent: FieldType4XCompatibleValidatorService սերվիս
+grand_parent: FieldType4XCompatibleValidatorService
 ---
 
 # FieldType4XCompatibleValidatorService.IsValid(FieldType) մեթոդ
