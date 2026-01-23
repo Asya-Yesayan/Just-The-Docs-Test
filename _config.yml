@@ -28,6 +28,7 @@ back_to_top: true
 back_to_top_text: "↑ Back to top"
 
 color_scheme: light
+footer_content: "AS-8X API Documentation"
 
 callouts_level: quiet # or loud
 callouts:
