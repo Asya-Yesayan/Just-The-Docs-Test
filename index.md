@@ -5,6 +5,7 @@ nav_order: 1
 type: default
 slug: home
 permalink: /
+nav_exclude: true
 ---
 
 # AS-8X ձեռնարկ
