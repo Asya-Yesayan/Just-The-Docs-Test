@@ -1,0 +1,42 @@
+/* Container for the sidebar */
+.in-this-article {
+    display: none; /* Hidden on small screens */
+}
+
+@media (min-width: 80rem) { /* Only show on wide screens */
+    .in-this-article {
+        display: block;
+        position: fixed;
+        right: 20px;
+        top: 100px;
+        width: 200px;
+        padding-left: 1rem;
+        border-left: 1px solid #eee; /* The vertical line from your image */
+        font-size: 0.85rem;
+    }
+
+    .in-this-article p {
+        font-weight: bold;
+        margin-bottom: 10px;
+        text-transform: none;
+    }
+
+    .in-this-article ul {
+        list-style: none;
+        padding-left: 0;
+    }
+
+    .in-this-article li {
+        margin-bottom: 8px;
+    }
+
+    .in-this-article a {
+        color: #555;
+        text-decoration: none;
+    }
+
+    .in-this-article a:hover {
+        text-decoration: underline;
+        color: #0056b3;
+    }
+}

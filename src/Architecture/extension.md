@@ -16,8 +16,11 @@ nav_order: 2
 ## Բովանդակություն
 {: .no_toc }
 
+<div id="in-this-article" class="in-this-article">
+  <p class="text-delta">Բովանդակություն</p>
 - TOC
 {:toc}
+</div>
 
 ## Ի՞նչ է ընդլայնումը
 
