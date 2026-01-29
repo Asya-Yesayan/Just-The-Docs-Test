@@ -52,6 +52,8 @@ defaults:
     values:
       layout: "page"
 
+toc: true
+
 versions:
   - id: bank
     product: "ՀԾ-Բանկ"
