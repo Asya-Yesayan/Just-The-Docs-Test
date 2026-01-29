@@ -16,7 +16,7 @@ nav_order: 2
 ## Բովանդակություն
 {: .no_toc }
 
-<div id="in-this-article" class="in-this-article">
+<div id="in-this-article" class="in-this-article" markdown="1">
   <p class="text-delta">Բովանդակություն</p>
 - TOC
 {:toc}
