@@ -1,9 +1,9 @@
-/* Table of Contents Sidebar - APPROACH 1 (Wrapper Method with Flexbox) */
+/* Table of Contents Sidebar - APPROACH 1 (Wrapper Method with Flexbox) - OPTIMIZED */
 
 /* Create flex container for main content and TOC */
 .main-content-wrapper {
   display: flex;
-  gap: 2rem;
+  gap: 1rem; /* Reduced gap from 2rem to 1rem */
   align-items: flex-start;
   position: relative;
 }
@@ -12,6 +12,7 @@
 .main-content-wrapper > .main-content {
   flex: 1;
   min-width: 0; /* Prevents flex item from overflowing */
+  max-width: calc(100% - 200px); /* Limit max width to leave room for TOC */
 }
 
 .toc-sidebar {
@@ -20,23 +21,23 @@
   max-height: calc(100vh - 4rem);
   overflow-y: auto;
   overflow-x: hidden;
-  width: 240px;
+  width: 180px; /* Reduced from 240px to 180px */
   flex-shrink: 0;
-  padding: 1rem 0 1rem 1.5rem;
-  margin-left: 1rem;
+  padding: 1rem 0 1rem 1rem; /* Reduced padding */
+  margin-left: 0.5rem; /* Reduced margin */
   border-left: 1px solid var(--border-color, #d0d7de);
-  font-size: 0.875rem;
-  line-height: 1.5;
+  font-size: 0.8125rem; /* Slightly smaller font */
+  line-height: 1.4;
 }
 
 .toc-title {
   font-weight: 600;
-  font-size: 0.75rem;
-  margin-bottom: 0.75rem;
+  font-size: 0.7rem; /* Smaller title */
+  margin-bottom: 0.625rem;
   color: var(--body-text-color, #24292f);
   text-transform: uppercase;
   letter-spacing: 0.05em;
-  padding-left: 0.75rem;
+  padding-left: 0.5rem; /* Reduced padding */
 }
 
 .toc-list {
@@ -46,20 +47,21 @@
 }
 
 .toc-item {
-  margin: 0.25rem 0;
+  margin: 0.2rem 0; /* Reduced margin */
   padding-left: 0;
-  line-height: 1.4;
+  line-height: 1.3;
 }
 
 .toc-link {
   display: block;
-  padding: 0.25rem 0.5rem 0.25rem 0.75rem;
+  padding: 0.2rem 0.4rem 0.2rem 0.5rem; /* Reduced padding */
   color: var(--link-color, #0969da);
   text-decoration: none;
   border-left: 2px solid transparent;
   margin-left: -2px;
   transition: all 0.2s ease;
   word-wrap: break-word;
+  font-size: 0.8125rem; /* Smaller font */
 }
 
 .toc-link:hover {
@@ -75,21 +77,21 @@
   background-color: var(--sidebar-active-bg, rgba(0, 0, 0, 0.05));
 }
 
-/* Indentation for nested headings */
+/* Indentation for nested headings - reduced */
 .toc-item.toc-h3 .toc-link {
-  padding-left: 1.25rem;
+  padding-left: 0.875rem;
 }
 
 .toc-item.toc-h4 .toc-link {
-  padding-left: 1.75rem;
+  padding-left: 1.25rem;
 }
 
 .toc-item.toc-h5 .toc-link {
-  padding-left: 2.25rem;
+  padding-left: 1.625rem;
 }
 
 .toc-item.toc-h6 .toc-link {
-  padding-left: 2.75rem;
+  padding-left: 2rem;
 }
 
 /* Responsive: Hide TOC on smaller screens */
@@ -104,6 +106,7 @@
   
   .main-content-wrapper > .main-content {
     width: 100%;
+    max-width: 100%;
   }
 }
 
@@ -114,7 +117,7 @@
 
 /* Scrollbar styling for TOC */
 .toc-sidebar::-webkit-scrollbar {
-  width: 6px;
+  width: 5px; /* Thinner scrollbar */
 }
 
 .toc-sidebar::-webkit-scrollbar-track {
