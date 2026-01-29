@@ -1,11 +1,27 @@
-// Generate table of contents from page headings
+// Generate table of contents from page headings - APPROACH 1 (Wrapper Method)
 (function() {
   function generateTOC() {
+    // Find the main content area - Just the Docs uses .main-content
     const mainContent = document.querySelector('.main-content');
     if (!mainContent) return;
 
     const headings = mainContent.querySelectorAll('h1, h2, h3, h4, h5, h6');
     if (headings.length === 0) return;
+
+    // Filter out headings - skip first h1 if it's the page title
+    const validHeadings = Array.from(headings).filter((heading, index) => {
+      if (index === 0 && heading.tagName === 'H1') {
+        return false;
+      }
+      return true;
+    });
+
+    if (validHeadings.length === 0) return;
+
+    // Check if TOC already exists
+    if (document.getElementById('toc-sidebar')) {
+      return;
+    }
 
     // Create TOC container
     const tocContainer = document.createElement('div');
@@ -14,22 +30,22 @@
 
     const tocTitle = document.createElement('div');
     tocTitle.className = 'toc-title';
-    tocTitle.textContent = 'In this article';
+    tocTitle.textContent = 'IN THIS ARTICLE';
     tocContainer.appendChild(tocTitle);
 
     const tocList = document.createElement('ul');
     tocList.className = 'toc-list';
 
-    headings.forEach((heading, index) => {
-      // Skip the first h1 if it's the page title
-      if (index === 0 && heading.tagName === 'H1') {
-        return;
-      }
-
-      // Ensure heading has an ID
+    validHeadings.forEach((heading, index) => {
+      // Ensure heading has an ID (Jekyll/Just the Docs should add these automatically)
       if (!heading.id) {
-        heading.id = 'heading-' + index + '-' + heading.textContent.toLowerCase()
-          .replace(/[^a-z0-9]+/g, '-')
+        // Create a safe ID from the heading text
+        heading.id = 'heading-' + index + '-' + heading.textContent
+          .toLowerCase()
+          .trim()
+          .replace(/[^\w\s-]/g, '')
+          .replace(/\s+/g, '-')
+          .replace(/-+/g, '-')
           .replace(/^-|-$/g, '');
       }
 
@@ -38,43 +54,67 @@
 
       const link = document.createElement('a');
       link.href = '#' + heading.id;
-      link.textContent = heading.textContent;
+      link.textContent = heading.textContent.trim();
       link.className = 'toc-link';
+
+      // Smooth scroll behavior
+      link.addEventListener('click', function(e) {
+        e.preventDefault();
+        const target = document.getElementById(heading.id);
+        if (target) {
+          const offset = 80; // Account for fixed header
+          const targetPosition = target.getBoundingClientRect().top + window.pageYOffset - offset;
+          window.scrollTo({
+            top: targetPosition,
+            behavior: 'smooth'
+          });
+          // Update URL without jumping
+          history.pushState(null, null, '#' + heading.id);
+        }
+      });
 
       listItem.appendChild(link);
       tocList.appendChild(listItem);
     });
 
-    if (tocList.children.length > 0) {
-      tocContainer.appendChild(tocList);
-      
-      // Insert TOC after main content wrapper or in a specific location
-      const mainWrapper = document.querySelector('.main-content-wrap') || 
-                         document.querySelector('.main') ||
-                         document.body;
-      
-      // Try to find the right sidebar area or create one
-      let sidebar = document.querySelector('.toc-sidebar-container');
-      if (!sidebar) {
-        sidebar = document.createElement('div');
-        sidebar.className = 'toc-sidebar-container';
-        mainWrapper.appendChild(sidebar);
-      }
-      sidebar.appendChild(tocContainer);
+    tocContainer.appendChild(tocList);
 
-      // Highlight active section on scroll
-      highlightActiveSection();
-      window.addEventListener('scroll', highlightActiveSection);
+    // Wrap main content and TOC in a flex container if not already wrapped
+    let contentWrapper = mainContent.closest('.main-content-wrapper');
+    if (!contentWrapper) {
+      contentWrapper = document.createElement('div');
+      contentWrapper.className = 'main-content-wrapper';
+      
+      // Insert wrapper before mainContent
+      mainContent.parentNode.insertBefore(contentWrapper, mainContent);
+      // Move mainContent into wrapper
+      contentWrapper.appendChild(mainContent);
     }
+
+    // Append TOC to the wrapper (will be positioned by CSS)
+    contentWrapper.appendChild(tocContainer);
+
+    // Highlight active section on scroll
+    highlightActiveSection();
+    let scrollTimeout;
+    window.addEventListener('scroll', function() {
+      if (scrollTimeout) {
+        window.cancelAnimationFrame(scrollTimeout);
+      }
+      scrollTimeout = window.requestAnimationFrame(highlightActiveSection);
+    });
   }
 
   function highlightActiveSection() {
-    const headings = document.querySelectorAll('.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6');
+    const headings = document.querySelectorAll('.main-content h1[id], .main-content h2[id], .main-content h3[id], .main-content h4[id], .main-content h5[id], .main-content h6[id]');
     const tocLinks = document.querySelectorAll('.toc-link');
     
-    let currentSection = '';
-    const scrollPosition = window.scrollY + 100; // Offset for header
+    if (headings.length === 0 || tocLinks.length === 0) return;
 
+    let currentSection = '';
+    const scrollPosition = window.scrollY + 120; // Offset for header
+
+    // Find the current section
     headings.forEach((heading) => {
       const top = heading.offsetTop;
       if (scrollPosition >= top) {
@@ -82,9 +122,11 @@
       }
     });
 
+    // Update active state
     tocLinks.forEach((link) => {
       link.classList.remove('active');
-      if (link.getAttribute('href') === '#' + currentSection) {
+      const href = link.getAttribute('href');
+      if (href === '#' + currentSection) {
         link.classList.add('active');
       }
     });
@@ -94,6 +136,7 @@
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', generateTOC);
   } else {
-    generateTOC();
+    // Small delay to ensure Just the Docs has initialized
+    setTimeout(generateTOC, 100);
   }
 })();
