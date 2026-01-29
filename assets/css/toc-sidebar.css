@@ -1,9 +1,9 @@
-/* Table of Contents Sidebar - APPROACH 1 (Wrapper Method with Flexbox) - OPTIMIZED */
+/* Table of Contents Sidebar - APPROACH 1 (Wrapper Method) - ULTRA COMPACT */
 
 /* Create flex container for main content and TOC */
 .main-content-wrapper {
   display: flex;
-  gap: 1rem; /* Reduced gap from 2rem to 1rem */
+  gap: 0.5rem; /* Minimal gap */
   align-items: flex-start;
   position: relative;
 }
@@ -11,8 +11,8 @@
 /* Ensure main-content takes available space */
 .main-content-wrapper > .main-content {
   flex: 1;
-  min-width: 0; /* Prevents flex item from overflowing */
-  max-width: calc(100% - 200px); /* Limit max width to leave room for TOC */
+  min-width: 0;
+  /* No max-width restriction - let content use more space */
 }
 
 .toc-sidebar {
@@ -21,23 +21,23 @@
   max-height: calc(100vh - 4rem);
   overflow-y: auto;
   overflow-x: hidden;
-  width: 180px; /* Reduced from 240px to 180px */
+  width: 160px; /* Even narrower */
   flex-shrink: 0;
-  padding: 1rem 0 1rem 1rem; /* Reduced padding */
-  margin-left: 0.5rem; /* Reduced margin */
+  padding: 0.75rem 0 0.75rem 0.75rem; /* Minimal padding */
+  margin-left: 0;
   border-left: 1px solid var(--border-color, #d0d7de);
-  font-size: 0.8125rem; /* Slightly smaller font */
-  line-height: 1.4;
+  font-size: 0.75rem; /* Smaller font */
+  line-height: 1.35;
 }
 
 .toc-title {
   font-weight: 600;
-  font-size: 0.7rem; /* Smaller title */
-  margin-bottom: 0.625rem;
+  font-size: 0.65rem;
+  margin-bottom: 0.5rem;
   color: var(--body-text-color, #24292f);
   text-transform: uppercase;
   letter-spacing: 0.05em;
-  padding-left: 0.5rem; /* Reduced padding */
+  padding-left: 0.5rem;
 }
 
 .toc-list {
@@ -47,21 +47,22 @@
 }
 
 .toc-item {
-  margin: 0.2rem 0; /* Reduced margin */
+  margin: 0.15rem 0;
   padding-left: 0;
   line-height: 1.3;
 }
 
 .toc-link {
   display: block;
-  padding: 0.2rem 0.4rem 0.2rem 0.5rem; /* Reduced padding */
+  padding: 0.15rem 0.3rem 0.15rem 0.5rem;
   color: var(--link-color, #0969da);
   text-decoration: none;
   border-left: 2px solid transparent;
   margin-left: -2px;
   transition: all 0.2s ease;
   word-wrap: break-word;
-  font-size: 0.8125rem; /* Smaller font */
+  font-size: 0.75rem;
+  line-height: 1.3;
 }
 
 .toc-link:hover {
@@ -77,21 +78,21 @@
   background-color: var(--sidebar-active-bg, rgba(0, 0, 0, 0.05));
 }
 
-/* Indentation for nested headings - reduced */
+/* Indentation for nested headings */
 .toc-item.toc-h3 .toc-link {
-  padding-left: 0.875rem;
+  padding-left: 0.75rem;
 }
 
 .toc-item.toc-h4 .toc-link {
-  padding-left: 1.25rem;
+  padding-left: 1rem;
 }
 
 .toc-item.toc-h5 .toc-link {
-  padding-left: 1.625rem;
+  padding-left: 1.25rem;
 }
 
 .toc-item.toc-h6 .toc-link {
-  padding-left: 2rem;
+  padding-left: 1.5rem;
 }
 
 /* Responsive: Hide TOC on smaller screens */
@@ -106,18 +107,16 @@
   
   .main-content-wrapper > .main-content {
     width: 100%;
-    max-width: 100%;
   }
 }
 
-/* Ensure main-content-wrap doesn't break layout */
 .main-content-wrap {
   max-width: 100%;
 }
 
 /* Scrollbar styling for TOC */
 .toc-sidebar::-webkit-scrollbar {
-  width: 5px; /* Thinner scrollbar */
+  width: 4px;
 }
 
 .toc-sidebar::-webkit-scrollbar-track {
@@ -126,7 +125,7 @@
 
 .toc-sidebar::-webkit-scrollbar-thumb {
   background: var(--border-color, #d0d7de);
-  border-radius: 3px;
+  border-radius: 2px;
 }
 
 .toc-sidebar::-webkit-scrollbar-thumb:hover {
