@@ -1,0 +1,14 @@
+/* Hide Just the Docs auto-generated child page TOC */
+.main-content > ul.nav-list,
+.main-content > nav > ul.nav-list {
+  display: none !important;
+}
+
+.main-content nav[aria-label="Child pages"] {
+  display: none !important;
+}
+
+/* Keep heading-based TOC visible */
+.main-content .toc-wrapper {
+  display: block;
+}
